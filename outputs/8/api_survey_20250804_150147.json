@@ -1,0 +1,17 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "Physics",
+  "age_group": "14-16",
+  "class_subject": "Chemistry",
+  "topics_of_interest": [
+    "Firing",
+    "Curiosities",
+    "Import/Export",
+    "glaze",
+    "clay",
+    "kiln"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "focus on material properties"
+}

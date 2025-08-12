@@ -1,0 +1,40 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit"
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Qing Dynasty and symbolism in art"
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Discuss the chemistry of firing and celadon glaze"
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Explore export wares and their cultural significance"
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Hands-on activity: Analyze decorative themes inspired by nature"
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Explain the three-stage firing process and its luxurious appeal"
+    },
+    {
+      "time": "30:00–35:00",
+      "activity": "Interactive discussion: Import/export and global trade of porcelain"
+    },
+    {
+      "time": "35:00–40:00",
+      "activity": "Q&A session with connections to chemistry and art history"
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-up and conclusion: Reflect on the intersection of art, science, and culture"
+    }
+  ]
+}

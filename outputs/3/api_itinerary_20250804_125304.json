@@ -1,0 +1,34 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit",
+      "details": "Begin by greeting the group warmly and introducing the exhibit 'Objectifying China.' Explain that the tour will explore beautiful and curious objects made from porcelain, a material that has been important in Chinese art for centuries. Highlight that we'll learn about how these objects tell stories through their designs and symbols. Use simple, engaging language to capture their attention."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Yuan Dynasty and Longquan Celadon",
+      "details": "Show the mallet-shaped vases from Longquan and explain that they were made during the Yuan dynasty (1271–1368) and exported to Japan. Use a hands-on approach by asking the children to describe the color and shape of the vases. Explain that Longquan celadon is famous for its green glaze, which looks like jade, a symbol of beauty and value in Chinese culture. Ask the kids to imagine what it would feel like to hold something so smooth and shiny."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Discover Qing Dynasty Porcelain and Symbolism",
+      "details": "Introduce the porcelain item from the Qing dynasty and explain that it was made during the Kangxi period (1662–1722). Show the enamelled porcelain with ducks and lotus flowers. Ask the children to spot the ducks and flowers on the design. Explain that ducks often symbolize love and loyalty, while lotus flowers represent purity and beauty. Encourage them to think about what symbols they might use to tell their own stories."
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Hands-on engagement: Create your own symbols",
+      "details": "Provide paper and crayons for a quick activity. Ask the children to draw their own symbols that represent something important to them—like their family, favorite animal, or a happy memory. Relate this back to the porcelain designs they've seen, emphasizing how art can tell personal stories through symbols."
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Curiosities and the Daoguang Period",
+      "details": "Show the porcelain piece from the Daoguang period (1821–1850). Explain that this was a time when porcelain designs became even more intricate and curious. Ask the children to look closely and describe what they see. Share a fun fact about how people collected these objects as treasures to admire and display. Encourage them to think about what they might collect as treasures in their own lives."
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Wrap-up and conclusion",
+      "details": "Recap the highlights of the tour, emphasizing the beauty and symbolism of the porcelain pieces they've seen. Ask the children to share their favorite part of the tour or something new they learned. Thank them for being such great listeners and artists, and encourage them to keep exploring art and stories in their own lives."
+    }
+  ]
+}

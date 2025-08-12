@@ -1,0 +1,4 @@
+__pycache__
+# ignore output folder
+.env
+.venv

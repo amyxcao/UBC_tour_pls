@@ -1,0 +1,15 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "Chemistry",
+  "age_group": "14-17",
+  "class_subject": "Art History",
+  "topics_of_interest": [
+    "Firing",
+    "Brown",
+    "Import/Export",
+    "chemicals"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "none"
+}

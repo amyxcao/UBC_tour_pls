@@ -1,0 +1,14 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "Art History",
+  "age_group": "11-13",
+  "class_subject": "History",
+  "topics_of_interest": [
+    "Porcelain",
+    "Yaozhou",
+    "Red"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "none"
+}

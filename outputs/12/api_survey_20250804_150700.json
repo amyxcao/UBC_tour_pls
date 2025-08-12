@@ -1,0 +1,15 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "Art",
+  "age_group": "13-15",
+  "class_subject": "English as Second Language",
+  "topics_of_interest": [
+    "Jizhou",
+    "Green",
+    "Mythical",
+    "animals"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "Keep language basic, use visual metaphors"
+}

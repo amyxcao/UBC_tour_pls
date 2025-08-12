@@ -1,0 +1,28 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–7:00",
+      "activity": "Welcome and Introduction: Begin by warmly welcoming the students and introducing the exhibit, *Objectifying China*. Explain that the tour will explore how porcelain objects reflect Chinese history, culture, and global connections. Highlight the themes of porcelain, Yaozhou, and the color red, connecting them to the students' interests."
+    },
+    {
+      "time": "7:00–15:00",
+      "activity": "Context of the Exhibit: Provide historical background on Chinese porcelain, focusing on its evolution from the Song dynasty to the Ming dynasty. Use Chunk 1 to explain the significance of yuhuchun bottles and their global trade impact. Show an image or replica of a blue-and-white Yuan dynasty yuhuchun bottle and discuss its connection to Islamic art influences."
+    },
+    {
+      "time": "15:00–22:00",
+      "activity": "Personal Reflection: Share your perspective as an Art History major. Reflect on how porcelain objects, like the wucai plates (Chunk 3), reveal the intersection of art, politics, and cultural exchange during the Ming dynasty. Mention how the vibrant red enamel was highly prized and symbolized wealth and power."
+    },
+    {
+      "time": "22:00–32:00",
+      "activity": "Engagement Activity: Divide students into small groups and give each group a card with a porcelain object description (e.g., Qingbai bowls, wucai plates, or literati vases). Ask them to imagine who might have used the object, its purpose, and what it says about the society that created it. Encourage them to share their ideas with the group."
+    },
+    {
+      "time": "32:00–40:00",
+      "activity": "Hands-on Exploration: If possible, provide a tactile experience with a replica or sample porcelain piece. Discuss the craftsmanship techniques, such as firing upside down (Chunk 5), and the challenges potters faced. Highlight the ingenuity behind designs like copper rims to prevent kiln damage."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-Up and Conclusion: Recap the key points of the tour, emphasizing the global significance of Chinese porcelain and its cultural symbolism. Invite students to reflect on their favorite object or moment from the tour. End with a question: 'How do you think objects like these connect us to history and different cultures?' Thank the students for their participation."
+    }
+  ]
+}

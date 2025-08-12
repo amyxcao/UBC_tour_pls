@@ -1,0 +1,15 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 30,
+  "major": "Art History",
+  "age_group": "18-20",
+  "class_subject": "Chinese Language & Literature",
+  "topics_of_interest": [
+    "Celadon",
+    "dynasty",
+    "calligraphy",
+    "jade"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "Highlight idioms, ancient scripts"
+}

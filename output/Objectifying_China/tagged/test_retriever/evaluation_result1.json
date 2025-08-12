@@ -1,0 +1,77 @@
+[
+  {
+    "chunk_id": "lnwpgxpl",
+    "score": 3,
+    "reason": "This chunk is a general title indicating a focus on 'Qing Dynasty' and 'Ceramics' from East Asia, which aligns with the user's period and broad material interest, but lacks specificity on 'iron' or 'auspicious symbolism'."
+  },
+  {
+    "chunk_id": "a8s3x6t7",
+    "score": 1,
+    "reason": "This chunk focuses on 'Ming period' and 'blue-and-white porcelain', which does not align with the user's interest in 'Qing period' or 'iron ceramics'. No mention of auspicious symbolism related to the user's specific interests."
+  },
+  {
+    "chunk_id": "vc5p22wp",
+    "score": 1,
+    "reason": "This chunk details 'Ming dynasty' and 'Yuan dynasty' porcelain, missing the 'Qing period' and 'iron ceramics' interests. Auspicious symbolism is not mentioned."
+  },
+  {
+    "chunk_id": "qb4wa7zc",
+    "score": 2,
+    "reason": "This chunk mentions 'Dehua porcelain' (Chinese origin) and 'first half of the eighteenth century' (within Qing period), but specifies 'porcelain' rather than 'iron ceramics'. While 'prunus branches' can be auspicious, it's not highlighted as such, and the focus is on European emulation."
+  },
+  {
+    "chunk_id": "im6cgdm0",
+    "score": 3,
+    "reason": "This chunk explicitly mentions 'Qing dynasty' and 'Kangxi period' from 'Dehua, China', directly addressing the period and East Asia origin. However, it still specifies 'Porcelain', not 'iron ceramics', and does not mention auspicious symbolism."
+  },
+  {
+    "chunk_id": "lhzzzkix",
+    "score": 3,
+    "reason": "This chunk refers to a 'Kangxi famille verte pattern' (Qing period, East Asia) and mentions 'mythical beasts', 'Dragon', and 'Kylin' (Qilin), which are strong indicators of 'auspicious symbolism'. However, the artifacts themselves are 'porcelain' made in England, not East Asian iron ceramics."
+  },
+  {
+    "chunk_id": "ygehf8bq",
+    "score": 1,
+    "reason": "This chunk describes 'porcelain made in English factories' in the '1700s' (Qing period), but the artifacts are not 'East Asian' in origin for the production nor 'iron ceramics'. No auspicious symbolism is highlighted."
+  },
+  {
+    "chunk_id": "uwcf2d0r",
+    "score": 4,
+    "reason": "This chunk is highly relevant for 'Qing dynasty, Qianlong period' and 'Jingdezhen, China' (East Asia). Crucially, it mentions 'small panels showing birds, flowers and landscapes in iron-red or sepia', directly referring to the use of 'iron' as a pigment in the decoration, closely aligning with 'iron ceramics' in a broader sense. The 'birds, flowers and landscapes' motifs are also very likely to carry 'auspicious symbolism'."
+  },
+  {
+    "chunk_id": "z9xpyepf",
+    "score": 2,
+    "reason": "This chunk contains strong explicit examples of 'auspicious symbolism' ('mandarin ducks', 'lotuses'). However, it focuses on 'Ming' and 'Yuan dynasty' 'porcelains', failing on the 'Qing period' and 'iron ceramics' material."
+  },
+  {
+    "chunk_id": "c9c55t0n",
+    "score": 1,
+    "reason": "This chunk discusses 'Korean Goryeo dynasty' ceramics with 'green glazes', which is incorrect for the 'Qing period', 'iron ceramics', and lacks auspicious symbolism relevant to the user's interest."
+  },
+  {
+    "chunk_id": "lhrmwftm",
+    "score": 2,
+    "reason": "This chunk mentions 'cranes in China, which symbolise longevity', indicating 'auspicious symbolism'. However, it focuses on 'Korean Goryeo dynasty' and 'celadon' (not Qing or iron ceramics)."
+  },
+  {
+    "chunk_id": "c49bx3b3",
+    "score": 1,
+    "reason": "This chunk discusses 'Thai' ceramics from the '15th or 16th century' with 'celadon glaze', which does not align with 'East Asia', 'Qing period', or 'iron ceramics'. No auspicious symbolism is highlighted."
+  },
+  {
+    "chunk_id": "if7eszt6",
+    "score": 1,
+    "reason": "This chunk discusses 'Thai' ceramics from the '15th or 16th century' with 'celadon glaze', which does not align with 'East Asia', 'Qing period', or 'iron ceramics'. No auspicious symbolism is highlighted."
+  },
+  {
+    "chunk_id": "uiilau7k",
+    "score": 2,
+    "reason": "This chunk mentions 'ceramics with painted decoration in iron brown', directly addressing the 'iron' material interest. However, it's from 'Northern Vietnam' and the '14th century', missing the 'Qing period' and specific 'East Asia' (China/Korea/Japan) origin."
+  },
+  {
+    "chunk_id": "ifvnaoou",
+    "score": 5,
+    "reason": "This is a bibliography, and it contains highly relevant entries. Specifically, 'Nigel Wood. Iron in the Fire; The Chinese Potters’ Exploration of Iron Oxide Glazes' is a direct hit for 'iron ceramics' and 'Chinese' (East Asia). 'Rose Kerr. Chinese Ceramics: Porcelain of the Qing Dynasty' and 'Simon Kwan. Imperial Porcelain of Late Qing' directly address the 'Qing period' and 'Chinese' (East Asia) origin. This is extremely valuable for someone with these specific interests."
+  }
+]

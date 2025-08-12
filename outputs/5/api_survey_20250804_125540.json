@@ -1,0 +1,16 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 60,
+  "major": "Computer Science",
+  "age_group": "60-65",
+  "class_subject": "History",
+  "topics_of_interest": [
+    "Yuan",
+    "Southeast Asia",
+    "Green",
+    "Decoration",
+    "Mythical"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "elderly group"
+}

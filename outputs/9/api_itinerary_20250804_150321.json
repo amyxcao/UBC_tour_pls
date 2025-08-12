@@ -1,0 +1,34 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit",
+      "description": "Begin by warmly welcoming the group and introducing the exhibit 'Objectifying China.' Explain that today we'll explore colorful and meaningful objects from China's history, focusing on how they connect to culture, storytelling, and rituals. Use simple language and ask the children if they've ever seen or used a special plate or bowl at home to make a personal connection."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Qing Dynasty and symbolism",
+      "description": "Show the ceramics made for Peranakan Chinese communities. Highlight the bright pinks, greens, and yellows, and explain that these colors were chosen because they bring good luck. Use sensory language like 'bright,' 'shiny,' and 'happy.' Ask the children to point out their favorite colors on the ceramics and imagine what kind of story the designs might tell."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Explore objects from the Song Dynasty",
+      "description": "Introduce the porcelain artifact with the white-green glaze from the Southern Song dynasty. Let the children touch a replica or similar material (if allowed) to feel its smooth surface. Explain that this glaze was special and made the object look like jade, which was very precious. Ask the children to imagine what kind of story this object might have been part of—maybe a gift for someone important!"
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Animal storytelling with silk tapestries",
+      "description": "Show the Northern Song and Central Asian silk tapestries with animals against floral patterns. Ask the children to look closely and describe the animals they see. Use storytelling to bring the animals to life—'What do you think this tiger is doing? Is it protecting something?' Encourage them to create their own short story about the animals in the tapestry."
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Hands-on activity: Colors and patterns",
+      "description": "Provide paper and crayons or markers for the children to draw their own colorful patterns inspired by the ceramics and tapestries. Encourage them to use bright colors like pink, green, and yellow, and to include animals or flowers. Talk about how patterns can tell stories or bring good luck, just like in the objects we've seen."
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Wrap-up and conclusion",
+      "description": "Bring the group together to share their drawings and ideas. Recap the key points: how objects can tell stories, bring good luck, and connect to rituals and culture. Thank the children for their creativity and curiosity, and encourage them to look for patterns and stories in everyday objects at home or school."
+    }
+  ]
+}

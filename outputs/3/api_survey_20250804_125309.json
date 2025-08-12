@@ -1,0 +1,17 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 30,
+  "major": "Psychology",
+  "age_group": "5-7",
+  "class_subject": "Art",
+  "topics_of_interest": [
+    "Yuan",
+    "Porcelain",
+    "Longquan",
+    "Celadon",
+    "Curiosities",
+    "Symbolism"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "short attention span"
+}

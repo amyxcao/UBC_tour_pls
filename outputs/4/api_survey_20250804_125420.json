@@ -1,0 +1,15 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 60,
+  "major": "Museum Studies",
+  "age_group": "12-15",
+  "class_subject": "History",
+  "topics_of_interest": [
+    "Yuan",
+    "Stoneware",
+    "White",
+    "Import/Export"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "analytical"
+}

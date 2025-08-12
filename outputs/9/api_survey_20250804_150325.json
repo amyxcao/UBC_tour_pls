@@ -1,0 +1,17 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 30,
+  "major": "Early Childhood Education",
+  "age_group": "5-7",
+  "class_subject": "Culture",
+  "topics_of_interest": [
+    "Song",
+    "Southeast Asia",
+    "Polychrome",
+    "Ritual",
+    "Mythical",
+    "storytelling"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "Keep language simple and sensory-based"
+}

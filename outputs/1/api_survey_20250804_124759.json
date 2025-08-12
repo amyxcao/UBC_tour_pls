@@ -1,0 +1,15 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 30,
+  "major": "Art History",
+  "age_group": "11-13",
+  "class_subject": "World History",
+  "topics_of_interest": [
+    "Ming",
+    "Polychrome",
+    "Religious",
+    "symbolism"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "none"
+}

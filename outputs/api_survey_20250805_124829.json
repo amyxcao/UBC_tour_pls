@@ -1,0 +1,13 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "art history, economics",
+  "age_group": "30-35",
+  "class_subject": "economics",
+  "topics_of_interest": [
+    "Celadon",
+    "Landscapes"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "none"
+}

@@ -1,0 +1,39 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit",
+      "details": "Begin by welcoming the students and explaining the exhibit name, 'Objectifying China.' Use simple language to describe how objects can tell stories about history, culture, and art. Mention that the tour will focus on colors, mythical animals, and the importance of green in Chinese art."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Qing Dynasty and symbolism",
+      "details": "Provide a brief explanation of the Qing Dynasty and why green was important in Chinese art. Use a visual metaphor, such as comparing green to a 'royal color' that symbolized nature, growth, and harmony. Show an image or artifact from the exhibit to illustrate this."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Focus on Southern Song Dynasty porcelain",
+      "details": "Introduce the porcelain artifact with the white-green glaze. Explain that this glaze was admired for its elegance and simplicity. Compare the glaze to the smooth surface of a jade stone to help students visualize it. Ask students to describe how the color makes them feel."
+    },
+    {
+      "time": "15:00–25:00",
+      "activity": "Interactive activity: Mythical animals in Chinese art",
+      "details": "Show an artifact or image featuring mythical animals. Explain their significance in Chinese culture (e.g., dragons for power, phoenixes for renewal). Ask students to imagine and draw their own mythical animal using green as the main color. Discuss their creations briefly."
+    },
+    {
+      "time": "25:00–35:00",
+      "activity": "Explore the wucai palette",
+      "details": "Introduce the plates painted with the wucai palette (red, green, brown, yellow). Explain that 'wucai' means 'five colors' and was used to create vibrant designs. Compare the colors to a rainbow or a painter's palette. Ask students to identify the colors they see and guess what the designs might represent."
+    },
+    {
+      "time": "35:00–40:00",
+      "activity": "Discussion: Art and storytelling",
+      "details": "Discuss how colors and designs in Chinese art tell stories about history, beliefs, and daily life. Use simple questions like, 'What story do you think this plate tells?' Encourage students to share their thoughts and connect the art to their own experiences."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-up and conclusion",
+      "details": "Summarize the key points of the tour: the importance of green, mythical animals, and the wucai palette. Thank the students for their participation and creativity. Encourage them to think about how art can tell stories in their own lives."
+    }
+  ]
+}

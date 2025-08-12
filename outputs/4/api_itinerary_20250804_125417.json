@@ -1,0 +1,48 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit. Begin by greeting the group warmly and explaining the purpose of the tour: exploring the history and global impact of Chinese ceramics through the 'Objectifying China' exhibit. Highlight the importance of ceramics in trade and cultural exchange during different historical periods, tying it to their class subject of History."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Provide context about the Yuan dynasty and the role of ceramics in import/export. Discuss the significance of blue-and-white ceramics as export goods, particularly during the Yuan dynasty, and their influence on Southeast Asia. Use Chunk 1 to explain how these ceramics were traded and valued globally."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Engagement Activity: Examine a blue-and-white ceramic piece. Show an example from the exhibit and ask the students to observe its design and colors. Prompt them to think about why blue-and-white became so popular and how it might reflect cultural values or technological advancements of the time."
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Discuss Tang dynasty stoneware production. Use Chunk 2 to explain how kilns in northern China dominated the production of high-fired white stonewares during the Tang period. Connect this to the students' interest in 'white' and the evolution of ceramic production techniques."
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Engagement Activity: Hands-on exploration. If possible, provide a tactile experience with a replica or shard of Tang stoneware. Ask students to compare it to modern ceramics and discuss what makes it unique in terms of texture, weight, and craftsmanship."
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Explore Ming dynasty export goods. Use Chunk 3 to discuss how early Ming blue-and-white porcelain became highly sought after in the Low Countries (modern-day Netherlands and Belgium). Highlight the global demand for Chinese ceramics and their role in shaping international trade."
+    },
+    {
+      "time": "30:00–35:00",
+      "activity": "Engagement Activity: Trade simulation. Divide students into small groups and assign roles as merchants, artisans, or consumers from different regions (China, Southeast Asia, Europe). Have them discuss how they would trade or value Chinese ceramics in their roles."
+    },
+    {
+      "time": "35:00–40:00",
+      "activity": "Discuss the evolution of kiln sites and production techniques. Use Chunk 4 to explain how large kiln sites in northern and southern China were producing glazed porcelain and stoneware centuries before the blue-and-white wares flourished. Connect this to technological advancements and regional differences in production."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Engagement Activity: Analyze shards. Use Chunk 5 to discuss how shards of ceramics help historians confirm the existence and production of specific types of wares. Show images or examples of shards and ask students to hypothesize what they reveal about trade, production, or usage."
+    },
+    {
+      "time": "45:00–50:00",
+      "activity": "Reflect on cultural symbolism and legacy. Discuss the cultural significance of ceramics in Chinese history and their lasting impact on global art and trade. Tie this back to the students' interest in import/export and the analytical approach to understanding history."
+    },
+    {
+      "time": "50:00–60:00",
+      "activity": "Wrap-up and conclusion. Recap the key points covered in the tour: the evolution of ceramics production, their role in trade, and their cultural significance. Encourage students to ask questions and share their favorite part of the tour. End with a reminder of how objects like ceramics help us understand history and connect cultures."
+    }
+  ]
+}

@@ -1,0 +1,3219 @@
+# 古  
+
+# Tradition to Contemporary  
+
+二十世紀中國的水墨與藝術發展Ink Painting and Artistic Developmentin 20th-century China  
+
+![](images/7cbc947c7692f8e2c6936fab4ba87bd030da5d917fbfbc0bcf35c32e28db8148.jpg)  
+
+二十世紀中國的水墨與藝術發展Ink Painting and Artistic Developmentin 20th-century China  
+
+![](images/27b1501fd9d22c838711f3d1574092db4d55bcf61e4c1c21b8319f4b3c1e6768.jpg)  
+
+# Tradition to Contemporary 鑑古賞今  
+
+Ink Painting and Artistic Development in 20th-century China二十世紀中國的水墨與藝術發展  
+
+# Curators 策展人  
+
+CHEN Fong-fong 陳芳芳Florian KNOTHE 羅諾德  
+
+# Essays 撰文  
+
+Michelle HUANG Ying-ling 黃映玲Sarah NG Sau-wah 吳秀華  
+
+Catalogue 圖錄CHEN Fong-fong 陳芳芳Ben CHIESA 紀奕邦Kikki LAM 林嘉琪  
+
+# ISBN 國際標準書號  
+
+# Translators 翻譯  
+
+October 2018 二零一八年十月 $\copyright$ University Museum and Art Gallery, The University of Hong Kong, 2018  
+
+# Edition 版次  
+
+978-988-19025-5-9  
+
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without permission in writing from the publisher or from the artist of the exhibition. 版權所有。未經香港大學美術博物館及參展藝術家書面許可， 任何人士不得翻印或發放本圖錄之任何內容或資料。  
+
+UNIVERSITY MUSEUM AND ART GALLERY,  
+THE UNIVERSITY OF HONG KONG  
+90 Bonham Road, Hong Kong  
+香港大學美術博物館  
+香港般咸道九十號  
+
+Sherlon IP Chi-yin 葉志研Eleanor GOODMANJanice YU Hiu-ching 余曉晴Melanie CHUNG 鍾依霖Wilson LEE Wai-shing 李威成Joslyn LO Tsoi-yin 盧采彥Vicky LAM Pui-yu 林沛餘Ryder MA Kwan-hang 馬君衡  
+
+This book was published to accompany the exhibition Tradition to Contemporary:Ink Painting and Artistic Development in 20th-century China at UMAG from24 Aug–18 Nov 2018.本書是香港大學美術博物館為配合《鑑古賞今——二十世紀中國的水墨與藝術發展》專題展覽而編製，該展覽展期由2018年8月24日至11月18日。  
+
+# Organised by 主辦  
+
+# Research Assistants 研究助理  
+
+Timothy YEUNG Tin-ping 楊天平   
+Yuchen QIAN 錢煜宸   
+Yufei GUO 郭雨菲  
+
+Photographer 攝影師 Ricky POON Wing-kin 潘榮健  
+
+Designer 設計師Stephy TSUI 徐曉雯  
+
+Supported by 支持  
+MVSEUM SOCIETY  
+香港大學博物館學會  
+The University of Hong Kong Museum Society  
+
+Publisher 出版人Christopher MATTISON 馬德松  
+
+![](images/1adaedb267a9e2759287679020cca9a9b1e5c8145355727577511bb7999e8858.jpg)  
+
+# Note to the Reader  
+
+Paintings illustrated in this volume are from the collection of the University Museum and Art Gallery (UMAG), the University of Hong Kong (HKU), unless otherwise noted. Dimensions exclude mounting; height precedes width.  
+
+Chinese names are given in the traditional order, surnames first, with the exception of artists who have adopted the Western order of surname last. Transliterations of Chinese personal names into English follow the Pinyin system of romanisation, in Cantonese or Mandarin depending on the more commonly used form. Chinese terms are italicised unless commonly used in English.  
+
+# 凡例  
+
+除另有說明者，本圖錄所示的中國繪畫作品均屬香港大學美術博物館藏品。尺寸不包括裝池；先列高，後列寬。  
+
+除了選擇採用英文姓名排序的藝術家姓氏列在名字後外，其他藝術家的姓名將按傳統以姓氏在前、名字在後列出。藝術家姓名的中文譯音則按約定俗成方式分別採用了粵語或漢語拼音系統。除在英語中常用者外，中文詞彙的英文音譯會以斜體標示。  
+
+![](images/c6d01c5e0d58d3ff9a5f23faf29ed3aacaf21879ab82cb32d2ebee9374006670.jpg)  
+
+Florian Knothe Director, University Museum and Art Gallery, The University of Hong Kong  
+
+The twentieth century witnessed tremendous artistic activity, including ink painting’s continued development and occasional breaks with tradition. From the late Qing dynasty (1644–1911), Lingnan School painters migrated from Guangdong province to Hong Kong, influencing both young aspiring artists and collectors with their various styles. Infused with a mindset to innovate, local artists advanced the genre by creating ‘new ink’ and ‘splash ink’ styles that related to and sometimes challenged conventional practice. Subject matter, interpretation and application remained important, as did technique and the quality of the brush work that continues to distinguish the now iconic work of long-established and emerging masters.  
+
+Curated from artworks within the museum’s permanent collection, Tradition to Contemporary: Ink Painting and Artistic Development in 20th-century China presents works that trace the evolution of ink painting in Hong Kong, and includes many of the masters that have built the city’s art scene and museum collections. This publication offers a broad overview of the provenance and aesthetic quality of individual works, and the cultural interactions among twentieth-century Chinese artists, curators, collectors and scholars in Hong Kong, mainland China and abroad. It makes reference to individuals and their networks, to teacher-student relationships and to the generosity of the numerous painters who have helped the museum’s holdings to grow, and whose work constitutes the foundation of UMAG’s educational work today. Since initiating its publicly accessible collection in the 1950s, UMAG has been closely connected to the development of these painters and their work, and has actively documented the evolution of their artistic talents and the Hong Kong art scene.  
+
+We would like to thank our vital community of donors—both the artists and collectors—for their generosity and for being part of this fascinating journey. We also would like to express our gratitude to the HKU Museum Society for their generous support of this publication and the exhibition on which this catalogue is based.  
+
+羅諾德香港大學美術博物館總監  
+
+二十世紀見證了驚為天人的藝術活動，當中包括水墨畫的持續發展、並它偶爾與傳統的分離。嶺南畫派畫家自清末從廣東省移居香港，以他們各自不同的風格影響志氣高昂的年輕藝術家和收藏家。本地藝術家秉持創新的理念，透過創造與傳統技法相關、偶爾加以挑戰之的「新水墨」和「潑墨」風格，推進了這類繪畫的發展。就像筆觸的技巧和品質一直是令那些由享負盛名及正在崛起的大師創作、現已備受推崇的作品獨樹一幟一樣，主題、詮釋和應用仍然是水墨畫的關鍵。  
+
+《鑑古賞今——二十世紀中國的水墨與藝術發展》展覽精選本館的永久館藏，以追溯香港本土水墨畫的演變，其中囊括多位協助建立起城市藝術風采和博物館藏品的大師。本圖錄讓觀眾綜覽個別繪畫作品的來源和美學特質，香港、中國內地及海外的二十世紀中國藝術家、策展人、收藏家及學者之間的文化交流。內文亦涉及藝術家個人及其網絡，並師生之間的關係。因著不計其數的畫家的慷慨，本館的館藏得以發展，他們的作品構成了本館今日教育工作的基石。自 1950 年代向公眾展出館藏伊始，本館即與這些畫家和他們的作品緊密相連，並積極記錄了藝術家們的天賦和香港藝術風采。  
+
+特此我們向至關重要的捐贈者——藝術家及收藏家——致以誠摯謝意，感謝他們的慷慨，且願意同行這段非同凡響的旅程。我們也要向香港大學博物館學會致謝，感謝他們對本圖錄的出版和相關展覽的大力支持。  
+
+![](images/ea782399c6c85ada50d17ac6645551b47b8ea1996f95dca352ba42b685143446.jpg)  
+
+# The UMAG Painting Collection and Artistic Development in Twentieth-Century Hong Kong  
+
+# Sarah S.W. NG (Research Assistant Professor, Academy of Visual Arts, Hong Kong Baptist University)  
+
+In addition to art from the Ming and Qing dynasties, twentieth-century ink painting constitutes the largest and most significant collection of painting held by the University Museum and Art Gallery (UMAG) of The University of Hong Kong (HKU). The vast majority of these works were created in Guangdong and Hong Kong, and are closely linked to their local art scenes. Included are works by renowned twentiethcentury artists such as Xu Beihong (1895–1953), Huang Binhong (1865–1955) and Liu Haisu (1896–1994), as well as locally recognised artists such as Chao Shao-an (1905–1998), Fang Zhaoling (1914–2006), Lui Shou-kwan (1919–1975) and Jao Tsung-i (1917–2018), among others. Work by more recent artists still active in the current Hong Kong art scene, such as Leung Kui-ting (b. 1945), testify to late twentieth-century developments in ink painting and complete the university’s diverse and wide-ranging collection.  
+
+# The Development of Twentieth-Century Ink Painting in Mainland China and Hong Kong  
+
+Against the backdrop of the new intellectual trends that prevailed after the demise of the imperial system and the advent of the New Culture Movement of the mid 1910s and 1920s, the development of Chinese art has been considered primarily in terms of influence received from the Western art world. Chinese painting has a particularly long history, with its own individual theoretical systems, distinctive styles and unique brush painting techniques. Change has proceeded slowly, and even one hundred years later we still see the repercussions of the past century’s developments.  
+
+What is often referred to as ‘Chinese painting’, or ink wash painting, has always progressed in ways that reflect its own culture and artistic vocabulary, whether in terms of style or content. Chinese paintings from the late Qing dynasty (1644– 1911) and early Republican period (1912–1949) were highly varied and in no way inferior to what was being produced in the West. There was the relatively traditional literati painting  
+
+# 香港大學美術博物館藏中國繪畫與二十世紀香港畫壇  
+
+# 吳秀華  
+
+(香港浸會大學視覺藝術院研究助理教授)  
+
+香港大學美術博物館藏中國繪畫，除了明清繪畫以外，二十世紀水墨畫是數量較多而且重要的收藏，作品大部分來自廣東和香港，與本地畫壇息息相關。當中包括二十世紀畫壇 大 師 徐 悲 鴻 (1895–1953)、 黃 賓 虹 (1865–1955)、 劉 海 粟 (1896–1994) 等， 本 地 有 趙 少昂 (1905–1998)、方召麐 (1914–2006)、呂壽琨(1919–1975) 和饒宗頤 (1917–2018) 等。而較近當代的畫家、現今仍十分活躍於香港畫壇的梁巨廷 (1945 年生 ) 等的作品也在是次展品列中，畫家和畫風種類多而廣，十分全面。  
+
+# 二十世紀水墨畫在中國大陸和香港的發展  
+
+二十世紀的中國畫壇，在封建帝制結束、「五四」新文化運動後，繪畫在新思潮激盪的背景下，一直被視為在受西方藝術影響和衝擊下發展。其實，又豈止如此？繪畫在中國有非常悠久的歷史，也有自成一格的理論體系、獨特風格和筆墨技巧，因此，改變並非一朝一夕的事，花一整個世紀也不足以完成整個歷程，我們至今仍經歷著二十世紀畫壇發展的餘波。  
+
+然而所謂的「中國繪畫」或水墨畫，無論在內容和風格上，都試圖尋覓出適合或屬於自己文化和藝術語言的發展方向。與西方藝壇相比，晚清至民國時期的中國畫壇毫不遜色，而且百花齊放。既有北方京津地區相對傳統的文人畫派，又有在上海地區的金石畫派和迎合商業繪畫市場通俗畫風的海上畫派，分別以標榜粗獷強而有力的書法線條和大膽鮮艷的用色；在南方則有折合中西日本畫風、以花鳥畫見長的嶺南畫派等。  
+
+in the north, centred around Beijing and Tianjin, as well as the jinshi style (metal and stone, or the style of inscriptions on ancient bronzes and stone tablets) in Shanghai, along with the more commercially popular work of the Shanghai School, which was characterised by unrestrained, powerful lines of calligraphy and bright bold colours. In the south, works tended toward an amalgam of East and West with Japanese influences, such as the Lingnan School’s bird-and-flower paintings.  
+
+Art from Hong Kong has been continuously influenced by Guangdong art circles and the Lingnan School of painting. Many Mainland artists who moved to Hong Kong retained their distinctive local and personal characteristics, including the traditional literati painters, academic painters, Westerninfluenced artists and innovators intent on developing their own styles of painting.  
+
+In the second half of the twentieth century, the ‘modern ink painting’ movement, led by Lui Shou-kwan, established itself as one of Hong Kong’s mainstream artistic styles, joining birdand-flower paintings of the Lingnan School and traditional literati landscape paintings. Modern ink painting was popular in private studios, and was also found throughout the curricula of art colleges and universities. This innovative new form was for a brief time unrivalled, and presented a fruitful alternative to traditional ink painting.  
+
+Taken as a whole, ink paintings from this period represent more than a rejection of various levels of traditional literati painting or the absorption of Western painting styles; rather, they serve as a consideration of both the past and future, a moment of transition between old and new. More precisely, these works explore new and more direct ways of departing from traditional painting—whether in terms of colour, composition, material, style and technique, or the creative thought processes and goals underpinning the paintings themselves—and, as such, they are multifaceted and constitute an epoch-making breakthrough. Due to the civil war between the Communist Party and Kuomintang (1927–1950), followed by the Cultural Revolution (1966–1976), regional and political 位處嶺南的香港，一直較受廣東畫壇和嶺南畫 派影響，從大陸移民來港的畫家，則較多保留 其固有地區或個人畫風，例如有擬古的傳統文 人畫、有海歸的學院派、有融入了西方不同程 度的現代繪畫技法和風格的革新派 ( 包括以新 國畫運動代表的徐悲鴻、林風眠等 ) 以及獨樹 一幟、改造傳統的個人創新畫風。  
+
+直到二十世紀中後期，除了嶺南畫派的花鳥和傳統文人山水畫外，香港另一主流為以呂壽琨為首的「現代水墨」。除在坊間的私人畫院流行外，也活躍於藝術學院和大學校內外課程中。它作為一種具革新形式、一時無兩的畫種，與傳統水墨畫各領風騷。  
+
+縱觀這一時期的紙本水墨繪畫作品，它並非僅為不同程度的反傳統文人畫或中西畫風兼容結合而已，而是回顧與展望、新舊時代的轉折期。一個更合適的形容是一段較以往有更大和明顯分別的傳統與創新的探索和發展過程，無論在用色、構圖、選材、風格技法，甚至是畫面以外的創作思維或目的，都更多元化和具備劃時代的突破。這段時期畫壇的發展，又因為國共內戰和文化大革命的影響，引致中國大陸和香港畫壇因政治和地緣關係，而有不同程度和深度的發展。  
+
+是次展出的港大藏品，正好反映出這段時期香港畫壇「主流」的發展。所謂「主流」，其實是在蔡元培主張「以美育代替宗教」的口號下，學院派畫家在畫壇當道的情況，這在中港兩地都有相類似的情況出現。為了更明確利用館藏分析香港畫壇的發展，筆者按作品風格將是次展品分成四大類，分別為 一）傳統擬古；二）改造傳統；三）嶺南畫派和廣東「國畫研究會」以及 四）現代水墨。這可以宏觀地了解不同風格的繪畫在二十世紀香港的發展。  
+
+differences resulted in paintings in the Mainland and Hong Kong displaying varying degrees of change during this period.  
+
+This publication presents the development of ‘mainstream’ Hong Kong art from that time, with mainstream here referring to Cai Yuanpei’s (1868–1940) slogan of ‘aesthetic education not religion’, as academic painters held the reins in art circles in both the Mainland and Hong Kong. In order to more clearly analyse the development of the Hong Kong art world through the UMAG collection, four sections divided according to artistic style will provide a macroscopic view of the various styles in Hong Kong throughout the twentieth century.  
+
+# Imitation and Archaism  
+
+Many of the works presented here are traditional literati or landscape paintings. This includes those done in the style of the Song and Yuan period’s ‘Four Masters’ of bird-and-flower painting, such as Lu Zishu’s (1900–1978) Landscape in the Style of  Li Liufang (cat. 18), which imitates the composition of Ni Zan’s (1301–1374) two riverbanks in a plain, sparse setting, or Ting Yin-yung’s (1902–1978) imitations of Bada Shanren’s vigorous, freehand bird-and-flower paintings (cat. 15); it also includes the more common contemporary form of landscape that ‘uses the old to develop the new’ and emphasises a naturalistic depiction rather than the use of lavish creative imagination. This integration of a mode of simple folk art is seen in small album leaf works such as Tao Wan’s (1911–2004) Camel Peak, Guilin (cat. 61) completed when he was eighty, or Fang Zhaoling’s Flowers, Vegetables and Fruits (cat. 26), which imitates Qi Baishi’s style.  
+
+Of the great artists of the twentieth century working in a traditional style, the most familiar here may be Huang Binhong and Jao Tsung-i, along with the Hong Kong artists Ting Yinyung, Fang Zhaoling and Wan Qingli (1945–2017). The work Green Silk Zither Garden (Lüqi yuan) (cat. 16)—a rare example of the early ‘White Binhong’ style of Huang Binhong, once the backbone of the late Qing ‘National Essence School’—was  
+
+# 傳統擬古  
+
+在是次展品中，有佔近半數均屬於傳統文人畫或工筆山水風格的作品。這裡所指的不僅是傳統文人畫如宋元明四家山水花鳥人物風格作品，如盧子樞 (1900–1978) 的《擬李流芳山水》( 圖版 18) 這類以倪瓚 (1301–1374) 一河兩岸作構圖、意境平淡、瀟散的文人山水，或如丁衍庸 (1902–1978) 仿八大山人的大寫意花鳥 ( 圖版 15)，而是包括近現代出現較多的借古開今、重視寫生而非純寫胸中逸氣的山水。例如陶澐(1911–2004) 八十歲的作品《桂林駱駝峰》( 圖版 61)，或方召麐仿齊白石風格的《花卉蔬果冊》( 圖版 26) 這類融合純樸民間藝術風格的小品冊頁。  
+
+在二十世紀傳統畫派的展品中，當中最為人所熟悉的國寶級畫家代表有黃賓虹 (1865–1955)和 饒 宗 頤 (1917–2018)，1 其 次 是 代 表 香 港 的丁衍庸 (1902–1978)、方召麐和萬青屴 (1945–2017) 等。如曾經是晚清「國粹派」骨幹的黃賓虹，其繪於 1930 年、贈予廣東畫家鄧爾雅(1884–1954) 的《綠綺園圖》( 圖版 16)，是他存世少有的早年「白賓虹」作品，所謂的「白賓虹」是指他早年喜用乾筆、淡墨、疏淡的畫風。此作由鄧爾雅兒子和媳婦鄧祖風和梁惠儀捐贈。在大陸要看黃氏的早年作品已十分難，而此作能幸存於香港大學美術博物館並在是次展覽展出，實是難得。  
+
+如萬青屴以仿元四家的王蒙 (1308–1385) 的《上 古遺民》( 圖版 68) 和國學大師饒宗頤仿倪瓚 筆意的《擬夏禹玉谿山清遠圖》( 圖版 31)。兩 位大師的作品均展現學者風範，以及文人山水 畫風格。前者與王蒙晚年豐滿華滋的構圖，內 含飛瀑流泉及以雄渾有力的披麻皴山石，如出 painted in 1930 and presented as a gift to Deng Erya (1884– 1954). The so-called White Binhong style is characterised by Huang’s early preference for dry brushstrokes, light ink and sparse lines. The work was donated by Deng Erya’s son Deng Zufeng and daughter-in-law Liang Huiyi. It is difficult to find early works by Huang on the Mainland, and this catalogue offers a rare chance to view a piece from this era.  
+
+In addition, there is Wan Qingli’s Ancient People (cat. 68), in imitation of the style of Wang Meng (ca. 1308–1385), one of the Four Masters, and Jao Tsung-i’s A Pure and Remote View of  Streams and Mountains (cat. 31), which imitates Ni Zan’s calligraphic style. These two masterful works exemplify the scholarly style, as well as the literati landscape mode of painting. Wan Qingli borrows from Wang Meng’s lush compositions depicting waterfalls and cascades, and uses vigorous, forceful hemp-fiber strokes (pima cun) to create mountain cliffs, all of which is modelled on Wang’s late-period paintings of layered peaks. Jao Tsung-i painted Landscape when he was fifty, a period considered to be relatively early in his oeuvre from which few works still exist. His brushwork is dexterous and unrestrained, simple and unobtrusive; he utilises axe-chopping strokes (fupi cun) to show the texture of the mountains, which differs strikingly from his later more polished and nuanced style.  
+
+Among the local landscape painters who worked in a traditional style are Leung Pak-yue (1903–1978), Lu Xiangfu (1868–1970), Gui Dian (1865–1958), Cen Guangyue (1876– 1960) and Au Kin-Kung (Ou Jiangong, 1886–1971), who created seasonal landscapes, along with Joseph Lou Chunfu’s (1916–?) and others’ archaic landscape paintings. For instance, Leung Pak-yue’s light purple Landscapes of  Four Seasons (cat. 20) is grounded in the traditional brush-and-ink painting style, with 一貫，是王蒙晚年典型的重山疊嶂式畫風。後 者《擬夏禹玉谿山清遠圖》是饒公五十歲的作 品，存世相對較少，算是他較早年的作品。其 落筆瀟灑利落、冷寂簡逸，喜用斧劈皴描繪山 石紋理，相比起他晚年蒼茫老練的風格，具獨 特震筆的畫風迥異。  
+
+其餘傳統派的本地山水畫作品，有梁伯譽(1903–1978) 繪、盧兼騰 ( 湘父 )(1868–1970)、桂坫 (1865–1958)、岑光樾 (1876–1960) 和區建公 (1886–1971) 題識的《四季山水》和樓純夫(1916–?) 等人的擬古山水作品。例如梁伯譽的淺絳《四季山水》( 圖版 20)，筆墨紮根傳統，線條強而有力，屬仿清初四王筆意之作；至於樓純夫的《仿王蒙山水》( 圖版 22)，是他於1953 年贈港大中文系教授林仰山先生的山水作品，構圖繁密，用色濃重，充分表現王氏的典型風格。  
+
+# 改造傳統  
+
+在改造傳統或革新傳統水墨畫的作品方面，較為人知的國家級代表畫家有徐悲鴻、劉海粟和賴少其 (1915–2000)；本地代表則有方召麐和彭蕙清 ( 約 1940 年生 ) 等。這些作品均能體現其力圖在傳統中尋找變化，甚至以西潤中，但又不失傳統國畫的筆墨規範，講究用筆用墨。  
+
+例如徐悲鴻在 1938 年 11 月於馮平山圖書館舉辦其個人收藏畫展後， 為香港大學中文學會所作並贈之的《琵琶行》( 圖版 17) 設色水墨畫。  
+
+2 畫中馬鑑題款：「二十七年十二月，徐悲鴻先生出其所藏近人書畫，陳馮平山圖書館，以供觀覽，並為中文學會作此圖，俾留紀念。⋯⋯ 馬鑑於香港」。說明展覽是在1938 年 11 月，香港馮平山圖書館舉行。  
+
+forceful lines that imitate the calligraphy of the ‘Four Wangs of the early Qing. In 1953, Joseph Lou Chunfu donated his Landscape After Wang Meng (cat. 22) to F. S. Drake, professor of Chinese at HKU. Its dense composition and intense colors are closely representative of Wang Meng’s typical style.  
+
+# Remaking Tradition  
+
+Of those who worked to remake tradition or to innovate within traditional landscape painting, Xu Beihong, Liu Haisu and Lai Shaoqi (1915–2000) are among the best known on a national level; well-known local artists include Fang Zhaoling and Marina Pang (ca. 1940). Their works embody an attempt to locate opportunities for change within the tradition sometimes looking toward the West, but without losing sight of the norms of traditional Chinese ink painting, and paying close attention to brush-and-ink painting techniques.  
+
+In November 1938, Xu Beihong held an exhibition of his works at the Fung Ping Shan Library, after which he made the coloured ink painting Song of  the Pipa (Pipa xing) (cat. 17) and donated it to the Chinese Society of HKU. The picture is dedicated to HKU Chinese Department professor Ma Kiam (Ma Jian, 1883–1959) and signed by Xu in the twenty-seventh year of the Republic of China (1938). The painting was made during the Second Sino-Japanese War (1937–1945), a period of great productivity for Xu. It was completed at the end of 1938, ten years after Xu had returned to China from his time in Europe (1919–1927) and around the same time as his famous works Where There’s a Will, There’s a Way and Portrait of  Rabindranath Tagore. This was at a point when Xu’s thought process and artistic style had matured. The Song of  the Pipa (Pipa xing) was originally a folk-style poem by the Tang poet 畫 中 當 時 香 港 大 學 中 文 系 馬 鑑 (1883–1959)3 教授題款和徐氏署款的廿七年是指民國二十 七年，即 1938 年。此畫成於抗戰時期 (1937– 1945)，是其創作生涯中最多產和鼎盛的時期 之一，繪於 1938 年歲末、旅歐 (1919–1927) 回 國十年後的水墨畫作品，與其舉世知名的《愚 公移山》和《泰戈爾像》差不多時期完成。這 時期也是其思想和藝術風格成熟的階段。《琵 琶行》是唐代詩人白居易的樂府詩，也是徐氏 婉轉地通過同情女伎人的不幸遭遇，表達對社 會官僚腐敗、人才埋沒等不滿及悲天憫人的情 懷。此作在構圖和筆墨色彩技法上，利用國畫 的線描表現力，加上淡彩設色，重現《琵琶行》 這經典的文學題材，正切合中文學會的興趣。  
+
+香港大學美術博物館藏有多件劉海粟作品，劉氏與徐悲鴻也是民初遊學法國的知名畫家，他們在留法學習西方繪畫以前，已對國畫技法有相當的掌握和認識，並以西畫理論和技法融進國畫裡的理想，創出「以西潤中」的水墨畫。  
+
+藏品中包括劉氏在上世紀八十年代創作的《曙光普照乾坤》( 圖版 45) 和《滿江紅》( 圖版51) 兩幅重彩寫意山水畫作品，與唐代青綠山水的工筆重彩有明顯區別，是他於上世紀八十年代 ( 即八、九十歲時 ) 登黃山的寫生作品。劉氏十上黃山 (1918–1988)，跨度達七十年之久。 其以黃山為題的作品也是他一生中最重要之作。他用油畫的方式來畫國畫，如他最後一  
+
+Bai Juyi; the painting tactfully expresses Xu’s sympathy for the misfortune of a female performer, his distress over corrupt officials and the stifling of individual talent. The composition and usage of ink and colour take full advantage of the expressiveness of traditional Chinese line drawing. With the addition of a faint wash of colour, it reproduces the traditional literary theme of ‘the pipa player’, and would have appealed to the interests of the Chinese Society.  
+
+UMAG also holds many works by Liu Haisu, who, like Xu Beihong, studied in France during the early Republican period. Before becoming familiar with Western painting techniques while in France, they already had a firm grasp on traditional Chinese painting; and with the goal of integrating Western art theory and techniques into traditional Chinese artistic works, they produced ink wash paintings that were ‘Chinese with a Western Flair’.  
+
+The university museum’s collection includes two works produced by Liu Haisu in the 1980s, Mount Huang at Dawn (cat. 45) and Man Jiang Hong (Mount Huang) (cat. 51), done with freehand brushwork in full colour. They differ from the precise lines of Tang dynasty blue-and-green landscape paintings, and show Liu’s realistic depictions of his visits to Mount Huang in the 1980s (when Liu was in his late eighties and nineties). Liu climbed Mount Huang ten times between 1918 and 1988, over a span of seventy years. The paintings of Mount Huang are the most important of his oeuvre. He employs oil painting techniques to create traditional Chinese paintings, as can be seen in Man Jiang Hong (Mount Huang), which he made after his last visit to the mountain in 1988. Using mineral blue and green, he allows the colours to float on the ink, changing the way colour had been used; where the ink covers up any  
+
+次於 1988 年登黃山後所繪的《滿江紅》， 便在其施用石青或石綠時，讓青綠浮在墨色上，改變了對青綠的運用方法；若墨色遮住了留白，他還會用白色將原本要留白的地方填染，雖然主觀成份較五十年代的作品多，但重精神描寫和氣韻表達。其大部分晚年山水作品，均結合青綠山水和水墨寫意，用中鋒線條構建骨骼和勾勒部分山石輪廓，配合潑墨潑彩，創其獨有蒼莽勁拔、色彩絢麗、氣魄過人的雄渾氣格，並具備他典型注重寫生，喜作潑墨潑彩的特色。  
+
+另一國家級大師作品是 1983 年 12 月賴少其(1915–2000) 訪問香港時，贈予馮平山博物館的《黃山》( 圖版 48) 圖，屬於他退休前、中後期的作品。賴氏是首位推薦和研究黃賓虹作品的重要人物。《黃山》用墨濃重、構圖繁密，近似黃賓虹八十歲後 ( 即 1945 年 ) 的黑、密、厚、重，意境深邃的「黑賓虹」畫風。賴氏的個人特點是善於表現光影和混合水墨和色彩，再配以焦墨和書法線條入畫，且稍見拙重，這些都充份表現在《黃山》一作上。  
+
+至於方召麐的山水和風俗畫，與別不同，別具一格。例如她 1988 年作的《山水》( 圖版52)，除有強烈的書法用筆外，更常題長跋，並將之與畫面山石結合，而《龍舟競渡 ( 和平頌之六 )》( 圖版 49) 則色彩斑斕，稚拙可愛，顯露童心。  
+
+white space, white paint recolours the area. While subjectivity was common in works from the 1950s, he emphasised spirited portrayals and stylistic expressiveness. Most of Liu’s late landscape works integrate traditional blue-and-green compositions and freehand ink painting, employing a centre line to establish an underlying structure. He would sketch the outline of a portion of the mountains and incorporate a splash-ink and splash-colour (pomo pocai) technique to provide the image with a unique indistinctness and a magnificently colourful and forceful character. These works also show his characteristic emphasis on realistic natural scenes and distinctive splash-ink and splash-colour methods.  
+
+Another nationally renowned artist is Lai Shaoqi (1915–2000), who visited Hong Kong in December 1983 and donated the painting Mount Huang (cat. 48) to the Fung Ping Shan Library. The work comes from his middle-to-late period before he retired. Lai was the first to research and promote Huang Binhong’s work, and the thick ink strokes and dense composition of Mount Huang resemble Huang’s dark, dense, thick, heavy and abstruse ‘Black Binhong’ style, as in the painting Like 1945, painted when Huang was in his eighties. Lai Shaoqi was particularly good at capturing light and shadow, and mixing ink with colour. He also combined dense black ink and calligraphic lines in a slightly naive style, all of which is fully displayed in Mount Huang.  
+
+Fang Zhaoling’s landscape and genre paintings display her personal style. For example, her 1988 work Landscape (cat. 52) employs an intense calligraphic brush along with her characteristic use of long inscriptions, which she has blended into the mountains. Dragon Boat Race (Ode to Peace, No. 6) (cat. 49) is richly coloured, appealingly unpolished and attractive in its innocence and childlike sweetness.  
+
+其他本地畫家，如潘振華 (1936 年生 )、盧玉燕、彭蕙清和劉欽棟等，則各具特色，但大多受西方現代繪畫的構圖和技巧影響。例如彭蕙清的《琉璃世界》( 圖版 77) 便能夠糅合傳統國畫重視筆墨的堅持，承傳張大千 (1899–1983)的潑墨山水畫技法。  
+
+# 嶺南畫派和廣東「國畫研究會」  
+
+縱觀整個二十世紀的香港畫壇，除了傳統派山水畫或廣東畫家的作品外，能由始至終、根深柢固地影響嶺南畫壇過百年、發展至今的莫過於是嶺南畫派。嶺南畫派主張革新和折衷中外繪畫技法，創「撞水撞粉」之法，是在改造傳統國畫或水墨畫外，另一個新的發展方向。  
+
+藏品中雖然沒有高劍父、高奇峰和陳樹人的嶺南畫派創始人作品，但有其祖師居巢 (1811–1865) 和 同 門 師 弟 容 祖 樁 (1871–1942) 的 沒 骨花鳥作品。居氏的繪畫風格是當時嶺南地區的主流畫風，而容祖樁則是廣東「國畫研究會」的代表。這兩位畫家在香港大學美術館的藏品，透視出嶺南畫派和廣東國畫研究會早在十九世紀中後期已對香港和廣東畫壇有相當的影響。  
+
+至於代表嶺南畫派的作品則有第二代趙少昂的《花鳥》( 圖版 27) 冊頁、黎雄才 (1910–2001)的《 春 江 泛 筏 》( 圖 版 44)、 葉 少 秉 (1896–1968) 贈周千秋和梁粲纓的《花蝶》( 圖版 23)；  
+
+Other painters in this category include Poon Chun-wah, Lucille Lo Yuk-yin, Marina Pang (ca. 1940) and Liew Cometong, among others. They each have their own style, although most show the influence of modern Western composition and methods. For example, Marina Pang’s Winter Wonderland (cat. 77) maintains an emphasis on brush-and-ink painting techniques seen in traditional Chinese painting, and also continues Chang Dai-chien’s splash-ink painting technique.  
+
+The Lingnan School and the Guangdong Chinese Painting Research Society (Guangdong guohua yanjiu hui)  
+
+A survey of the Hong Kong art world of the twentieth century shows that aside from traditional landscape painting and the works of Guangdong painters, what had the greatest influence on artistic circles in the Lingnan area was none other than the Lingnan School of painting. The Lingnan School advocated innovation and a middle road between East and West in terms of technique, creating a method of ‘infusing water or powder’ (zhuangshui zhuangfen) to open up new possibilities for future development while transforming traditional Chinese painting and ink wash painting.  
+
+Although the collection does not include works by the founders of the Lingnan School (Gao Jianfu, Gao Qifeng and Chen Shuren), it does include ‘boneless’ (mogu, a painting technique using ink and colour washes without outlines) birdand-flower works by another founder Ju Chao (1811–1865) and his disciple Rong Zuchun (1871–1942). Ju Chao’s style is typical of the mainstream Lingnan style of the time, while Rong Zuchun’s style is representative of the Guangdong Chinese Painting Research Society (Guangdong guohua yanjiu hui). The works by these two artists collected at HKU offer a perspective on how much the Lingnan School and the Guangdong Chinese Painting Research Society influenced Hong Kong and Guangdong painting circles during the mid- to late nineteenth century.  
+
+第三代趙世光 (1916–2007) 的《獅吼​》( 圖版24)、周千秋 (1910–2006) 和梁粲纓 (1921–2005)的《阿爾卑斯山》( 圖版 58) 和《翠鳥荷花》( 圖版 46) 等。  
+
+這些畫家大部分都曾居於或定居於香港。當中趙少昂對香港畫壇影響最大，他自三十三歲定居香江以來便教授繪畫，直至終老，共六十二年之久。他桃李滿天下，以花鳥畫聞名。是次展出其於 1990 至 1991 年間 ( 即八十七、八歲 )時作的十幅花鳥冊頁，是趙氏晚年寫意花鳥的得意之作，生機靈動、逼肖傳神，獨創一格，用筆明快老練。正如徐悲鴻在其詩中所指：「畫派南天有繼人，趙君花鳥實傳神；秋風塞上老騎客，爛漫春光艷羨深」，徐氏又在致胡適信中讚揚趙氏：「趙君花鳥為中國現代第一人，當世罕出其右者。」至於葉少秉的花鳥畫風也跟趙氏相近，善用寫意和沒骨法，用筆粗放，有不加雕琢的率意面貌。  
+
+在山水方面，則有黎雄才和後繼的周千秋和梁粲纓作品，他們的山水畫均氣勢雄健、蒼茫沉著，而黎氏的作品較周千秋的筆法成熟老練。  
+
+在動物方面，趙世光的《獅​吼》是仿高奇峰(1889–1933) 於 1927 年秋繪、奉其弟子邀請，為中山紀念堂而作， 代表革命精神新時代的作品， 趙世光的老師是趙少昂，而趙少昂的老師是高奇峰，因此不難解釋兩者的關係。此作繪於 1958 年，適逢也是他在港舉行的首個個人畫展。據其子趙令彬所指，當年的展覽，主要是其父學習的總結。以臨摹作品為多。 因此相信這件作品曾於當年展出。  
+
+Representative of the Lingnan School are works by secondgeneration artists such as Chao Shao-an’s album leaf calligraphy Birds and Flowers (cat. 27), Li Xiongcai’s (1910–2001) Rafts on a Spring River (cat. 44) and Ye Shaobing’s (1896–1968) gift to Chow Chian-chiu and Chow Leung Chen-ying, Butterfly and Flowers (cat. 23); as well as works by third-generation artists such as Chiu Sai-kwong’s (1916–2007) Enraged Lion (cat. 24), Chow Chian-chiu (1910–2006) and Chow Leung Chenying’s (1921–2005) The Alps (cat. 58) and Kingfisher and Lotus (cat. 46), among others.  
+
+Most of these artists lived, at least for a time, in Hong Kong. Among them, Chao Shao-an had the greatest influence on the Hong Kong art world. He began working as an art teacher after moving to Hong Kong at the age of thirtythree, and continued to teach for sixty-two years. He has numerous disciples and his name is well known in bird-andflower painting. This publication includes ten bird-and-flower album leaves created between 1990 and 1991 (when Chao was eighty-seven and eighty-eight). These are works Chao himself thought quite highly of, done with freehand brushwork and lively, vivid images. They demonstrate his distinctive personal style and a steady, experienced hand. As Xu Beihong wrote in one of his poems: “There are inheritors of the southern painting school, Mr Chao’s birds and flowers are true to life; autumn winds impede this old rider, while bright spring light shines to enviable depths.” Xu also praised Chao in a letter to Hu Shi: “Mr Chao is the first in contemporary China in terms of his birds and flowers, there are few in the world to match him.” Ye Shaobing’s bird-and-flower painting style was similar to Chao’s, using free brushstrokes and a ‘boneless’ (without outlines) style, along with coarse brushwork that gives his paintings a willfully unpolished look.  
+
+香港現代水墨  
+
+在現代水墨方面，當中有被譽為香港新水墨運動先驅的呂壽琨、其學生及受其理論畫風影響與香港相關的畫家有周綠雲 (1924–2011)、譚志成 (1933–2013)、梁巨廷、徐子雄 (1936 生 ) 和李維安 (1937 生 ) 和馮永基 (1952 生 ) 等。  
+
+現代水墨和其他中國水墨畫，甚至當代水墨最大的分別，在於有無傳統筆墨規範、形式結構和精神價值等。部分二十世紀的現代水墨受美國的抽象表現主義影響，而以呂壽琨為首的實驗水墨，則保留較多的中國文化語境和傳統價值觀。例如 1964 年的《山水》和 1970 年的《禪》( 圖版 30 及 33)，便運用了大寫意山水和禪畫為題材。除了呂氏典型的現代水墨畫風外，藏品更包括呂氏早年以傳統筆墨描繪的香港風景，既難得一見，又能了解他扎實的傳統中國繪畫功底。  
+
+現代水墨因應畫家的個人偏好和對新水墨的理解，而有不同的演繹方式。例如周綠雲在上世紀七、八十年代創作的《聚》和《抽象畫》(圖版 48 及 54)，可能受她老師呂壽琨影響，具有中國哲學的禪味。前者以起伏聚散的線條去創造她個人的天地；後者則用她獨特的點墨技法和引入抽象表現主義風格，表現陰陽或禪宗思想，直到今天，她的畫風仍然獨特耐看。  
+
+展品中值得留意的還有譚志成的作品。譚氏為人認識是他在香港藝術館館長的身份，其實他也是藝術家和首位一改主流，以西洋畫為中心的美術教育方式、推動新水墨畫教學，為香港  
+
+In terms of landscape painting, Li Xiongcai and his successors Chow Chian-chiu and Chow Leung Chen-ying created vigorous, robust works that are carefully composed, although Li’s technique proves to be more mature than Chow’s. In terms of animal portraiture, Chiu Sai-kwong’s Enraged Lion imitates a Gao Qifeng (1889–1933) painting from the fall of 1927. Gao made the painting at the invitation of a pupil as a contribution to the Sun Yat-sen Memorial Hall, and it shows the revolutionary spirit of the new age. Chiu Sai-kwong’s teacher was Chao Shao-an, and Chao Shao-an’s teacher was Gao Qifeng, so it is not difficult to discern the younger Chao’s relationship to Gao. Chao’s work was painted in 1958, just as he was holding his first solo art exhibition. According to his son, Zhao Lingbin, the exhibition offered a summation of his father’s education up to that point, so many of the paintings were imitations of other painters’ works. It is highly likely that this painting was among those shown at that exhibition.  
+
+# Modern Ink Painting in Hong Kong  
+
+Lui Shou-kwan has been called the inventor of modern ink painting in Hong Kong, and among his students and other artists who have been influenced by his style are Irene Chou (1924–2011), Laurence Tam Chi-sing (1933–2013), Leung Kui-ting, Chui Tze-hung (b. 1936), Lee Wai-on (b. 1937) and Raymond Fung Wing-kee (b. 1952).  
+
+The most significant difference between modern ink painting and other Chinese ink forms (including contemporary ink painting) relates to whether the brushstrokes conform to traditional standards, shapes, composition and spirit. Some twentieth-century modern ink painters were influenced by American abstract impressionism, but Lui Shou-kwan’s pioneering experiments retained a considerable degree of the Chinese cultural context and traditional value system. For  
+
+的新水墨或現代水墨畫發展和中國水墨藝術教育貢獻良多的教育家。他的作品較少見，而是次展出的《山水》( 圖版 34) 繪於 1970 年，即香港新水墨運動的早期，能窺見其個人對新水墨的理解和實踐。  
+
+是次展覽在九十年代的現代水墨代表畫家中，梁巨廷和馮永基至今仍十分活躍於香港藝壇，其展品《花非花》和《難忘時分》( 圖版 73 及63) 仍然保留傳統筆墨的足跡，在抽象的風格中隱約見其東方語境的陰陽虛實的宇宙觀，是其扎根傳统而突破中西藩籬的力作。  
+
+這種陰陽虛實、傳統與斷裂的形式，恰似香港大學美術博物館在過往六十五年間──先為中國藝術及考古陳列所 ( 成立於 1953 年 )，繼而是馮平山博物館 (1964 年成立 )，最終為舉辦更多多元化展覽的香港大學美術博物館 (1994 年至今 ) ── 記錄不斷演進且豐富多樣的香港藝術風采的角色。  
+
+example, his Landscape and Zen (cats. 30, 33) take freehand brushwork and Zen iconography as their primary subject matter. In addition to examples of Lui’s modern ink painting style, the collection also includes his early traditional ink paintings of Hong Kong scenes. These are rarely shown, and demonstrate his solid foundation in traditional Chinese painting techniques.  
+
+Diverse methods evolved in the hands of different artists with their own particular interests and understanding of new ink painting. For example, Irene Chou’s Concentration and Abstract Composition (cats. 38, 54), perhaps under the influence of her teacher Lui Shou-kwan, display a meditative philosophical flavour. In the former work, undulating crisscrossing lines create a distinct universe; in the latter, she uses a unique method of ink dots and form of abstract impressionism to express a sense of yin and yang, or perhaps Zen. Even today, her distinctive works invite extended contemplation.  
+
+Another artist well worth mentioning is Laurence Tam Chising. Tam is best known as a former chief curator of the Hong Kong Museum of Art, but he was also an artist and tastemaker. Using an educational approach centred on Western painting, he promoted the teaching of new ink wash painting and made significant contributions to the development of new and modern ink wash painting in Hong Kong, as well as to the teaching of traditional Chinese ink painting techniques. His works are not often shown, but this exhibition features his Landscape (cat. 34), which was painted in 1970, during the early stages of the new ink painting movement in Hong Kong. In it, one can detect Tam’s own personal understanding and practise of new ink painting.  
+
+Of the modern ink painters from the 1990s, the most well known here are Leung Kui-ting and Raymond Fung Wingkee, both still active in Hong Kong. The paintings presented, A Flower Is Not A Flower and The Unforgettable Moment (cats. 73, 63), carry traces of traditional brush-and-ink works, and within the abstract style there are hints of an eastern worldview based on the balance and contrasts of yin and yang, maintaining a rootedness in tradition yet disrupting the boundaries between East and West.  
+
+This form of balance and contrast, tradition and disruption, is quite similar to the role that the museum has played over the last sixty-five years in documenting Hong Kong’s evolving and diverse art scene—first through its Museum of Chinese Art and Archaeology (established in 1953), then as the Fung Ping Shan Museum (from 1964) and finally through the increasingly more diverse exhibitions presented at UMAG (since 1994).  
+
+![](images/c10b6caa1c464e6fa450d8d3b2c957e2ae2a92e94e861baf16f5427f8e2df279.jpg)  
+
+![](images/786ba5913625bc26e491e47de7431184be0b98781e44865c2ed898c733d76331.jpg)  
+
+# Gifts of Twentieth-Century Chinese Painters and Their Relationships with the University of Hong Kong  
+
+# Michelle Ying-Ling Huang (Associate Professor and Head of the Department of Visual Studies of Lingnan University)  
+
+Founded in 1953, the Fung Ping Shan Museum of the University of Hong Kong (HKU), renamed the University Museum and Art Gallery (UMAG) in 1994, was the first university-based teaching museum in Hong Kong. Over the decades, it has played a pioneering role in collecting Chinese antiquities, pictorial and applied arts from the Neolithic period (ca. 7000–2100 BCE) to the twenty-first century, providing a range of artworks of historical importance and high aesthetic quality for the teaching and learning of Chinese art and museum studies. For more than six decades, the growth of the collection has largely benefited from the gifts of collectors, artists, scholars and donors. The modern paintings at UMAG have been assembled over the past four decades. These works demonstrate the stylistic development of Chinese painting from the late Qing dynasty (1644–1911) to the end of the twentieth century, and embody human interactions, particularly the relationships between art teachers and their students, and between HKU and its donors.  
+
+This catalogue includes several works by important twentiethcentury Chinese painters who taught painting and calligraphy in private studios, schools, art colleges and universities in Guangzhou, Shanghai, Nanjing, Chongqing and Hong Kong, as well as other regions, and who exhibited widely in museums and galleries within and outside China. Perhaps the most notable is Liu Haisu (1896–1994), who in November 1912 co-founded the Shanghai Academy of Fine Arts, the first art institution of modern China, in order to teach Western painting. It was there that human models were first used in art classes in China in 1915, with a curriculum that covered the theory and practice of both Chinese and Western art. Together with Liu Haisu, Li Yishi (1886–1942) and Liu’s student Pan Yuliang (1895–1977) also taught Western painting at the academy. Both of them studied Western art—Li Yishi 二十世紀國畫名家的餽贈與香港大學  
+
+# 黃映玲  
+
+(嶺南大學視覺研究系副教授及系主任)  
+
+香港大學馮平山博物館創立於 1953 年，後於1994 年更名為香港大學美術博物館 ( 下稱港大博物館 )，是香港第一所大學內的教學博物館。過去數十年間，博物館致力收藏中國文物與藝術品，各類書畫器物遠至新石器時代 ( 約前 7000–2100)、近至二十一世紀，為中國藝術以至博物館學的教學與研究，提供一系列兼具歷史與藝術價值的珍品。六十多年來，館藏受惠於收藏家、藝術家、學者與其他人士或機構的餽贈，規模不斷拓展。其現代繪畫收藏便是近四十載匯集所得，充分體現晚清 (1644–1911)至二十世紀末中國繪畫藝術風格的演變，亦可見師生、大學與捐贈者間的種種情誼。  
+
+本圖錄收錄了二十世紀中國繪畫名家的作品，他們都曾任教於本港以及廣州、上海、南京、重慶等地的私人畫室、學校、美術學院或大學，並在國內外博物館和藝廊展出其畫作，當中最具代表性的該屬劉海粟 (1896–1994)。1912年 11 月，劉海粟與友人共同創立近代中國第一所美術學院——上海圖畫美術院 ( 上海美術專科學校前身，下稱上海美專 )，教授西洋畫。1915 年，中國美術課堂首次採用人體模特兒，美術院的課程亦拓展至涵蓋中西方的藝術理論與實踐。除劉海粟外，同時在上海圖畫美術院教授西洋畫的還有李毅士 (1886–1942)，以及劉氏的學生潘玉良 (1895–1977)。二人均曾於海外修習西方藝術：李毅士於 1907 年至 1912年在蘇格蘭學習西洋畫，潘玉良於 1921 年至1927 年間先後留學法國和意大利。另一方面，應邀在上海美專任教中國繪畫的名家包括黃賓虹 (1865–1955)、張大千 (1899–1983) 和潘天壽in Scotland from 1907 to 1912, and Pan Yuliang in France andItaly from 1921 to 1927. Painters invited to teach Chinesepainting at the academy included Huang Binhong (1865–1955),Chang Dai-chien (1899–1983) and Pan Tianshou (1897–1971).In November 1918, Liu Haisu launched Fine Arts, the first artjournal in China, to cultivate an understanding of Chineseand Western art and aesthetics from a broader comparativeperspective.  
+
+Between 1919 and 1935, Liu Haisu travelled to Japan and Europe to study collections of Chinese, Japanese and European art, as well as developments in art education. To transform the Shanghai Academy of Fine Arts into a national university of the arts, he was advised by leading educational reformer Cai Yuanpei (1868–1940) and ordered by the Ministry of Education to make a study visit to Europe from 1929 to 1931. Liu Haisu’s reports from his trip were published in the Shanghai newspaper, Shenbao, which detailed his visits to museums and his participation in exhibitions and other cultural activities across Europe. Returning to Europe in the autumn of 1933 on a mission of cultural diplomacy, Liu Haisu organised a wellreceived exhibition of modern Chinese painting (guohua), which opened at the Prussian Academy of the Arts, Berlin in 1934. Visitors marveled at the beauty, sublime nature and tranquillity of the modern Chinese paintings, as well as the creativity and techniques of the painters who brought the indigenous tradition to new, modern life. The exhibition was well-attended and was widely discussed by the media in China and the West. Liu was invited to tour the show in over ten European cities, including Hamburg, Düsseldorf, The Hague, Amsterdam, Geneva, Prague, Paris and London, over a period of about fifteen months. He also delivered lectures on the tradition and recent developments of Chinese painting. During the post-war years, Liu Haisu continued to perform his (1897–1971)。1918 年 11 月，劉海粟創辦了中 國第一本藝術期刊《美術》，旨在從比較角度 探討中西藝術與美學問題。1  
+
+在 1919 年 至 1935 年 間， 劉 海 粟 曾 遠 赴 日 本與歐洲研究當地的中國、日本及歐洲藝術藏品，並考察其藝術教育的發展。為將上海美專發展成全國性的藝術大學，劉海粟接受當時 著 名 教 育 改 革 家 蔡 元 培 (1868–1940) 的 建議和民國教育部的委派，自 1929 年至 1931 年出訪歐洲進行考察，其訪問報告後來刊載於上海《申報》，詳述其拜訪博物館、參與畫展和在歐洲各地進行文化活動的情況。他於1933 年秋再度赴歐，肩負文化外交的任務，1934 年於柏林普魯士藝術學院舉辦的現代國畫展覽，大獲好評，參觀者對現代國畫呈現的優美景觀、寧靜致遠的意境，以至畫家將傳統推陳出新的技巧與創造力，均讚嘆不已。2展覽參觀者眾，亦得中西媒體廣泛報道，劉海粟並獲邀把展覽移師歐洲十多個城市巡迴展出，包括漢堡、杜塞爾朵夫、海牙、阿姆斯特丹、日內瓦、布拉格、巴黎、倫敦等地，歷時共約十五個月。同時，劉海粟也積極地講學，介紹國畫的傳統與新猷。 戰後，劉海粟在中國繼續投入藝術教育及畫家的工作，後受個人健康原因及文革 (1966–1976) 影響而中斷。1979年，劉海粟在國內舉行一系列個人畫展，重新奠定其在中國畫壇的地位，並獲官方委予南京藝術學院院長等要職。1990 年代初，在中國蘊釀起興建以劉海粟為專題的美術館計劃，位於常州和上海的兩家美術館分別於 1993 年及 1995年建成開幕。  
+
+roles as a leading art educator and painter in China, although his work was interrupted by personal health problems and the Cultural Revolution (1966–1976). In 1979, he began to regain recognition in China through a series of solo exhibitions, and was appointed to important official positions, such as the Director of Nanjing University of the Arts. New plans for building art museums dedicated to Liu Haisu were developed in the early 1990s, two of which opened in Changzhou and Shanghai in 1993 and 1995, respectively.  
+
+In March 1991, Haisu received an honorary degree of Doctor of Letters from HKU in recognition of his achievements in Chinese painting and art education. The ninety-five-yearold painter visited the Department of Fine Arts and was welcomed by faculty member Wan Qingli (1945–2017), who donated his paintings (cats. 68, 69) to UMAG in 1997 and 2002. Wan Qingli’s landscape paintings share a distinct style with Liu Haisu’s Winter Landscape (cat. 14), both paying homage to the literati tradition. Liu’s later works, Mount Huang at Dawn and Man Jiang Hong (Mount Huang) (cats. 45, 51), diverge slightly from this style, demonstrating a freer use of bold colours and linear perspective for depicting expansive mountains and impressionistic landscapes.  
+
+These paintings were part of the gifts presented by Liu Haisu to HKU at the presentation ceremony titled Paintings for the Liu Hai Su Gallery of  Modern Chinese Art on January 21, 1992. This reflects a trend in the early 1990s, when HKU attracted donations and sponsorships from parties both at home and abroad, after announcing its plan to build a new gallery near the site of the Fung Ping Shan Museum. The establishment of the new gallery aimed to promote art education, art historical research and the artistic achievements of Liu Haisu, who regarded culture as “an indispensable spiritual food for Hong  
+
+1991 年 3 月，劉海粟因其在中國繪畫及藝術教育方面的貢獻，獲香港大學授予榮譽文學博士學位。時年九十五高齡的劉海粟訪問了藝術系，獲該系萬青屴教授 (1945–2017) 接待，萬教授其後於 1997 年及 2002 年餽贈其作品 ( 圖版 68、69) 予香港大學美術博物館。萬青屴的山水畫與劉海粟的〈雪景山水〉(1926)( 圖版14)，風格有異曲同工之妙，均屬弘揚文人傳統之作。劉海粟後期的畫作〈曙光普照乾坤(1982) 和〈滿江紅〉( 黃山 )(1988)( 圖版 45、51) 嘗試突破此風格，以更大膽的色彩與直線透視，呈現連巒山水的印象。  
+
+這批畫作是劉海粟在 1992 年 1 月 21 日舉行的「劉海粟中國現代美術館捐贈儀式」上贈予香港大學的一部份， 也反映了 1990 年代初香港大學宣布於馮平山博物館旁興建全新展館後，獲海內外各方餽贈和贊助的情況。 新展館的建立一方面推動藝術教育與藝術史的研究，另一方面也彰顯了劉海粟的藝術成就。劉海粟認為：「香港是國際大都會，發展文化事業相當重要，人們不能只重視經濟，而缺少文化精神食糧。」。 他挑選了自己在七十年藝術生涯中最重要的四十幅畫作，題材涵蓋山水、人物、花卉等，贈予香港大學作研究及展覽用途。同時，劉夫人夏伊喬女士 (1918–2012) 也向港大永久借出另外四十幅畫作，作為贊助計劃。  
+
+捐贈儀式的場刊上引用了藝評家勞倫斯．比尼恩 (1869–1943，大英博物館東方版畫及素描部退休館長 ) 的話，指出「劉教授的畫功與成就  
+
+Kong as an international cosmopolis”. Liu selected forty of his most important works, encompassing landscapes, figures and flower paintings produced over the past seven decades, and presented them as gifts to HKU in support of research and exhibitions. Meanwhile, Mrs Liu Xia Yiqiao (1918–2012) offered a permanent loan of a further forty paintings to HKU in order to facilitate a sponsorship scheme.  
+
+The programme booklet of the presentation ceremony states that “The art critic Laurence Binyon [(1869–1943), retired Keeper of Oriental Prints and Drawings at the British Museum] has written that Professor Liu’s skill and achievements are equal to those of any contemporary Western master.” Binyon was a leading scholar of Chinese painting in Britain. He collaborated with Liu Haisu, the distinguished playwright Shih-i Hsiung (1902–1991) and other executive committee members to organise the Exhibition of Modern Chinese Painting, held at New Burlington Galleries in London from February 21 to March 25, 1935. An exhibition catalogue produced to accompany the exhibition includes an introduction by Liu Haisu on his views on the development, aesthetic principles and major schools of modern Chinese painting, including the Literary School, the Academic School, the Archaistic School and the Lingnan School. He stressed the importance of calligraphy as a way for modern Chinese painters to infuse personality, lyrical feeling and inner vision into their study of the old models. To him, the Literary School remained the most vital, while subtleties of handling and variations of brushwork were the most interesting features by which an educated Chinese might read the message of a painting.  
+
+Over the past two decades, UMAG has received many otherimportant gifts of twentieth-century Chinese paintings in theliterati tradition and the Lingnan School from living Chinese可與西方當代任何大師看齊」。比尼恩是英國首屈一指的中國繪畫評論家，曾與劉海粟、著名劇作家熊式一 (1902–1991) 和其他幹事會成員合作，於 1935 年 2 月 21 日至 3 月 25 日假倫敦新伯靈頓藝廊舉辦《現代中國繪畫展覽》。該展覽的圖錄有劉海粟撰寫的序言，論及其對現代國畫的發展、美學原則，以及對文人派、學院派、復古派、嶺南派等主要流派的見解，並指出書法的重要性，現代國畫家可透過書法展示其個性、詩意，以至對從傳統模式所得的個人體會。劉海粟認為文人派依然是最具生命力的流派，而細節的處理及用筆的變化等都是最有趣的環節，知書的國人或可從中讀懂畫作蘊含的意味。  
+
+過去二十年間，香港大學美術博物館也從在世的中國藝術家及收藏家的餽贈中，收集了許多其他重要的二十世紀文人派及嶺南派國畫，包括居巢 (1811–1865)、鮑少游 (1892–1985)、趙少昂 (1905–1998) 及其弟子周千秋 (1910–2006)等粵港畫家的花鳥畫。趙少昂的另一門生方召麐 (1914–2006) 的作品則來自畫家本人的慷慨餽贈，是香港大學美術博物館現代國畫藏品中的另一大系，展現了她早在 1950 年代修習傳統國畫及嶺南畫派 ( 圖版 26)，到 1960 年代更有個人色彩、更具表現力的半抽象畫風，再到往後數十載其藝術風格的發展 ( 圖版 $67~{\cdot}~70~{\cdot}$ 71)。跟劉海粟一樣，方召麐參與過不少國際性的畫展，也從自己二十世紀下半葉廣闊的遊蹤裡獲得藝術靈感。她的書畫展示了一個獨立女知識份子的個性、詩意及內心願景。  
+
+artists and collectors. They include bird-and-flower paintings by Cantonese and Hong Kong painters such as Ju Chao (1811– 1865), Pau Siu-yau (1892–1985), Chao Shao-an (1903–1998) and his student Chow Chian-chiu (1910–2006). Several works by Fang Zhaoling (1914–2006), another student of Chao Shaoan, were gifts from the artist and form a significant part of the collection. They demonstrate her early studies of traditional Chinese painting and the Lingnan School (cat. 26) in the 1950s; her move to a more personal, expressive and semi-abstract style in the 1960s (cat. 32) and further stylistic developments over subsequent decades (cats. 67, 70, 71). As with Liu Haisu, Fang Zhaoling took part in a considerable number of international exhibitions, and was inspired by her extensive travels in the second half of the twentieth century. Her paintings and works of calligraphy also embody the personality, lyrical feeling and inner vision of an independent woman intellectual.  
+
+Fang’s interest in Chinese calligraphy began at the age of thirteen. Six years later, she studied bird-and-flower painting under Chen Jiuchun (1898–1957) and traditional landscape painting under Qian Songyan (1899–1985) in her hometown, Wuxi, Jiangsu province. She continued to study bird-and-flower painting under Chao Shao-an from 1950 to 1953 and joined her teacher to exhibit works in Japan and Europe, including the Mitsukoshi Department Store, Tokyo in 1951; the University of Leeds in 1953; and the Marlborough Fine Arts Gallery, London in 1954. In September 1956, she was admitted to Lady Margaret Hall, Oxford to continue her research on the Verses of  Chu (Chuci, an anthology of ancient Chinese poetry from the Warring States period, ca. 475–-221 BCE), which was related to her studies at HKU. During her time in Oxford and London, she became active in promoting her work and that of other twentieth-century Chinese masters to international audiences.10  
+
+方召麐早在十三歲已對書法產生興趣，六年後在其家鄉無錫隨陳舊村 (1898–1957) 學花鳥、隨錢松喦 (1899–1985) 習傳統山水，後於 1950年至 1953 年間師從趙少昂專攻花鳥繪畫，並隨師遠赴日本、歐洲參展，包括 1951 年在東京三越百貨、1953 年在英國列茲大學、1954 年在倫敦馬爾堡畫廊的展覽。1956 年 9 月，方召麐獲牛津大學瑪格麗特夫人學堂取錄，延續其於香港大學時期所學，赴英研究《楚辭》( 前 475–前 221)。她在倫敦與牛津的日子，也積極向海外觀眾推廣自己以至二十世紀中國畫家的作品。10  
+
+〈長壽〉繪於 1956 年，是方召麐負笈牛津前所作；畫冊《花卉蔬果冊》(1956–1982)( 圖版26) 收錄了她在牛津、倫敦、香港三地的作品；〈玫瑰〉(1956) 展現她在牛津時期的嶺南派風格。 從畫冊中其他的作品可見，方召麐也曾嘗試模仿一些她欣賞的二十世紀中國名家，〈蟹〉(1972) 與〈蟹和菊〉(1975) 就讓人聯想到齊白石 (1864–1957) 筆下的水墨魚、蝦和蟹；〈荷〉(1982) 則體現了自張大千處習得的潑墨技法。方召麐 1953 年師從張大千，1960 年代兩人均以此富表現力的技法繪畫水墨荷花。此類畫作特別能吸引英國的博物館與藏家，這或是由於張大千及方召麐在 1965 年和 1968 年分別在倫敦格羅斯文諾畫廊舉辦個人畫展，另於1967 年在蘇格蘭愛丁堡國立現代美術館舉辦現代國畫展，故當地人對此技法已有一定認識。齊白石與張大千對方召麐繪畫題材的影響，也  
+
+The album Flowers, Vegetables and Fruits (1956–1982) (cat. 26) includes works that Fang produced in Oxford, London and Hong Kong. Roses, a leaf from that album, shows her use of the Lingnan style while in Oxford. Other paintings in the album reveal that Fang modeled some of her work on the art of twentieth-century Chinese masters who she admired. Crabs and Crabs and Chrysanthemums are reminiscent of Qi Baishi (1864–1957), who was famous for his vivid ink paintings of fishes, shrimps and crabs. Lotus, painted in 1982 and the last leaf in the album, highlights the splashed ink technique that Fang Zhaoling learned from Chang Dai-chien, who became her mentor in 1953. In the 1960s, both Chang Daichien and Fang Zhaoling painted lotuses in Chinese ink with this expressive technique. Works of this kind had a particular appeal to British curators and collectors, who may have been familiar with them from Zhang’s and Fang’s solo exhibitions at the Grosvenor Gallery, London in 1965 and 1968, and the Loan Exhibition of  Modern Chinese Painting at the Scottish National Gallery of Modern Art, Edinburgh in 1967. The influence of Qi Baishi and Chang Dai-chien on Fang Zhaoling’s choice of motifs is also evident in another painting in the UMAG collection, Tomatoes $(1972)$ ), and is referenced in the inscription.  
+
+Fang travelled extensively in Japan, America, Europe and Asia for museum and gallery visits, exhibitions, sightseeing and family visits in the 1960s, but returned to China more frequently in the 1970s and subsequent decades. Apart from the beautiful scenery of her homeland, another reason for her return was the opportunity to mount solo exhibitions in museums and galleries in Hong Kong, Shanghai, Beijing, Nanjing and Hefei. Fang also returned to her alma mater HKU, 可見於她另一幅藏於香港大學美術博物館的畫 作〈西紅柿〉(1972)，這一點也在畫作的題識上 有所提及。  
+
+1960 年代，方召麐的遊歷遍及日本、美洲、歐洲與亞洲，到訪博物館及畫廊、展覽，或飽覽各地名勝，或探望親友；到 1970 年代以後，她則更頻繁地往返國內。 除了家鄉的美景，她返回國內的一個原因是能在香港、上海、北京、南京和合肥的博物館和藝廊舉辦個人藝展。方召麐亦有回到母校香港大學，並於 1955 年假馮平山圖書館舉行首次個人藝展，展出的作品以花鳥畫為主，凸顯「風格深受趙少昂老師畫法所影響」， 也包括其楷書及隸書作品。1978年，方召麐的作品再度於馮平山博物館展出；1985 年，《方召麐作品選》出版，收入她 1961年至 1982 年間的書畫，並輔以畫家本人對作品的解說。  
+
+三十多年後，與方召麐是港大同學的馮平山博 物館館長劉唯邁博士，分別在 1988 年和 1992 年替她舉辦個人畫展。 其時，剛成立不久的 香港大學博物館學會，也選擇以她的作品展 《召麐畫藝》為成立誌慶，展出 60 幅自 1966 年至 1988 年間創作的書畫，其圖錄收入合共 88 幅作品。展覽以人物、山水為主，尤其是寫方 召麐在國內、英國、瑞士、法國和美洲遊歷時 所見的山川人物，作品表達了畫家對大自然、 祖國及其人民的熱愛；對時事的看法；對流離 者的同理心，以至對世界和平的祝願。方召麐 which held her first solo show at the Fung Ping Shan Library in 1955. This exhibition displayed a few works of calligraphy in the standard and clerical scripts, along with primarily bird-andflower paintings in “a distinctly Chao Shao-an-style”. Fang’s works were exhibited again at the Fung Ping Shan Museum in 1978, while a catalogue entitled Portfolio: Thirty-eight Facsimiles of  Fang Zhaoling Painting, comprising works painted from 1961 to 1982, with accompanying object descriptions by the artist, was published in 1985.  
+
+More than three decades later, Dr Michael Lau, curator of the Fung Ping Shan Museum and a classmate of Fang Zhaoling at HKU, mounted solo exhibitions by her in 1988 and 1992. At the same time, the newly formed HKU Museum Society selected an exhibition of her work, Chinese Painting by Fang Zhaoling, for its inaugural event. This special exhibition showcased sixty paintings and calligraphic works executed from 1966 to 1988, with eighty-eight works included in an associated catalogue. The presentation focused on figural work and landscapes, and in particular scenes from Fang Zhaoling’s travels in China, Britain, Switzerland, France and America. Her works expressed a love for nature, her motherland and its people, her response to current events, her empathy for drifters and her wish for world peace. Fang also produced calligraphy, especially running script, with reference to Tang poetry and the teachings of Confucius and Laozi, which was likely inspired by her early study of the Chinese classics under the private tutoring of the Wuxi scholars, Tao Bofang and Yang Sizhen in 1927, and her education in Chinese history, philosophy and literature at HKU from 1954 to 1956.  
+
+的書法，特別是其行書，寫的是唐詩和孔子、老子思想，這大概是受她早在 1927 年隨無錫學者陶伯芳、楊四箴學習四書五經，以及 1954 年至 1956 年在香港大學修習中國文史哲的影響。  
+
+於 1988 年，方召麐第二度在香港大學舉行個人藝展，獲本地報章雜誌廣泛報道， 畫家本人也有告知各方友人，如大英博物館與英國阿什莫林博物館、科隆東亞藝術博物館、波士頓美術館、三藩市笛洋美術館的亞洲藝術部館長。在展覽圖錄中，方召麐特別著墨於她大學時代的三位老師錢松喦、趙少昂和張大千，張大千曾邀她遊覽南美名勝，向她示範下筆、色彩與構圖的方法，並跟她分享其對繪畫、對中西藝術的見解。他坦率、富耐心和誠懇的教學方式，讓她深受感染。她在 1988 年寫道：「更從他的處世、待人，學習了在困厄環境中仍堅持從事藝術的創作。」 這位獨力養育八位子女的母親，在另一本圖錄《方召麐作品集》(1992) 的自序中，再次談到她的堅定不移：  
+
+「一生所經歷的幸與不幸，留下不少回憶。年少失怙、中年喪偶，浪跡天涯，遠離兒女親人，形單影隻，難免多所沉思。艱苦的生活不僅使我更加堅強，更令我洞悉人生真諦，從而提高了我對創作的要求。」18  
+
+記者許偉圖 (Hugh Chiverton) 在 1988 年香港大學博物館學會創會展覽的評論中，提到了方召麐堅強的個性和適應力：「方召麐是當今在  
+
+Fang Zhaoling’s second solo exhibition at HKU was widely covered in local newspapers and magazines in 1988. She also informed her friends at home and abroad—including curators of Asian art at the British Museum and the Ashmolean Museum in England; the Museum of East Asian Art, Cologne; the Museum of Fine Arts, Boston and the de Young Museum, San Francisco. In her introduction to the catalogue, Fang Zhaoling emphasised her relationship with three particular art teachers from the university: Qian Songyan, Chao Shao-an, and Chang Dai-chien, who invited her to travel to scenic spots in South America, demonstrated his brushwork, colouring and composition, and shared his views on painting and his evaluation of Chinese and Western art. Fang was deeply inspired by Chang Dai-chien’s way of teaching—with frankness, great patience and sincerity. She wrote in 1988: “from the way he conducted himself and treated others, I learned to persevere in my artistic pursuit against life’s heavy odds.” A widow with eight children, Fang returned to the theme of perseverance in the preface to another catalogue published in collaboration with HKU, Works by Fang Zhaoling (1992):  
+
+“The trials and tribulations of life have provided me with many memories. Orphaned as a child, widowed in the prime of life, and surrounded by loneliness during those regular trips, which took me away from my children and loved ones, introspection has become a favourite pastime. Hardship has not only made me strong, but has enabled me to understand the true essence of life and heightened my creative aspirations.” 18  
+
+世的中國藝術家中其中一位最成功的代表，她就像神話中的奧菲斯，以她的眼光重構山川圖景，賦予事物非凡的生命力。」 他也盛讚方召麐 1960 年代至 1980 年代的山水畫，有「生動絕倫的筆觸」、「富色彩的立體感」。20有趣的是他指出「方召麐的畫作，往往比呂壽琨等畫家的作品或龍飛鳳舞的書法更富震撼力，因為她的山水，能量是內斂的，像潛藏的猛虎。」21  
+
+呂壽琨 (1919–1975) 是中國水墨大師、香港新水墨運動的先驅，與劉海粟和方召麐一樣與香港大學有密切聯繫。1985 年，馮平山博物館舉辦了他的回顧展《香港墨韻：呂壽琨山水畫》，展覽海報展示了其〈香港風景〉(1964)( 圖版29) 局部。展覽為紀念呂壽琨去世十周年而設，展示六十幅寫實或寫意風格的香港山水，其中52 幅屬 1950 年代與 1960 年代的早期作品，來自呂夫人梅倩萍的私人珍藏。 展覽圖錄中有呂壽琨的一幅山水，展現出他 1960 年代的藝術觀及風格的演變與革新。 在描繪香港山水時，他以寫實風格描畫山巒與房舍，又以流暢的線條及墨點為主的方法，繪畫出〈香港風景(1964) 這樣的景象。同年，呂壽琨也開始嘗試更具表現主義的風格，以寬闊線條及大膽的水墨效果，營造另一幅〈山水〉(1964) ( 圖版30) 中群山相叠的畫面。到 1960 年代末 1970 年代初，呂壽琨的藝術風格走向抽象，創作出富  
+
+Journalist Hugh Chiverton took note of Fang’s strong personal qualities and adaptability in an exhibition review for the HKU Museum Society’s inaugural exhibition in 1988: “Fang Zhaoling, one of the most successful living Chinese artists, is a kind of Orpheus, re-making the landscape after her own vision, and giving turbulent life to inanimate matter.” He was also impressed by Fang’s landscape paintings from the 1960s–1980s, which demonstrated “wonderfully free and energetic brushstrokes” and “three-dimensional form with colour”. Interestingly, Chiverton discerned that “The effect [of Fang Zhaoling’s work] is often more striking than you find in the works of an artist like Lui Shou-kwan or in showy calligraphy because the energy of her landscapes is contained, like a tiger in a sack.”  
+
+Lui Shou-kwan (1919–1975) was a master of Chinese ink painting and a pioneer in Hong Kong’s New Ink movement. Like Liu Haisu and Fang Zhaoling, he also has strong ties to HKU. In 1985, the Fung Ping Shan Museum organised a retrospective exhibition of his work entitled Hong Kong in Ink Moods: Landscape Paintings by Lui Shou-kwan, with a detail of his Hong Kong Landscape (cat. 29) featured on the poster. The exhibition was held to commemorate the tenth anniversary of his death. It showed sixty paintings of Hong Kong landscapes in realistic and spontaneous styles. Fifty-two were early works executed in the 1950s and 1960s from the private collection of Mrs Lui Mui Sin Ping. This catalogue includes three landscape paintings by Lui Shou-kwan that demonstrate his quest for innovation and transformation of artistic approaches, ideas and styles in the 1960s. When depicting Hong Kong  
+
+哲學意味的「禪畫」系列 ( 圖版 33)。呂壽琨的山水著重中國水墨與留白空間的對比，予人寧謐、沉思的感覺，有別於方召麐作品躍動的筆觸、鮮明的色彩與敘事性的題詞。  
+
+呂壽琨的美學觀點、繪畫技法及創作精神，都傳授予其弟子，如：周綠雲 (1924–2011)、譚志成 (1933–2013)、 徐 子 雄 (1936 年 生 ) 及 梁 巨廷 (1945 年生 )。他們的作品有強烈個人感情色彩、抽象意念和實驗性技巧。  
+
+整體而言，《鑑古賞今——二十世紀中國的水墨與藝術發展》引領讀者深入探索每幅作品的淵源與美學價值，追溯二十世紀香港及海內外中國畫家、博物館、收藏家及研究者間的交流互動，細味過去數十年間香港大學所得重要藝術餽贈背後鮮為人知的故事。  
+
+landscapes, Lui took a realistic approach to delineating mountains and houses and rendered the scene of Hong Kong Landscape primarily with fluid lines and ink dots. In the same year, he also began experimenting with a more expressive style by applying broad brushstrokes and bold ink washes to suggest layers of mountains in another Landscape (cat. 30). Lui’s art became increasingly abstract as he shifted to a philosophical approach in his Zen series (cat. 33) in the late 1960s and early 1970s. Lui Shou-kwan’s landscape paintings generally emphasise the contrast of Chinese ink and empty space and evoke a sense of tranquility and meditation—in contrast with the landscapes of Fang Zhaoling, which are primarily filled with rhythmic brushstrokes, expressive colour and explanatory inscriptions.  
+
+Lui Shou-kwan’s aesthetic ideas, painting techniques and creative spirit were passed on to students such as Irene Chou (1924–2011), Laurence Tam Chi-sing (1933–2013), Chui Tzehung (b. 1936) and Leung Kui-ting (b. 1945), whose works are highly individualised in feeling, abstract in concept and experimental in technique.  
+
+Viewed as a whole, Tradition to Contemporary: Ink Painting and Artistic Development in 20th-century China provides readers with a further exploration of the provenance and aesthetic quality of myriad works; the cultural interactions among twentiethcentury Chinese artists, curators, collectors and scholars in Hong Kong, mainland China and abroad; and the untold stories of significant gifts presented to HKU over the past several decades.  
+
+![](images/9f4f8ceb7c6ce9f647997c47a37c135b152955a99d839cdea9e3b9aee3d28980.jpg)  
+
+![](images/398663896848c7603315447913a9afc123e37b75e67653689db191b188ea61d4.jpg)  
+
+![](images/9437de23d2b45bd38d2f53345de0831d1a01b65f0a60c0aafa1f4f5550c92990.jpg)  
+
+# LI Jian (1747–1799)  
+
+Landscape in the Six Dynasties Style   
+1793   
+Hanging scroll,   
+ink and colour on silk,   
+108 x 47 cm   
+HKU.P.1966.0310  
+
+This colourful autumnal landscape was painted with a combination of ink and mineral pigments, including malachite, gold and cinnabar. Autumn leaves and the robes of a scholar in a pavilion stand out in bright red, in pleasing contrast with the muted colours of the silk background. In the distance, the silhouette of a mountain range appears in flat ink, applied using the ‘boneless’ technique (mogu) in which an ink wash is used directly without a delineating outline. In the inscription, Li Jian mentions his use of techniques developed in the Six Dynasties period (220–589 CE), particularly the boneless technique of Zhang Sengyou (479–?). Although no paintings by Zhang survive today, later Ming and Qing dynasty painters like Wen Zhengming (1470–1559) made copies of his work. The thatched cottage and figure in the foreground appear similar to those painted by Wen Zhengming, suggesting that Li Jian may have imitated Zhang Sengyou through Wen Zhengming.  
+
+A talented poet and celebrated painter, Li Jian was influenced by many earlier landscape painters, such as Ni Zan (1306–1374) and Shi Tao (1642–1707). He used several courtesy names, including Jiamin and Weicai. Because he lived in a scenic area between the Dongqiao (‘East Firewood’) and Xiqiao (‘West Firewood’) mountains, he was also called ‘Erqiao’ (‘Two Firewoods’), and was known as one of the ‘Four Painters of Lingnan’, together with Zhang Jinfang (1747–1792), Huang Danshu (1757– 1808) and Lü Jian (1742–1813). Most of Li’s paintings were produced during trips between his hometown of Shunde and Guangzhou, when Li would sell his works and teach to earn a living. The inscription on this work includes the name ‘Village of Red Flowers’, a village in Foshan not far from Guangzhou, where it was likely painted.  
+
+# 黎簡 (1747–1799)  
+
+《擬六朝法山水》1793 年設色絹本立軸，$108\mathrm{~x~}47$ 厘米HKU.P.1966.0310  
+
+畫家採用重彩的青綠山水來表現秋天的景色，近景和中景山石用深綠色的石綠厚塗，並用金色鉤勒，當中又夾雜用朱砂繪出的紅葉與亭中文士的袍服，色彩對比鮮明悅目。而遠山則用不施鉤勒的「沒骨」法，以水墨平染。在其題款中，黎簡提到這種手法出自南朝時期的張僧繇 (479–?)，雖然沒有可靠真跡流傳，明、清不同時期畫家都有仿作。至於前景的茅屋和人物，非常近似明代文徵明 (1470–1559) 所繪，故推測黎簡可能通過文徵明而仿效張僧繇。  
+
+黎簡是詩人和畫家，頗負盛名，山水畫多模仿前代大師，其中倪瓚 (1306–1374) 與石濤 (1642–1707) 影 響 較 明 顯。 黎 簡， 原 名錦，字簡民，又字未裁。由於嚮往東樵、西樵兩山的勝境，別號「二樵」，與張錦芳 (1747–1792)、 黃 丹 書 (1757–1808)、 呂 堅(1742–1813) 合稱為「嶺南四家」。黎簡的大部分作品都是在往返家鄉順德和廣州的居停間創作，並以課徒、賣畫為業。 這幅畫的題款提及的「赤花邨莊」，是位於距離廣州不遠的佛山的村落，相信這是創作地點所在。  
+
+![](images/c37d931bf120e2dee75b272b95bd8d80f413f8918db31d0ebec8df088fb7a3c5.jpg)  
+2.1   
+2.2  
+
+![](images/f4f1f46de0bf22d2df19156e5b24f8a003950f2e90cc8a351f67d8d2be036b19.jpg)  
+
+# SU Renshan (1814–ca. 1850)  
+
+Landscape   
+Undated   
+Set of four album leaves,   
+ink on silk,   
+$24\mathrm{~X~}19$ cm each   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2191 a-d  
+
+Su Renshan was deeply inspired by woodblock prints such as the The Mustard Seed Garden Manual of  Painting (a printed manual of Chinese painting compiled in the early Qing dynasty). Rather than applying wrinkle and skimming strokes in dry ink to model the structure and texture of rocks and mountains, as was done by most landscape painters, Su painted the scenes in four album leaves with sketchy outlines, reminiscent of illustrations in printed books.  
+
+A native of Shunde, Guangdong province, Su was originally named Changchun. His sobriquet was Jingfu, and when he changed his name to Renshan, he used Changchun as his courtesy name. Though a talented painter, he failed the imperial examinations multiple times. Frustrated by his failures and burdened by conflicts with his family, his behavior became increasingly eccentric, and by the end of his life he was thought to be insane. His unusual character was often expressed in the form of lengthy inscriptions, in which he engaged with topics ranging from astronomy and geography to history and mythology. Lengthy and varied, they were usually too abstruse to be fully understood.  
+
+# 蘇仁山 (1814–約 1850)  
+
+《山水》  
+無年款  
+水墨絹本冊頁四幅，  
+各 $24\mathrm{~x~}19$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2191 a-d  
+
+蘇仁山的繪畫深受《芥子園畫傳》( 清初輯錄而成的畫譜 ) 等木刻版畫影響，多以線條鉤勒為主，山水極少皴擦，個性突出而富有創意。這一特色在此四幅冊頁中亦十分明顯。  
+
+蘇仁山，原名長春，號靜甫，後改名仁山，字長春。廣東順德人。天賦奇才， 但多次科場失意，加上家庭不和的打擊，導致行為怪異，晚年被人視為顛狂。 他在畫上題識，常見長篇大論，其中涉及天文、地理、歷史、神話，可見為人好奇，學識廣博，但內容過於奇特，往往令人難以理解。  
+
+![](images/72fe0b63b743ca87595b8f9ea51a5243088c082e0b180ac11fbf9a6b16920f37.jpg)  
+
+# JU Chao (1811–1865)  
+
+Daisies and Rocks   
+Undated   
+Folding fan mounted as an album leaf,   
+ink and colour on paper,   
+$24.3\mathrm{~x~}53.6\mathrm{~cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2186  
+
+The rocks and daisies on each side of this fan are painted with notable differences in brushwork, ranging from rough to refined. They have a striking sense of vitality and intimacy—probably a result of the artist’s practice of painting directly from nature, rather than the more typical method of imitating earlier works. Ju Chao’s observational painting was likely informed by the work of Song Guangbao (active ca. 1824–1878) and Meng Jinyi (ca. 1764–1833), two painters from Jiangsu province who sketched from nature and used the ‘boneless’ technique in their bird-and-flower paintings. They introduced these approaches to Guilin in the early nineteenth century, where Ju Chao lived in his youth.  
+
+After his death, Ju’s former home in Geshan Village, Panyu (now Haizhou district, Guangzhou) was turned into a school by Ju Lian (1828–1904), the younger cousin of Ju Chao and another noted painter. Students and teachers gathered at Ju’s home, called the ‘Garden of Ten Fragrances’, where they developed the hugely influential Geshan School style, characterised by the practice of sketching directly from nature. Ju Chao and Ju Lian also employed an innovative technique in which water and white powder were added to still-drying patches of ink-wash and colour wash, mixing together to create interesting lighting effects.  
+
+# 居巢 (1811–1865)  
+
+《雛菊文石》  
+無年款  
+設色紙本扇面冊頁，  
+$24.3\mathrm{~x~}53.6$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2186  
+
+這幅扇面右方的怪石與左方的雛菊，筆法反差非常突出，構成粗細的對比，又互相襯托。他的畫大多屬於面對實景的寫生，因而充滿生氣，有極强的親和力，在仿古風氣盛行的年代，實為難得。居巢的寫生方式或受宋光寶 ( 活躍於約 1824–1878) 與孟覲乙( 約 1764–1833) 的作品薰陶，1 兩位江蘇畫家奉行實景寫生，以「沒骨」技法繪畫花鳥。十九世紀初，他們把這種畫法帶到桂林，正是居巢早年生活之地。  
+
+居巢死後，其位於番禺隔山鄉 ( 現今廣州海珠區內 ) 的故居，供其堂弟、著名畫家居廉(1828–1904) 設帳授徒，命名「十香園」。師徒在此間雅集，形成「隔山派」，以實景寫生見稱。居巢和居廉也運用創新的撞水、撞粉畫法，在畫作墨色未乾的時候注入粉、水混和，營造特別的明暗效果。  
+
+![](images/b333f17174d26ded7f8cca49129f65a943c3bf7a9006be0ceceb4b68559cd937.jpg)  
+
+![](images/5ad472c8a5ade3625f1a14a461eadda9d7b8d28a423f2f2d67c8b0b30b9568d7.jpg)  
+
+![](images/67226dfce0fb55290bdff75cca464b08f8cc82dbcff6fe60b414b2ebcd7342d1.jpg)  
+
+![](images/53fa0e36fbff3d464e8c00a4b69d6ba8fe42843e7a801d84b515c9cec58dba76.jpg)  
+
+![](images/b68017653022c3a2c83d3e80777fcdb84fb9e9a915804efa6287114e40504779.jpg)  
+
+# LIANG Yuwei (ca. 1840–1913)  
+
+Flowers of  the Four Seasons Undated Set of four hanging scrolls, ink and colour on paper, 177 x 48 cm each Gift of Ms Lo Yue HKU.P.1996.1196  
+
+Most of Liang Yuwei’s extant paintings are landscapes, with a few works of flowering plants. These four flower paintings are among the largest he produced, suitable for hanging in a grand hallway. Reflecting Liang’s interest in rubbings and ancient coins, they exhibit an epigraphic sensibility, with vigorous strokes and thick lines reminiscent of rubbings taken from inscriptions on bronze vessels and steles. Painted with Liang’s characteristic jagged, sawtooth outlines, each scroll features a flower associated with a particular auspicious meaning: plum blossoms, the renewal of spring; peonies, wealth and honour; and pine trees, longevity. Orchids and branches of osmanthus (fragrant olives) are commonly associated with well-wishes for sons and grandsons.  
+
+Liang used the courtesy names Hangshu and Hangxue. A highly educated scholar-painter who served in the Ancestral Sacrifice and Purification Office at the Ministry of Rites in Beijing, in his later years he moved to Guangdong, where he made a living selling his paintings. The collector’s seal ‘Prized by Stone Cliff ’, indicates that the scrolls were acquired by Chen Kun of Shunde, whose pseudonym was Stone Cliff. Chen was a successful businessman, and offered financial support to Liang in the artist’s later years, but Liang was unwilling to accept charity. Chen found a way around this by having his friends purchase Liang’s paintings on his behalf. The works always went to his personal collection.  
+
+# 梁于渭 ( 約 1840–1913)  
+
+《四季花卉》  
+無年款  
+設色紙本立軸四屏，  
+各 $177\mathrm{~x~}48$ 厘米  
+羅瑜女士惠贈  
+HKU.P.1996.1196  
+
+梁于渭的傳世畫作，大多為山水，其次為花卉。這套四屏是其畫作中的大幅作品，適用於廳堂中懸掛。梁于渭喜藏拓本、古錢，繪畫富有粗豪的金石趣味，令人聯想到青銅銘文與碑刻。畫中多處呈現「鋸齒式」的鉤勒線條，是他獨創的個人特色。每屏各繪一種吉祥花卉：梅花寓意春回大地、牡丹寓意富貴榮華、松樹寓意長壽延年，而蘭花與桂枝則常見於祝願子孫光宗耀祖。  
+
+梁于渭，字杭叔，又字航雪，廣東番禺人。梁于渭乃高中入仕之畫家，官至禮部祠祭清吏司司員。後離京返粵，以鬻畫維生。畫上鈐有「石崖珍賞」藏印，證明來自順德陳坤所藏。陳坤，別號石崖，為成功商人，見梁于渭晚境落魄，有意提供幫助。因梁于渭不願受人接濟，陳坤於是經常訛稱代朋友向他買畫，而事實上是自己購藏。2  
+
+![](images/280cbed2f6b5cb91b9b321ac8632462ea021e957bc7628bfdafeb7f7a1257266.jpg)  
+5.1  
+
+# LIANG Yuwei (ca. 1840–1913)  
+
+Landscape  
+
+Undated   
+Set of two folding fans mounted as album leaves,   
+ink and colour on silk,   
+$22.5\mathrm{~x~}48.5\mathrm{~cm}$ each   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2192 a,b  
+
+These two paintings are typical of Liang Yuwei’s smaller works, which were often painted on white silk cut into the shape of a folding fan. Liang made a number of small fan paintings in his later years; perhaps because they were less physically demanding to produce than his larger works. Painted from a low viewing angle, the vast horizon lines on the fans create expansive and bright vistas. The mountains and stones in the landscape are tinged with a grass-green and pale ochre-brown, giving the scene a feeling of freshness and vitality.  
+
+Liang’s use of colour and technique departed somewhat from the traditional application of textural strokes, perhaps reflecting the influence of Western painting, which was well established in China by the nineteenth century. An excellent seal carver, Liang probably carved several of the seals on the album leaves, including the collector’s seal of Chen Kun (Stone Cliff ).  
+
+# 梁于渭 ( 約 1840–1913)  
+
+# 《山水》  
+
+![](images/e5080bd0970b8462d90a74b7d259fea8eaa0728b856d02738c457220458bbbf6.jpg)  
+
+無年款設色絹本扇面冊頁兩幅，各 $22.5\mathrm{~x~}48.5$ 厘米陶衡女士和陶立先生惠贈HKU.P.2015.2192 a,b  
+
+這兩幅所謂「扇面畫」，是梁于渭小幅作品的典型風格，雖然畫面為扇面形式，但並非用真正的摺扇繪成，而是先將素絹裁剪成扇形，然後創作。梁于渭在晚年繪製了不少小幅扇面作品，可能由於當時畫家年老體弱，所以選擇繪製小型作品。作品因應畫面作「平遠式」橫向構圖，取景以低視角為主，繪出廣闊水平線，營造一片空曠明淨的景緻。他畫山石，常以草綠色賦染，配合赭石的淺褐色，產生天朗氣清的效果。  
+
+梁于渭的用色與手法和上一組花卉掛軸中帶有金石意味的粗獷線條不同，這兩幅山水以淡色渲染為主，可能受到十九世紀廣東地區大量傳入的西洋畫影響。梁于渭因擅長篆刻，冊頁中的印章，包括畫上陳坤的收藏印記（「石崖」），很可能由他親自刻製。  
+
+![](images/9515bf476e532a1f8ff82a0a5e83cdc2302cd040e1520e055010cfcdb7966340.jpg)  
+
+# LUO Anxian (active late 19th century)  
+
+Cuckoos and a Kapok Tree   
+1870   
+Album leaf,   
+ink and colour on paper,   
+$30.5\mathrm{~x~}55.6\mathrm{~cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2184  
+
+Two lyrical sentences highlight the contrast between red and green in this painting of birds sitting on a kapok tree. Though Luo Anxian states that the painting imitates the style of the early Ming bird-and-flower painter Lin Liang (ca. 1416–1480), a Guangdong painter at the imperial court, their styles are dissimilar, and the connection is not immediately obvious.  
+
+A native of Panyu in Guangdong province, little is known of Luo Anxian, who used the courtesy name Dengdao and the sobriquets Sanfeng and Yefang. He was likely active in the late nineteenth century, during the reigns of the Tongzhi (1861–1875) and Guangxu (1875–1908) emperors. According to a passage in Brief  Accounts of  Lingnan Painting (Lingnan hua zhenglüe), Luo drew on the work of the Ming painter Wen Zhengming (1470–1559) when painting landscapes, and was known for his skill at painting figures, grasses and insects.  
+
+# 羅岸先 (活躍於十九世紀晚期 )  
+
+《布穀紅棉》  
+1870 年  
+設色絹本冊頁，  
+$30.5\mathrm{~x~}55.6$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2184  
+
+畫中描繪小鳥站立在紅棉樹上，而作者的兩句題識，正點出這紅、綠對比色調的重要性。3羅岸先自稱作品仿明代初年來自廣東的內廷畫院花鳥名家林良 ( 約 1416–1480) 而作，可是畫中花鳥皆有輪廓鉤勒，與林良沒骨寫意的風格相去甚遠。  
+
+羅岸先，廣東番禺人，生平事跡不詳。字登道，號三峰，又號野舫，約活躍於晚清同治至光緒年間，即十九世紀晚期。據《嶺南畫徵略》的記載，4 羅岸先作的山水效法明代文徵明 (1470–1559)，並工於繪畫人物、草蟲。  
+
+![](images/4c681ef96d7761eab9f47f710be808aae3ef8e5b5856053ae41ced782ccadbf8.jpg)  
+
+# HE Chong (1808–1884) and LUO Anxian (active late 19th century)  
+
+Feeding the Fledglings   
+Undated   
+Album leaf,   
+ink and colour on paper,   
+$35.6\mathrm{~x~}59.7\mathrm{~cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2194  
+
+In this collaborative work, He Chong painted the birds, and Luo Anxian was responsible for painting the background and writing the inscription. One of the birds is in the process of feeding three fledglings—a common scene in the natural world. Luo Anxian’s inscription connects this to the Confucian ideal of filial piety and the love between parents and their children.  
+
+He Chong used the courtesy name Danshan and the sobriquet Yanqiao. Born into a poor family in Nanhai, Guangdong province, he left for Guangzhou at age twelve, where he apprenticed at a lantern shop and later became a painter of tea chests. He caught the attention of wealthy businessman Wu Chongyao (1810–1863), who hired him to assist in organising the family’s collection of painting and calligraphy. The experience was critical to his artistic development. In 1842, He met general Yi Xiang (1796–1881) and joined him on manoeuvres in Chengdu and Zhejiang province. After returning to Guangdong he sold paintings and taught for a living. He and Luo were good friends and collaborated on several works.5  
+
+# 何翀 (1808–1884)、羅岸先(活躍於十九世紀晚期 )  
+
+《哺雛圖》  
+無年款  
+設色紙本冊頁，  
+35.6 x 59.7 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2194  
+
+在這幅合作畫中，主體幾隻雀鳥由何翀繪畫，羅岸先則負責補畫背景並題詩。畫中一隻小鳥銜著昆蟲，自半空向下飛翔，而下方三隻雛鳥張嘴立於樹枝上等待餵哺，是自然界常見的情景。羅岸先的題詩，以此連繫到儒家思想中的孝道，以及父母養育子女之恩。  
+
+何翀，字丹山，號煙橋。廣東南海人。年少家貧，十二歲離鄉到廣州，在燈紗店當學徒，後轉而從事在茶葉箱面的繪圖工作。後來，何翀得到富商伍崇曜 (1810–1863) 賞識，獲聘協助整理伍家藏書畫，由此拓展眼界，畫藝大進。至 1842 年，何翀認識將軍奕湘(1796–1881)，隨其到成都、浙江巡邊。回到廣東之後，以賣畫、授徒為生計，與羅岸先份屬好友，繪有數幅合作畫。5  
+
+![](images/69efc3d780e0f884211cff1cc4db39272fda9df9cc1885644e29e8a18df2f6a0.jpg)  
+
+# WU Deyi (1864–1927)  
+
+Landscape   
+1912   
+Folding fan mounted as an album leaf,   
+ink and colour on paper,   
+24.4 x 52.1 cm   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2182  
+
+This fan painting depicts a lone figure on a boat close to shore. Despite its small size, the cliff face along the coastline appears overbearing. There is sincerity in the meticulous brushwork that recalls Wen Zhengming (1470–1559) and Tang Yin (1470–1524), two of the ‘Four Masters of Ming Painting’. It features a two-line inscription taken from Scribbled in a Moment at the End of Spring, a poem by famed Tang courtesan Yu Xuanji (844– 871), which expresses thoughts on existing in the world while remaining undisturbed by its problems.  
+
+Wu Deyi was a descendant of the Wu family, one of the four wealthiest families in Guangdong province during the late Qing dynasty. He studied at Ju Lian’s (1828–1904) ‘Garden of Ten Fragrances’, which was filled with a large collection of paintings and calligraphy. Many of Wu’s contemporaries met in the garden to study, paint and talk, including Rong Zuchun (1872–1943) and Gao Jianfu (1879–1951).  
+
+# 伍德彝 (1864–1927)  
+
+《山水》  
+1912 年  
+設色紙本扇面冊頁，  
+$24.4\mathrm{~x~}52.1$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2182  
+
+這件山水扇面描繪離岸不遠的一葉輕舟裡的孤客，雖屬小幅作品，卻不減沿岸峭壁巍然之勢，筆觸細緻之中蘊含率意，有「明四家」中文徵明 (1470–1559) 及唐寅 (1470–1524) 的影子。畫上所題兩行詩句出自唐代名妓魚玄機 (844–871) 的《暮春即事》，表達縱使身處煩囂俗世，但對雜務不願牽懷的自由自在。  
+
+伍德彝，是清代晚期廣東四大富戶之一伍家的後人。伍德彝學畫於居廉 (1828–1904)的「十香園」。園中書畫收藏豐富，伍德彝與其同窗學友，如容祖椿 (1872–1943)、高劍父 (1879–1951) 等，在此間學習、繪畫和切磋討論。  
+
+![](images/8044bde0ff3d6b51cef57d3cc784d6b2f8330ee60a3277d79f9547dc134b132e.jpg)  
+
+# 9  
+
+# WU Deyi (1864–1927)  
+
+Landscape   
+Undated   
+Folding fan mounted as an album leaf,   
+ink and colour on paper,   
+$23.8\mathrm{~x~}51.8\mathrm{~cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2183  
+
+Similar to the 1912 Landscape, this fan painting depicts a boating scene. The inscription is taken from an early Qing dynasty poem by Wu Weiye (1609–1672). The third and fourth lines of the original poem read: “Yellow chickens and purple crabs may be accompanied by wine / red trees and green mountains send off the boats”, hinting at the contrasting colours in Wu’s landscape. The tranquil setting, with red leaves in the foreground and green mountains in the background, conveys the refined sensibility of floating along a river in a small boat. In the background, the craggy surfaces of distant mountains are highlighted with distinctive textural strokes and horizontal dots called Mi-dots, named after the painters Mi Fu (1051–1107) and Mi Youran (1086–1165) who popularised their use. The trees in the foreground bend backwards in the wind, adding a sense of dynamism to the otherwise tranquil landscape.  
+
+# 伍德彝 (1864–1927)  
+
+《山水》  
+無年款  
+設色紙本扇面冊頁，  
+23.8 x 51.8 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2183  
+
+伍德彝此畫與前一幅 1912 年所作《山水》相似，皆以泛舟作為主題。題句出自清初吳偉業 (1609–1672) 一首七言律詩，名為《丁亥之秋，王煙客招予西田賞菊。踰月，蒼雪師亦至。今年予既臥病，同游者多以事阻，追敘舊約，為之慨然，因賦此詩》。原文第三、四兩句：「黃雞紫蟹堪携酒，紅樹青山好放船」，巧妙地在對仗句中嵌入「黃、紫」和「紅、綠」兩組對比色，給人強烈的視覺聯想，可謂詩中有畫。畫家重現詩境，刻劃秋高氣爽之際，在近景紅葉和遠景青山之間，小舟悠然浮行於江上，盡見其閒情逸致。技法方面，畫家運用了「米點」，即米芾 (1051–1107) 與米友仁 (1086–1165) 式的橫點來作遠山皴法，加上近景一組樹木迎風後仰，使寧靜畫面中展現了微妙的動感。  
+
+![](images/b98dbb42bb9fda0db509dc3c701142bd917f9d1ed51119eba6547dbbc4bdbb4c.jpg)  
+
+# PAU Siu-yau (BAO Shaoyou, 1892–1985)  
+
+Sketch Demonstration of  Peonies   
+Undated   
+Two hanging scrolls,   
+one horizontal scroll,   
+ink and colour on paper,   
+(a) $78.3\mathrm{~x~}30.8\mathrm{~cm}$ ; (b) 61 x 45 cm; (c) 45.1 x 66.4 cm   
+Gift of Mr Kenneth Fung   
+HKU.P.2004.1582 a-c  
+
+These sketches were made using the ‘boneless’ method, in which washes of colour are applied to the paper without a guiding outline. Painted with carefree, spontaneous brushstrokes, they were most likely produced as step-bystep demonstration pieces for Pau Siu-yau’s students.  
+
+Born in Yokohama, Japan, and a native of Xiangshan, Guangdong province, Pau settled in Hong Kong in 1928. As a student in the Kyoto Institute of Art and Design in Japan, he was contemporaries with Chen Shuren (1884–1948), Zheng Jiongshang (1883–1958) and other accomplished modern Chinese painters who later worked predominantly in China and Hong Kong. Pau taught in both Japan and China, which he considered to be his home. He founded the Lai Ching Art Institute in Causeway Bay, Hong Kong, and became a pioneering figure in art education.  
+
+# 鮑少游 (1892–1985)  
+
+《牡丹課稿》  
+無年款  
+設色紙本立軸兩幅、橫披一幅，  
+(a) $78.3\mathrm{~x~}30.8$ 厘米 ; (b) 61 $\textbf{X}45$ 厘米 ;(c) $45.1\mathrm{~x~}66.4$ 厘米  
+馮秉芬先生惠贈  
+HKU.P.2004.1582 a-c  
+
+這三張牡丹畫稿運用「沒骨法」，未鉤勒輪廓線，而用色彩直接點染。其落筆隨意自然，當是鮑少游授課時向學生示範繪製，並且將步驟逐一指導的紀錄。  
+
+鮑少游，廣東香山人，出生於日本橫濱，1928 年移居香港。曾就學於日本京都市立美術工藝學校，同學中有陳樹人 (1884–1948)、鄭褧裳 (1883–1958) 等主要在中、港活動的近代中國名畫家。鮑少游曾在日本與中國教學，並視後者為家。他在香港銅鑼灣創辦「麗精美術學院」，為香港美術教育的先驅人物。  
+
+![](images/c50cd906e0268b60f665bd0f4cf956daea80defea376821664184fb7787e8cb2.jpg)  
+
+# HUANG Shaoqiang (1900–1942) 黃少強 (1900–1942)  
+
+Guanyin (Avalokiteshvara)   
+Undated   
+Hanging scroll,   
+ink and colour on paper,   
+96 x 44 cm   
+HKU.P.1997.1268  
+
+Huang Shaoqiang was born into a wealthy family in Nanhai, Guangdong province; from an early age he was deeply concerned with human suffering. Most of his works are figure paintings that focus on the depiction of real-life tragedy. In the early days of the Second SinoJapanese War (1937–1945), Huang went to the front lines of Hunan to sketch, creating many works that show casualties on the battlefield. This image of Guanyin (the bodhisattva of mercy and compassion) is painted with flowing and uninhibited brushwork. It depicts the figure with eyes cast downward, as if grief-stricken, projecting the artist’s compassion.  
+
+Huang studied Chinese painting at a private art school run by Gao Qifeng (1889–1933) in the 1920s, alongside Chao Shao-an (1905–1998). Subsequently, he studied under Gao Jianfu (1879–1951). He later taught at the Foshan Art School, the Foshan Nanhai Teachers’ College and the Guangzhou Municipal Art School. When Guangzhou fell to the Japanese in 1938, he moved to Hong Kong, founding the Winter Society (Suihan she) with He Qiyuan (1899–1970) and Ye Shaobing (1896–1968). He returned to Nanhai after the Japanese army occupied Hong Kong, and ultimately died in poverty.  
+
+《觀音》  
+無年款  
+設色紙本立軸，  
+$96\mathrm{~x~}44$ 厘米  
+HKU.P.1997.1268  
+
+黃少強， 廣東南海人， 雖從小家境富裕，但十分關懷人間苦難。他的作品以人物畫為主，重視刻劃現世中的悲情。中日戰事爆發之初， 他曾到湖南前線寫生，創作大批描繪戰地傷亡的作品，為他的代表作。這幅觀音畫像，落筆流暢淋漓。畫中人物作低首沉思之狀，表情充滿感傷，似投射了畫家內心對現世的無限憐憫 。  
+
+黃少強於 1920 年代入高奇峰 (1889–1933) 的「美術學館」，與趙少昂 (1905–1998) 為同學，繼而師從高劍父 (1879–1951)，後來任教於佛山市美術學校、佛山市南海師範學校、廣州市立美術學校等。當廣州於 1938 年淪陷，黃少強避居香港，與何漆園、葉少秉成立「歲寒社」。及後香港被日軍佔領，黃氏再返回鄉里，貧病交逼之下去世。  
+
+![](images/01cebba96f966fb28e894b41f56184de64c58daba986ebef0f568eef464068df.jpg)  
+
+![](images/3ef28c8aa34e61996b285626c4ee194be0ba5477eede1ddffa266905ccd1b98a.jpg)  
+
+![](images/c485f8245ce27dbcb2c5e593baa6f9907af7636b1f46c073c829e0b60406f753.jpg)  
+
+![](images/17880b9d841b0d928d222479be8a76d85d3d28d58113bf9f8eb1f55f3d8f1fc9.jpg)  
+
+![](images/3e795714974ace720bce244521ca1eaa424bc6ba6b949a35ff517bc72dbbf81e.jpg)  
+
+# RONG Zuchun (1872–1943)  
+
+Birds and Flowers   
+1914   
+Set of four hanging scrolls,   
+ink and colour on paper,   
+$137.1\mathrm{~X~}33.5$ cm each   
+Gift of Ms Ng Shun Wah   
+HKU.P.1987.0918  
+
+These scrolls were painted by Rong Zuchun, a bird-andflower painter from Dongguan, while he was teaching at the Kunwei Girls’ Normal School, a private school in Guangzhou. The flowers and fruits are depicted with great vitality, typical of the Geshan School. Two of the four panels are inscribed with poetry. The first features the work of Li Shan (1686–1762), a Yangzhou School painter from the Qing dynasty. The second bears a poem by the Tang poet Bai Juyi (772–846), though Rong mistakenly attributes it to Li Shan. The flowers and fruits in the paintings are varieties popular in Guangdong.  
+
+Rong studied bird-and-flower painting for eighteen years with Ju Lian (1828–1904), one of the founders of the Geshan School. Ju’s ‘Garden of Ten Fragrances’ had a wide variety of plants, which gave his students many opportunities to observe and sketch from nature using various techniques. Shortly after Ju Lian’s death, Rong moved to Guangzhou, where he made a living teaching and selling his works. He returned to his hometown of Dongguan after the outbreak of the Second Sino-Japanese War (1937–1945), and then immigrated to Hong Kong, where he made significant contributions to the local art scene. He returned to Guangzhou after the Japanese occupation of Hong Kong in 1941.  
+
+# 容祖樁 (1872–1934)  
+
+# 《花鳥》  
+
+1914 年設色紙本立軸四屏，各 $137.1~\mathrm{~x~}33.5$ 厘米吳巽華女士惠贈HKU.P.1987.0918  
+
+容祖椿，廣東東莞人。這套四屏立軸為容祖椿在廣州私立坤維女子師範學校授課所繪製。作品風格是典型的「隔山派」畫風，動植物都充滿自然生機活力。第一、二兩幅畫上各有題詩，前者是清代「揚州畫派」之一李鱓 (1686–1762) 的作品，後者出自唐代詩人白居易 (772–846)，至於容祖椿自題稱為「李復堂 ( 李鱓 )」，當屬誤解。畫中的花果是廣東地區常見的品種 。  
+
+容祖椿拜「隔山派」創始畫家居廉 (1828–1904) 為師，學習花鳥草蟲，長達十八年。居氏的「十香園」中遍植各式花木，這便利學生觀察自然及寫生，而運用多種技巧表現不同花草植物，以及昆蟲和飛鳥。居廉逝世後，容祖椿移居廣州，以教學和鬻畫為生。中日戰爭時期他返回東莞，及後遷居香港，對本地畫壇亦有貢獻。1941 年香港淪陷，容祖椿又再回到廣州。  
+
+![](images/7615e4784894c0ec8fdd1f1e41926ca6fb96fc43f0392a1d094d95318fb1665c.jpg)  
+
+# ZHANG Hong (1891–1968)  
+
+Peach Tree Blossoming in the Fall   
+1926   
+Hanging scroll,   
+ink and colour on paper,   
+$105\mathrm{~x~}51$ cm   
+HKU.P.1990.0928  
+
+This painting presents a view of isolated cottage houses near a lake and hillside. Expressive calligraphic lines portray layers of trees and plants, with a hint of pink applied to a blossoming tree beside the main house. According to the inscription, it was painted in September, during a rare blossoming of peach trees at the home of Guo Fang in Shatin, Hong Kong. It was painted in response to a request made by Guo Fang, a famous recluse, who wanted to document the blossoming, which more commonly occurs in spring. The remote location and blossoming peach trees appear to be an allusion to the scholar-official Tao Yuanming (ca. 365–427), who was known for his reclusion in a small house in the countryside and for his celebrated essay Peach Blossom Spring. Zhang’s admiration for Guo Fang is expressed in the inscription and complemented by colophons surrounding the painting by the scholar and seal carver Deng Erya (1884–1954) and other literati. Their words reveal deep respect and speak to a complex web of social obligations and networking in the literati community.  
+
+Zhang Hong was a painter, poet, connoisseur and antique dealer from Shunde, Guangdong province, who worked under the courtesy names Gu Chu and Shen Qi. He was a key member of the Guangdong Chinese Painting Research Society (Guangdong guohua yanjiuhui), which advocated for the preservation and growth of Chinese painting within a traditional framework. It started a two-year public debate with the Lingnan School in 1926 on how best to approach the modernisation of Chinese painting.6 Supporters of the Lingnan School promoted a new type of Chinese painting that synthesised Chinese and Western art and ancient and modern art. Although the two groups disagreed on the extent to which Eastern and Western techniques should be blended, both primarily sketched from life and incorporated contemporary scenes into their paintings. A seasoned traveller, Zhang spent time in many different locations, including Hong Kong. He often sketched outdoors with Huang Binhong (1865–1955) and other painters. Despite its unpopulated and remote nature, Shatin was the site of an important discussion between Huang, Zhang and others in 1935, which was documented in Huang Binhong on Painting (Binhong huayu lu).  
+
+11  
+
+# 張虹 (1891–1968)  
+
+《九月桃花》  
+1926 年  
+設色紙本立軸，  
+$105\mathrm{~x~}51$ 厘米  
+HKU.P.1990.0928  
+
+此畫描繪山嶽底下，湖岸邊的緩坡上屋舍座落期間，環境幽靜。其山水景致敷設淡彩，既以濃淡粗細的筆觸表現草木欣榮，又在主屋旁的樹枝上淡施粉紅色，以示樹上開花。從畫面款題可知，這幅畫是在九月繪製，時值國芳先生在香港沙田的隱居之所桃樹開花。國芳先生是一名隱士，為人所稱道。桃花一般在春天開放，九月桃花則屬罕見，畫家應邀紀錄此景。畫中的桃花和村屋指向東晉士大夫陶淵明 ( 約 365–427)，其以隱士身分流芳後世，辭官退隱、卜居於鄉的形象鮮明，代表作《桃花源記》亦表達隱居主題。張虹在畫面題詩， 學者和篆刻家鄧爾雅(1884–1954) 等文人雅士也在畫上題跋，酬對唱和，這亦反映文人畫家之間的交遊網絡。  
+
+張虹，字谷雛，號申齊，廣東順德人，是一位畫家、詩人、鑑賞家和古董商。張氏是廣東國畫研究會的重要成員。該會恪守傳統，以復興國畫為宗旨，這與嶺南畫派的主張不同。嶺南畫派旨在推動新國畫——折衷中西，融合古今。廣東國畫研究會和嶺南畫派就推動國畫發展持不同意見，其成員在1926 年引發一場長達兩年的論戰。6 雖然二者對採用西畫元素改革國畫的立場不同，成員皆重視寫生，並以實景入畫。張虹性好遊歷，曾到香港等地居住。張氏經常和黃賓虹(1865–1955) 以及其他畫家到戶外寫生。儘管沙田荒僻，人口稀疏，這卻是 1935 年張虹、黃賓虹等畫家談文論藝的地點。這在張虹的《賓虹畫語錄》留下紀錄。7  
+
+![](images/1158d5dd897c82fd03c75df9c4879562f1b7eacb99a4b6ebb3459097b1005c58.jpg)  
+
+# LIU Haisu (1896–1994)  
+
+Winter Landscape 1926 Hanging scroll, ink on paper, 131 x 66 cm Gift of the artist HKU.P.1997.1143  
+
+This monochrome ink painting depicts the ‘Day of Great Cold’ (Da Han) on January 21, 1926. According to the inscription, Liu Haisu struggled to make a fire in his home under heavy snow and was forced to paint with stiff, frozen arms, which may have contributed to the awkward brushwork. The base of the painting includes a poem inscribed by Huang Yanpei (1878–1965, courtesy name Ren Zhi), a friend of Liu’s who was the Jiangsu Provincial Secretary of Education in the Republican period (1912– 1949), charged with conducting education reform. A complete version of this poem, with slight changes, was published in The Diary of  Huang Yanpei.  
+
+Inspired by Euro-American commercial art and postimpressionism, Liu focused on oil paintings early in his career. This represents one of his first attempts at experimental ink painting. The awkward and bold calligraphic lines reveal the influence of noted Epigraphic School painter Wu Changshi (1844–1927), calligrapher and art theorist Kang Youwei (1858–1927) and individualist painter Shi Tao (1642–1707).  
+
+# 劉海粟 (1896–1994)  
+
+《雪景山水》  
+1926 年  
+水墨紙本立軸，  
+$131\mathrm{~x~}66$ 厘米  
+畫家惠贈  
+HKU.P.1997.114  
+
+這幅水墨畫描繪乙丑年冬大寒之日 (1926 年1 月 21 日 )，據題識自稱，因大雪導致家中無法生火，劉海粟在身手僵硬狀態中作畫，卻為朋友稱讚為「拙筆」。畫上題詩出自黃炎培 (1878–1965，字任之 )，民國初年任江蘇省教育司司長，主持教育改革。題詩的修訂本收錄於《黃炎培日記》。8  
+
+劉海粟早期專注創作油畫，取法自歐美廣告美術和後印象主義畫風。這是劉氏早期實驗的水墨作品，稚拙粗放的筆墨，揭示了著名金石畫家吳昌碩 (1844–1927)、書法和書論家康有為 (1858–1927)，以及獨創主義畫僧石濤 (1642–1707) 的影響。  
+
+![](images/99bf2f3bbb59e5b01cba7f3e9e2b053b74278f749da3fe0770d282cb15ef7241.jpg)  
+
+# TING Yin-yung (DING Yanyong, 1902–1978) 丁衍庸 (1902–1978)  
+
+Birds and Rocks   
+1962   
+Hanging scroll,   
+ink and colour on paper,   
+$67.5\mathrm{~x~}33.5\mathrm{~c}\mathrm{{r}}$ m   
+Gift of the HKU Museum Society   
+HKU.P.1995.1045  
+
+A highly versatile and prolific artist from Maoming (present-day Gaozhou) in Guangdong province, Ting Yin-yung was celebrated for his traditional ink paintings and seal carvings, as well as his work as an oil painter. He studied Western painting at the Tokyo School of Fine Arts in Japan between 1920 and 1925, before working in Shanghai, Guangzhou and Chongqing. While employed at the Guangzhou Museum in 1929, he was exposed to many historical paintings and artifacts, which cultivated his interest in traditional Chinese painting.  
+
+He was a great admirer of Bada Shanren (1626–1705), a painter and calligrapher celebrated for his enigmatic images of birds and fish imbued with human characteristics. When Ting fled Guangzhou for Hong Kong at the end of the Chinese Communist Revolution in 1949, he brought with him several paintings by Bada Shanren, which he studied extensively, publishing a detailed account of his collection of Bada’s work and significance to modern art in 1961. The bird in the painting stands arrogantly on a rock, reflecting Bada Shanren’s style and spirit.  
+
+《鳥石圖》  
+1962 年  
+設色紙本立軸，  
+$67.5\mathrm{~x~}33.5$ 厘米  
+香港大學博物館學會惠贈  
+HKU.P.1995.1045  
+
+丁衍庸生於廣東省茂名市 ( 今高州市 )，是一位多才多藝而創作豐富的藝術家，以國畫、篆刻和油畫見稱。丁氏於 1920 年至 1925年間在日本東京美術學院西洋繪畫系學習西畫，然後回國活躍於上海，廣州和重慶藝壇。1929 年，丁氏受聘於廣州市博物館，期間接觸大量國畫和文物，這使他對傳統繪畫產生興趣。  
+
+八大山人 (1626–1705) 書畫兼擅，其筆下鳥魚造型奇特，蘊含人的神情，而筆觸簡練。丁衍庸對他推崇備至。 1949 年新中國成立後，丁衍庸從廣州移居香港，特地帶著最喜歡的幾幅八大山人的畫作，加以研究，並將其心得寫成文章，於 1961 年在《新亞生活月刊》中發表「八大山人與現代藝術」一文。9這篇文章除了介紹所藏八大山人的作品外，並強調八大山人的個性和藝術成就對現代藝術起著重要作用。畫中的一隻鳥孤傲地站在岩石上，這反映了八大山人的畫風和精神。  
+
+![](images/5ac41b5864ef5f389118a2c428f380f331d2fa5bb0d53cdee23a4a4163458f1b.jpg)  
+
+# HUANG Binhong (1865–1955)  
+
+Green Silk Zither Garden (Lüqi yuan)   
+1931   
+Hanging scroll,   
+ink on paper,   
+$93.2\mathrm{~X~}31.2$ cm   
+Gift of Mr Tang Cho-fung and Ms Leung Wai-yee   
+HKU.P.2011.1900  
+
+Huang Binhong was a noted landscape painter born into a family of scholars and painters. His work can be divided into two periods: the earlier ‘White Binhong’ era, characterised by delicate brushwork and a style reminiscent of Xin’an School painting, and the later ‘Black Binhong’ era, which developed when Huang was in his eighties and began to paint intuitively with powerful brushstrokes in thick dark ink. This refined monochrome landscape demonstrates traces of his earlier White Binhong style. It depicts a complex of houses and gardens constructed in 1929 in Tai Po, Hong Kong, to house the lüqitai, a famous zither from the Tang dynasty. Because the garden was destroyed by a typhoon in 1937, it is unclear if the painting depicts a realistic or idealised landscape.  
+
+An inscription states that it was painted between January and February 1931, at the request of Deng Erya (1884– 1954), a master seal-carver from Dongguan, Guangdong province, who obtained the zither in 1914 and had the garden built after he moved to Hong Kong in 1922.10 The two met when Huang visited Hong Kong in July 1928, and Deng welcomed him on behalf of the Hong Kong branch of the Guangdong Chinese Painting Research Society, which he co-founded in 1926.11 The painting appears to celebrate the nobility and integrity associated with one of the zither’s previous owners, the Ming loyalist Kuang Lu (1602–1648), as well as Deng’s ownership of the instrument. After Huang completed it, Deng rewarded him with a seal carved with his name.12  
+
+# 黃賓虹 (1865–1955)  
+
+《綠綺園圖》  
+1931 年  
+水墨紙本立軸，  
+$93.2\mathrm{~x~}31.2$ 厘米  
+鄧祖風先生與梁惠儀女士惠贈  
+HKU.P.2011.1900  
+
+黃賓虹生於書畫世家，以繪畫山水見稱，其畫風大致可分為「白賓虹」和「黑賓虹」兩個時期。「白賓虹」簡括早期作品特色，筆墨精秀，體現新安畫派的畫風；後期的「黑賓虹」 約在 80 歲後形成，落筆大膽率性，以積墨法層層積染，風格渾厚華滋。此畫筆墨分明，畫家以細膩筆觸鉤勒林木和建築，可窺見「白賓虹」風格。這座綠綺園座落在香港大埔，於 1929 年建成後便收藏唐代名琴「綠綺台琴」。由於綠綺園於 1937 年被颱風破壞，因此畫中的綺麗風光是否實景寫生，還是想像的山水，則未能考證。  
+
+據畫家款題得知，《綠綺園圖》是黃賓虹於1931 年 1 月至 2 月期間 ( 即庚午臘月 ) 應鄧爾雅 (1884–1954) 囑託而畫。鄧爾雅是廣東省東莞人，精於篆刻。鄧氏在 1914 年購藏「綠綺台琴」，並在 1922 年移居香港後籌建「綠綺園」以安置名琴。10 鄧爾雅與友人於 1926年成立廣東國畫研究會香港分會。11 當黃賓虹於 1928 年 7 月來訪香港，鄧爾雅為代表接待他。《綠綺園圖》令人聯想起明遺民鄺露(1602–1648) 拒不降清，抱綠綺台琴殉國的忠貞高潔人格，也記錄了鄧爾雅珍藏此琴。繪圖完成後，鄧爾雅親手刻劃有「賓虹」二字的一方印章贈予黃賓虹，以表謝意。12  
+
+![](images/2cc2413134a7741c437ec78c379cc88412cc880dcccf6b3b626d08d3c59b26d1.jpg)  
+
+# XU Beihong (1895–1953)  
+
+Song of  the Pipa (Pipa xing)   
+1938   
+Vertical scroll,   
+ink and colour on paper,   
+87 x 66 cm   
+HKU.P.2002.1424  
+
+A man sitting with his back to the viewer leans forward to offer his sympathy to a woman who is sorrowfully strumming a pipa. This recalls a scene from Pipa xing (‘Song of the Pipa’), a poem by the famed Tang poet Bai Juyi (772–846), which centres on an entertainer singing of her faded beauty and unhappy marriage. The poem is set on a boat, but Xu Beihong transports the scene to a candle-lit stage to highlight the emotion of the entertainer. A poem inscribed on the left curtain by Ma Kiam (aka Ma Chien or Ma Jian, 1883–1959) poignantly compares Bai’s poem to the misfortunes that Bai suffered in life.  
+
+A celebrated painter of galloping horses and monumental oil paintings from Yixing, Jiangsu province, Xu began studying painting with his father Xu Dazhang at the age of six, learning by copying the works of ancient masters. He studied Western painting at the École Nationale Supérieure des Beaux-Arts in Paris while living in Europe between 1919 and 1927. He presented this work as a gift to the Chinese Society of HKU on the occasion of an exhibition of his collection of paintings and calligraphy held at the Fung Ping Shan Library in 1938.  
+
+# 徐悲鴻 (1895–1953)  
+
+《琵琶行》  
+1938 年  
+設色紙本直幅，  
+$87\mathrm{~x~}66$ 厘米  
+HKU.P.2002.1424  
+
+此畫背向觀者的男子正俯身傾聽一位女子演奏琵琶，以示憐憫之情。這讓人聯想起唐代著名詩人白居易 (772–846) 所寫的《琵琶行》，該詩描述一位藝人憑歌寄意，慨嘆自己美人遲暮和婚姻並不美滿。詩歌的背景原位於一艘船上，徐悲鴻卻將故事的場景轉移至燃點著燭光的舞台上，以突顯女樂的情感。掀開的帳幕的左上方有一首馬鑑(1883–1959) 的題詩，尖銳地將白居易的詩中人物與白居易人生中的不幸遭遇對舉。  
+
+著名的畫家徐悲鴻是江蘇宜興人，以繪畫奔馬和巨幅油畫見稱。自六歲開始，徐悲鴻便跟隨父親徐達章習畫，臨摹前代大師的作品。在 1919 年至 1927 年間，徐悲鴻旅居歐洲，曾於巴黎國立高等美術學院修讀西洋畫與技法。1938 年，馮平山圖書館舉辦了一個徐悲鴻所藏近人書畫的展覽，徐悲鴻為中文學會作此畫，並贈予留念。  
+
+![](images/cd7a7150954bf46cee92ccd3bb895c7d87c2183f829a53bfbdf0892be651b9d3.jpg)  
+
+![](images/46ae03b4ba8c62c43b645b824c0e680e93ff4f61aede477a556acdd8b5f192e2.jpg)  
+
+# LU Zishu (1900–1978)  
+
+# 盧子樞 (1900–1978)  
+
+# TSENG Woon-wan (1915–1996)  
+
+# 曾婉鐶 (1915–1996)  
+
+Landscape in the Style of  Li Liufang   
+1940   
+Hanging scroll,   
+ink on paper,   
+$91.7\mathrm{~X~}33.5$ cm   
+Gift of Ms Lo Yue   
+HKU.P.1997.1266  
+
+《擬李流芳山水》1940 年水墨紙本立軸，$91.7\mathrm{~x~}33.5$ 厘米羅瑜女士惠贈HKU.P.1997.1266  
+
+Gibbon, Maple Tree and Full Moon   
+1947   
+Hanging scroll,   
+ink and colour on paper,   
+$123.6\times32.7\mathrm{cm}$ 1   
+Gift of the artist’s daughter   
+HKU.P.1996.1195 《月明猿啼詩意圖》 1947 年   
+設色紙本立軸，   
+$123.6\mathrm{~x~}32.7$ 厘米   
+畫家女兒惠贈   
+HKU.P.1996.1195  
+
+Lu Zishu was a prominent member of the Guangzhoubased Cooperative Painting Society (later renamed the Chinese Painting Research Society), which promoted traditional approaches to painting, in opposition to the rising Lingnan School, which pioneered reforms in traditional Chinese painting in the early twentieth century. In keeping with the aims of the Society, Lu created this landscape in the style of late Ming painter Li Liufang (1575–1629). Li Liufang himself painted during a time of rising nostalgia for the past and drew particularly on the sparse compositions of Yuan dynasty painter Ni Zan (1306–1374). The use of a ‘one river, two riverbanks’ composition in this work, and depictions of trees and a thatched pavilion in the foreground, stems from Ni Zan’s style, while the moist brushstrokes are more characteristic of Li Liufang’s technique.  
+
+虚子是廣州「癸亥合作畫社」（後改「國畫研究會」）的重要成員。13「國畫研究會」以恪守傳統為目標，這與二十世紀初新興的「嶺南畫派」曾經互相對抗。盧子樞這幅用明末畫家李流芳 (1575–1629) 風格創作的山水，正代表了這個畫會的基本精神。在畫風方面，李流芳的山水效法元代倪瓚 (1306–1374) 的疏簡構圖，盧子樞這幅作品所用「一河兩岸」式佈局，以及前景的雜樹和草亭的描繪，皆源自倪瓚的圖式。至於以濕潤的筆觸作畫，則是李流芳的主要特色。  
+
+The scenery in this painting echoes the second line of a poem inscribed in the top left: “The bright moon [shining in the sky] illuminates a maple tree and a howling gibbon.” The branches and trunk of the tree that the gibbon rests on are outlined in calligraphic lines, with the leaves painted in the yellow and red of autumn. The large, full moon and the use of pale colours are reminiscent of Japanese paintings.  
+
+The grouping of these images represents a common device in Chinese art: the use of homophones to create visual puns. Together, the tree and the monkey represent the phrase ‘conferring the rank of marquis’ (fenghou), because the Chinese term for maple (feng) is a homophone for the verb ‘to confer’, while the term for monkey (hou) is a homophone for marquis. The first line of the poem, “Shu dao qiqu xing buyi”, states that the road to Shu (an ancient kingdom situated in modern-day Sichuan province) is rugged and difficult. The painting therefore depicts a gibbon howling in a maple tree during a full moon in the kingdom of Shu.  
+
+Originally from Panyu, Guangdong province, Tseng Woon-wan is a lesser-known female painter. She graduated from St Paul’s Girl’s College (now St Paul’s Co-educational College in Hong Kong). She studied with Pau Siu-yau and frequently painted insects, fish, birds and flowers.  
+
+畫中的景色與左上角題詩的次句「月明楓樹照猿啼」互相呼應。畫家以書法線條鉤勒猿站立的樹幹和手握的樹枝，再以深秋的黃色與紅色來點綴樹葉。碩大的滿月和淡色色調則令人聯想到日本畫。  
+
+由於「楓」與「封」同音，「猴」則與「侯」同音，故楓樹與猿猴並置，象徵「封侯」；這種語帶相關的趣味常見於中國藝術。題詩首句「蜀道崎嶇行不易」，為此作增添另一層意義。句意為前往蜀國 ( 位於今日四川的古國 ) 的道路崎嶇難行，故這幅畫是描繪在蜀國境內，滿月之下，一隻猿在楓樹間啼叫之景。  
+
+曾婉鐶是廣東番禺人，是位較少人認識的女畫家。她畢業於聖保羅女書院 ( 今為聖保羅男女中學 )，曾跟鮑少游習畫，並以繪畫昆蟲、魚和花鳥為主。  
+
+![](images/8c7dc63047c85a3f4e4a3de7f03c99c3621c09cda13411dbbddcd8b00bfc00eb.jpg)  
+
+![](images/fab83b0fa465b608d7544aa44a4120bc538dc51937ba314421171e1faf725bd8.jpg)  
+
+![](images/f78df1c0882ab5a3827253a8e2e29cc2ec7e11799e02f0acdd83232bb858a80a.jpg)  
+
+![](images/c5ec55c146013fe0365a06a94996396f76ceb6e56a15f7e9229ccfbeffe5d6ed.jpg)  
+
+![](images/5eb292fb59682c741dbf9a0f6e2423a407fc9acc4d6053e904817c5c2b4a7475.jpg)  
+
+# LEUNG Pak-yue (LIANG Boyu, 1903–1978)  
+
+Landscapes of  Four Seasons 1951 Set of four vertical scrolls, ink and colour on paper, $131\mathrm{~x~}50\mathrm{~cm}$ each Gift of Mr Lo Kim Tang HKU.P.2010.1865 a-d  
+
+Landscapes of  Four Seasons follows the compositional rules of the Orthodox School of the early Qing, which sought to revive earlier traditional styles with careful attention to detail and technique. Leung Pak-yue, an artist from Shunde, Guangdong province, studied landscape painting with Li Yaoping (1883–1937) and participated in the Chinese Painting Research Society in Guangzhou. After Guangzhou fell to the Japanese in 1938, he moved to Hong Kong and started a business producing imitations of ancient silk-woven tapestries, establishing a painting school in Kowloon in the 1950s.  
+
+A set of colophons above the paintings contains ancient aphorisms. They were written by Lu Xiangfu (1868–1970), Gui Dian (1867–1958), Cen Guangyue (1876–1960) and Au Kin-kung (Ou Jiangong, 1887–1971). These four men were revered scholars in the Hong Kong calligraphic world; Ou Jiangong had the most far-reaching influence, as many shop signs bore his calligraphy. Such paintings were often hung in a hall, providing wisdom and inspiration, and serving as decorative elements.  
+
+# 梁伯譽 (1903–1978)  
+
+《四季山水》  
+1951 年  
+設色紙本直幅四屏，  
+各 $131\mathrm{~x~}50$ 厘米  
+盧兼騰先生惠贈  
+HKU.P.2010.1865 a-d  
+
+《四季山水》構圖遵循清初「正統畫派」的法度，崇尚摹古，筆墨和賦色精謹細緻，富書卷氣息。梁伯譽，廣東順德人，從李瑤屏(1883–1937) 學山水畫，並在廣州參加「國畫研究會」。1938 年廣州被日本入侵而淪陷，梁氏因而移居香港，經營仿古絲織漢畫，並於 1950 年代開始，在九龍油麻地設館授徒。  
+
+每幅畫作上方皆配以詩堂題跋，分別由盧湘父 (1868–1970)、 桂 坫 (1867–1958)、 岑 光 樾(1876–1960)、 區 建 公 (1887–1971) 書 寫。 四人皆香港書學宿儒，尤以區建公影響最廣，早期眾多商號招牌皆出自他的手筆。這套四屏舊藏者用以懸於廳堂之中，家居裝飾之餘，兼有座右銘的功能。  
+
+![](images/d920766c8da5404617049d95fa10f0e471b6ab66fd726b1eb0ced06e9fe0ddd4.jpg)  
+
+# CHENG Xi (1919–1998)  
+
+Landscape after Wu Zhen   
+1952   
+Vertical scroll,   
+ink on paper,   
+68.3 x 34 cm   
+HKU.P.2015.2131  
+
+Wu Zhen (1280–1354) was a reclusive Yuan painter who lived in self-imposed exile in the mountains of Zhejiang province, far from the Mongol court in Beijing. Celebrated for his landscape paintings with fishermen, he was considered one of the ‘Four Masters of the Yuan dynasty’. This work was painted in Wu’s style and depicts his favourite subject matter. It conveys Cheng’s admiration for the natural world and literati ideals of seclusion espoused by Yuan painters such as Wu Zhen, Wang Meng (ca. 1308– 1385) and others.  
+
+Born into an educated family in Wen’an, Hebei province, Cheng graduated with a degree in Chinese literature in 1948 after studying under Tschen Yin-koh (aka Chen Yinke or Chen Yinque, 1890–1969) at Yenching University in Beijing. $^{14}\mathrm{He}$ had broad interests that spanned drama, painting, poetry and Buddhist philosophy. He remained largely unknown during his lifetime, but his contribution to the field of Chinese drama has been revisited in recent years. After moving to Hong Kong in 1951, he worked at the School of Chinese Studies at HKU from 1951–1959. He gave this painting to F. S. Drake (1892–1974) after Drake was named a Professor of Chinese at HKU in the winter of 1952.  
+
+# 程曦 (1919–1998)  
+
+《仿吳鎮山水》1952 年水墨紙本直幅，$68.3\mathrm{~X~}34$ 厘米HKU.P.2015.2131  
+
+吳鎮 (1280–1354) 是元代避世脫俗的文人畫家，遠離北京蒙古朝廷，一生不求功名，退隱在浙江省嘉興魏塘鎮。吳鎮最為人所知的是以漁父為題的隱居山水畫，位列元代四大畫家之一。這幅山水畫仿吳鎮風格，以漁父為題材，體現了程曦既嚮往自然山川，又與吳鎮、王蒙 ( 約 1308–1385) 等元代文人畫家所追求的隱士理想相契。  
+
+程曦出生在河北省文安市一個知識分子家庭，於 1948 年畢業於北京燕京大學中國文學系，為陳寅恪教授 (1890–1969) 的學生。14程曦的興趣廣泛，包括戲劇、繪畫、詩歌和佛學。雖然程曦在世時並不大為人知曉，但是近年學界已重新審視他對中國戲劇所作的貢獻。他在 1951 年移居香港，於 1951 年至1959 年期間在香港大學中文學院工作。林仰山 (1892–1974) 則是 1952 年冬天到香港大學中文系任職，程曦將此畫贈予林仰山教授。  
+
+# Joseph LOU Chunfu (1916–?)  
+
+Landscape after Wang Meng   
+1953   
+Hanging scroll,   
+ink and colour on paper,   
+$101.3\mathrm{~x~}40.5$ cm   
+HKU.P.2015.2143  
+
+Landscape after Wang Meng depicts a scholar in a landscape in the style of the noted Yuan painter Wang Meng (ca. 1308–1385). Textured strokes give shape and volume to the surrounding mountains, with refined brushwork and delicate colouring that suggests an air of archaic calm. In the foreground, a scholar and his servant walk toward a cottage among tall trees. A tiny, empty pavilion surrounded by clouds and mist hints at hidden paths leading into the mountains.  
+
+Lou Guowei, better known by his courtesy name, Chunfu, was born into a scholarly family in Hangzhou, Zhejiang province. He was inspired to take up painting by his father Lou Jing (courtesy name Bingzhang), a painter, calligrapher and collector. He moved to Hong Kong in 1949 and published an index of artists called the Ancient Chinese Painter’s Reference Guide, which included paintings by him and his father, among others.15 He gave this painting to F. S. Drake (1892–1974) a year after Drake was appointed a Professor of Chinese at HKU.  
+
+# 樓純夫 (1916–?)  
+
+《仿王蒙山水》1953 年設色紙本立軸，$101.3~\mathrm{~x~}40.5$ 厘米HKU.P.2015.2143  
+
+《仿王蒙山水》 描繪一位文士置身於煙嵐縈繞的山川景致。樓純夫仿元代畫家王蒙( 約 1308–1385) 筆意，以牛毛皴刻劃山石，筆致精細，設色雅淡而富古意。畫的前景，描繪這位文士和僕人走向叢林中的房舍。中景設置一座空亭，體積細小，且被雲霧環繞，這暗示山裡有可行走的路徑。  
+
+樓國威，字純夫，以字行，原籍浙江蕭山，生於杭州。其父樓靖 ( 字炳章，生卒年不詳 ) 是一名畫家、書法家和收藏家。樓純夫受父親薰陶而習畫，並於 1949 年移居香港，及編纂《歷代名畫家年譜索引》( 附樓炳章與樓純夫父子畫集 )。15 在林仰山教授成為香港大學中文系教授的一年後，樓純夫(1892–1974) 將此畫作贈予對方。  
+
+![](images/ba28ffa5632f2f0d95cb2e5cb4f10ad3d23681f26495f05b15b5ca77f16085f8.jpg)  
+
+![](images/76513abaccbcabf2317efef619cef9604c7f7dc61d5f323ee19fdd731e8de68b.jpg)  
+
+![](images/95e13a70079367800bb44d2f94fb585564c38b6c3dbd4632aae440d98467d67d.jpg)  
+
+# YE Shaobing (1896–1968)  
+
+# 葉少秉 (1896–1968)  
+
+# CHIU Sai-kwong (ZHAO Shiguang, 1916–2007) 趙世光 (1916–2007)  
+
+Butterfly and Flowers   
+1955   
+Album leaf,   
+ink and colour on paper,   
+39 x 41 cm   
+Professor Chee-woo and Grace Po-shan Chow   
+HKU.P.2009.1844   
+《花蝶》   
+1955 年   
+設色紙本冊頁，   
+39 x 41 厘米   
+周齊武教授及周寶珊女士惠贈   
+HKU.P.2009.1844   
+Enraged Lion   
+Inscribed by Chao Shao-an in 1958   
+Hanging scroll,   
+ink and colour on paper,   
+$184.5\mathrm{~X~}80.4$ cm   
+Gift of Ling Fung Art School   
+HKU.P.2018.2333  
+
+# 《獅吼》  
+
+1958 年趙少昂題設色紙本立軸，$184.5~\textrm{x}80.4$ 厘米嶺風畫院惠贈HKU.P.2018.2333  
+
+Born in Guangdong province, Ye Shaobing was one of the seven students of Gao Qifeng (1889–1933), a founding member of the Lingnan School. He came to Hong Kong in 1947, where he taught at private schools and befriended many local artists. He painted this work before he returned to Guangzhou in 1957. Ye specialised in birdand-flower paintings and was particularly fascinated by butterflies and flowers. This work demonstrates his distinctive brushwork and colours. The painting was a gift to Lingnan School painters Chow Chian-chiu (1910–2006) and Chow Leung Chen-ying (1921–2005) while Ye was in Hong Kong.  
+
+葉少秉是廣東省番禺人，嶺南畫派創始人之高奇峰 (1889–1933) 的學生。葉氏曾在 1947 年來港，於一間私立學校教授嶺南畫派的繪畫技法，並結識了不少本地畫家。這幅作品是葉少秉於 1957 年返回廣州前創作。葉氏擅長花鳥畫，猶精於蝴蝶和花卉。此畫呈現葉氏獨特的筆墨和用色。這也是他在香港生活時，贈予同為嶺南畫派畫家周千秋(1910–2006) 和梁粲纓伉儷 (1921–2005) 的一份珍貴禮物。  
+
+An inscription by Chao Shao-an (1905–1998) states that this work is a copy of a painting by Gao Qifeng (1889–1933), one of the founders of the Lingnan School. Gao’s original was made for the Sun Yat-sen Memorial Hall in Guangzhou around 1926. It was one of several works made and collected for the hall, which centred on the theme of the revolution. The ferocious-looking lion represents the reformist spirit of the era. Gao studied in Japan when sketches of large animals were a forte of Nihonga painters like Takeuchi Seiho (1864–1942). Enraged Lion exhibits elements drawn from Nihonga (‘Japanese-style paintings’), combining Western realism and approaches to colour and light with traditional brushwork, materials and subject matter.  
+
+Chiu Sai-kwong moved to Hong Kong from Chenghai, Guangdong province after fighting in the Second SinoJapanese War (1937–1945). He studied under Chao Shaoan and was an early student of the Hong Kong Lingnan Art Studio. Most of his works feature birds, flowers, insects and fish, in the fresh colours of the Lingnan School.  
+
+此畫具趙少昂 (1905–1998) 題跋，說明是仿嶺南畫派創派畫家高奇峰 (1889–1933) 的作品。高奇峰的《怒獅》約於 1926 年為廣州中山紀念堂而作，是被收集的眾多美術作品中的一件， 以能夠代表新時代革命精神為主旨。這隻神態兇猛的雄獅，代表著當時崇尚的革新精神。高奇峰留學日本，當時的「新日本畫」畫家善畫大型動物寫生題材，舉如竹內棲鳳(1864–1942)。《怒獅》呈現「新日本畫」的風格，將西方繪畫的寫實主義、色彩和光線融合在日本傳統筆墨、媒材和主題中。  
+
+趙世光是廣東澄海人，曾參加抗日戰爭 (1937–1945)，戰後到香港，並拜趙少昂為師， 為香港「嶺南藝苑」的早期學生。趙氏大部分的畫作描繪花鳥蟲魚，呈現嶺南畫派的風格。  
+
+![](images/a8d777095b37b61004cc230ff8eb93329c28565a10db229597c528493dc15268.jpg)  
+
+# JAO Tsung-i (RAO Zongyi, 1917–2018) 饒宗頤 (1917–2018)  
+
+Landscape ca. 1957–1968 Hanging scroll, ink on paper, $108.7\mathrm{~X~}28$ cm Gift of Ms Lo Yue HKU.P.1997.1263  
+
+《山水》  
+約 1957 年至 1968 年  
+水墨紙本立軸，  
+$^{108.7\mathrm{~X~}28}$ 厘米  
+羅瑜女士惠贈  
+HKU.P.1997.1263  
+
+Executed in a sketchy yet delicate manner, this early painting by Jao Tsung-i features tall mountains rendered with dry, calligraphic lines. The empty pavilion by the sea particularly recalls the work of Ni Zan (1301–1374), which is characterised by a sense of tranquillity and emptiness. While the expressive strokes and ambience echo Yuan stylistic traditions, Jao injects the work with a contemporary flavour by including several barges at the far end of the sea parallel to the peak, and by adding mallows and reeds rendered in a contemporary manner to the foreground. The inscription at the top of the painting explicitly references these attempts to distinguish it from earlier paintings. It reads:  
+
+“[I used] a bald brush to paint rough cliffs and boats on the waves, And added yellow water mallows and white reeds. [I know] the people of the past would not have painted so shoddily.”  
+
+The work reflects Jao Tsung-i’s status as a scholar-artist and his interaction with Lo Hsiang-lin (1906–1978), a renowned historian celebrated for his study of the Hakka people. Jao and Lo worked at the Department of Chinese Studies at HKU from 1952–1968 and 1956–1968, respectively. An inscription and seals on the painting reveal that it was presented as a gift to Lo sometime between 1957 and 1968.  
+
+這幅饒宗頤的早期作品，畫家以乾筆淡墨皴擦描畫山石，畫中海岸邊的空亭猶令人聯想起元代畫家倪瓚 (1301–1374)，意境荒寒空寂。此畫的筆墨情韻呈現元畫元素，畫家亦以自家筆觸表現當代氣息：如在海洋與山巔平行交接之處，以簡筆鉤勒數艘舸艦，並在前景以黃茅和蘆葦替代樹木。畫面左上方的題字直接指出此畫與前代繪畫的不同之處：「禿筆寫粗崖浪舸，益以黃茆白葦。知古人無此粗劣耳。」  
+
+此畫反映了饒宗頤學藝雙攜，以及他跟研究「客家學」聞名的歷史學者羅香林 (1960–1978) 的交流互動。饒宗頤和羅香林分別於1952 至 1968 年，及 1956 至 1968 年在香港大學工作。根據饒公的補題和印章所示，這幅畫可能是二人同時在香港大學工作時饒公送給羅香林的饋贈。  
+
+![](images/c3d3bd2a57c65cf7456a9e3f20ee7c0602d68063548346889a10876ee3d38113.jpg)  
+
+![](images/4b07d4db0f780c9f225a2db4937bde1b1ee3afb982dbff92fe6bca2f862fa7d7.jpg)  
+
+![](images/8594f0bcbc660ae9a5eae9e2eb2dbe90421f495af9b34ef8dc8a586e146d695c.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Flowers, Vegetables and Fruits   
+1956–1982   
+Album of ten leaves,   
+ink and colour on paper,   
+$43.2\mathrm{~x~}53.7\mathrm{~cm}$ each   
+Gift of the artist   
+HKU.P.1996.1235  
+
+![](images/491d689d33a87e3d1ee3bfd36103c47b5f3694fec1cf0b25d8923d2ee3157dd7.jpg)  
+26.8  
+
+# 方召麐 (1914–2006)  
+
+《花卉蔬果冊》1956 年至 1982 年設色紙本冊頁十幅，各 $43.2\mathrm{~x~}53.7$ 厘米畫家惠贈HKU.P.1996.1235  
+
+This album of ten leaves consists of flowers, vegetables and fruits painted by Fang Zhaoling over several decades. The earliest leaf was made in Oxford in 1956 and the final inscription was added in 1995. Born in 1914 in Wuxi, Jiangsu province, Fang Zhaoling settled in Hong Kong in 1949. She studied in both the United Kingdom and Hong Kong, receiving a bachelor’s degree in Chinese philosophy and literature from HKU before furthering her studies in Oxford. Her early works reflect the influence of her teachers, Chinese painting masters Qian Songyan (1899– 1985) and Chao Shao-an (1905–1998). Chang Dai-chien (1899–1983) also played a significant role in her artistic development. Fang became a student of Chang in 1953, and followed in his footsteps on trips across Asia, Europe and North America.16 She developed a distinctly personal style of painting and calligraphy in the 1980s and soon after achieved international recognition as a contemporary artist.  
+
+這套冊頁收入了方召麐橫跨數十載所畫的花卉蔬果作品。最早的一開冊頁於 1956 年繪於牛津，最後的一個款識則在 1995 加上。方召麐於 1914 年生於中國江蘇省無錫市，於 1949年定居香港。她曾入讀英國曼徹斯特大學，並在香港大學完成了中國哲學及文學學位，然後更遠赴英國牛津大學繼續進修。方氏早期的作品反映她深受老師──國畫大師錢松喦 (1899–1985) 和 趙 少 昂 (1905–1998) 的 影響。張大千 (1899–1983) 對其繪畫方法和藝術發展也起著舉足輕重的位置。方氏於 1953年成為張大千的學生，並跟從張大千的足跡在亞洲，英國和美國等地旅學。16 方召麐的書畫藝術在 1980 年代建立個人風格，並成為國際知名的藝術家。  
+
+![](images/fcc69d3b45aa0efeccd72e2eb29ee8f14ef54fe568939f2fd1205a9d78d631f5.jpg)  
+26.9  
+
+![](images/3c916875152772c5c9b2dd4565fce80f39bf1a40735ac0a225ad132f17447b89.jpg)  
+26.10  
+
+![](images/9223bd63d6bc5712db20d9e6a3027a7250e8adcfde885c64c3e965ebea9e6610.jpg)  
+
+![](images/3ee8b5d93beb7fed9069a1fef2a8c7220031f56c6bd667cf8d0d75caa5bc6927.jpg)  
+
+![](images/5d4686788b124554c83b79e916462960e0d8080a37ca44d6f381cd09f9e3e4f3.jpg)  
+
+![](images/a6dc88a25f3228217b3dcf6b1cbe89e8a01e52a98efb6aa17558b8a4d4e6d356.jpg)  
+
+![](images/8151929bbb4a807adb8161c8d4c76800cfb900d7fba05a7f89a2ed1032e32471.jpg)  
+
+27.9  
+
+![](images/ab7338e1c42aa4cd4723352e8342754d7ee2dcc6ec9a5d314892693755b44e66.jpg)  
+
+# CHAO Shao-an (ZHAO Shao’ang, 1905–1998)  
+
+Birds and Flowers ca. 1968–1992 Set of ten album leaves, ink and colour on paper, $30\mathrm{~x~}37$ cm each Gift of the artist HKU.P.1992.0972.1-10  
+
+Chao Shao-an, a second-generation painter of the Lingnan School, created these album leaves after settling in Hong Kong in the 1960s. Chao was influenced by Lingnan School painter Gao Qifeng (1889–1933) and his elder brother Gao Jianfu (1879–1951), who was associated with the Geshan School.  
+
+In his early works, he highlighted the essence of nature by sketching in the natural world, which is exemplified by the realistic landscapes. These bird-and-flower paintings showcase his signature style, developed in the middle of his career, which is characterised by bright colours and bold brushstrokes. Several include calligraphic inscriptions that echo Chao’s approach to line drawing.  
+
+An educator as well as a painter, Chao taught at several institutions in Guangdong province, including Guangzhou University, before moving to Hong Kong. He established the Lingnan Art Studio in Guangzhou in 1930, which moved with him to Hong Kong in 1948, where Chao would go on to nurture many local painters.  
+
+# 趙少昂 (1905–1998)  
+
+# 《花鳥》  
+
+約 1968 年至 1992 年設色紙本冊頁十幅，  
+各 $30\mathrm{~x~}37$ 厘米  
+畫家惠贈  
+HKU.P.1992.0972.1-10  
+
+趙少昂是「嶺南畫派」第二代傳人，這十幅冊頁是他紮根香港之後於上世紀 60 年代所作。趙少昂受其老師嶺南畫派畫家高奇峰(1889–1933) 的影響，高奇峰的兄長高劍父(1879–1951) 曾經是居廉 (1828–1904) 弟子，這使趙少昂的繪畫也多少流露出「隔山畫派」的特色。  
+
+趙少昂早期作品重視寫生，其山水畫傾向於寫實風格。中年以後，趙氏轉變為偏重花鳥畫。這些花鳥冊頁說明趙氏的自我風格已經形成，在鮮明亮麗的色彩間，發展出強調剛勁筆力的個人面貌。從畫上的題款也可看到趙少昂的書法與他的繪畫筆觸完全一致。  
+
+趙少昂既是一名畫家，也從事美術教育。1930 年他在廣州創立「嶺南藝苑」，1948 年遷到香港，繼續傳授畫學，數十年來為香港培育不少畫家。  
+
+![](images/235f4054cb309e2f1a5dad57f79951e9daea14bcb3f1354c3ca022e107b6bbe7.jpg)  
+
+# ZHANG Hong (1891–1968 )  
+
+Landscape   
+1963   
+Hanging scroll,   
+ink on paper,   
+$71\mathrm{~X~}34$ cm   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2172  
+
+Different traditionalist brush and ink techniques—such as outlines, dotting and textured strokes—are employed throughout this monochrome ink work, demonstrating Zhang Hong’s versality as a painter. The focal point is the middle ground, where moist ink has been used to shape houses and lush vegetation. The mountains in the background are painted in an archaicising style. Their vertical format leads the viewers’ eyes down to the moist ink brushwork in the foreground. Light ink and dry lines form the rapids and streams on the left. According to the inscription, Zhang submitted the work to his friend and fellow painter Tao Wan (1911–2004), who complimented its style.  
+
+# 張虹 (1891–1968)  
+
+《山水軸》  
+1963 年  
+水墨紙本立軸，  
+$71\mathrm{~x~}34$ 厘米  
+陶衡女士與陶立先生惠贈  
+HKU.P.2015.2172  
+
+張虹的傳統筆墨技巧純熟，舉如鉤斫、點苔和皴擦等，均可見於這幅畫。整幅畫聚焦在中間部分，張虹運用濕筆描繪屋舍和林木，而背景中的渾厚峰巒亦見墨韻。此畫為直幅山水，這引領觀者的視線從中景到近景的坡道上以濕潤筆觸描畫的山石。畫左方的飛瀑和溪流則以乾筆枯墨寫出。根據款題，畫家將此畫贈送給友儕畫家陶澐 (1911–2004)。  
+
+![](images/f106d023be31b7514ceb6180b4dd34eeb596411d7193f7a7b215097ed63a8818.jpg)  
+
+# LUI Shou-kwan (LÜ Shoukun, 1919–1975)  
+
+Hong Kong Landscape 1964 Horizontal scroll, ink on paper, 94.8 x 183.8 cm HKU.P. 2002.1410  
+
+The careful composition of this landscape, which vanishes at the point where sky meets sea, contrasts emptiness with rugged reality through the use of dry and wet strokes. At the bottom, a long inscription discusses the artist’s friendship with the connoisseur Hon-ki Chung. Lui acknowledged Chung as a close companion who discussed his paintings and encouraged Lui to pursue traditional techniques in the depiction of Hong Kong landscapes.  
+
+Lui Shou-kwan was born into a scholarly family in Guangzhou, Guangdong province. He moved to Hong Kong in 1948 and established himself as a pioneering painter in the local modern ink movement, which promoted new ink methods incorporating Western art elements that remained rooted in traditional Chinese tools and materials.  
+
+# 呂壽琨 (1919–1975)  
+
+《香港風景》  
+1964 年  
+水墨紙本橫幅，  
+$94.8\mathrm{~x~}183.8\$ 厘米HKU.P.2002.1410  
+
+此畫構圖巧妙，風景在水天一色處消失。畫家以粗放筆觸描畫風景，書法線條與山石融合，而通過乾筆和濕筆互用，刻意在佈白構圖方面營造虛實對比。畫幅下方則是畫家的長跋，記載他和鑑藏家鍾漢琦的交往。呂壽琨感謝鍾漢琦常與他討論藝術，並鼓勵他以傳統技法繪畫香港風景。  
+
+呂壽琨 1919 年生於廣東省廣州市的一個書香世家，1948 年移居香港，是推動香港現代水墨運動的先驅，紮根傳統中國工具與材料的同時，融入西方藝術元素。  
+
+![](images/54885e1cc22908407f4ec664dfba3d79e1d5c5ba13fc236bbcf98e264318b926.jpg)  
+
+# LUI Shou-kwan (LÜ Shoukun, 1919–1975)  
+
+Landscape   
+1964   
+Vertical scroll,   
+ink and colour on paper,   
+$178.3\mathrm{~x~}97.2\mathrm{~cm}$   
+HKU.P. 2002.1409  
+
+In contrast to his views of Hong Kong sketched from life, this painting reveals Lui Shou-kwan’s emphasis on the spiritual content of art. Rather than depicting a specific place, contrasting thick vertical and horizontal brushstrokes create the idea of landscape. Fragments of landscape imagery, such as silhouettes of horizontal undulating hills and vertical rocks, are painted with patches of ink to convey the volume of mountains. Standing figures are scattered along remote paths, and a cluster of geometric shapes that resemble houses sits beneath the distant mountains, their position contributing to the rhythmic visual flow.  
+
+Lui Shou-kwan’s body of work can be divided into landscapes and his Zen series, both of which incorporate elements of abstraction. Landscape is a semi-abstract painting that demonstrates Lui’s attempt to meld Western modernism—which he was exposed to through his participation in exhibitions in the United States, Britain and Europe—with his traditional brushwork. Like much of his painting from the mid-1950s onward, its use of light, colour and atmosphere was also informed by the work of nineteenth-century British landscape painter J.M.W. Turner (1775–1851).  
+
+# 呂壽琨 (1919–1975)  
+
+《山水》  
+1964 年  
+設色紙本直幅，  
+$178.3\textrm{x}97.2$ 厘米HKU.P.2002.1409  
+
+這幅畫與呂壽琨的寫生式山水畫不同，強調藝術作品的精神內涵。畫中山水非描繪特定的地方，以橫直交集的筆觸呈現景觀，墨色雄渾沉厚。山水意象，如連綿起伏的山丘和垂直岩石，以水墨色塊呈現山巒的層次。站立的人物分散至偏遠的路徑，一撮看似幾何形狀的房屋座落在遠山下，其佈局帶引視線的流動，具韻律感。  
+
+呂壽琨的作品可以分為山水畫和禪畫系列，兩者都包含了抽象元素。《山水》是一幅半抽象的畫作，可見他嘗試把自己從美國、英國和歐洲的展覽接觸到的西方現代主義意念，融入傳統筆法之中。就如呂氏自 1950 年代中葉以來的大部分畫作一樣，所塑造的光影、色彩和氣氛受到十九世紀英國風景畫家端納 (1775–1851) 的作品影響。  
+
+# 圖精山固  
+
+31.1  
+
+![](images/f986384ae9a5a579f1fdba4ef1fdcb32d269fab19d4eb32ba9685e9230feb493.jpg)  
+
+![](images/3f01521da83efa6d37bed77d4548e0abdc274bac7d71ff3cb4ece5faa242db1c.jpg)  
+
+![](images/117057891dbd265455854fa46c1235f6c6e9691c38f86b230f3c61ea118e9bd3.jpg)  
+
+![](images/e888447c3b7570a3aaec803e7eb16492b49b2194e0564224097c31d6c11c6308.jpg)  
+
+![](images/c42d66065486f0a1a8ad6269fdb69d14738a24a8b9461b2ebd6f06767334cc52.jpg)  
+
+![](images/425e813e5411675520beeadba04e9483b6a538482d31cdf26bd8a4678b8953cd.jpg)  
+
+![](images/26b7c51b7e97e41083fbb5e8bfe552a1839548e4825e4da7923478d2662fe1c4.jpg)  
+
+![](images/d06581c7fa82644148a2fbeca315fa6b45e42ffc9897c1f35d652632f3012033.jpg)  
+
+![](images/f3fb738526eef78ccbce1652a8a7e07694b4b47432af0175e8d39735753eb03c.jpg)  
+
+31.10  
+
+花其金今子  
+
+# JAO Tsung-i (RAO Zongyi, 1917–2018) 饒宗頤 (1917–2018)  
+
+A Pure and Remote View of  Streams and Mountains   
+after Xia Gui   
+1967   
+Handscroll,   
+ink on paper,   
+28.4 x 1412.1 cm   
+Gift of Professor Lo Hong-lit   
+HKU.P.2008.1643  
+
+《擬夏禹玉谿山清遠圖》1967 年水墨紙本手卷，$28.4\mathrm{~x~}$ 1412.1 厘米羅慷烈教授惠贈HKU.P.2008.1643  
+
+This work is a modern rendition of a Southern Song painting by Xia Gui (1195–1230) of the Imperial Painting Academy. It depicts the scenery of Jiangnan, executed in Xia Gui’s simple but strong slanted brushstrokes— sometimes called ‘axe-cut strokes’ (fupi cun) because they resemble chopped wood. Collected by the Qing court, it was later moved to Taiwan along with other antiquities from the Forbidden City during the Second Chinese Civil War (1946–1950). Jao Tsung-i was able to view it at Beigou, Taichung while the National Palace Museum was under construction in 1950 and 1965.  
+
+A polymath from Chao’an, Guangdong province, Jao was well-versed in archaeology, art history and literature. He had copied Xia’s work more than once, and was familiar with its style, completing this version in one night. It is not completely identical to the original, with significant alterations in the positions and proportions of various objects, and with slightly different brushwork. After leaving China in 1949, Jao taught at universities in Hong Kong, Singapore, the United States and Taiwan, before retiring in 1978. He spent the remainder of his life travelling and giving lectures.  
+
+此畫卷臨摹自南宋畫院待詔夏圭 ( 字禹玉，1195–1230) 的畫，表現江南景緻，可見夏圭以瘦勁禿筆作的「斧劈皴」──山石的刻畫如刀砍斧劈。夏圭的《谿山清遠圖》屬清宮舊藏，國共內戰時隨同其他古物南遷，再轉至台灣。1950 年至 1965 年間，台北故宮現址仍在建造之時，饒宗頤幸得機緣在北溝親睹真跡。  
+
+饒宗頤是廣東省潮安人，學識廣博，在考古、藝術史和文學等方面均有所造詣。他自稱對這幅名品臨摹已不止一次，故於其中筆法應深有體會，這次用了一晝夜時間一氣呵成。若將兩圖對照，發現饒宗頤臨本並非完全忠於原作，多處位置和比例都有變化，而且筆法也不是典型夏圭式。饒宗頤在 1949 年離開中國大陸後，先後任教於香港、新加坡、美國和台灣等地的大學。饒公於 1978 年退休後，仍到處遊歷及講學。  
+
+![](images/a27459803d21da74d4fa849a5ca615c52b9be1721eb4909abd08ed7ca32db855.jpg)  
+
+![](images/778a689cf51c1be51d23a8976c9a17b2ed9454cb7a6e3eb9753f7074c8252629.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Landscape in Splashed Ink   
+ca. 1962–1968   
+Horizontal scroll,   
+ink and colour on paper,   
+$48.7\mathrm{~X~}68.7\mathrm{~cm}$   
+Gift of the artist   
+HKU.P.1996.1247  
+
+Fang Zhaoling began to experiment with abstract expressionism—the post-war art movement that emphasised subjective emotional expression and spontaneous creation—in the 1960s, though she produced comparatively few works in this style. They differ significantly from her earlier figurative works and represent a move away from the influence of her teacher Chao Shao-an (1905–1998). Freeing herself from Chinese painting conventions, Fang created abstract compositions full of texture and space by splattering ink; the movement of horizontal and vertical lines of different shapes and thicknesses conveying emotion and hinting at the act of painting.  
+
+Fang’s engagement with abstract expressionism mirrored that of her teacher Chang Dai-chien (1899–1983) and other artists such as Lui Shou-kwan (1919–1975).17 Rather than breaking entirely with traditional Chinese painting approaches, she and Chang adopted splashed-ink techniques that can be traced back to the Tang dynasty (618–907).  
+
+This painting is undated, but may have been made in 1962, the same year as another work in a similar style entitled Castles in the Air. Both were shown at Fang’s solo exhibition at London’s Grosvenor Gallery from January 30 to February 23, 1968.18  
+
+# 方召麐 (1914–2006)  
+
+《潑墨山水》  
+約 1962 至 1968 年設色紙本橫幅 ，  
+$48.7\mathrm{~x~}68.7$ 厘米  
+畫家惠贈  
+HKU.P.1996.1247  
+
+雖然方召麐的作品少見抽象繪畫，但是她在 1960 年代已開始探索抽象表現主義。這是戰後的藝術運動，強調主觀情感的表達和即興創作。這種風格與她早期備受趙少昂(1905–1998) 影響的作品截然不同。方召麐擺脫傳統國畫規範，通過潑墨來創作出充滿質感和空間感的抽象構圖。不同形狀、厚度的橫線和直線縱橫交錯，傳達直率情感，亦展現了繪畫的行為。  
+
+方召麐在創作中響應抽象表現主義，這與她的老師張大千 (1899–1983) 以及其他藝術家如呂壽琨 (1919–1975) 等人的探索方向一致。17 然而方召麐並非完全拋棄傳統筆墨，她和張大千都在創作中採用了可追溯至唐代(618–907) 的潑墨技巧。  
+
+此畫並無年款，但可推斷其創作年份可能是1962 年，其風格與1962 年創作的《空中樓閣》相近。方召麐於倫敦格羅夫納畫廊舉辦的個展中展出這兩幅畫，展期由 1968 年 1 月 30日至 2 月 23 日。18  
+
+![](images/52b74bacc574f9f6f35a29a7b41ada72199609cca54f5543de3e5fb3cc3aefe0.jpg)  
+
+# LUI Shou-kwan (LÜ Shoukun, 1919–1975)  
+
+Zen   
+1970   
+Vertical scroll,   
+ink and colour on paper,   
+147.3 x 79.8 cm   
+Gift of the artist   
+HKU.P.2002.1408  
+
+Lui Shou-kwan had a profound understanding of Chinese traditional art and philosophy. He was particularly interested in Buddhism and started to experiment with Zen paintings in 1968. It expresses an aesthetic associated with the idea of ‘spiritual resonance’ (qiyun shengdong), formulated in the Six Principles of  Chinese Painting (Huihua Liufa), an early sixth century text by the theorist Xie He (active ca. 500–535 CE). Through the thoughtful application of ink and wash, Liu was able to convey this quality in his paintings, inspiring spiritual contemplation and thoughts about timelessness.  
+
+In this work, he used a broad brush and spontaneous brush strokes to create rectangular bands and overlapping shapes of varying ink tones. The highly absorbent paper has resulted in interesting staining effects and ink spots, which form random patterns. The use of red above the dark ink at the top of the painting is a signature of Lui’s Zen series, representing Buddhist motifs like lotus buds.  
+
+The series shares some of its subject matter and style with the Zen paintings of Taiwanese painter Liu Guosong (b. 1932), as well as the international abstract expressionism art movement. After it was shown overseas, Lui achieved international acclaim and went on to teach many artists who contributed to the Hong Kong-based New Ink movement, which sought to modernise traditional Chinese painting through the integration of various Western modern art forms and styles in a local context.  
+
+# 呂壽琨 (1919–1975)  
+
+《禪》  
+1970 年  
+設色紙本直幅，  
+$147.3\mathrm{~x~}79.8$ 厘米畫家惠贈  
+HKU.P.2002.1408  
+
+呂壽琨對中國傳統藝術和哲學有深厚認識，對佛家思想尤感興趣，並在 1968 年開始嘗試創作禪畫，從中可管窺畫論家謝赫 ( 活躍於500–535 年 ) 在六世紀初所作《六法》中提出的「氣韻生動」美學風格。呂壽琨著眼水墨，注重運筆輕重和墨色變化，在筆墨意韻相融中體現這一美學風格，由此啟發精神上的感悟、思考時空觀念。  
+
+在這幅作品，呂壽琨利用平扁闊大的排筆在隨性的筆觸下，繪畫出長方帶狀、互相交疊，加上水墨濃淡不一的效果。吸水性極高的宣紙，令作品產生獨特的墨染效果和墨點，並帶來別開生面的構圖。位於畫上方、墨色之上的一抹紅，代表蓮花等佛教主題圖樣，是他禪畫系列的特色。  
+
+呂壽琨的禪畫系列與台灣水墨畫家劉國松(1932 年生 ) 的禪畫，以及世界抽象表現藝術運動的部分作品題材、風格取向一致。他的畫作在海外展出期間，便在國際藝壇上獲得贊許。呂壽琨教授水墨畫，他和許多門生都參與了香港新水墨運動，糅合西方現代藝術的形式和風格，革新傳統國畫，推廣現代水墨。19  
+
+![](images/deada04c370f1fde76b66a26e412626919157b84e21ec6c902fbbb2307d6b16f.jpg)  
+
+# Laurence TAM Chi-sing (1933–2013)  
+
+Landscape   
+1970   
+Horizontal scroll,   
+ink and colour on paper,   
+79.4 x 108.3 cm   
+HKU.P.2002.1411  
+
+Laurence Tam Chi-sing moved from Guangzhou to Hong Kong with his family in 1947. His approach to painting was informed by his teacher Lui Shou-kwan (1919–1975), who promoted new ink methods that incorporated Western art elements. This work is one of few ink paintings that Tam produced between 1968 and 1970. It depicts a semi-abstract landscape of undulating mountains with volcanic craters, with contrasting areas of solid and void, light and dark. The mountains are outlined with ink and covered with washes to modify their tonality and give volume to the landforms. The space above is likely the sky, but abstract dots, circles and irregular patterns in lightbrown ink convey a sense of mystery.  
+
+Alongside his work as a modern ink painter, Tam was an educator and curator who actively promoted education in ink painting and Hong Kong art. He was the founding president of the In Tao Art Association, which was formed by Lui Shou-kwan’s students and became influential in promoting the New Ink movement. He also played a pivotal role in teaching new ink painting to secondary students at Wah Yan College Kowloon between 1968 and 1971. He began working as an assistant curator of Chinese art at the former City Hall Museum and Art Gallery (precursor to the Hong Kong Museum of Art) in 1971, becoming the first chief curator of the Hong Kong Museum of Art in 1985.  
+
+# 譚志成 (1933–2013)  
+
+《山水》  
+1970 年  
+設色紙本橫幅，$79.4\mathrm{~x~}108.3$ 厘米HKU.P.2002.1411  
+
+譚志成在 1947 年隨家人從廣州移居香港。他的繪畫方法師承他的老師呂壽琨 (1919–1975)。呂氏不遺餘力推廣融合西方藝術元素的新水墨畫畫法。這幅水墨畫是譚志成於1968 年至 1970 年間所繪的少數水墨畫之一。其半抽象的山水呈現地表具有火山口隕石坑的連綿山脈，作品在多處展現了虛與實、明與暗的對比。群山以墨筆鉤勒，並以層層渲染潤飾其色調，亦賦予地形體積。畫的上方可能是描繪天空，但是淺棕色的抽象墨點、圓圈和不規則圖案為作品增添了一種神秘感 。  
+
+除了是現代水墨畫畫家外，譚志成還是一位教育工作者和藝術館館長，積極推動水墨畫和香港藝術教育的發展。呂壽琨的學生成立元道畫會，譚志成是創會會長，在推動新水墨運動時發揮影響力。譚氏在 1968 年至 1971年間於九龍華仁學院教授中學生新水墨畫也起了關鍵作用。從 1971 年開始，譚氏在香港博物美術館 (1962 年，香港藝術館前身 ) 擔任中國藝術助理館長，1985 年成為香港藝術館的首任館長。  
+
+![](images/166dad9ad03685ac0801c0d3098987b15dd15298d731cfff134d1946517fbb00.jpg)  
+
+# NG Yiu-chung (WU Yaozhong, b. 1935)  
+
+Landscape   
+1972   
+Vertical scroll,   
+ink and colour on paper,   
+185.1 x 96 cm   
+HKU.P.2002.1412  
+
+This bizarre landscape is full of surrealist fantasies that recall Joan Miró’s (1893–1983) signature biomorphic forms and geometric shapes. The sky, washed in pale blue mixed with light orange, forms a direct contrast with the mountains and valleys below, which are built up with bold, even and short lines in ink. A brownish void depicts a vast stretch of water in the upper left of the painting, outlined by a meandering curve set into the side of the mountains. In the foreground, evocative and dynamic shapes with ink outlines appear almost to have been drawn randomly, floating like clouds above the mountains. The artist’s signature appears in the lower right, mimicking the lines on the surface of the mountains.  
+
+$\mathrm{Ng}$ Yiu-chung began to study modern ink painting under Lui Shou-kwan (1919–1975) at The Chinese University of Hong Kong (CUHK) in 1968, enrolling in various art courses at both HKU and CUHK between 1967 and 1973. He was a founding member of both the One Art Group and the In Tao Art Association, each comprised mostly of Lui’s former students and supporters of the New Ink movement. In 1971, his work was selected for the Art Now Hong Kong traveling exhibition, which was shown in London, Edinburgh, Bristol, Manchester and other major cities in the United Kingdom.  
+
+# 吳耀忠 (1935 年生 )  
+
+《山水》  
+1972 年  
+設色紙本直幅，  
+$185.1\mathrm{~x~}96\$ 厘米HKU.P.2002.1412  
+
+這奇異的景色充滿了超現實主義的幻想，不禁讓人聯想起胡安．米羅 (1893–1983) 標誌性的生物形態和幾何形狀。天空由淡藍色與淺橙色混合染成，與下面的山脈和山谷形成對比，後者由粗短而勻稱的墨線組成。畫的左上方的褐色範圍代表一大片水域，而山脈的側面則以蜿蜒的曲線鉤勒。在前景中，以墨筆鉤勒的不規則圖案看似是隨手所畫的形狀，有如山上的雲一樣漂浮著，既帶有動感，又能喚起觀眾的感情。藝術家在畫面右下方簽名，其書寫模仿了山脈表面的線條。  
+
+吳耀忠於 1968 年在香港中文大學跟隨呂壽琨(1919–1975) 學習現代水墨畫，並於 1967 年至 1973 年間在香港大學及香港中文大學修讀各種藝術課程。他是一畫會及元道畫會的創辦人，這兩個畫會主要由呂氏的舊生和新水墨運動的支持者所組成。1971 年，他的作品入選名為「當代藝術香港」的巡迴展覽，該展覽在倫敦、愛丁堡、布里斯托爾、曼徹斯特和英國其他主要城市巡迴展出。  
+
+![](images/85dd4b56231d7a3196ca9e152297a69ae3c93f89d779f965a4a8738570870640.jpg)  
+
+![](images/18705df5c50123fbca30a8b93c668bfb9dfd66659422187b9cb3018383ba1e45.jpg)  
+
+# YUNG Shau-shek (RONG Shushi, 1907–1996)  
+
+# 容漱石 (1907–1996)  
+
+# LIN Jen-tong (LIN Jiantong, 1911–1994) 林建同 (1911–1994)  
+
+Birds and Flowers   
+1972   
+Album leaf,   
+ink and colour on paper,   
+$33\mathrm{~x~}31$ cm   
+Gift of Professor Chee-woo and Grace Po-shan CHOW   
+HKU.P.2009.1842   
+《花鳥》   
+1972 年   
+設色紙本冊頁，   
+$33\mathrm{~x~}31$ 厘米   
+周齊武教授及周寶珊女士惠贈   
+HKU.P.2009.1842   
+Lotus Seed and Lily Bulb   
+1972   
+Album leaf,   
+ink and colour on paper,   
+$34.5\mathrm{~x~}45.5\mathrm{~cm}$   
+Professor Chee-woo and Grace Po-shan CHOW   
+HKU.P.2009.1845  
+
+In China, lotus seeds and lily bulbs are auspicious symbols that express wishes for a long and happy marriage. This painting was presented to Chow Chee-woo in celebration of his wedding. Lin Jen-tong was well-known for his paintings of flowers and plants, particularly plum blossoms, and went by the sobriquet Meichi (meaning ‘someone obsessed with plum blossoms’).  
+
+《蓮子百合》  
+1972  
+設色紙本冊頁，  
+$34.5\mathrm{~x~}$ 45 厘米  
+周齊武教授及周寶珊女士惠贈  
+HKU.P.2009.1845  
+
+蓮子和百合在中國文化中寓意百年好合。此畫是周齊武收到的結婚賀禮。林建同擅長繪畫花卉與植物，尤以梅花聞名，更自號「梅癡」。  
+
+This painting celebrates the wedding of Chow Chee-woo and Grace Po-shan Chow, the son and daughter-in-law of Lingnan School painters Chow Chian-chiu (1910–2006) and Chow Leung Chen-ying (1921–2005). The focus of the work is a pair of blue magpies, which look upwards at a branch with their beaks open.  
+
+Both the flowers and birds are painted in the ‘boneless’ technique, using ink and colour washes applied directly to the paper without outlines. Blue magpies with long tails are sometimes called ‘birds with longevity ribbons or ‘ribbon-tailed birds’ (shoudainiao) and together with red flowers are traditional symbols of marriage in Chinese art, because the Chinese character for magpie is the same as the character for happiness. Magpies are often depicted together with plum blossoms, but Yung has tactfully paired them with poinsettia, a flower commonly displayed during Christmas, to reflect the December date of the wedding.20  
+
+Yung studied painting under Gao Qifeng (1889–1933), an influential member of the first generation of Lingnan School painters, in Guangzhou. He was a founding member of the Yuan Art Club in 1948, which counted Chow Chian-chiu and Leung Chen-ying among its members. All three were also part of the Ping Sheng Art Club (founded in 1956), and participated in its fourth annual Chinese painting exhibition in 1960.  
+
+這幅畫為祝賀周齊武和周寶珊大婚而作，二人是嶺南派畫家周千秋 (1910–2006) 和周梁粲纓 (1921–2005) 的兒子和媳婦。作品的焦點在一對藍色喜鵲，張開喙子向上凝望枝枒。  
+
+畫作中的花卉和雀鳥均採用了「沒骨法」，即直接在紙上以墨色暈染，不施鉤勒。長尾藍色喜鵲又名「壽帶鳥」或「綬帶鳥」，中國傳統藝術中常配以紅花，象徵婚姻，因為在漢字中，「喜鵲」的「喜」與「歡喜」的「喜」相同。喜鵲一般常與梅花一起繪畫，但容漱石巧妙地用聖誕花取代梅花，以對應十二月的婚禮。20  
+
+容漱石曾在廣州從嶺南派創派大師高奇峰(1889–1933) 習畫，1948 年參與創辦「圓社」，周千秋和梁粲纓均為會員。三人也是丙申社(1956 年創辦 ) 會員，並參與了該社 1960 年的第四屆年展。  
+
+![](images/6d6de29530b3465ed1dc99cf33a9a64e724ba9fa058206af5b0eaabea25fbd34.jpg)  
+
+# Irene CHOU (aka CHOU Lu Yun or ZHOU Lüyun, 1924–2011)  
+
+Concentration   
+1973   
+Vertical scroll,   
+ink and colour on paper,   
+$179.7\mathrm{~X~}95.5$ cm   
+Gift of the artist   
+HKU.P.1986.1413  
+
+Swirling calligraphic lines form a mysterious, undulating mass at the centre of this work. While the composition evokes the sun above an undulating sea, it also creates the image of an inner universe, reflecting the artist’s thoughts and emotions.  
+
+Irene Chou was born in Shanghai but spent most of her life in Hong Kong before moving to Melbourne, Australia in 1991. The use of calligraphic lines in her work was informed by years of studying calligraphy and traditional Chinese ink painting techniques, especially the ‘Storm Drum’ script, which was first used to inscribe stones during the Qin dynasty (221–206 BCE). She was heavily influenced by her teacher and friend Lui Shou-kwan (1919–1975)—particularly his incorporation of styles and techniques from Western abstract art.  
+
+# 周綠雲 (1924–2011)  
+
+《聚》  
+1973 年  
+設色紙本直幅，  
+$179.7\mathrm{~x~}95.5$ 厘米畫家惠贈  
+HKU.P.1986.1413  
+
+此畫以書法線條為主要構圖元素，描畫曲折起伏而神祕的漩渦式紋理，使其聚成一團。畫面結構引發想像波濤起伏的海面一輪紅日高掛，這同時創造了內在宇宙的形象，流露畫家的思想感情。  
+
+周綠雲在上海出生，但她一生大部分時間都在香港度過，直至 1991 年她才移居澳洲墨爾本。周氏經年練習書法和水墨畫技法，尤其是最早的刻石文字秦朝的石鼓文，這使她的書法線條筆法純熟。她和呂壽琨 (1919–1975)亦師亦友。呂壽琨提倡水墨畫融合西方抽象藝術的風格和技法，這對周綠雲的影響尤其深遠。  
+
+# TAO Wan (1911–2004) and George YEH Kung-chao (YE Gongchao, 1904–1981)  
+
+Orchid, Bamboo and Rock   
+1975   
+Hanging scroll,   
+ink on paper,   
+44 x 43.8 cm   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2197_078  
+
+Orchids and bamboo are a popular combination in Chinese literati painting. They are also often grouped together with plum blossoms and chrysanthemums and referred to as the ‘Four Gentlemen’, because they reflect the Confucian virtues of purity, modesty, loyalty and dignity. That they could be rendered monochromatically with ink and calligraphic brushwork made them particularly favoured subjects for literati artists.  
+
+# 陶澐 (1911–2004)、葉公超 (1904–1981)  
+
+This collaborative painting was done in 1975 when Tao visited George Yeh, a Taiwanese diplomat and politician, in Taiwan. Tao used dry calligraphic lines to form the rocks as a base for the plants, with ink dots applied to indicate moss. Yeh added the bamboo and orchid. The ninety-five-year-old poet and calligrapher Li Gong-lin (1898–1979) added an inscription to the painting in 1976, which reaffirms its symbolic nature: “The orchid is the king of scents, and the bamboo is the moral integrity of a gentleman”.  
+
+40  
+
+![](images/dc30e83a38717ddbed5f3ab0de254b5fa6c2bd457ee1e783f2e8537c25cd4dd8.jpg)  
+
+《蘭竹石圖》  
+1975 年  
+水墨紙本立軸，  
+$44\mathrm{~x~}43.8\$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2197_078  
+
+蘭和竹是中國文人畫中備受歡迎的組合。梅、蘭、菊與竹合稱「四君子」，象徵儒家提倡的四種美德，包括純潔、謙遜、忠誠及高潔不屈。由於四種植物都能以水墨和書法筆觸呈現，故特別受文人畫家喜愛。  
+
+當陶澐於 1975 年拜訪台灣外交家和政治家葉公超時，二人合作創作了這幅畫。陶澐以乾筆枯墨勾出石頭輪廓，使蘭竹可依附生長，繼而點苔。葉公超則添上墨竹與墨蘭，一筆一蘭葉。1976 年，當時年屆 95 歲的詩人與書法家李供林 (1898–1979) 為此畫題詩，再次加強其象徵意味：「蘭為王者之香，竹是君子之節」。  
+
+![](images/2ed228980e1a3fde2adb14a21db954868cd0f8a439408d80ac9c7b293fae5232.jpg)  
+
+# TING Yin-yung (DING Yanyong, 1902–1978) 丁衍庸 (1902–1978)  
+
+Landscape   
+1976   
+Hanging scroll,   
+ink and colour on paper,   
+$96.7\mathrm{~X~}42$ cm   
+Gift of Mr and Mrs Shiu Lam Fung   
+HKU.P.1993.0983  
+
+Ting Yin-yung stylistically explores and transforms modes established by the Yuan dynasty painter Ni Zan (1301– 1374) in this landscape. Ni’s signature ‘one river, two riverbanks’ landscapes were executed with monochrome ink in a cool, tranquil manner, which Ting immediately distorts through his use of colour. Despite his simple, naive strokes and the beauty of the scene, the inscription at the top left expresses a sense of desolation: “the river is deep, and it is cold in the waterside pavilion in May”.  
+
+Ting was proficient in both Western oil painting and Chinese ink painting, but in later life focused more on the latter, along with calligraphy and seal engraving. This work is one of a small number of landscapes that he produced towards the end of his life.  
+
+《山水》  
+1976 年  
+設色紙本立軸，  
+96.7 x 42 厘米  
+馮兆林先生夫人惠贈  
+HKU.P.1993.0983  
+
+丁衍庸在這幅畫中承傳元代畫家倪瓚 (1301–1374) 的風格而能別開生面。倪瓚確立的 $\lceil-$ 河兩岸」式構圖以水墨描繪為主，疏簡恬淡。丁衍庸則以設色山水打破這傳統框架。雖然他的筆觸稚拙，且風景亮麗，畫面左上方的題字「五月江深水閣寒」，則揭示情感的孤寂。丁衍庸擅長西方油畫和中國水墨畫，他在晚年專注於水墨畫，書法和篆刻 $^{\circ}$ 此畫是他晚年較少繪畫的山水作品。  
+
+![](images/c96a0451d1f11b3061131780e4bfedd301e1fdb9df30d134ffa67394895bee02.jpg)  
+
+![](images/de6010326acd38bb57a4e511d07ee1ff0886e05bf0ef611723c560042d9135e8.jpg)  
+
+# LEUNG Kui-ting (LIANG Juting, b. 1945)  
+
+Dyed Red   
+1976   
+Horizontal scroll,   
+ink and colour on paper,   
+$60\mathrm{~x~}61.5$ cm   
+Gift of the artist   
+HKU.P.2008.1713  
+
+Dyed Red is an early work by Leung Kui-ting, a Guangzhou-born artist who moved to Hong Kong in 1948. Leung was heavily influenced by modern design principles and ‘hard-edge painting’, a term coined in 1959 to describe an approach to abstraction developed by California painters like Karl Benjamin (1925–2012) in the 1960s. In contrast to the free mixture of colours and shapes employed in abstract expressionism, hard-edge painting features separate, clearly delineated areas of colour of particular sharpness and clarity. As the title suggests, this geometric abstract painting primarily consists of shades of red. The composition is clearly divided into four major areas of deep colour by a rough grid. At the time it was painted, Leung was exploring techniques such as dyeing, crumpling and sewing layers of paper. Unlike typical hard-edge paintings, the fields in this work mix different colours, but the gridlines remain visible beneath.  
+
+Leung’s career was shaped by his teachers Lui Shou-kwan (1919–1975) and Wucius Wong (b. 1936), who he studied with at the Department of Extramural Studies, CUHK between 1964 and 1969. After graduating, Leung taught design in the Swire School of Design at Hong Kong Polytechnic from 1975 to 1990, and founded the Hong Kong Chingying Institute of Visual Arts in 1980. With Wucius Wong, he co-authored the book Two-Dimensional Design–Fundamental Studies in 1982, which became a key text for design courses in Hong Kong.  
+
+# 梁巨廷 (1945 年生)  
+
+《染紅》  
+1976 年  
+設色紙本橫幅，  
+$60\mathrm{~x~}61.5$ 厘米  
+畫家惠贈  
+HKU.P.2008.1713  
+
+梁巨廷生於廣州，在 1948 年移居香港，《染紅》屬他的早期作品。梁巨廷的創作深受現代設計原理和硬邊繪畫影響。「硬邊繪畫」於 1959 年風行，指由加州畫家如卡爾．本傑明等於 1960 年代建立的抽象繪畫方式。抽象表現主義著重自由組合顏色和形狀，硬邊繪畫則以獨立、色彩鮮艷且輪廓鮮明的色塊為特色。正如畫作標題所示，這幅幾何抽象畫以不同色調的紅色為主，以一格狀圖案粗略地分為四個深紅區域。梁氏當時正探索不同的技巧，如染色、壓縐、縫紉多層紙張等。有別於典型的硬邊繪畫，畫中的色域糅合了不同的顏色，底下的格線卻依舊清晰可見。  
+
+在 1964 年至 1969 年間，梁巨廷於香港中文大學校外進修部師從呂壽琨 (1919–1975) 和王無邪 (1936 年生 )，其藝術生涯深受兩位老師影響。畢業後，梁巨廷在 1975 年至 1990年期間於香港理工學院太古設計學院教授設計課程，並於 1980 年創辦了香港正形設計學院。1982 年，他與王無邪合著《平面設計基礎》，該書成為本地設計課程的必讀刊物。  
+
+![](images/54574f89e2d1bd6b6d3a041bf3eb7976ec5b0e64716031eddde221d4c22257d6.jpg)  
+
+# LIN Jen-tong (LIN Jiantong, 1911–1994) and WANG Wenzhuo (1931-2000)  
+
+Plum and Rock   
+1976   
+Hanging scroll,   
+ink and colour on paper,   
+127.4 x 67.7 cm   
+Gift of Baoguang Studio   
+HKU.P.2006.1636  
+
+Delicate plum blossoms and buds adorn sharply-angled, gnarled branches in this collaborative work. They frame a large rock on the right, roughly outlined in a variety of ink strokes and washed with colour to suggest volume. Each element conveys a wealth of auspicious meanings. Painted in pink and orange-red, the plum blossoms symbolise renewal and spring. They also represent longevity, as the words for plum and eyebrow (mei) are homophones in Chinese, evoking the bushy eyebrows that develop in old age. The symbolism is reinforced by the artist’s inscription, which reveals that the work was made to celebrate the seventy-eighth birthday of Chang Dai-chien (1899–1983), who taught both Lin and Wang. The inscription also delineates each artist’s contribution to the work: Lin painted the plum blossoms and wrote the inscription after Wang Wenzhuo painted the rock during a celebration with colleagues, friends and relatives in honour of Chang Dai-chien.  
+
+Lin Jen-tong specialised in painting plum blossoms. He called himself a meichi, (‘someone obsessed with plum blossoms’) and his studio name was ‘the Owner of the Plum Blossom Study’(Meihuashuwu zhuren). Wang Wenzhuo was the son of Wang Hanqiao (1914–2005) and a native of Chao’an. He moved to Hong Kong in 1936. Wang Hanqiao’s name does appear on the painting, but it was donated to UMAG under his studio name, Baoguang shutang.  
+
+# 林建同(1911–1994)、王文卓(1931–2000)  
+
+《梅石圖》  
+1976 年  
+設色紙本立軸，  
+$127.4\mathrm{~x~}67.7$ 厘米葆光書堂惠贈  
+HKU.P.2006.1636  
+
+這幅合作畫中的梅花和花蕾嬌嫩，與方折或扭曲的纏枝互相輝映。圖右一塊大石矗立，以粗放多變的筆觸寫出輪廓，加之設色，墨色的濃淡深淺塑造立體感。畫中視覺元素均蘊含豐富的象徵意味。粉紅色與橘紅色的梅花象徵萬象更新和春天；又因「梅」和「眉」同音，即年老者濃密的眉毛，故梅花亦象徵長壽。此作是兩位畫家為慶祝老師張大千(1899–1983) 七十八歲生辰而畫，進一步強化此畫「長壽」的意味。還有，王文卓先畫石頭，林建同補畫梅花，再添上題識。  
+
+林建同精於梅花，自稱「梅癡」，號「梅花書屋主人」。王文卓是潮安人，是王漢翹(1914–2005) 的兒子，於 1936 年移居香港。雖然王漢翹的名字並未出現於畫作上，但這幅畫是以王漢翹的齋號「葆光書堂」之名惠贈本館。  
+
+![](images/153a60e45fa192396e3185ba7f19ac9bbcd3f44879d7a9b73ad7ce84411d5f0f.jpg)  
+
+# CHAN Flora Kay (b. 1930)  
+
+Sweet Message III   
+1981   
+Vertical scroll,   
+ink and colour on paper,   
+$63\mathrm{~x~}58.7$ cm   
+Gift of Mr Chung King-fai   
+HKU.P.2009.1854  
+
+The floral pattern in this painting is shown in close-up view, as if seen through a magnifying lens. The feathery petals unfurl into a pattern of line and shade, while the core is shrouded in darkness, evoking a sense of something hidden being slowly revealed. The interplay of light and dark, line and plane, creates an astonishing pattern that blends new idioms and styles inspired by Western painting. The artist’s seal is partially hidden in an area of darkness on the bottom left.  
+
+Flora Kay Chan was heavily influenced by the work of Lui Shou-kwan (1919–1975) and is perhaps best known for her contributions to scholarship on his art, which continue to serve as a primary source on his artistic development from the early 1950s to the 1970s. She joined the One Art Group founded by his former students in 1968.  
+
+# 陳鳳姬 (1930 年生)  
+
+《寄意之三》  
+1981 年  
+設色紙本直幅，  
+$63~\mathrm{~x~}58.7$ 厘米  
+鍾景輝先生惠贈HKU.P.2009.1854  
+
+這幅畫描繪了一個花卉圖案的特寫，彷彿是通過放大鏡來看它似的。巨大的粉紅色羽毛狀花瓣圖案可見線條和陰影。由於黑暗掩蓋四個角落，核心籠罩於神秘當中，但在隱約間漸次顯露隱藏著的寄意。西方繪畫的視覺元素和風格方面的影響，表現在明與暗、線與平面的組合互動，及其矚目的圖案構圖。藝術家的印章也在左下方的陰暗處若隱若現。  
+
+陳鳳姬深受呂壽琨 (1919–1975) 影響，但她較出名的或是在藝術方面的學術研究。她的論文撰寫呂氏從 1950 年代初到 1970 年代的藝術發展，21 這成為研究呂壽琨的藝術的主要文獻。  
+
+![](images/59a6b43d6a7b6112538ebf1b21a370de558b5423eefda05799edb683486a3a30.jpg)  
+
+# LI Xiongcai (1910–2001)  
+
+![](images/319006d248fbb101c744ea18f11d424de6927ea479dff49322cf73fc7231fe89.jpg)  
+
+Rafts on the Spring Ri 1982 Horizontal scroll, ink on paper, 95.5 x 179 cm Gift of the artist HKU.P.1982.0866  
+
+Li Xiongcai painted this impromptu work after he visited the Fung Ping Shan Museum on April 15, 1982. It reflects his signature use of pine trees in picturesque landscapes. Rather than representing a specific location in Hong Kong, it shows rafts in a generic landscape. In the center of the painting, two long rafts are depicted with calligraphic curves that create a sense of rushing water. While the water’s surface is largely left blank, the rafts animate the water and create effects of depth and volume. Li depicted rafts in a similar composition, but in a vertical format, in several other works painted in the same year.  
+
+A student of Gao Jiangfu (1879–1951) at his Spring Slumber Painting Studio (Chun Fung Art Club) between 1927 and 1931, Li followed Gao’s example of incorporating Western naturalism and contemporary subjects into traditional art forms. Together with Chao Shao-an (1903–1998), Yang Shanshen (1913–2004) and Guan Shanyue (1912–2000), he became one of the most important artists of the second generation of Lingnan School painters. The four began to work collaboratively in Hong Kong in 1981, after Li and Guan arrived from Guangzhou (Chao and Yang had left for Hong Kong in the 1950s), executing nearly one hundred pieces in the following year. The resulting exhibition held at the Fung Ping Shan Museum was a significant milestone in resuming artistic and cultural exchange between Lingnan painters in mainland China and Hong Kong.  
+
+# 黎雄才 (1910–2001)  
+
+《春江泛筏》  
+1982 年  
+水墨紙本橫幅，  
+$95.5\mathrm{~x~}179$ 厘米  
+畫家惠贈  
+HKU.P.1982.0866  
+
+1982 年 4 月 15 日，當黎雄才到訪馮平山博物館後，他即席創作了這幅畫作，所繪的松樹和如畫風格的山川景色是其標誌性特色。畫中風景並非刻畫香港某個特定的地方，而是較為籠統的春江泛筏之景。畫的中心以書法式曲線加之淡墨畫出兩艘長筏，營造一種河川奔流的感覺。大部分的水面留白，木筏的描繪卻為河川添上生氣，創造深度與立體感。同年，黎雄才亦曾於其他畫作中繪畫造型相似，卻是垂直式的木筏。22  
+
+在 1927 年至 1931 年間，黎雄才師從高劍父(1879–1951) 於春風畫會學藝，又學效高劍父將西方自然主義與當代主題融入傳統藝術形式之中。黎雄才後來與趙少昂 (1903–1998)、楊善深 (1913–2004)、關山月 (1912–2000) 一同成為嶺南畫派第二代四大畫家。趙少昂與楊善深自 1950 年代移居香港，待黎雄才與關山月從廣州南下香港後，四人於 1981 年開始在港合作，一年後已創作出接近一百幅作品。由此玉成、於馮平山博物館舉行的展覽，這亦成為恢復內地與香港嶺南派畫家之間的藝術與文化交流的重要里程碑。  
+
+![](images/03810a82117cfe6add69ccaaf2ea2e281284c7045528f5eb28b23b146bde3f81.jpg)  
+
+![](images/ce18f4b35a6b4107e36af01cabbaa17026d21a71bac7880ee1aab03b521a74cc.jpg)  
+
+# LIU Haisu (1896–1994)  
+
+Mount Huang at Dawn   
+1982   
+Horizontal scroll,   
+splashed ink and colour on paper,   
+144 x 368 cm   
+Gift of the artist   
+HKU.P.1997.1133  
+
+Although many Chinese artists have painted Mount Huang in southern Anhui province, Liu Haisu’s views are particularly celebrated. He visited the mountain several times in his lifetime. An inscription on this work reveals that it was made in the Beihai Hotel, when Liu climbed the mountain for the ninth time at the age of eighty-seven. One of his larger works, it demonstrates Liu’s unique blending of Western and Chinese techniques. Largely self-taught, he was exposed to the former during a threemonth painting course in 1909 at the Institute of Stage Scenery in Shanghai, and during several visits to Japan in the late 1910s. His synthesis of the two, together with an emphasis on the observation of nature, set him apart from his contemporaries, who typically painted by imitating earlier works.  
+
+# 劉海粟 (1896–1994)  
+
+《曙光普照乾坤》1982 年  
+潑彩紙本橫幅，  
+144 x 368 厘米  
+畫家惠贈  
+HKU.P.1997.1133  
+
+許多中國藝術家都喜歡描繪安徽省南部的黃山，劉海粟的潑墨潑彩黃山猶引人注目。劉氏一生中造訪黃山無數次。他在題跋中透露這幅畫在北海賓館創作，是他第九次登上黃山後的作品，時年八十七歲。此作是劉氏的其中一幅巨型繪畫，體現了他融合西方和中國的繪畫技巧。劉海粟主要以自學成才，1909 年於上海的「布景畫傳習所」修習為期三個月的舞臺布景畫課程，因而開啓了對西方藝術的認識，及在 20 世紀 10 年代後期遊訪日本期間，為所見西方藝術潮流深刻感染。除了糅合中西技法外，劉氏著重觀察大自然，這使他在以摹古為主的同期畫家中脫穎而出。  
+
+![](images/b17b984ef73696f461ec8691ba48cd3ad8c660a1cf61587cc0836411661a264b.jpg)  
+
+# CHOW Chian-chiu (ZHOU Qianqiu, 1910–2006) and CHOW LEUNG Chen-ying (ZHOU LIANG Can-ying, 1921–2005)  
+
+Kingfisher and Lotus   
+1983   
+Hanging scroll,   
+ink and colour on paper,   
+$148\mathrm{~x~}70.5$ cm   
+Gift of the artists   
+HKU.P.1983.0868  
+
+This work by Chow Chian-chiu and Chow Leung Chenying was painted by the couple in October of 1983 and presented to UMAG to coincide with an exhibition of their work, Painting by Chow Chian-chiu and Chow Leung Chen-ying. Chen-ying painted the lotus leaves and flower using the ‘boneless’ method, without guiding outlines. The kingfisher and dragonfly were added by her husband, Chian-chiu, to enliven the painting. UMAG showed a number of their collaborative works in another exhibition entitled Lasting Fragrance: Chinese Ink Paintings by Chow Chian-chiu and Chow Leung Chen-ying, April–June 2014, including this painting.  
+
+# 周千秋(1910–2006)、周梁粲纓(1921–2005)  
+
+《翠鳥荷花》  
+1983 年  
+設色紙本立軸，  
+$148\mathrm{~x~}70.5$ 厘米  
+畫家惠贈  
+HKU.P.1983.0868  
+
+香港大學美術博物館（原稱馮平山博物館）於1983 年10 月舉辦「周千秋、梁粲纓畫展」，周氏伉儷即席揮毫畫了這幅《翠鳥荷花》，其後把畫作贈予香港大學美術博物館。周梁粲纓運用「沒骨法」，所以荷葉和荷花並無明確的輪廓線條。她的丈夫周千秋為畫作添上翠鳥和蜻蜓，這令整幅畫更為生動。香港大學美術博物館於 2014 年 4 月至 6 月期間舉辦了「逸彩流馨：周千秋、梁粲纓伉儷水墨畫」展覽，展出了一系列周氏伉儷的合作畫，展品包括這幅畫。  
+
+![](images/90118f48348931ef4652ecaffbb8d9a29c884c86e801d86c017eb2f74f162375.jpg)  
+
+# LIEW Come-tong (LIU Qindong, b. 1949)  
+
+Mountain Dwellings   
+1983   
+Hanging scroll,   
+ink and colour on paper,   
+166 x 96 cm   
+Gift of the artist   
+HKU.P.2008.1721  
+
+Mountain Dwellings references monumental landscape paintings from the Northern Song dynasty (960–1127), as exemplified by Fan Kuan’s (ca. 950–1032) Travellers among Mountains and Streams, while incorporating modern approaches to ink painting. Instead of using schematic dots and finely textured strokes to form clusters of raindrops to model the mountains, Liew applied an ink wash to highlight the texture of the stone and moist ambience. Beneath the mountains, modern buildings are shown surrounded by tall trees and hills. Small but vividly painted in red, they hint at hidden pathways and people. Other motifs are treated in a more conventional manner, such as waterfalls and streams in the foreground. Together, these elements represent a traditional compositional device used in Song paintings to convey solemnity and harmony in the universe. The painting is inscribed with the first four stanzas of Mountain Temple at Lake Yong, a poem by the early Tang poet Zhang Daoji (667–730). It relays a lyrical vision of Buddhist temples amidst empty mountains and valleys, perhaps an expression of the artist’s religious and philosophical views on transcending materiality and seeking spiritual freedom.  
+
+Much of the inspiration for Liew Come-tong’s work comes from his extensive travels in Asia, Europe and North America. Born in Malaysia, he moved to Hong Kong from Taiwan in 1972. $^{23}\mathrm{He}$ studied with noted painters, printmakers and art historians, such as Huang Junbi (1898–1991), Maytin Kan (1911–1998), Li Lincan (1913–1999) and Chuang Shen (1933–2000). This gave him a deep appreciation for both Eastern and Western art theory, reflected in his publication, On Chinese and Western Art Criticism. An art teacher and critic, he also taught painting at CUHK and HKU between 1975 and 1998.  
+
+# 劉欽棟 (1949 年生)  
+
+《頂天立地．飄然不群》  
+1983 年  
+設色紙本立軸，  
+166 x 96 厘米  
+畫家惠贈  
+HKU.P.2008.1721  
+
+《頂天立地．飄然不群》可窺見以范寬( 約 950–1032)《谿山行旅圖》為代表的北宋 (960–1127) 巨障山水風格──以中軸式構圖，主山堂堂，氣勢渾厚，畫家亦融入現代水墨畫技法。范寬以雨點皴刻劃山石質感，劉欽棟則主要以濕筆，透過層層疊染不同明暗的色塊突出山石層次，及營造墨氣淋漓的效果。山腳下的現代建築物被高大的樹木和山丘環繞。雖然建築物渺小，但是紅色屋頂很搶眼，這暗示了藏在深山的路徑和人跡。畫中其他部分亦見以傳統手法處理，例如前景描繪的瀑布溪流。這些元素呈現宋畫傳統的構圖範式，表達天地之莊嚴與和諧。此畫的題詩採用初唐詩人張道濟 (667–730) 的〈 湖山寺〉首四句，表達了佛寺座落於空山幽谷中的意境，或許表現畫家超然物外而尋求心靈自由的宗教和哲學取向。  
+
+劉欽棟的創作靈感來自其在歐亞與北美的豐富遊歷。劉氏 1949 年出生於馬來西亞，1972 年從臺灣移居香港。 他曾師從黃君璧(1898–1991)、 靳 微 天 (1911–1998)、 李 霖 燦(1913–1999) 和 莊申 (1933–2000) 等著名畫家、版畫家和藝術史學家，培養了他對東西方藝術理論的深入理解，這可見於他 1997 年出版的《中西論藝稿集》中。24 劉欽棟也是一名美術教師和藝評家，於 1975 年至 1998 年間在香港中文大學和香港大學教授繪畫。  
+
+![](images/63c5f5351bec0c0aad07c5baf9043ac94ab598378d1aa01ef735358db626c45c.jpg)  
+
+![](images/a5a494deb2119dbd93f867d6cecad0da83d0fbaf3b3d054a508a88e1dccb189d.jpg)  
+
+# LAI Shaoqi (1915–2000)  
+
+# 賴少其 (1915–2000)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+# 方召麐 (1914–2006)  
+
+Mount Huang   
+1983   
+Horizontal scroll,   
+ink and colour on paper,   
+$70\mathrm{~x~}145.9\mathrm{~cm}$   
+Gift of the artist   
+HKU.P.1984.0869 《黃山》   
+1983 年   
+設色紙本橫幅，   
+$70\mathrm{~x~}145.9$ 厘米 畫家惠贈   
+HKU.P.1984.0869   
+Dragon Boat Race (Ode to Peace, No. 6)   
+1985   
+Hanging scroll,   
+ink and colour on paper,   
+$67.8\mathrm{~x~}99.8\mathrm{~cm}$   
+Gift of the artist   
+HKU.P.1996.1205  
+
+《龍舟競渡》（和平頌之六）1985 年設色紙本立軸，$67.8\mathrm{~x~}99.8\$ 厘米畫家惠贈HKU.P.1996.1205  
+
+The most famous pines in China grow on Mount Huang. Here, they are shown standing on cliffsides in a narrow gap between two mountain ridges. The compact shape of the mountain complements the calligraphic inscription in the top left corner. The characters are rendered in an awkward, block-character style that borrows elements from the clerical script-based ‘lacquer script calligraphy’ (qishu) of Jin Nong (1687–1773)—one of a group of eighteenth-century painters known as the ‘Eight Eccentrics of Yangzhou’, who rejected orthodoxy in favour of a more expressive and individualistic style. The content of the inscription includes the word Tiandu, suggesting that the work depicts Mount Huang’s Tiandu feng (‘Heavenly Citadel Peak’).  
+
+A long-time resident of Anhui province, Lai Shaoqi visited Mount Huang many times over the course of nearly three decades, and the area became the focus of his painting and writing. In his depictions of the mountain, he operated within an established framework of artists who included Shi Tao (1642–1707), Mei Qing (1623–1697) and Huang Binhong (1865–1955). He visited the range seven times between 1980 and 1982 while preparing to paint this work. A graduate of Guangdong Provincial Art College and a member of the Modern Woodcut Society, Lai was perhaps best known as a printmaker and painter. Most of his works are currently housed in the Lai Shaoqi Museum of Art in Hefei, the capital of Anhui.  
+
+黃山的松樹是全中國最有名的。畫中的松樹則屹立於兩座山脊之間狹窄的峭壁上。造形結構嚴密的山巒與左上角的書法題跋形成悅目的對比。題跋以怪奇而凝重的字體書寫，此風格源自揚州八怪 ( 一群 18 世紀的畫家，他們反對正統畫派風格，提倡粗放和個人畫風 ) 之一的金農 (1687–1773) 以隸書發展而成的「漆書」。題款內有「天都」二字，應表示此作所畫的正是黃山的天都峰。  
+
+賴少其長期居於安徽，在近三十年內多次攀登黃山，黃山遂成為其繪畫與寫作的核心。在描繪黃山時，賴少其與前代畫家如石濤 (1642–1707)、梅清 (1623–1697) 和黃賓虹(1865–1955) 等在同一圖像傳統的框架中。在1980 年至 1982 年間，他七次遊歷黃山，為繪畫此畫作準備。賴少其畢業於廣州市立美術專科學校，亦是現代版畫研究會會員，更是一位著名的版畫家和畫家。其作品大多收藏於安徽省省會合肥市的賴少其美術館。  
+
+Fang Zhaoling returns to one of her favorite compositions in this painting, in which a red sun rises over Victoria Harbor. Dragon boats on the water race in a lively and energetic spectacle. Each carries a steersman at the back and a drummer at the front, with a team of paddlers in the middle propelling their long, narrow boats toward the finish line. Spectators from all walks of life fill several boats anchored near the pier. The late afternoon sky is dominated by orange-red tones, adding warmth and colour to the event.  
+
+The composition resembles Fang’s 1984 painting Peaceful Settlement of  the Future of  Hong Kong. After China and Britain negotiated the future of Hong Kong and signed the Sino-British Joint Declaration in 1984, Fang made several Ode to Peace paintings to express her positive outlook on the smooth transition and the future of the territory. Several of the paintings in this series feature dragon boat contests—normally held during the Tuen Ng Festival (also called the Dragon Boat Festival) on the fifth day of the fifth lunar month. They express Fang’s sincere wish for world peace. On this work she has playfully inscribed the flags of the boats with the characters for ‘peace’, ‘long live world peace’ and ‘smooth sailing’.  
+
+這幅畫可見方召麐重複採用她所喜愛的構圖──畫面遠景的中心是一輪紅日，掛在維多利亞港的上空。水上的龍舟競渡氣氛熱烈，場面壯觀。每艘龍舟都有一舵手在船尾，一鼓手在龍頭，中間則是一隊槳手健兒在狹長的龍舟內滑動雙槳，向終點線前進。停泊在碼頭的幾艘船上，來自社會不同階層的觀眾聚集著觀看賽事。黃昏的天空被染成橘紅色，為盛會增添了暖意和色彩。  
+
+此畫的構圖與方召麐 1984 年的作品《和平解決香港問題》相似。在中英談判香港的未來並於 1984 年簽署中英聯合聲明後，方召麐繪畫了多幅「和平頌」，藉此表達她對香港平穩過渡和美好未來的祝願。這系列畫中有幾幅作品皆描寫了龍舟競渡──通常在農曆五月五日的端午節（又稱龍舟節）舉辦。方召麐表達了她對世界和平的真誠希望。在這作品中，她將她的美好祝願──「和平」、「世界和平」和「順利」，題寫在船上的旗幟。  
+
+![](images/7d547a9e6db0c52c60ee7885a75a8218bc2008cd7970b55db147ef513b1a697a.jpg)  
+
+# HUANG Zhou (b. 1925)  
+
+Dancer   
+1985   
+Horizontal scroll,   
+ink and colour on paper,   
+96.4 x 123.3 cm   
+Gift of the artist   
+HKU.P.1985.0870  
+
+Based on her attire, the female figure dancing joyfully at the centre of this painting is a Uighur from Xinjiang province. A male figure sits on her left, clapping his hands and admiring the performance. Forceful, vigorous brushstrokes give shape to her lively, whirling body, which turns from left to right. Hints of colour on the dancer’s lips, earrings, necklace and hands highlight her features and gestures.  
+
+Scenes of daily life in Xinjiang are a common theme in Huang Zhou’s work. His figural style was informed by his studies under Zhao Wangyun (1906–1977). Huang worked at Northwest Normal University and co-founded the Ministry of Culture’s Research Institute of Traditional Chinese Painting in 1981. Four years later, Huang visited Hong Kong, giving a painting demonstration and lecture at the Fung Ping Shan Museum on April 9. He donated the painting to the museum soon after.  
+
+# 黃胄 (1925 年生)  
+
+《舞者》  
+1985 年  
+設色紙本橫幅，  
+96.4 x 123.3 厘米畫家惠贈  
+HKU.P.1985.0870  
+
+按畫作中央位置徐徐起舞的女子的裝束推斷，她是來自新疆的維吾爾族。一位男子坐在她的左側，正一邊欣賞表演一邊拍手。強而有力的筆觸描寫了女子從左到右旋舞的曼妙姿態，顯得更生動逼真。舞者的雙唇、耳環、項鍊和手上的色彩進一步突出她的輪廓和肢體動作。  
+
+新疆的日常生活景象是黃胄畫作中常見的題材。黃胄師從趙望雲 (1906–1977)，故人物的繪畫風格深受其影響。他曾於西北師範大學工作，並於 1981 年創辦文化部中國畫研究院。四年後，黃冑訪港，於 4 月 9 日於馮平山博物館進行演講及繪畫示範，並將此畫作惠贈予本館。  
+
+![](images/cfb98cbad45497f18a5a050bbed284c6f21bf4e29b93abd42df42f5561b71410.jpg)  
+
+# LIU Haisu (1896–1994)  
+
+Man Jiang Hong (Mount Huang)   
+1988   
+Horizontal scroll,   
+splashed ink and colour on paper,   
+$95\mathrm{~x~}177\mathrm{~cm}$ 1   
+Gift of the artist   
+HKU.P.1997.1144  
+
+Liu Haisu painted this work on his last visit to Mount Huang at the age of ninety-two. Vivid splashes of ink and a heavy use of colour showcase the grand, imposing mountain range, surrounded by flowing clouds. The expressive use of colour reflects the influence of postimpressionism on Liu’s work, particularly his early paintings. A Chinese poem inscribed on the top left corner, The River is Red (Man Jiang Hong), expresses Liu’s affection for Mount Huang. Perhaps a reflection of wishful thinking, it is affixed with one of his seals carved with the words: “Immortal Haisu” (Haisu buxiu).  
+
+Haisu had close ties to Hong Kong. In 1977, he held the exhibition Haisu: Old Man Painting and Calligraphy at the City Hall Museum and Art Gallery, followed by two solo exhibitions in 1981 and 1988. The 1988 exhibition was held shortly after his tenth visit to Mount Huang. In 1991, Liu received an honorary Doctor of Letters from HKU in recognition of his achievements in painting and art education. He donated a number of works to the university at a ceremony held in January of the following year. The Liu Haisu Gallery of the university museum is named in his honour, acknowledging his patronage of the museum and his contributions to art in Hong Kong.  
+
+# 劉海粟 (1896–1994)  
+
+《滿江紅》( 黃山 )  
+1988 年  
+潑彩紙本橫幅，  
+$95\mathrm{~x~}177$ 厘米  
+畫家惠贈  
+HKU.P. 1997.1144  
+
+這幅大型國畫是劉海粟第十次登臨黃山之作，其時他已 92 歲高齡。畫家用色厚重，以潑彩技法呈現千岩萬壑、雲霧環繞的景象，氣勢雄偉。色調強烈，大有他早年崇尚的野獸派風格特徵。畫的左上方是劉海粟自題，用《滿江紅》填詞一首，道出畫家對於黃山的綣戀情懷。畫上鈐印，有一方印章刻著「不朽」二字，這或許反映了他的期許。  
+
+劉海粟與香港的關係密切。1977 年，劉氏在香港博物美術館 ( 現香港藝術館 ) 舉辦「海粟老人書畫」展覽，隨後在 1981 年和 1988 年又舉辦了兩次個展。1988 年的展覽是在他第十次訪問黃山後不久舉辦的。1991 年，劉海粟獲香港大學頒授榮譽文學博士學位，以表彰他在繪畫和美術教育方面的貢獻。翌年一月，劉氏惠贈一部份作品予香港大學。香港大學美術博物館的「劉海粟展覽廳」以劉海粟命名，承認他的捐贈及對本港藝術的貢獻。  
+
+![](images/c0728fbadd4d330baa0004c86d9160d0c408baff5c7b79814af6e3fe0b94a059.jpg)  
+
+![](images/e3de04d49f749c17526ee6d501e08f6f06b1a8f724edc39ec558ff894e9768b1.jpg)  
+
+![](images/e50c5bc6cd80819f98f46422bacb3844b141f656f327f6df5392d2401e325348.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Landscape   
+1988   
+Horizontal scroll,   
+ink and colour on paper,   
+96.4 x 123 cm   
+Gift of the artist   
+HKU.P.1989.0957  
+
+# 方召麐 (1914–2006)  
+
+Fang Zhaoling painted this landscape on September 30, 1988 at the request of Michael Lau, her classmate and a former curator of the Fung Ping Shan Museum. It depicts a sea view with people on boats rowing. The backdrop features a mountainous landscape of blue dots and washes outlined with calligraphic brushstrokes. Painted with diluted red ink, the sun stands still above the top of the mountains.  
+
+《山水》   
+1988 年   
+設色紙本橫幅，   
+96.4 x 123 厘米   
+畫家惠贈   
+HKU.P.1989.0957   
+Xin Peak at Mount Huang   
+1989   
+Horizontal scroll,   
+ink and colour on paper,   
+$68.8\mathrm{~X~}118\mathrm{~cm}$   
+Gift of Professor Chee-woo and Grace Po-shan CHOW   
+HKU.P.2009.1829  
+
+方召麐於 1988 年 9 月 30 日應馮平山博物館前館長和舊同學劉唯邁博士的要求繪製了這幅山水畫。此畫描繪了人物在海上泛舟的景象。背景以藍色點染敷色，而以書法線條鉤勒連綿不斷的山脈。山巒上的天空，紅日高掛在中央。  
+
+# 53  
+
+# CHOW Chian-chiu (ZHOU Qianqiu, 1910–2006) 周千秋 (1910–2006)  
+
+Xin Peak is particularly celebrated for its tall, vigorous pine trees and surreal beauty. The subject of numerous paintings, its appearance is often described as difficult to believe without first-hand experience.25 Shown swathed in mist, the artist has left large gaps between the mountains on the left and the pine trees on the right to represent clouds and to hint at the distance between peaks. An exceptionally tall pine tree on the right side of the painting draws the eye upward to a small, lone pine on the peak’s summit.  
+
+Chow Chian-chiu was a student of Chao Shao-an, a master of the Lingnan School, who was heavily influenced by Chao’s methods of sketching from life. He was particularly famous for his paintings of tigers, and later in life earned the honorific ‘Tiger Chow’. He married Leung Chen-ying (1921–2005) in 1944 and the couple spent a lifetime travelling and painting famous mountains and rivers. The inscription indicates that Chian-chiu painted this work in America in 1989, likely to serve as a record of an earlier visit to Mount Huang.  
+
+《黃山始信峰》  
+1989 年  
+設色紙本橫幅，  
+68.8 x 118 厘米  
+周齊武教授及周寶珊女士惠贈  
+HKU.P.2009.1829  
+
+始信峰以其高峻挺拔、茂盛的松樹及夢幻般的壯麗景色而備受推崇。作為無數繪畫的主題，始信峰的景觀叫未曾親身踏足當地的人難以置信。 煙嵐雲岫，畫家刻意於左邊的山脈和右邊的松樹之間作大量的留白，以表現雲霧和暗示山峰之間的距離。畫右下方一棵高高的松樹巍然屹立，引領觀者的目光往上移來細察山峰上的一株小孤松。  
+
+周千秋師從嶺南畫派大師趙少昂，深受其寫生技巧影響。他特別擅長繪畫老虎，後來更被譽為「周老虎」。周千秋於 1944 年與梁粲纓 (1921–2005) 結婚，二人終生走訪世界各地，繪畫山川名勝。據畫作的款識所載，周千秋於 1989 年在美國完成此作，很可能是作為較早前遊歷黃山的紀念。  
+
+![](images/afe40b8f074a622ffe8f441edcceb9b7147be39e6da2fa78b025f45ee4b5db6c.jpg)  
+
+# Irene CHOU (aka CHOU Lu Yun or ZHOU Lüyun, 1924–2011)  
+
+Abstract Composition   
+1980s   
+Vertical scroll,   
+ink and colour on paper,   
+$138.8\mathrm{~X~}69$ cm   
+HKU.P.1986.1414  
+
+Two spheres sit side by side at the centre of this abstract composition, separated by an uneven vertical line. On the left side, dense ink and the artist’s distinctive violent and short brushstrokes—what she called ‘impact structural strokes’—form a vertical zone, with a white ball at the centre. Sparse red dots at the top of the dividing line terminate in Irene Chou’s personal seal, a tiny character for yun (‘cloud’) in seal script.  
+
+Seemingly simple, the composition demonstrates Chou’s mastery of a range of techniques associated with both the ‘impact structural strokes’ of her Impact series and techniques associated with her ‘Dark Painting’ style, which she developed in the late 1970s. She has carefully applied multiple layers of ink wash to both sides of the thin xuan paper, systematically creating a sense of structure and depth, while forming a dark, thick and concentrated ink layer with a luminous surface and soft tones. Instead of the heavy calligraphic lines that she frequently employed between 1971 and 1975 (see cat. 38), Chou has delicately rendered intertwining roots or twigs with thin, resilient lines that spring up to the right of the vertical line above the red ball. The ink gradually lightens as the eye travels down the painting.  
+
+Chou painted the work during a period of depression after the death of her teacher Lui Shou-kwan (1919–1975) and her husband Yang Yanqi (1920–1978) in the late 1970s. Her works from this period were informed by her exposure to abstract expressionism, Neo-Confucianism, Buddhism and Taoism.  
+
+# 周綠雲 (1924–2011)  
+
+《抽象畫》  
+1980 年代  
+設色紙本直幅，  
+$138.8\mathrm{~x~}69$ 厘米HKU.P.1986.1414  
+
+兩個球體並排放置在中心形成這幅抽象畫的平衡構圖，一條隨意而不平整的垂直線居中分隔開兩個區域。左側的垂直區域以白球為中心，周綠雲運用自創的「激霰皴」繪製畫面的肌理，以繁密短小的筆觸，營造輕快而猛烈的灑濺效果。沿著垂直線的上方散布的幾個紅點，以周氏的個人印章畫上句號，那是一個小小的篆書「雲」字。  
+
+這個看似簡單的構圖表現了周綠雲的精湛畫藝，結合了她在 1970 年代末平行發展的技法及畫風，除了以激霰為題材的畫中所創的「激霰皴」外，還有她的重墨畫風格。周氏在薄薄的宣紙的紙面和紙背，以墨渲染若干次，細心地層積創造墨色的層次和厚度，直至濃黑而柔和的重墨聚集呈現在畫面。周氏在 1971 年至 1975 年間，常用筆力穩健的書法性線條 ( 見圖版 38) 作畫，畫中紅球上方的垂直線的右側區域，周氏則以柔韌幼細的線條描寫樹根和枝節彼此交織的結構。隨著眼睛往下觀看，右側的墨色愈見淡色，及近乎留白。  
+
+周綠雲的老師呂壽琨 (1919–1975) 和她的丈夫楊彥岐 (1920–1978) 自 1970 年代末相繼辭世。周綠雲在這段抑鬱期間繪製此畫。從這段時期的作品可見，抽象表現主義、新儒學和佛道思想都影響她的創作。  
+
+![](images/be82944db4ab590ba5ab15932d00901853d3b90edfa3a4a8f0eb5fb23bc41c3f.jpg)  
+
+# LEUNG So-ying (LIANG Suying, b. 1930) 梁素瀅 (1930 年生)  
+
+Landscape   
+1980s   
+Vertical scroll,   
+ink and colour on paper,   
+$119.7\mathrm{~X~}59.6\mathrm{~cm}$ 1   
+HKU.P.2002.1407  
+
+Leung So-ying studied Chinese painting with several notable painters in the Department of Extramural Studies at CUHK in the 1960s. Perhaps the biggest influence on her style of landscape painting was Lui Shou-kwan’s (1919–1975) Brush and Ink Painting (shuimohua) course. In this vertical work, the density of paint in the composition varies between the top and bottom. The top presents a horizontal view of continuous, undulating ridges and towering mountains, while the lower half is comprised of mysterious abstract patterns. Executed in monochrome ink, the mountains extend from the middle ground to the far end, with the sky acting as a void. In the foreground, wave patterns in lighter ink tones seem to surge forward imposingly.  
+
+Leung founded the One Art Group in 1970, along with several other students of Lui Shou-kwan. She participated in local and overseas exhibitions when the New Ink movement was in vogue in the 1970s, including New Directions in Chinese Painting: 11 Contemporary Chinese Artists at the University of Kansas Art Museum in the United States and several group exhibitions held at HKU in 1973 and 1974.  
+
+《山水》  
+1980 年代  
+設色紙本直幅，$119.7\mathrm{~x~}59.6\$ 厘米HKU.P.2002.1407  
+
+梁素瀅於 1960 年代參加香港中文大學校外進修部所提供的藝術課程，跟隨諸位知名畫家學習中國繪畫。其中呂壽琨教授的水墨畫課程對她的山水畫創作影響甚鉅。在這直幅作品中，上半部分和下半部分的描繪密度有所不同。上半部分呈現連續而起伏的山脊和高聳的山脈與地面平行，而下半部分則是神秘的抽象圖案。山脈以褐色設色，從中間位置延伸到遠景，畫作頂部的天空則留白。在前景中，波浪狀圖案在較淺的色調中湧現，從而產生令人印象深刻的視覺效果。  
+
+1970 年，梁素瀅與呂壽琨門下的學生一起創辦一畫會。她在 20 世紀 70 年代新水墨運動鼎盛的時期積極參加本地及海外的展覽，包括 1972 年於美國堪薩斯大學藝術博物館舉辦的「中國畫新方向 $:11$ 位當代中國藝術家」展覽，以及 1973 年和 1974 年於香港大學舉辦的群展。26  
+
+![](images/d5017db3ce82f9a46eaeac7ef545b7bd1e74d0b67ab00a250dfa633dbc84bb5e.jpg)  
+
+# CHUI Tze-hung (XU Zixiong, b. 1936)  
+
+Hope I   
+1980s   
+Vertical scroll,   
+ink and colour on paper,   
+$185\mathrm{~x~}95.2$ cm   
+Gift of the artist   
+HKU.P.2002.1415  
+
+# CHUI Tze-hung (XU Zixiong, b. 1936)  
+
+Hope II   
+1980s   
+Vertical scroll,   
+ink and colour on paper,   
+$176\mathrm{~x~}95\mathrm{~cm}$   
+Gift of the artist   
+HKU.P.2002.1416  
+
+These two works weave together abstract colours and forms to express the idea of hope. The artist has applied a sequence of washes in monochrome ink and colours to create forms of various shapes and sizes. Much of the colour has been heavily diluted with water, but bright colours like yellow and green stand out on the surface.  
+
+Chui Tze-hung began working in a wide range of mediums, such as oils, watercolours, photography and sculpture in 1959. He was exposed to Western contemporary art through foreign art magazines such as ARTnews and Art in America, which he had access to as an employee of the Library of the Consulate General of the United States in Hong Kong. The American printmaker Joan Farra was a significant influence on his work, after studying with him in 1968, as was his teacher Lui Shoukwan’s (1919–1975) drive to revitalise Chinese painting. Chui also studied Chinese art and literature at China College in Hong Kong from 1962–1965, under mentors such as Chao Shao-an, (1905–1998) Pau Siu-yau (1892– 1985) and Pang Chap-ming (1908–2002).  
+
+# 徐子雄 (1936 年生)  
+
+《希之一》  
+1980 年代  
+設色紙本直幅，  
+$185\textrm{x}95.2$ 厘米畫家惠贈  
+HKU.P.2002.1415  
+
+# 徐子雄 (1936 年生)  
+
+《希之二》  
+1980 年代  
+設色紙本直幅，  
+$176\mathrm{~x~}95$ 厘米  
+畫家惠贈  
+HKU.P.2002.1416  
+
+《希之一》和《希之二》以抽象化的色塊和形狀來表達主題——希望。徐子雄用墨和色層層疊染，在畫面創造不同大小和形狀的造型。其中大部分的色彩與水交融化淡，但是鮮明的彩色如黃色和綠色卻躍然紙上。  
+
+自 1959 年起，徐子雄已開始進行不同媒介的創作，包括油畫、水彩、攝影和雕塑。他在美國駐香港總領事館的圖書館工作，故得以透過閱讀外國藝術雜誌如 ARTnews 和Art in America 來接觸西方當代藝術。1968年，徐氏師從美國版畫家鍾．花拉，亦隨致力復興國畫的呂壽琨 (1919–1978) 學習，故其畫風深受二人影響。在 1962 年至 1965年間，他在香港的中國書院攻讀中國藝術和文學，跟隨趙少昂 (1905–1998)、鮑少游(1892–1985) 及彭襲明 (1908–2002) 等導師學習。27  
+
+![](images/330306335b7e43fd925613f0a51126cbde6206f90869a052a1c8254a6f37c2eb.jpg)  
+
+![](images/cdac142119a8121b5f5e6081a490bae977587a230d06843f733d0fb17922e783.jpg)  
+
+# LEE Wai-on (LI Wei’an, b. 1937)  
+
+A Crowd of  People   
+1980s   
+Horizontal scroll,   
+ink and colour on paper,   
+133 x 178.4 cm   
+HKU.P.2002.1406  
+
+Upon closer inspection, the compact brownish strokes of this painting are revealed to be thousands of people crowded together. Though their faces are indistinct, their postures and clothes are carefully outlined. The ink tones vary subtly from a light brown at the top to a much darker brown at the bottom. This suggests a decrease in density as the eye moves downward, with the top representing both the front of the crowd and the focal point of the painting. The figurative representations of the people reflect a modernist narrative mode. The artist silently joins the group by signing his Chinese name at the bottom right.  
+
+Lee Wai-on moved to Hong Kong in 1950. His work was first exhibited at the In Tao Association’s inaugural exhibition, The First Joint Exhibition of  In Tao Art Association, in 1968. He is perhaps best known for a 3,400 sq. ft. mural painting of eighty-eight Taoist deities, which he painted above the front doors of the Furama Hotel in Hong Kong in 1973. In 1964, he established a studio (Lee Studio) with his wife Ching-man (also a painter) and became a full-time painting instructor, later teaching in the School of Architecture and the Department of ExtraMural Studies at HKU.  
+
+# 李維安 (1937 年生)  
+
+《人群》  
+1980 年代  
+設色紙本橫幅，  
+$133~\mathrm{~x~}178.4$ 厘米HKU.P.2002.1406  
+
+近距離觀看作品後，才發現那些散布畫面、布局緊湊而錯落有致的褐色筆觸，原是隱藏在墨色中的人山人海。雖然人的臉孔模糊，但是他們的姿態和衣摺以細筆鉤勒，井然有序。墨和色的交融由畫面滿佈淡褐色，過渡到底部滲透暗黑的褐色。這樣鋪排表明隨著觀看的視角由上而下，密度會降低，而其上方是人群結集開始的位置，又是此畫的重點。以若干簡筆人物使人群形象化，這反映現代主義的敘事方式。藝術家藉著在畫下方的中文簽名，低調地參與到群眾當中。  
+
+李維安於 1950 年移居香港。他的第一件作品於 1968 年在元道畫會的首個展覽——《元道畫會第一屆會員作品展覽》中展出。李氏最為人熟悉的作品大抵是他在 1973 年繪製關於道教 88 位神祇的壁畫，位於中環富麗華酒店前門，逾 3,400 平方尺。28 1964 年，他與妻子李靜雯一同創辦李氏畫苑，並擔任全職導師，其後他在香港大學建築學院和校外進修部任教。  
+
+![](images/e4735d4f2b7b0c0c70dc51f7386e929961fbf4b3516461987453ceb4845d0c1d.jpg)  
+
+# CHOW Chian-chiu (ZHOU Qianqiu, 1910–2006) and CHOW LEUNG Chen-ying (ZHOU LIANG Can-ying, 1921–2005)  
+
+The Alps   
+1990   
+Hanging scroll,   
+ink and colour on paper,   
+$121.3\mathrm{~x~}70.6\mathrm{~cm}$ 1   
+Gift of Professor Chee-woo and Grace Po-shan CHOW   
+HKU.P.2009.1830  
+
+Chow Chian-chiu and his wife Leung Chen-ying collaborated on many paintings over their long careers. He was responsible for the painting of this work, and composed a poem describing the beauty of the Alps during the couple’s three summer visits to Europe. It mentions the sound of the village bell echoing as the sun set over the mountains, and calls attention to wisps of smoke rising from chimneys in the foreground. Chen-ying contributed a calligraphic inscription.  
+
+Leung Chen-ying was born in Shunde, Guangdong province. She studied both Chinese and Western painting with Xu Beihong (1895–1953), the noted painter of horses and birds, at Guilin Art Teachers College in Guangxi province in 1938. She was known for the beauty of her calligraphy, which she learned by copying ancient masterpieces and rubbings.  
+
+# 59  
+
+# TSUI Kar-yeung (b. 1942)  
+
+Lotus  
+1990  
+Horizontal scroll,  
+ink and colour on paper,  
+66.5 x 37 cm  
+HKU.P.2006.1627  
+《阿爾卑斯山》  
+1990 年  
+設色紙本立軸，  
+$121.3\mathrm{~x~}70.6$ 厘米  
+周齊武教授及周寶珊女士惠贈  
+HKU.P.2009.1830  
+
+Executed with elegant brushwork, this painting depicts a blossoming lotus among leaves. The pinkish lotus enlivens the monochrome ink leaves, which also convey the visual pleasure of colour and erudition. The painting was dedicated to Professor Cheng Yiu-chung (b. 1939), a former chancellor of the City Polytechnic of Hong Kong (now the City University of Hong Kong) and HKU. The inscription notes that Professor Cheung  collected the work in 1990.  
+
+在漫長的畫家生涯中，周千秋與妻子梁粲纓共同創作了許多作品。以這幅作品為例，梁粲纓以書法寫上款識，周千秋則負責畫畫，並創作了一首詩描述阿爾卑斯山的秀麗景色，兼提及這是夫婦於夏天三遊歐洲的經歷。題詩提到當日落西山時，鄉村的鐘聲響徹四周，教人注目觀察前景中從煙囪升起的一縷縷炊煙。  
+
+# 周千秋(1910–2006)、周梁粲纓(1921–2005)  
+
+Tsui has close ties to the City University of Hong Kong, which houses the Tsui Kar-yeung Collection of Art— including over one hundred works of calligraphy and paintings donated by Tsui. Many were displayed in various parts of the former City Polytechnic campus in the late 1980s while its Kowloon Tong campus was under construction.  
+
+梁粲纓是廣東順德人。在 1938 年她就讀廣西貴林藝術師範學院，曾跟隨以畫馬聞名於世的畫家徐悲鴻 (1895–1953) 學習國畫和西洋畫。梁粲纓以其臨摹古代佳作與拓本而寫成的流麗書風聞名。  
+
+# 徐嘉煬 (1942 年生)  
+
+《蓮》  
+1990 年  
+設色紙本橫幅，  
+66.5 x 37 厘米  
+HKU.P.2006.1627  
+
+這幅畫筆觸優雅，描繪了自蓮葉中綻放的蓮花。粉紅色的蓮花賦予墨荷生氣，流露一種色彩與博雅的視覺愉悅感。此畫本來屬於香港城市理工學院 ( 現為香港城市大學 ) 及香港大學的前校長鄭耀宗教授 (1939 年生 )。據款識表示，鄭教授於 1990 年收藏此作。  
+
+徐嘉煬與香港城市大學的關係密切，他捐贈了逾百幅書法和繪畫作品予香港城市大學，成立「徐嘉煬書畫藏品」。早於九龍塘的校舍仍在修建之際，徐嘉煬的作品已於香港城市理工學院校園各處展出。  
+
+![](images/9d19bed54406840005edcf3928831b2a531a1cc848bb44b272daa70b1afbde14.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Five Horses   
+1990   
+Hanging scroll,   
+ink and colour on paper,   
+$139\mathrm{~x~}69.5$ cm   
+Gift of the artist   
+HKU.P.1996.1210  
+
+Horses have played a significant role in both military and civilian life in China for thousands of years. In Chinese paintings, they often represent the spirit of the literati. Fang Zhaoling made this painting in 1990—the Year of the Horse in the Chinese lunar calendar. The horse closest to the base of the painting is a war horse, surrounded by a backdrop of loosely-painted horseshoes in black ink. Standing with its front leg lifted as if stepping forward, it has the slender build and the short, upright tail of horses painted during the Tang dynasty. Two of the horses are saddled and bridled, with a child and a woman riding them. While the child’s riding posture is stiff and its horse short-limbed and ungainly, the female rider and horse appear as one, galloping at full speed—probably a reference to contemporary racehorses. Together they highlight Fang’s knowledge of the different types of horses used in historical Chinese paintings.  
+
+In her inscriptions, Fang often describes thoughts and insights derived from her everyday life and ink practice. In the large inscription at the top of this scroll, she discusses the experience of searching her mind for the different renderings of horses in paintings across the ages. The inscription and seals also mention Fang’s physical frailty and her wish for longevity.  
+
+# 方召麐 (1914–2006)  
+
+《五馬圖》  
+1990 年  
+設色紙本立軸，  
+$139\mathrm{~x~}69.5$ 厘米畫家惠贈  
+HKU.P.1996.1210  
+
+幾千年來，馬匹在中國軍事和平民生活等層面都扮演了重要角色。在中國畫中，馬常常象徵文人精神。方召麔於 1990 年馬年繪製《五馬圖》。她在這直幅作品的最底部畫了一匹戰馬，其周圍則用墨點了一個個馬蹄狀印記。畫中的戰馬提起前蹄作慢步行進的姿態，其體態修長，馬尾短且上揚，與唐代馬匹相仿。畫中較頂部位置所畫的兩匹馬均裝上馬鞍，分別由一個小孩和一位女士騎乘。小孩的騎乘姿勢僵硬，馬的四肢偏短，體態略顯笨拙。相反，女士與馬匹仿佛融為一體似的，正以全速策騎，與現代賽馬中馬匹奔馳形態相仿。方召麔在畫中對不同種類的馬有不同的處理手法，突顯了畫家對傳統中國畫中馬匹各種形態的深厚認知。  
+
+方召麔經常在題識中寫下她在日常生活和創作水墨時的思考和見解。在此畫的題識中，畫家提到她從腦海裏搜索古今不同馬匹的形態之不同畫法。她的題識和印章分別提及自己的體力較差，和她希望老當益壯的美好祝願。  
+
+![](images/e950b3bcb536b2e624096a303d5b289d00de771142a8d98baf5986c31614bee6.jpg)  
+
+![](images/0b7b2dfce05e41fa678581b3cada9801f2b99ecde41b5945d59c380be5b046aa.jpg)  
+
+# TAO Wan (1911–2004)  
+
+Deep in the Mountains   
+1954   
+Hanging scroll,   
+ink and colour on paper,   
+$133.4\times58.2\mathrm{cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2197_001  
+
+# TAO Wan (1911–2004)  
+
+Floating Village   
+1966   
+Hanging scroll,   
+ink and colour on paper,   
+$119.5\times45$ cm   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2197_004  
+
+# TAO Wan (1911–2004)  
+
+Spring Blossoms Covering the Mountains   
+1975   
+Hanging scroll,   
+ink and colour on paper,   
+$96\times41$ cm   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2197_007  
+
+# TAO Wan (1911–2004)  
+
+Camel Peak, Guilin   
+1991   
+Hanging scroll,   
+ink and colour on paper, $135.9\times69.2\mathrm{cm}$   
+Gift of Julia and Luke Tao   
+HKU.P.2015.2197_013  
+
+# 陶澐 (1911–2004)  
+
+《山徑幽深處》  
+1954 年  
+設色紙本立軸，  
+$133.4\times58.2$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2197_001  
+
+# 陶澐 (1911–2004)  
+
+《漁村圖》  
+1966 年  
+設色紙本立軸，  
+$119.5\times45$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2197_004  
+
+# 陶澐 (1911–2004)  
+
+《春樹滿山頭》  
+1975 年  
+設色紙本立軸，  
+$96~\times~41$ 厘米  
+陶衡女士和陶立先生惠贈  
+HKU.P.2015.2197_007  
+
+# 陶澐 (1911–2004)  
+
+《桂林駱駝峰》  
+1991 年  
+設色紙本立軸，  
+$135.9\times69.2$ 厘米  
+HKU.P.2015.2197_013  
+
+Painted over a period of almost twenty years, these four landscape paintings have long inscriptions drawn from historical art texts. Deep in the Mountains quotes The Dust of  Paintings by Shen Hao (1586–1661), Floating Village features an extract from An Introduction to Painting by Gu Ningyuan (active ca. 1620–1650) and Spring Blossoms Covering the Mountains quotes Searching for Great Peaks to Sketch, an inscription by Shi Tao (1642–1707). Tao Wan wrote his own inscription for Camel Peak, Guilin, which emphasises its expressive brushwork. Revealing Tao’s thoughts on theories of aesthetics proposed by painters and scholars from the past, the inscriptions also echo his stylistic approach, which is traditional but accentuated with novel elements.  
+
+Tao Wan was a traditional painter from Panyu, Guangdong province. He graduated from Sun Yat-sen University in Guangzhou and later studied under Pan Zhizhong (1873–1929), primarily by copying ancient masterpieces. He joined the Guangdong Chinese Painting Research Society in Guangzhou, before moving to Hong Kong in 1949 and then Toronto, Canada in 1989. His extensive travels within China and abroad informed his approach to landscape painting. In addition to his work as an artist, Tao was also an enthusiastic art educator. He taught at various institutions in Hong Kong from the 1950s to the late ’80s, including HKU (1986–1989) and CUHK (1981–1986).  
+
+這 四 幅 繪 畫 用 了 近 二 十 年 時 間 創 作，每 幅 都 附 有 畫 家 引 用 古 代 藝 術 文 獻 寫成 的 長 跋。《 山 徑 幽 深 處 》、《 漁 村圖 》 和《 春 樹 滿 山 頭 》 三 幅 作 品 分 別引 用 了 沈 顥 (1586–1661) 的《 畫 麈 》、顧 凝 遠 ( 活 躍 於 1620 年 代 至 1640 年代 ) 的《畫引》、以及石濤 (1642–1707)《搜盡奇峰圖卷》的題識。至於《桂林駱駝峰》一作，陶澐親自寫上款識，強調粗放筆墨的重要性。上述的題跋展現陶澐對於前代畫家和理論家提倡的美學理論的想法，並呼應了他的風格──既堅守傳統， 卻又着重創新。  
+
+陶澐是一位來自廣東省番禺的傳統畫家。他畢業於廣州中山大學，其後師從潘致中(1873–1929)，以臨摹古代大師之作為主。他加入廣東國畫研究會，在 1949 年移居香港，再於 1989 年移民加拿大的多倫多。陶澐在國內與海外的遊歷豐富了他的山水畫技法。他除了是一位畫家，更是個充滿熱忱的藝術教育家。在 1950 年代至 1980 年代末，他在香港不同機構從事教學工作，包括香港大學(1986–1989) 和香港中文大學 (1981–1986)。  
+
+![](images/dc5c2444f930c783d1f3a7b89799ec9f6206c4514b8496bb3b86074b36f20cf8.jpg)  
+
+# Nancy CHU WOO (b. 1941)  
+
+Alpine Lake   
+1992   
+Horizontal scroll,   
+ink and gouache on paper,   
+$88\mathrm{~x~}176.5$ cm   
+HKU.P.2007.2372  
+
+The kaleidoscopic textural surface of this abstracted landscape was created through the application of multiple layers of colour washes, splashed ink and opaque colours on absorbent xuan paper. The subtle and luminous chromatic effects were achieved through the use of rich blues, greens, oranges and browns. The colours may be a reference to vegetation surrounding an alpine lake, represented by the white void at the centre of the painting. Dark, moist ink used on the right side of the painting imbues the forms with a sense of lushness.  
+
+Better known for her female nudes, Nancy Chu Woo’s innovative landscapes often bring different mediums and artistic traditions into dialogue through colour, mixing ink with gouache to create semi-abstract compositions. A contemporary artist with a diverse background, Chu was born in Guangzhou and studied art in the United States before settling in Hong Kong in 1973. Her cross-cultural experiences and travels inform her diverse artistic style, which blends approaches and techniques from traditional Chinese painting and Western abstraction.  
+
+# 朱楚珠 (1941 年生)  
+
+《冰湖景色》  
+1992 年  
+水墨粉彩紙本橫幅，  
+$88\mathrm{~x~}176.5$ 厘米  
+HKU.P.2007.2372  
+
+這幅抽象畫透過在宣紙上融合不透明的水粉顏料和潑墨技法，層層渲染而營造如萬花筒般的紋理質感。明亮而微妙的色彩效果是因為運用了豐富顏色，如藍色、綠色、橘色和褐色等。畫中心呈三角形的白色部分指向湖泊，而湖泊周圍的繽紛色彩則可能是林木和山脈。圖右的墨色滋潤濃厚，筆觸生動，賦予鬱鬱蔥蔥的氣象。  
+
+朱楚珠以繪畫女性裸體而聞名，她的山水畫則別出心裁，透過混合水墨和水粉等顏料創作色塊和半抽象構圖，從而使不同的媒介和藝術傳統在同一畫面進行對話。朱氏是一位具有多元文化背景的當代藝術家，她在廣州出生，香港長大，但在 1973 年定居香港之前，她駐留美國學習美術多年。這一跨文化背景和遊歷經驗，有助開拓多元藝術風格，融合中國傳統繪畫和西方抽象藝術的技法。  
+
+![](images/104b5a6e625f739129839cd27203ac528e2bdffa3772a606f69a4b95b3e76633.jpg)  
+
+![](images/d174072f33ab6c91438a00e3af037645449b29db3c858bfed441df8a71ce6c56.jpg)  
+
+![](images/57c597e548a9a69997277f9a409a1394806cf552c6092dec8154915e17cbb197.jpg)  
+
+# Raymond FUNG Wing-kee (b. 1952) 馮永基 (1952 年生)  
+
+The Unforgettable Moment 1992 Six vertical panels, ink and colour on paper, $112.5\mathrm{~x~}33$ cm each Gift of the artist HKU.P.2005.1587  
+
+This abstract painting in ink and colour presents a visual space where water meets sky. Layers of monochrome ink represent the sky, while various washes peppered with colour suggest the rhythmic textural effects of the ocean’s surface. The sun appears on each panel in a different position, descending from the sky into the sea.  
+
+An architect and ink painter, Fung studied Chinese painting with several notable artists of the Lingnan School, including Yang Shansen (1913–2004) and He Baili (b. 1945). He found his artistic voice in the New Ink painting movement of the 1960s, which emphasised innovation and individual style over traditional practice. The rendering of visual space in this work expresses Fung’s signature style from the 1990s, informed by his keen architectural and design sense. But the abstraction sets his vision apart from both architectural plans and realistic landscapes, and its subtle use of colour reflects the aesthetics of ink painting.  
+
+《難忘時分》  
+1992 年  
+設色紙本直幅六屏，各 $112.5\mathrm{~x~}33$ 厘米畫家惠贈  
+HKU.P.2005.1587  
+
+這幅抽象水墨畫呈現一個水與天空相遇的視覺空間。畫家用墨染出天空，其下方用色層層渲染，浮現出富有韻律感、波光粼粼的海面。代表落日的一抹紅色出現在各屏直幅的不同位置。從右至左細閱畫作，是紅日從天空沉落海中。  
+
+馮永基是一位建築師和水墨畫家，他追隨幾位著名的嶺南畫派畫家如楊善深 (1913–2004)、何百里 (1945 年生 ) 以傳統師徒形式學習中國畫。20 世紀 60 年代的新水墨運動強調創新與個人風格、多於臨摹的傳統手法，這使馮永基產生共鳴，發現他的藝術語言。從作品營造的視覺空間，可窺見馮氏敏銳的建築和設計觸覺，以及他在 1990 年代所建立的個人風格。但是此作的抽象取向顯示畫家的視野與建築平面圖和現實景觀區隔開來，其對色彩的巧妙運用更突顯了水墨美學。  
+
+![](images/083887cac05be4b8250119cfb086fa4c9c4707f60929c8960755b4d8fa29e884.jpg)  
+
+# Harold WONG Chung-fong (b. 1943) 黃仲方 (1943 年生)  
+
+In Search of  the Tao 1993 Horizontal scroll, ink and colour on paper, 68.5 x 136.5 cm HKU.P.2004.1535  
+
+In Search of  the Tao demonstrates Harold Wong’s signature expressive brushwork with overlapping layers of strokes in dry and wet ink. Wong’s landscapes are informed by both his traditional training in Hong Kong under the painter, calligrapher and seal-carver Koo Tsin-yaw (1896–1978) and by Western approaches to observational painting. He was exposed to the latter as a student in London in the 1960s, when he spent many holidays at the Norfolk studio of English landscape painter Edward Seago (1910–1974).29 The carefully planned composition of the work reflects his observations of landscape paintings by Seago and other Western artists, as well as real-life coastlines.  
+
+Other elements in the painting speak to Wong’s interest in literati pursuits, such as scholars sitting in contemplation and searching for paths. These traditional elements were informed by the paintings of old masters such as Dong Yuan (ca. 934–962), Hua Yan (1682–1756), Yun Shouping (1633–1690), Kuncan (ca. 1612–1674) and Bada Shanren (ca. 1626–1705), but also Wong’s family background and profession. His father, Wong Pao-hsie, had a large collection of Chinese paintings and Wong ran a classical painting gallery from 1977–1990.30  
+
+《尋道》  
+1993 年  
+設色紙本橫幅，  
+$68.5~\mathrm{~x~}136.5$ 厘米HKU.P.2004.1535  
+
+《尋道》展現黃仲方的精妙筆法，其細筆山水乾濕墨齊備，反覆點染而見層次。黃氏的山水畫得益於接受傳統的筆墨訓練，他在香港時跟隨著名書畫和篆刻家顧青瑤(1896–1978) 學習水墨畫。黃氏於 1960 年代往倫敦讀書，這使他能兼取西方繪畫觀察寫生的方法。他常在假日到訪英國風景畫家愛德華．西戈（1910–1974）的諾福克工作室觀摩學習。 這幅畫的構圖嚴謹，既反映了他如何理解愛德華．西戈和其他西方藝術家的風景畫，又體現他對真實海岸線的觀察。  
+
+此畫也反映了黃仲芳對文人傳統的追求，例如在畫中可見文人寓情於山水——席地而坐冥思，或尋道於山水間。他作品中的傳統元素可追溯至前代大師，舉如董源（約934–962)，華喦 (1682–1756)，惲壽平 (1633-1690)， 髡 殘 ( 約 1612–1674) 和 八 大 山 人( 約 1626–1705) 等大師畫作的影響，這也跟黃氏的家庭背景和專業關係密切。 黃仲方的父親黃寶熙雅好翰墨，收藏了大量中國畫；而黃仲芳於 1977 年至 1990 年間經營的一家畫廊，專營中國傳統書畫。30  
+
+![](images/ca1db2ba9b0f70c8a5330cab10b7786525b78c45f1d8717338757b84da94bf6a.jpg)  
+
+# Lucille LO Yuk-yin (b. 1946)  
+
+Village Path   
+1994   
+Vertical scroll,   
+ink and colour on paper,   
+$68\mathrm{~X~}67.8$ cm   
+Gift of the artist   
+HKU.P.2008.1724  
+
+Lucille Lo is primarily known for her mixed-media works, which often explore Taoist themes. Her early works from the 1990s mix elements of traditional Chinese brushwork with compositional strategies and techniques from Western painting. This work depicts a partiallyvisible village surrounded by trees, the latter given shape by heavily-pigmented colours. The path referenced in the title zigzags upwards between the green trees, drawing the eye up towards the village. Lo employs a form of Western perspective by painting the trees in the foreground in strong colours and dark ink, lightening them as they recede into the distance.  
+
+Lucille studied at the Hong Kong Polytechnic University and the Royal Melbourne Institute of Technology, obtaining an MFA and Doctorate in Fine Art. Forests are frequently depicted in her figurative works.  
+
+# 盧玉燕 (1946 年生)  
+
+《路》  
+1994 年  
+設色紙本直幅，  
+$68\mathrm{~x~}67.8$ 厘米  
+畫家惠贈  
+HKU.P.2008.1724  
+
+盧玉燕以混合媒體作品聞名，尤其是那些探索道教題材的作品。自 1990 年代起，她的早期作品便糅合中國筆墨和西方繪畫的構圖和手法。這幅作品描繪一座隱約可見的村莊，四周樹木環抱，重彩設色賦予林木形態而顯得蒼翠宜人。畫題「路」反映在畫面的樹木之間，一道明顯而狹小的山徑，石階路蜿蜒而上通往林中的村屋。此畫可見西方繪畫的透視，盧氏描繪的樹木近大遠小，尤以用色的濃淡深淺交代近景與遠景樹木的關係。近景的樹木墨色青綠濃豔，及遠向後由濃轉淡。  
+
+盧玉燕畢業於香港理工大學和墨爾本皇家理工大學，獲頒授藝術碩士和藝術博士學位。森林是盧氏早期作品中常見的主題。  
+
+![](images/2dbba4815b5d4f63bdd433ca799dac85d59ab60456a991236fe78a242094c2c7.jpg)  
+
+# LAU Wai-ming (1965–1998)  
+
+Feeling   
+1994   
+Vertical scroll,   
+ink and colour on paper,   
+$44.9\mathrm{~X~}33.5\mathrm{~cm}$   
+Gift of Ms Wong Oi Lan   
+HKU.P.2002.1441  
+
+The pictorial space in this vertical scroll is organised with thick, loose and expressive brushstrokes in ink and bright colours. The forms dissolve into brushwork and colours, but three-dimensionality is conveyed by layers of rocks, streams, trees and rapids. Outlined in white with short, dry brushstrokes, the rapids give the work a sense of movement and light. This sense of movement and the tension between various elements convey the artist’s spiritual and emotional state.  
+
+Lau Wai-ming suffered from cerebral palsy, which altered the way in which he wrote and drew. His passion for painting motivated him to learn to paint using a speciallydesigned head pointer,  and his works are often called ‘head-paintings’. Before he passed away in June 1998, Lau also experimented with mouth-painting. He was recognised several times as an outstanding disabled artist, receiving a Fellowship for Artistic Development from the Hong Kong Arts Development Council in 1997.31  
+
+# 劉偉明 (1965–1998)  
+
+《流》  
+1994 年  
+設色紙本直幅，  
+$44.9\mathrm{~x~}33.5$ 厘米黃藹蘭女士惠贈HKU.P.2002.1441  
+
+這件作品以隨意大膽的粗筆，糅合明亮設色，構建一直幅視覺空間。其他構圖元素融入筆觸和顏色中，但仍可見由山石、溪流、樹木和急流等形塑的立體空間。圖左的激流大致白色，而用乾筆枯墨皴擦激流中突出的石塊，以示明暗肌理，及流水飛瀉的動感。構圖中的筆墨元素所產生的張力和動感，傳遞藝術家的精神和情感狀態。  
+
+劉偉明罹患痙攣性腦癱，這使他另找方法代替手來繪畫和書寫。然而，他對繪畫的熱情推動他學會利用特製的頭箍上鑲接的筆桿作畫，因此他的作品被稱為「頭筆繪畫」。1998 年 6 月因病去世之前，劉氏也曾嘗試以口繪畫。劉偉明多次被公認為傑出的殘疾藝術家，並於 1997 年獲得香港藝術發展局頒發的藝術發展獎學金。31  
+
+![](images/b782c5d978a8310dff23ee8e2b0900107e945d678308d426442122c9b1ae156d.jpg)  
+
+![](images/10a11f6f9fbe6d57b27004067c73389cea0faf006d764862469fed305db94a0a.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+# 方召麐 (1914–2006)  
+
+# WAN Qingli (1945–2017)  
+
+# 萬青屴 (1945–2017)  
+
+Goldfish in the Style of  Xu Gu   
+1995   
+Hanging scroll,   
+ink and colour on paper,   
+88 x 68 cm   
+Gift of the artist   
+HKU.P.1996.1219 《仿虛谷魚變之》 1995 年   
+設色紙本立軸，   
+$88\mathrm{~x~}68$ 厘米   
+畫家惠贈   
+HKU.P.1996.1219   
+Ancient People   
+1995   
+Hanging scroll,   
+ink and colour on paper,   
+62 x 115.5 cm   
+Gift of the artist   
+HKU.P.2002.1452 《上古遺民》   
+1995 年   
+設色紙本立軸，   
+$62\mathrm{~x~}115.5$ 厘米   
+畫家惠贈   
+HKU.P.2002.1452  
+
+The three goldfish in the middle of the painting swim forward in the style of Xu Gu (1823–1896), an itinerant painter of the Qing dynasty known for his images of everyday life. His style is reflected in both the frontal position of the fish and their oval bodies. Fang avoids merely copying Xu Gu by dripping ink of different concentrations onto the paper to create the appearance of a greenish pond, a technique which she began experimenting with in 1960. Fang’s soft but expressive brushwork is used to great effect to juxtapose the shapes of different fish, which move in different directions to create a sense of rhythm in the composition.  
+
+Xu Gu was one of the best-known artists of the Shanghai School, which was comprised of a group of nineteenthcentury professional painters who placed less emphasis on symbolism than earlier literati painters. He and Fang shared a penchant for personal simplicity and the sensual enjoyment of daily life, as well as a common hope for a peaceful world—expressed here in the way the fish move harmoniously in their environment. In her own words, the work is “in the style of the paintings of $\mathrm{Xu}\mathrm{Gu}$ , yet transforms them.”  
+
+方召麐仿虛谷 (1823–1896) 的畫風，在此畫前景的中央畫了三條金魚游向前方。虛谷是清代畫家，一生雲遊四海，擅長描繪日常生活中的事物。虛谷的風格體現在以正面描繪金魚的形態及其橢圓形的身軀，但方召麐有意不落窠臼，此畫並非完全臨摹虛谷的作品。方氏在 1960 年代實驗潑墨，這一手法營造了綠色池塘。畫中墨色層次紛陳的圓圈圖案，浮浮沉沉，似搖曳的荷葉，或蕩漾開去的漣漪。方召麐的技法純熟，所繪畫的金魚各有姿態，饒富動感。  
+
+海上畫派泛指十九世紀末活躍於上海的職業畫家，其創作題材比文人畫家更常以各種具有象徵吉祥意味的事物入畫。虛谷是海派名家之一，他和方召麐皆追求拙趣，日常生活的閒情逸致，還有希望世界和平——這美好的願望寄寓於悠然自適的金魚。如方召麐自題，此畫是「仿虛谷而變之」。  
+
+Naked figures of men and women, including a breastfeeding mother and baby, form the centrepiece of this painting. They represent the inhabitants of a primitive village, living simple, self-sufficient lives. The controlled and dense brushwork is typical of paintings by Wang Meng (ca. 1308–1385), a celebrated painter from the late Yuan dynasty. Wan shared the associations and ideals of Yuan literati painters and admired their composition and brushwork. The archaic simplicity of the scene is meant to evoke a dream-like vision of the life of a hermit—a common theme in Yuan painting.  
+
+In the inscription, Wan describes how the simplicity and sincerity of Wuxing fu, a calligraphic work by Wang Meng’s grandfather Zhao Mengfu (1254–1322), moved him to paint an ancient subject. While he noted that his brushwork could not compete with that of Wang and his grandfather, Wan saw Ancient People as a necessary counterpoint to Western-style painting that flourished in China in the late twentieth century.  
+
+Wan graduated from the Department of Art History at the Central Academy of Fine Arts, and he received his PhD from the University of Kansas. He taught in the Department of Fine Arts at HKU from 1999 until his retirement in 2006.  
+
+這幅畫的前景描繪了渺小的男人和女人，當中包括一名正以母乳餵養嬰兒的母親。所有人都赤身裸體，代表原始村莊的居民，過著自給自足的簡樸生活。萬青屴對元末大家王蒙 ( 約 1308–1385) 推崇備至，他在此畫中仿王蒙畫風，筆法繁複縝密。萬青屴和元代文人畫家的理想殊有契合，並欣賞其筆墨和意境。畫中古樸的情境引發想像隱士般的生活──元繪畫中常見的主題。  
+
+畫家自題畫上的詩堂。萬青屴提到他最近讀了王蒙的外祖父趙孟頫 (1254–1322) 的書法作品《吳興賦》，深受其敦樸感動，因此以上古為題作此畫。萬氏自稱其筆墨不及趙孟頫和王蒙，但是這幅《上古遺民》卻能與二十世紀末的洋風熾熱的中國藝壇分庭抗禮。  
+
+萬青屴畢業於中央美術學院美術史系，並於堪薩斯大學獲得博士學位。他於 1999 年在香港大學美術系任教，直到 2006 年退休。  
+
+![](images/b862aaee1c8639dee740a50c53e87d13aa21d0678b2ef20344b6fee9e3cf0e93.jpg)  
+
+# WAN Qingli (1945–2017)  
+
+Mountains after the Snow   
+1995   
+Set of four hanging scrolls,   
+ink on paper,   
+$186.5\mathrm{~X~}96$ cm each   
+Gift of the HKU Museum Society   
+HKU.P.1997.1272  
+
+This majestic winter landscape reflects characteristics of typical Northern Song landscape paintings. A waterfall plunges hundreds of feet amidst blocks of mighty mountains protruding in the middle ground, with an impenetrable screen of monumental mountains in the background. Wintry trees in the foreground are depicted with short downward-drooping tree branches, evoking the ‘crab-claw’ style of the Five Dynasties and early Song painter Li Cheng (919–967). Tall trees set along the rivers appear in the classic level-distance formula, extending to the far right.  
+
+# 萬青屴 (1945–2017)  
+
+《群山雪霽》  
+1995 年  
+水墨紙本立軸四屏，  
+各 $186.5\mathrm{~x~}96$ 厘米  
+香港大學博物館學會惠贈  
+HKU.P.1997.1272  
+
+這幅氣勢磅礴的雪景山水呈現了北宋巨障山水的典型特徵。遠景是沉厚堅實而無法穿越的層巒疊嶂，用筆蒼勁俊秀。中景突出的高聳山脈，一道狹長的瀑布奔流直下。前景呈現雪停後的寒林景致，若干枯樹的畫法簡練，猶如五代宋初畫家李成 (919–967) 所創的「蟹爪」樹，其枝幹下垂如蟹爪。平遠曠闊之景可見枯樹於河流的兩岸，又將其視點向右邊伸延至遠方。  
+
+![](images/d3a423a9f2e58ee6408cfe045ed1725626434f363c6a9344cdf3d459d5d1bb44.jpg)  
+
+![](images/d0edbe6deba6e2aa8654f8ba624f37ebed9d78ad3aff9fdd02efdfa56078c57c.jpg)  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Seven-Character Poem by Du Fu and Enjoying a Cup of Wine While Eating Crab   
+1995   
+Two fans mounted as a hanging scroll:   
+Folding fan, ink on paper,   
+$23.6\mathrm{~x~}62.8\mathrm{~cm}$ ;   
+Round fan, ink and colour on paper,   
+diameter 47 cm   
+Gift of the artist   
+HKU.P.1996.1222  
+
+The upper fan is inscribed with a famous Tang poem by Du Fu (712–770), which describes a reunion between old friends in Jiangnan, south of the Yangtze River. The friends are aged, having lived wandering lives linked to the rise and fall of a great empire. On the lower fan, a painting executed in a slightly awkward, childlike fashion, depicts two crabs on a plate and a pair of wine cups, outlined with linear calligraphic brushwork. The crabs are painted in the ‘boneless’ method, using washes of colour without an outline.  
+
+Although the calligraphy does not explicitly refer to the crab and wine depicted in the painting, both complement each other. Fang’s hometown in southern China, which she thought of often, is also the home of the hairy crab. By depicting two crabs on the plate and two cups next to it, the painting implicitly suggests a reunion of friends. Fang made the two works in her eighties, and Du Fu’s poem about old friends reuniting recalls her peripatetic existence and the experience of aging, while enjoying a leisurely artistic life.  
+
+# 方召麐 (1914–2006)  
+
+《杜甫七言詩及把酒持螯圖》1995 年  
+紙本扇面立軸：  
+書法扇面 $23.6\mathrm{~x~}62.8$ 厘米；設色扇面直徑 47 厘米  
+畫家惠贈  
+HKU.P.1996.1222  
+
+立軸上方的書法扇面，出自唐代著名詩人杜甫 (712–770) 的七言詩《江南逢李龜年》，描述了老朋友再次在江南（長江以南）相遇的美好時刻。步入老年的兩人因為國家的興衰過著顛沛流離的生活，心生感慨。其下方的扇面筆觸稚拙生趣，盤子和杯子及其裝飾圖案的輪廓用墨筆鉤勒，而盆中的兩隻螃蟹則運用沒骨法。  
+
+雖然書法內容中沒有明確提到畫中描繪的螃蟹和酒，但頂部和底部的書法和繪畫互相補充。方召麐出生於中國南方的無錫，即使在香港定居後，她仍然想念著家鄉——而中國南方盛產大閘蟹。畫中的盤子上有兩隻螃蟹，旁邊有兩個酒杯，這隱喻了一場朋友的重聚。方召麐在八十多歲時創作這兩件作品。當她享受著文藝生活，杜甫的詩喚起她與老朋友相聚的歡樂，又懷遲暮之感。  
+
+# FANG Zhaoling (FANG Chao-ling, 1914–2006)  
+
+Eight People and Two Horse   
+1995   
+Hanging scroll,   
+ink and colour on paper,   
+$134.2\mathrm{~x~}68.6\mathrm{~cm}$   
+HKU.P.1996.1216  
+
+Fang returned to the subject of horses many times throughout her career. In this painting, five small figures dance joyfully between two women on horses and a man standing on the left. The uplifting spirit of the work is accentuated by bright colours and the cheerful expressions on people’s faces. The red-robed woman standing behind the horse in the foreground is apparently the focus of the painting, being slightly larger and more prominently placed than the other figures. Her costume and horsewhip suggest that she is a nomad, while the figure wearing a coat and trousers, sitting on the horse and looking out at the viewer, is a modern woman. Seals are playfully affixed on the figures, some of whom have auspicious wishes inscribed in the fabric of their clothes.  
+
+Fang was a skilled and versatile painter, but she was also industrious, working throughout the year. In this piece, the use of the horse—a traditional symbol of endurance in the face of hardship and labour—together with a seal which reads “work hard to innovate”, emphasise the importance of diligent practice. In the inscription, Fang also highlights the calligraphic nature of her brushwork and lines. She also notes her original intention to paint a landscape with people and horses, which she decided against on a day of severe weather one and a half months after she drafted her painting, as well as her decision to apply colour instead of monochrome ink.  
+
+# 方召麐 (1914–2006)  
+
+《八人二馬圖》1995 年設色紙本立軸，$134.2\mathrm{~x~}68.6\$ 厘米HKU.P.1996.1216  
+
+縱觀方召麐的繪畫生涯，她多次以馬為創作主題。畫中五個矮小的人物在兩個騎馬的女人和左邊佇立的男人之間，歡欣雀躍地翩翩起舞。鮮艷的設色和人物愉悅的表情使畫面洋溢著歡樂的氣氛。前景站在馬匹背後的紅袍女子顯然是此畫的焦點，她明顯較其他人物略為大，且處於較為突出的中心位置。她的裝束和手持的馬鞭表明她是遊牧民族；而另一位身穿外套和長褲，安坐於馬背上並直視觀者的則是一位現代女性。印章巧妙地疊印在人物上，部分人物的衣服上更寫有吉祥語句。  
+
+方召麐是一名技藝高超、多才多藝，卻又極為勤勞的畫家，長期潛心創作。畫中的馬正好是遇上困難仍堅忍不拔的傳統象徵，配合印文「艱苦創作」，突出努力工作的重要性。方召麐在題跋中表示其書法性筆觸和線條都是通過練習書法而成。她亦說明本來此圖構思是山水人物馬匹，不過，當她完成這幅畫的初稿後約一個半月，在天氣惡劣的一天，她決定將繪畫主題聚焦於人物和馬，並以設色而非水墨繪製，正如這幅畫所示的效果。  
+
+![](images/e2fe4aacf61fa50a099bf2669b5e77b02de4a5d61d5c135f6fc3e93bef233a33.jpg)  
+
+# PANG Chap-ming (aka PANG Jop-ming or PENG Ximing, 1908–2002)  
+
+Rivers, Mountains, Clouds and Mists   
+1995/1996   
+Horizontal scroll,   
+ink and colour on paper,   
+54.1 x 119.2 cm   
+Gift of Ms Au Yee-lin   
+HKU.P.2005.1614  
+
+This landscape features a river surrounded by monumental mountains, in sketchy but bold calligraphic lines of dark and light ink. Washes and dotting techniques give the geography texture and volume, while voids create areas of cloud and mist between the village and landscape. Peng’s brushwork is traditionalist, but the spatial arrangement has a modern sensibility. His seal states that he “visited with the spirit of heaven and earth” while painting it, which helped him to explore his vision of an ideal landscape.  
+
+Many of Peng’s works began with sketches of nature from his travels in China—particularly to famous mountains— and he often encouraged his students to observe nature by taking them to local scenic spots. He also painted from memory. During a period of seclusion at the Shangqing Monastery on Mount Qingcheng during the Second SinoJapanese War (1937–1945), he made the acquaintance of the painter Chang Dai-chien (1899–1983) who gave him the name the ‘Hermit of Painting’.  
+
+Peng had a keen grasp of classical taste, largely due to his family background. His mother, known as Madame Di, was the niece of the famous connoisseur and collector Di Pingzi (1873–1940). Through this connection, Peng was able to study thousands of original rubbings at the home of Gu Xieguang (1875–1949), as well as many important private collections in Shanghai, including Di Pingzi’s. He refined his technique through copying and imitating works in these collections. Peng moved to Hong Kong from Shanghai in 1950, living in the New Territories, where he enjoyed a quiet life surrounded by nature. He taught many students, and most of his paintings were given as gifts to his students and friends.32  
+
+# 彭襲明 (1908–2002)  
+
+《溪山煙靄圖》1995/1996 年設色紙本橫幅，54.1 x 119.2 厘米區二連女士惠贈HKU.P.2005.1614  
+
+這片山水景色描繪被高山峻嶺環繞的河流，落筆大膽率性，濃淡有致。著色點苔刻劃地貌質感，賦予立體感，而村落與山脈之間的留白則是煙靄繚繞之景。彭襲明的筆墨傳統，其空間布局卻散發出現代感。他的一方印章刻著「與天地精神往來之」，這是他作畫時的情境，使他能追求一己理想的山水。  
+
+彭襲明許多的作品源自他在中國寫生──特別是在名山旅遊期間畫下的自然景觀。他帶領學生遊覽本地風景怡人的名勝，藉此鼓勵他們觀察自然。彭襲明亦憑記憶寫畫。在抗日戰爭期間 (1937–1945)，他曾在青城山的上清宮隱居，結識了張大千 (1899–1983)，張大千稱其為「畫之隱者」。  
+
+彭襲明對古典品味的敏銳觸覺源於其家庭背景。他的母親狄氏是著名的鑑賞家和收藏家狄平子 (1873–1940) 的侄女，彭襲明通過此關係得以在顧燮光 (1875–1949) 的家中研習上千幅拓本真跡、及許多上海重要的私人收藏，包括狄平子的收藏。透過臨摹和仿作各大收藏的藝術品，彭襲明的繪畫技巧更臻成熟。1950 年，他從上海移居香港並定居新界，享受寧謐的自然環境。彭襲明桃李滿門，更將大部分畫作贈予學生與友人。32  
+
+![](images/252619ced3fb5304be2b036a6b8ef01a5f4b1d88fa7f7c030b51bb5130c9559c.jpg)  
+
+A Flower Is Not A Flower   
+1996–2001   
+Hanging scroll,   
+ink and colour on paper,   
+54 x 63 cm   
+Gift of the artist   
+HKU.P.2008.1714  
+
+This modern ink painting eschews explicit geometric patterns (see cat. 41). Instead, a variety of forms show the painter’s interest in utilising diverse brushstrokes and ink techniques to create an abstract composition. The rendering of lines underneath the splashed ink also suggests the artist’s interest in printmaking techniques. As the title indicates, it is not a realistic depiction of a flower. The abstract image is symbolic or may simply represent a fleeting moment in life. Much of Leung’s style was shaped by his teachers Lui Shou-kwan (1919–1975) and Wucius Wong (b. 1936), who he studied with at the Department of Extramural Studies, CUHK.  
+
+《花非花》  
+1996 年至 2001 年設色紙本立軸，  
+54 x 63 厘米  
+畫家惠贈  
+HKU.P.2008.1714  
+
+這幅現代水墨畫不見明確的幾何圖形 ( 如圖版 41)，相反，畫家運用不同的筆觸和水墨技巧創作了此幅抽象構圖。潑墨底下線描幼細生硬，反映藝術家對版畫技法的興趣。如畫題所提示，《花非花》並非描繪花，畫面的抽象圖像具象徵意義，或是單單表現人生裡的一瞬間。梁巨廷的作品風格深受在香港中文大學校外進修部的老師呂壽琨(1919–1975) 和王無邪 (1936 年生 ) 影響。  
+
+# LEUNG Kui-ting (LIANG Juting, b. 1945) 梁巨廷 (1945 年生)  
+
+# 74  
+
+# YANG Jiechang (b. 1956)  
+
+Triangle Cross 1996 Vertical scroll, ink on paper, 47 x 38.2 cm Gift of the artist HKU.P.1997.1395  
+
+# 楊詰蒼 (1956 年生)  
+
+Triangle Cross explores the materiality of ink as a medium on a relatively small scale. It features a single form: an abstract triangle cross, formed from numerous layers of black ink embedded in wrinkled xuan paper. The thickness of the ink gives the sculptural mass a reflective, metallic quality. Yang applied multiple layers of ink as if writing in a diary, each layer reflecting his moods and memories.  
+
+Yang Jiechang is celebrated for his series One Hundred Layers of  Ink, which he painted between 1989–1999 using techniques similar to Triangle Cross. Some of these were influenced by Western art, which Yang encountered through lectures given by Joan Lebold Cohen (b.1932), an art historian, curator and photographer at the Guangzhou Academy of Fine Arts. He also spent two years studying Taoism on Mount Luofu and Zen Buddhism at the Guangxiao Temple between 1984 and 1986, but his work was perhaps most influenced by a move to Paris in 1989, which provoked a significant change in his life and art. He began to deconstruct traditional Chinese paintings and calligraphy and to explore abstract forms using Chinese materials and tools as methods of self-reflection and cultivation.  
+
+《三角十字》  
+1996 年  
+水墨紙本直幅，  
+$47\mathrm{~x~}38.2$ 厘米  
+畫家惠贈  
+HKU.P.1997.1395  
+
+《三角十字》以偏小的畫幅探討水墨作為藝術媒介的物質性。作品聚焦在畫面上的單一幾何造型—一個抽象化的三角形十字架。濃而黑的厚墨賦予作品雕塑形態，透過重複積墨，墨色有反光，儼然產生一種金屬感。楊詰蒼在繪製此畫時，塗抹一層層的墨，就仿似在寫日記一般，每一層墨都反映著他的情緒和記憶。  
+
+楊詰蒼以他的《千層墨》系列而聞名，這是他在 1989 年至 1999 年期間用類似於製作《三角十字》的方法繪製的作品。藝術家在廣州美術學院求學時出席柯瓊樂女士的一系列演講，柯瓊樂女士是一名藝術史學者、策展人和攝影師，他因此接觸西方藝術，此系列的部分作品也受到影響。楊詰蒼曾花了兩年時間在羅浮山學習道教，並於1984 年至 1986 年期間在光孝寺學習禪宗佛教。他在 1980 年代中期開始解構中國傳統書畫，並探索抽象形式。但對他的作品和生活態度影響最大的，或許是他於 1989 年移居巴黎。自此他視中國材料和工具為一種自我反思和成長的方法。  
+
+![](images/11f693fb507b3520152c658c3e15396462ca3be37824734d53e0ede76a878eba.jpg)  
+
+# TSUI Kar-yeung (b. 1942)  
+
+Stillness   
+1997 or earlier   
+Horizontal scroll,   
+ink and colour on paper,   
+$68.9\mathrm{~X~}136.4\mathrm{~cm}$   
+Gift of Dr Lam Kwok-pun   
+HKU.P.1997.1191  
+
+Stillness reveals Tsui Kar-yeung’s experiments with colour as a medium to shape landscapes. It depicts a still, tranquil mountain landscape at dusk after the snow has stopped falling, primarily tones of blue that characterise works made by Tsui before 1997. The mountain is outlined with thick, spontaneous ink in the middle ground, which brings out white patches along the slopes—perhaps reflected light or snow. Echoing the sunset, one of the seals refers to the sun setting in a remote corner of the earth.  
+
+Tsui Kar-yeung grew up surrounded by traditional Chinese culture. His father was a calligrapher and painter, and he was mentored by several skilled Chinese painters. He learned brush techniques and splashed ink from Tang Hong (1926–2018, a student of the famous bird-and-flower painter Yu Fei’an), Song-style landscape paintings from Pang Chap-ming (1908–2002) and sketching from nature from Chao Shao-an (1905–1998). The use of colour in works like Stillness appears to be most informed by Tsui’s studies with Tang Hong, particularly Tang’s use of the splashed ink style of Chang Dai-chien (1899–1983); time spent in Japan in 1958 also informed his sense of colour.  
+
+# 76  
+
+# 徐嘉煬 (1942 年生 )  
+
+《暮雪時》1997 年或之前設色紙本橫幅，68.9 x 136.4 厘米林國本醫生惠贈HKU.P.1997.1191  
+
+《暮雪時》一作體現徐嘉煬對色彩的實驗，以色彩為塑造山水的媒介，描繪了黃昏時分雪停後靜謐的山景。畫面的藍色色調屬於徐嘉煬在 1997 年前作品的特色。中景的山脈以厚重而隨意的筆觸鉤勒，沿著山坡呈現的白色色塊，可能是反射光或雪。畫家的一方印章寫著「夕陽仍在天涯」，這與日落的景致互相呼應，說明夕陽西下的情景。  
+
+徐嘉煬的父親是一名書畫家，故他從小深受傳統中國文化薰陶，並學藝於幾位技藝高超的中國畫家門下。徐嘉煬跟隨唐鴻 (1926–2018)( 唐鴻是著名花鳥畫畫家于非闇的學生 ) 學習筆墨和潑墨技法，又向彭襲明 (1908–2002)學習宋代風格的山水畫，更追隨趙少昂 (1905–1998) 學習寫生。《暮雪時》著色效果大抵最受唐鴻所用張大千(1899–1983) 的潑墨風格影響。他在 1958 年求學日本的經驗也豐富他運用色彩的知識。  
+
+Mountain Harmony   
+1997   
+Horizontal scroll,   
+ink and colour on paper,   
+94.9 x 178 cm   
+Gift of the artist   
+HKU.P.2005.1586  
+
+This panoramic overview of rugged, cloudy mountains is painted in washes of green and brown, with delicate, textured brushwork. Fluffy white clouds between the ridges appear to move, adding a sense of dynamism to the work. The spatial arrangement of mountainous forms and voids leads the eye into the remote distance, opening up the composition and underlining the grandeur of the tall mountains.  
+
+# POON Chun-wah (b. 1936)  
+
+A well-known nature photographer and keen traveller, Poon Chun-wah’s approach to landscape painting was informed by his travels and a period of study under Lui Shou-kwan (1919–1975). He moved to Hong Kong in 1959 and continues to actively participate in local and international exhibitions.  
+
+# 潘振華 (1936 年生 )  
+
+《遊思》  
+1997 年  
+設色紙本橫幅，  
+$94.9~\mathrm{~x~}178$ 厘米  
+畫家惠贈  
+HKU.P.2005.1586  
+
+這幅山水的全景構圖呈現粗獷的崇山峻嶺與雲海交相映襯，筆法細緻，兼以皴擦刻劃山石的質感。山峰的主體以褐色為主，深綠色則是山巔的林木。山脈之間鬆軟的白雲浮動，為作品增添動感。其空間布局虛實並用，由連綿不斷的丘壑為軸心引領觀者的視線穿越到遠景的山脈，構圖得以開展，突顯高山的壯麗。  
+
+潘振華熱衷遊歷，是著名的攝影師，以拍攝自然景觀為主題。潘氏的山水畫既受到他遊歷經驗影響，又在跟呂壽琨 (1919–1975) 習畫時受其啓發。生於廣州，潘氏於 1959 年移居香港，並積極參與本地及國際展覽。  
+
+![](images/1c026af7f0843ab229042d742ba216889ffbf7ce1c9edb7061ee7b1573454dd9.jpg)  
+
+![](images/7ccb66f8ff6106459c1efc9d1691c7e64cbe993d3faaf28bf60ffb7d14348a6a.jpg)  
+
+# Marina PANG (ca. 1940)  
+
+Winter Wonderland   
+1998   
+Set of four hanging scrolls,   
+ink and colour on paper,   
+$66\mathrm{~X~}67.5$ cm each   
+Gift of the artist   
+HKU.P.1999.1357 a-d  
+
+An area of vibrant blue floating clouds on the right side of this landscape references its Chinese title: Liuli shijie (‘The Beryl World’). The rest of the work is filled with a vast expanse of high mountains, cliffs and deep valleys in shades of ink and blue-green, demonstrating Marina Pang’s mastery of colour. Pang contrasts these colours with areas of void in the form of waterfalls, white pine trees and the drifting clouds and mist that surround the mountains. In the foreground, tiny houses bring to mind the practices of noble, scholarly recluses. The English title for the work, Winter Wonderland, is a reference to the time of year when it was produced.  
+
+Marina Pang entered the world of Chinese painting through Pau Siu-yau (1892–1985), who she met in 1970. Her early work focused on bird-and-flower paintings, which she studied from 1978 to 1983 with Chao Shaoan (1905–1998). She is better known for her landscapes, developed under the tutelage of (Huang Junbi, 1898– 1991), which incorporate brushwork and splashed ink techniques learned from He Baili (b. 1945).  
+
+# 彭蕙清 ( 約 1940 年生 )  
+
+《琉璃世界》  
+1998 年  
+設色紙本立軸四屏，  
+各 66 x 67.5 厘米  
+畫家惠贈  
+HKU.P.1999.1357 a-d  
+
+畫題「琉璃世界」的中文意思是青色寶石的世界。這幅四屏山水的右側出現一團青綠浮現在墨色表面，這亮麗的色澤呼應畫題，以青綠為主調。在設色以外，此畫描繪高山、懸崖和峽谷，層層渲染，體現彭蕙清的用色技巧。彭氏運用著色和留白的虛實對比以呈現冬季蕭瑟、像玻璃似的冰冷世界，以白色表現瀑布、被冰雪覆蓋的松樹和縈繞群山的雲霧。前景出現渺小的屋舍，這讓人聯想到在山林隱居的高士。此畫的英文題目意思是冬季仙境，這透露了創作的季節。  
+
+彭蕙清於 1970 年認識鮑少游 (1892–1985)，進而展開其繪畫國畫的生涯。她在 1978 年至 1983 年間師從趙少昂 (1905–1998)，因此可見她的早期作品以花鳥畫為主。彭蕙清以其山水畫著稱，她在黃君璧 (1898–1991) 的指導下建立個人風格，同時又在何百里 (1945 年生 ) 身上學到糅合筆墨和潑墨的技巧繪製山水。  
+
+![](images/9d7ec18fb336d1079ca2285ba6b6fcf988ced86edaebc5f4b7ac57c3091ff3ad.jpg)  
+
+# JIN Yanshi (b. 1954)  
+
+Harbinger of  Spring (Plum Blossoms)   
+1999   
+Hanging scroll,   
+ink and colour on paper,   
+69 x 46 cm   
+Gift of the artist   
+HKU.2000.1362  
+
+The title Baochun (‘Harbinger of Spring’) is inscribed on this painting. It features bunches of plum blossoms— traditional symbols of spring, perseverance and the literati spirit. The flowers and branches interlock, highlighting the contrast between the bright red petals and ink branches. While the entire painting is executed with expressive brushwork, the brushstrokes on the right are particularly free and informal, lending the work a sense of abstraction and spatial depth.  
+
+Jin Yanshi is a Yangzhou-based calligrapher and painter known for his paintings of plum blossoms. Yangzhou appears to have produced an unusually large number of painters specialising in plum blossoms, including Wang Shishen (1686–1759), Jin Nong (1687–1773) and Gao Xiang (1668–1752).  
+
+# 金硯石 (1954 年生 )  
+
+《報春》（《梅花》1999 年  
+設色紙本立軸，  
+69 x 46 厘米  
+畫家惠贈  
+HKU.2000.1362  
+
+據款識所示，這幅畫的標題為「報春」，以傳統上象徵春天、堅忍和文人氣質的梅花為主題。其體態奇崛，綻放的花朵和樹枝交錯纏繞，紅梅和墨枝之間的對比強烈。畫家用筆爽健，畫作右下方的筆觸揮灑而成，為作品增添一層抽象和深遠空間的意味。  
+
+金硯石是定居在揚州的書畫家，以畫梅著稱。自古以來，許多擅長畫梅的名家都來自 揚 州， 包 括 汪 士 慎 (1686–1759)、 金 農(1687–1773) 和高翔 (1668–1752)。  
+
+![](images/f98ee7ff2a8098d55a6b863301ffc824d25fa84263e3a5368a9b405bc56649b2.jpg)  
+
+# Stanley AU Wai-cheung (b. 1947)  
+
+Abstract Landscape   
+1990s   
+Vertical scroll,   
+ink and colour on paper,   
+$136.5\mathrm{~x~}102.5\mathrm{~cm}$   
+Gift of the artist   
+HKU.P.1997.1177  
+
+This abstract landscape appears to be a topographic view of a city or town. The angular composition is built from a lively arrangement of lines, squares, rectangles and other shapes. Comprised of three vertical scrolls, the central block utilises nearly all of the space, while the scrolls on the left and right sides have large areas of empty space. The geometric shapes are outlined or washed in diverse ink tones, ranging from light grey to black—perhaps corresponding to plots of land used for different purposes.  
+
+Prior to his painting career, Stanley Au worked as a geotechnical engineer. His early works include traditional landscapes and bird-and-flower paintings, but he later moved toward abstraction. The topographic style of Abstract Landscape recalls his expertise as an engineer, underscoring a series of voids and solids that may be areas of sea and land.  
+
+# 歐偉長 (1947 年生 )  
+
+《抽象山水》  
+1990 年代  
+設色紙本直幅，  
+$136.5\mathrm{~x~}102.5$ 厘米  
+畫家惠贈  
+HKU.P.1997.1177  
+
+這幅抽象的山水景色應是描繪一個城市或小鎮的地形景觀。充滿稜角的構圖由佈置得異常生動的線條、方形、矩形和其他不同的形狀組成。整件作品由三幅直幅合併而成，中間的直幅畫面近乎填滿，兩側的畫幅則大量留白。當中的幾何圖案以不同層次的墨色來鉤勒或點染，從淺灰色到黑色都有，這或許與不同的土地用途相關。  
+
+歐偉長全身投入繪畫以前，擔任土力工程師職位。他早期的作品以傳統山水和花鳥畫為主，後來風格逐漸變得抽象。這幅《抽象山水》的地貌風格令人聯想到他的土力工程專業，其所刻劃的空白和實體很可能代表海和土地。  
+
+![](images/f35c06d1c919cdb2bcd80582837b38c5a5fae9e703d24a52663df3a52c039059.jpg)  
+Artists by Home Province/Birthplace參展藝術家籍貫 / 出生地分布圖  
+- Home Province / Birthplace 籍貫 / 出生地 - Settled in / Visited Hong Kong 於香港定居 / 作客  
+
+![](images/a9d7dec1cc51bc76cd4bcf1715ae8ef3e79c907f717e8ca07eae8b58592d8b74.jpg)  
+
+1 - AU Wai-cheung 歐偉長 (b.1947)   
+2 2 - CHAN Flora Kay 陳鳳姬 (b.1930)   
+3 3 - CHAO Shao-an 趙少昂 (1905–1998)   
+4 4 - CHENG Xi 程曦 (1919–1998)   
+5 5 - CHIU Sai-kwong 趙世光 (1916–2007)   
+6 6 - CHOU Irene 周綠雲 (1924–2011)   
+7 7 - CHOW Chian-chiu 周千秋 (1910–2006)   
+8 8 - CHOW LEUNG Chen-ying 周梁粲纓 (1921–2005)   
+9 9 - CHUI Tze-hung 徐子雄 (b.1936)   
+10 10 - FANG Zhaoling 方召麐 (1914–2006)   
+11 11 - FUNG Wing-kee Raymond 馮永基 (b.1952)   
+12 12 - HE Chong 何翀 (1808–1884)   
+13 13 - HUANG Binhong 黃賓虹 (1865–1955)   
+14 14 - HUANG Zhou 黃冑 (b.1925)   
+15 15 - HUANG Shaoqiang 黃少強 (1900–1942)   
+16 16 - JAO Tsung-i 饒宗頤 (1917–2018)   
+17 17 - JIN Yanshi 金硯石 (b.1954)  
+
+# Selected Bibliography  
+
+# 參考書目  
+
+Bartholomew 2006  
+
+Terese Tse Bartholomew. Hidden Meanings in Chinese Art.   
+San Francisco, 2006.  
+
+# Cameron 2005  
+
+Nigel Cameron. The Art of  Fang Zhaoling. Exhibition catalogue.   
+Hong Kong Club, Hong Kong, 2005.  
+
+# Chan 1976  
+
+Flora Kay Chan. ‘On Lui Shou-Kwan’s Painting and Life’ in Hsiung Shih Art Monthly, Vol. 59, 1976, pp. 145–147.  
+
+陳鳳姬 1976  
+陳鳳姬：〈談呂壽琨的繪畫及生平〉，《雄獅美術》59(1976)，頁 145–147。  
+
+Chan 1991  
+
+Flora Kay Chan. The Development of  Lü Shoukun’s Art. MPhil thesis: The University of Hong Kong, 1991.  
+
+# Chao 1979  
+
+Chao Shao-an. The Art of  Chao Shao-an. Exhibition catalogue.   
+Hong Kong Museum of Art, Hong Kong, 1979.  
+
+# Chao 1983  
+
+. Chinese Painting: Works painted in co-operation by four masters of the Lingnan School: Zhao Shao’ang, Li Xiongcai, Guan Shanyue and Yang Shanshen. Exhibition catalogue. Fung Ping Shan Museum, The University of Hong Kong, Hong Kong, 1983.  
+
+趙少昂 1983  
+
+《嶺南畫藝：趙少昂、黎雄才、關山月、楊善深四人合作畫》（展覽圖錄），香港大學馮平山博物館，香港，1983。  
+
+Cheung 1999  
+
+Cheung Wai-yee. Xianggang shuhua tuanti yanjiu. Hong Kong, 1999.張惠儀 1999張惠儀：《香港書畫團體研究》，香港，1999。  
+
+Chiverton 1988  
+
+Hugh Chiverton. ‘From Museum Art to Performance Art’ in Night & Day (October 1988).  
+
+Chou 1971   
+Irene Chou. ‘Wo de zuohua guocheng’ in Zhongguoren yuekan, Vol. 4 ( January 1971), pp. 103–104.  
+
+周綠雲 1971  
+
+周綠雲：〈我的作畫過程〉，《中國人月刊》 （1971 年1 月），頁 103–104。  
+
+Chou 1986 —. Chinese Painting by Irene Chou. Exhibition catalogue. Fung Ping Shan Museum, The University of Hong Kong, Hong Kong, 1986.  
+
+周綠雲 1986  
+
+周綠雲：《綠雲畫藝》( 展覽圖錄)，香港大學馮平山博物館，香港，1986。  
+
+Chou 2000 . The Universe is My Mind: Paintings by Irene Chou. Exhibition catalogue. Hanart TZ Gallery, Hong Kong, 2000.  
+
+周綠雲 2000  
+
+周綠雲：《宇宙便是吾心》( 展覽圖錄 )，漢雅軒，香港，2000。  
+
+Chou 2006  
+
+. University of  the Mind: Zhou Lüyun (Irene Chou) A Retrospective Exhibition. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 2006.  
+
+周綠雲 2006  
+
+周綠雲：《游彩人生：周綠雲繪畫回顧展》( 展覽圖錄 )，香港大學美術博物館，香港，2006。  
+
+# Chou et al. 2004  
+
+Irene Chou et al. (eds.). From Representation to Revelation: The Transitional Works (1950–1990) of  Irene Chou. Exhibition catalogue. Grotto Fine Art, Hong Kong, 2004.  
+
+# Chu Woo 2007  
+
+Nancy Chu Woo. Coloratura: Nancy Chu Woo. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 2007.  
+
+朱楚珠 2007  
+
+朱楚珠：《揮灑虹霓》（展覽圖錄），香港：香港大學美術博物館，2007。  
+
+Chu Woo 2009 . Colour $\mathcal{O}$ Ink in Harmony: Nancy Chu Woo. Exhibition catalogue. Guangzhou Museum of Art, Guangzhou, 2009.  
+
+朱楚珠 2009  
+
+朱楚珠：《彩墨輝映》，廣州：中國廣州藝術博物院，2009。  
+
+Chui et al. 2005   
+Chui Tze Hung et al. 4 Decades Plus: The Art Career of  Chui Tze Hung, Hong Kong, 2005.  
+
+徐子雄等 2005  
+
+徐子雄主編： 《行素集：徐子雄藝途四十載》，香港，2005。  
+
+Fang 1968  
+
+Fang Chao-Ling. Fang Chao-Ling: Paintings. Exhibition catalogue.   
+Grosvenor Gallery, London, 1968.  
+
+Fang 1988 ——. Chinese Painting by Fang Zhaoling. Exhibition catalogue. Fung Ping Shan Museum, The University of Hong Kong, Hong Kong, 1988.  
+
+方召麐 1988  
+方召麐：《召麐畫藝》（展覽圖錄），香港：馮平山博物館，1988。  
+
+Fang 1992 . Works by Fang Zhaoling. Hong Kong, 1992.  
+
+方召麐 1992  
+方召麐：《方召麐作品集》，香港：香港大學出版社，1992。Fong et al. 2002  
+Fong Yuk-yan, et al. (eds.). Paintings by Kar Yeung. Exhibition catalogue.Yan Gallery, Hong Kong, 2002.方毓仁等 2002  
+方毓仁、Sonja Ballingal 和張競澤合編：《徐嘉煬畫集》，香港：一畫廊，2002。  
+
+Fung et al. 2010 Raymond Fung Wing-kee et al. (eds.). The Art of  Raymond Fung. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 2010.  
+
+Guo 2013  
+Guo Yanbing. He Chong, Guangzhou, 2013.郭燕冰 2013  
+郭燕冰：《何翀》， 廣州，2013。  
+
+Hearn 2001  
+
+Maxwell K. Hearn. ‘Painting Academies and Western Influence’ in The Metropolitan Museum of  Art Bulletin. Vol 58, No. 3 (Winter 2001), pp. 20–25.  
+
+# Hinterthur 1985  
+
+Peter Hinterthur. Modern Art in Hong Kong. Hong Kong 1985.  
+
+Ho 1998 Oscar Ho. ‘Zhanneng yishu de keneng xing’ in The Life and Art of  Lau Wai Ming, edited by Huang Jinman, Hong Kong, 1998, pp. 8–9.  
+
+何慶基 1998  
+
+何慶基：〈展能藝術的可能性〉，黃錦滿編：《藝術啟示錄：劉偉明紀念畫集：生命的輪印》，香港，1998，頁 8–9。  
+
+Hong Kong 1995  
+
+Homage to Tradition: Huang Binhong 1865–1955. Exhibition catalogue.   
+Urban Council, Hong Kong, 1995.  
+
+# Huang 1997  
+
+Huang Dade (ed). ‘Guanyu ershi niandai de Fang Huang zhi zheng, in Huang Bore meishu wenji. Beijing, 1997, pp. 185–193.  
+
+黃大德 1997  
+
+黃大德：〈關於二十年代的方黃之爭〉，黃大德主編：《黃般若美術文集》，北京，1997，185–193。  
+
+Huang 1999  
+
+—. ‘Chronicle of Deng’s Life’ in As Obras de Deng Erya: Caligrafia, Pintura, Sinete. Exhibition catalogue. Macao Museum of Art, Macao, 1999, pp. 81–125.  
+
+黃大德 1999  
+
+黃大德：〈鄧爾雅年表〉，《鄧爾雅書画印集》（展覽圖錄），澳門藝術博物館，1999，頁 81–125。  
+
+Huang 2008 Huang Yanpei. Huang Yanpei riji. Beijing, 2008.  
+
+黃炎培 2008  
+
+黃炎培：《黃炎培日記》，北京，2008。  
+
+Huang 2018  
+
+Michelle Ying-Ling Huang. ‘Establishing the Reputation of Lui Shou Kwan in Britain in the 1960s’ in Arts of  Asia 48.1 ( January–February 2018), pp. 42–49.  
+
+# Kar 1978  
+
+Kar Nap-fu. ‘Introduction’ in An Exhibition of  Paintings by Lee Wai On.   
+Exhibition catalogue. Hong Kong Arts Centre, Hong Kong, 1978.  
+
+賈訥夫 1978  
+
+賈訥夫：〈李維安畫展序〉，《李維安畫展》（展覽圖錄），香港藝術中心，香港，1978。  
+
+# Kao 2008  
+
+Kao May-ching. ‘Fang Zhaoling: Her Times, Life and Art’ in Hong Kong Visual Arts Yearbook 2006, edited by Harold Mok, Hong Kong, 2008, pp. 33–54.  
+
+高美慶 2008  
+
+高美慶：〈方召麐——時代·人生·藝術〉，莫家良編：《香港視覺藝術年鑑 2006》（香港，2008），頁 15–31。  
+
+Kong 2015  
+Kong Lingbin. ‘Meng Jinyi shengping shiji luekao’ in Meishu xuebao 3(2015), pp. 44–50.孔令彬 2015  
+孔令彬：〈孟覲乙生平事蹟略考〉，《美術學報》3 （2015），頁 44–50。  
+
+Lau 1992 Kin Wai Lau. Xianggang shuimohua yundong yanjiu. MPhil thesis: The Chinese University of Hong Kong, Hong Kong, 1992.  
+
+劉健威 1992  
+劉健威：《香港水墨畫運動研究》。香港中文大學哲學碩士論文，1992。Lai  2014  
+Victor Lai Ming-hoi. ‘Liew Come-tong’ in In Conversation with HongKong Art 1960–1979, edited by Victor Lai Ming-hoi and Lau Chi-pang,Hong Kong, 2014, pp. 318–345.  
+
+黎明海 2014黎明海：〈劉欽棟〉，黎明海、劉智鵬主編：《與香港藝術對話 $^{-3}$ 1960–1979》，香港，2014，頁 318–345。  
+
+Lai 2014b  
+
+Victor Lai Ming-hoi. ‘Chiu Tze-hung’ in In Conversation with Hong Kong Art 1960–1979, edited by Victor Lai Ming-hoi and Lau Chi-pang, Hong Kong, 2014, pp. 199–214.  
+
+黎明海 2014b黎明海：〈徐子雄〉，黎明海、劉智鵬主編：《與香港藝術對話：1960–1979》，香港 2014，頁 199–214。  
+
+Li 1942 Li Jianer. Guangdong xiandai huaren zhuan. Hong Kong, 1942.  
+
+李健兒 1942李健兒：《廣東現代畫人傳》。香港，1942。  
+
+Li 2001 Li Junyi. Xianggang xiandai shuimo wenxuan. Hong Kong, 2001.  
+
+李君毅 2001李君毅 ：《香港現代水墨畫文選》，香港，2001。  
+
+Liew 1991  
+Liew Come-tong. Ink Painting by Liew Come Tong. Exhibition catalogue.Artistic Gallery, Hong Kong, 1991.劉欽棟 1991  
+劉欽棟：《劉欽棟水墨集》( 展覽圖錄 )，Artistic Gallery，香港， 1991。  
+
+Liew 1997 . On Chinese and Western Art Criticism. Hong Kong, 1997.  
+
+劉欽棟 1997  
+
+.《中西論藝稿集》，香港， 1997。  
+
+Liew 1999 .  Lyrical Vision: Paintings by Liew Come-tong. Exhibition catalogue.   
+University Museum and Art Gallery, The University of Hong Kong,   
+Hong Kong, 1999.  
+
+劉欽棟 1999  
+
+.《緣生化境 $\therefore$ 劉欽棟的繪畫》( 展覽圖錄 )，香港大學美術博物館，香港， 1999。  
+
+Lin 2004  
+
+Lin Jen-tong. A Walk on the Path of  Art: Donation of  Ink Painting and Calligraphy by Mr Lin Jen-tong. Exhibition catalogue. Hong Kong Museum of Art, Hong Kong, 2004.  
+
+林建同 2004  
+
+林建同：《藝道之行 : 林建同書畫捐贈展》( 展覽圖錄 )，香港藝術館，香港，2004。  
+
+Liu 1935   
+Liu Haisu.‘Liu Haisu baogao ouyou jingguo (liu) and (qi)’ in Shen Bao ( July 5 and 6, 1935).  
+
+劉海粟 1935  
+
+劉海粟：〈劉海粟報告歐遊經過 ( 五 )、( 六 )〉，《申報》，1935 年 7 月 5 日至 6 日。  
+
+# Liu 1935b  
+
+——. ‘Chinese Painting’ in Exhibition of  Modern Chinese Painting: Held under the Auspices of  the China Association and the China Society at New Burlington Galleries. Exhibition catalogue. New Burlington Galleries, London, 1935, pp. 10–17.  
+
+Liu 1988 —.  His Works in the Eighties. Exhibition catalogue. Hong Kong City   
+Hall, Hong Kong, 1988.  
+
+劉海粟 1988  
+
+—.《劉海粟八十年代作品展》( 展覽圖錄)。香港大會堂，香港，1988。  
+
+Liu 1996  
+
+Liu Xin. ‘Zhongguo sanling niandai di xihua jiaoyu yu chuangzuo sichao’ in Arts Exploration 2 (1996), pp. 40–47.  
+
+劉新 1996  
+劉新：〈中國30 年代的西畫教育與創作思潮〉，《藝術探索》第二期（1996 年），頁 40，47。  
+
+Liu 2006 Liu Yiling. Yuchengyao huihua yishu yanjiu. Xiamen, 2006.  
+
+劉一菱 2006  
+劉一菱：《余承堯繪畫藝術研究》，廈門大學出版社 ，2006。  
+
+Lo 1990 Lucille Lo Yuk-yin. Works by Lo Yuk Yin. Hong Kong, 1990.  
+
+盧玉燕 1990盧玉燕：《盧玉燕畫選》，香港，1990。  
+
+Lo 1991 —. Illusion and Reconstruction: Lucille Yuk Yin Lo. Hong Kong, 2008.  
+
+Lou 1975 Joseph Lou. Ancient Chinese Painter’s Reference Guide: With Paintings from P.C. Lou and Joseph Lou. Hong Kong, 1975.  
+
+樓純夫 1975  
+
+樓純夫：《歷代名畫家年譜索引 : 附樓炳章．樓純夫父子畫集》，香港，1975。  
+
+# Lui 1985  
+
+Lui Shou-kwan. Hong Kong in Ink Moods: Landscape Paintings by Lui Shou-kwan. Exhibition catalogue. Fung Ping Shan Museum, The University of Hong Kong, Hong Kong, 1985.  
+
+呂壽琨 1985  
+
+呂壽琨：《香港墨韻：呂壽琨山水畫》( 展覽圖錄 )，香港大學馮平山博物館，香港，1985。  
+
+Lui and Tang 2003 Lui Shou-kwan and Tang Hoi-chiu. Lui Shou-kwan: New Ink Painting, Exhibition catalogue. Hong Kong Museum of Art, Hong Kong, 2003.  
+
+呂壽琨、鄧海超 2003  
+呂壽琨、鄧海超：《呂壽琨：新水墨畫》，香港藝術館，香港，2003。  
+
+# Lui and Wong 1979  
+
+Lui Shou-kwan and Wucius Wong (eds.). Paintings by Lui Shou-kwan.   
+Hong Kong, 1979. 呂壽琨、王無邪 1979   
+呂壽琨、王無邪：《呂壽琨：呂壽琨紀念畫集》，香港， 1979。  
+
+Lui 2015 Lui Shou-kwan. A Legacy of  Ink: Lui Shou-Kwan 40 Years On. Exhibition catalogue. Alisan Fine Arts, Hong Kong, 2015.  
+
+呂壽琨 2015  
+
+呂壽琨： 《呂壽琨水墨傳奇四十年 : 呂壽琨師生畫友及新一代藝術家聯展》( 展覽圖錄 )，藝倡畫廊，香港，2015。  
+
+Man 2018 Eva Man Kit-wah. Xianggang shijue yishujia, 1970–1980: xin shuimo yundong hou de shiyan yu nuoyi. Hong Kong, 2018.  
+
+文潔華 2018  
+
+文潔華：《香港視覺藝術家，一九七〇－一九八〇）新水墨運動後的實驗與挪移》，香港，2018。  
+
+# Maudsley 1997  
+
+Catherine Maudsley. ‘Introduction’ in Landscaping the Soul: Recent Paintings by Harold Wong. Exhibition catalogue. Emil Mirzakhanian, Hong Kong, 1997.  
+
+# Maudsley 1997b  
+
+Catherine Maudsley. ‘Tradition Continued and Created Anew— The Paintings of Harold Wong’ in The Unending Path: Harold Wong Paintings from 1957–1997, edited by Catherine Maudsley et al. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 1997, pp. 17–21.  
+
+# 毛岱康 1997  
+
+毛岱康：〈傳統與創新——黃仲芳的繪畫〉，黃仲芳、毛岱康和潘錫垣：《求索的路上：黃仲方四十年作品》，香港大學美術博物館，香港，1997，頁 17–21。  
+
+Mok and Chen 2009   
+Harold Mok and Chen Yafei, Xianggang shufa nianbiao: 1901–1950. Hong Kong, 2009.  
+
+莫家良、陳雅飛 2009  
+
+莫家良、陳雅飛：《香港書法年報 $^{-3}$ 1901–1950》，香港中文大學藝術系，香港，2009。  
+
+# Nishigami 2007  
+
+Minoru Nishigami. ‘Guanyu Jingdu guoli bowuguan cang Meng Jinyi Dangui haitang tu—jianji Meng Guangbao yu Ju Chao Ju Lian de guanxi’ in Ju Chao Ju Lian Yishu yanjiuhui Wenji. Conference proceedings: Guangzhou Museum and the Hong Kong Museum of Art, Guangzhou, 2007, pp. 359–366.  
+
+西上實 2007  
+
+西上實：〈關於京都國立博物館藏孟覲乙《丹桂海棠圖》——兼及孟覲乙宋光寶與居巢居廉的關係〉，廣州藝術博物院、香港藝術館主編： 《居巢居廉藝術研討會文集》，廣州，2007，頁 359–366。  
+
+# Pang 1999  
+
+Marina Pang. Revérie: The Art of  Marina Pang. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 1999.  
+
+彭蕙清 1999  
+
+彭蕙清：《水雲山夢：彭蕙清的藝術》（展覽圖錄），香港大學美術博物館，1999。  
+
+Pang and Sze 2004  
+
+Tina Pang Yee-wan and Jane Sze Kwan-yuk (eds.). The Art of  Liang Yuwei. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong 2004.  
+
+彭綺雲、施君玉 2004  
+彭綺雲、施君玉編：《抱道林泉──梁于渭的書畫與印藝》。香港：香港大學美術博物館，2004。  
+
+Peng 2005  
+
+Peng Ximing. Transcendental Vision: Paintings by Peng Ximing. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 2005.  
+
+彭襲明 2005  
+
+彭襲明：《昭曠無塵：彭襲明繪畫》( 展覽圖錄 )，香港大學美術博物館，香港，2005。  
+
+Pejcochová 2014  
+
+Michaela Pejcochová. ‘Exhibitions of Chinese Painting in Europe in the Interwar Period: The Role of Liu Haisu as Artistic Ambassador’ in The Reception of  Chinese Art across Cultures, edited by Michelle YingLing Huang, Newcastle upon Tyne, 2014, pp. 179–199.  
+
+Roberts 2010   
+Claire Roberts. Friendship in Art: Fou Lei and Huang Binhong. Hong Kong, 2010.  
+
+Shi 1994 Shi Nan. Canghai rensheng: L iu Haisu chuan. Taipei, 1994.  
+
+石楠 1994  
+石楠：《滄海人生：劉海粟傳》，台北： $\therefore$ 地球出版社，1994。  
+
+# Shen and Andrews 2017  
+
+Shen Kuiyi and Julia F. Andrews. Painting Her Way: The Ink of  Fang Zhaoling. Exhibition catalogue. Asia Society Hong Kong Center, Hong Kong, 2017.  
+
+# Sze 2007  
+
+Jane Sze Kwan-yuk (ed.). The Norman W. M. Ko Collection of  Hong Kong Art. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 2007.  
+
+施君玉 2007  
+
+施君玉：《香江妙彩：高華文香港藝術家藏品》（展覽圖錄），香港大學美術博物館，2007。  
+
+Su 1973 Su Wenzhuo. Li Jian xiansheng nianpu. Hong Kong, 1973.  
+
+蘇文擢 1973蘇文擢：《黎簡先生年譜》，香港，1973。  
+
+Ta Kung Pao 1991  
+
+‘Gangda jian Liu Haisu Meishuguan shoucang ji zhanlan meishu zhenpin’ in Ta Kung Pao (November 26, 1991).  
+
+大公報 1991  
+
+〈港大建劉海栗美術館收藏及展覽美術珍品〉，《大公報》，1991 年 11 月 26 日。  
+
+Ta Kung Pao 2016   
+‘Jinian Zhao Shiguang Shuhua Zhan Xia Zhou Kaimu’ in Ta Kung Pao ( July 16, 2016).  
+
+大公報 2016  
+
+〈紀念趙世光書畫展下周開幕〉，《大公報》，2016 年 7月 16 日。  
+
+Tam 2006   
+Laurence Tam Chi-sing. The Cradle of  New Chinese Ink Painting Movement. Exhibition catalogue. Hong Kong City Hall, Hong Kong, 2006.  
+
+# 譚志成 2006  
+
+譚志成：《新水墨畫運動的搖籃》( 展覽圖錄)，香港大會堂，香港，2006。  
+
+Tang 2010   
+Tang Hing-sun. ‘Liang Yuwei shengping kaoshu,’ Guangdong huihua yanjiu, edited by Lin Yajie and Zhu Wanzhang, Guangzhou, 2010, pp. 255–273.  
+
+鄧慶燊 2010  
+
+鄧慶燊：〈梁于渭生平考述〉，林亞傑、朱萬章主編《廣東繪畫研究文集》，廣州，2010， 255–273。  
+
+Ting 1961 Ting Yin-yung. ‘Bada shanren yu xiandai yishu’ in Xinya shenghuo shuang zhoukan, 1961 (Vol. 4, No. 1), pp. 13–15.  
+
+丁衍庸 1961  
+
+丁衍庸：〈八大山人與現代藝術〉，《新亞生活雙週刊》，1961，( 第 4 卷第 1 期 )：13–15。  
+
+Ting 2008 ——. Kuayue dongxi, youxi gujin (No Frontiers: The Art of  Ding Yanyong). Exhibition catalogue. Hong Kong Museum of Art, Hong Kong, 2008.  
+
+丁衍庸 2008  
+丁衍庸：《跨越東西，遊戲古今：丁衍庸的藝術時空》( 展覽圖錄 )，香港藝術館，香港， 2008。  
+
+Ting 1988  
+
+Joseph Ting (ed.). The Art of  Xu Beihong. Exhibition catalogue, Hong Kong Museum of Art, Hong Kong, 1988.  
+
+Tsui 2005 Tsui Kar-yeung. Signature Works of  Kar Yeung. Hong Kong, 2005.  
+
+徐嘉煬 2005  
+
+徐嘉煬：《徐嘉煬作品展畫集》，香港：香港城市大學城大藝廊管理委員會，2005。  
+
+# Turner 1988  
+
+Matthew Turner. ‘A Legend in Retrospective’ in Hong Kong Standard (October 5, 1988).  
+
+# Vainker 1997  
+
+Shelagh Vainker. ‘Exhibitions of Modern Chinese Painting in Europe, 1933–1935’ in Chinese Painting in the Twentieth Century: Creativity in the Aftermath of  Tradition, edited by Cao Yiqiang and Fan Jingzhong, Hangzhou, 1997, pp. 554–561.  
+
+# Vainker 2004  
+
+——. ‘Modern Chinese Painting in London, 1935’ in Shanghai Modern 1919–1945, edited by Jo-Anne Birnie Danzker et al., Ostfildern-Ruit, 2004, pp. 118–123.  
+
+# Vainker and Chen 2014  
+
+Shelagh Vainker and Chen Yi. Fang Zhaoling, 1914–2006. Exhibition catalogue. Ashmolean Museum, Oxford, 2014.  
+
+Walt 2003  
+
+Melissa Walt. Fang Zhaoling: A Life in Painting. Exhibition catalogue.   
+Asian Art Museum, San Francisco, 2005. Wang 1961   
+Wang Zhaoyong. Lingnan hua zhenlue, fu xulu, jiaoji, Lingnan huaren yinian lu. Hong Kong, 1961.  
+
+汪兆鏞 1961  
+
+汪兆鏞：《嶺南畫徵略( 附續錄、校記、嶺南畫人疑年錄)》，香港，1961。  
+
+White 1997  
+
+Julia White. ‘The Artist as Connoisseur’ in The Unending Path: Harold Wong Paintings from 1957–1997, edited by Catherine Maudsley et al. Exhibition catalogue. University Museum and Art Gallery, The University of Hong Kong, Hong Kong, 1997, pp. 15–16.  
+
+白珠麗 1997  
+
+白珠麗：〈藝術家與鑑賞家 〉，黃仲芳、毛岱康和潘錫垣：《求索的路上：黃仲方四十年作品》，香港大學美術博物館，香港，1997，頁 15–16。  
+
+Yang 2010  
+
+Yang Jiechang. New Ink Art by Yang Jiechang. Exhibition catalogue.   
+Alisan Fine Arts, Hong Kong, 2010.   
+Yang 2017 —. Yang Jiechang: Earth Roots. Exhibition catalogue. Ink Studio,   
+Beijing, 2017.  
+
+# Yu 1988  
+
+Flora Yu. ‘The Spirited Portrayals’ in Sunday Morning Post (October 2, 1988).  
+
+Yuan and Chen 1992 Yuan Zhihuang and Chen Zuen. Liu Haisu nianpu. Shanghai, 1992.  
+
+袁志煌、陳祖恩 1992  
+袁志煌、陳祖恩編：《劉海粟年譜》，上海：人民出版社，1992。  
+
+Zhang 1936 Zhang Hong. Binhong huayu lu. 1936 (Vol. 1, No. 12), pp. 11–13.  
+
+張虹 1936  
+
+張虹：〈賓虹畫語錄〉，《學術世界》，1936，( 第 1 卷第12 期 )：11–13。  
+
+Zheng 1987 Zheng Chunting. Lingnan jindai huaren zhuanlue. Hong Kong, 1987.  
+
+鄭春霆 1987  
+
+鄭春霆：《嶺南近代畫人傳略》，香港，1987。  
+
+Zhou and Jin 2000 Zhou Jiyin and Jin Jianrong. Liu Haisu tanyi lu. Zhengzhou, 2000.  
+
+周積寅、金建榮 2000周積寅、金建榮：《劉海粟談藝錄》，鄭州，2000。  
+
+Zhu 2008  
+
+Zhu Wanzhang. ‘From “The 1923 Art Collaborative” to the “Chinese Painting Institute”—Lingnan Traditional Painters in a Modern Aesthetic Context’ in Literature and Art Studies, 2008 (12), pp. 120–136.  
+
+朱萬章 2008  
+
+朱萬章：〈從「癸亥合作畫社」到「國畫研究會」——近現代美術語境中的嶺南傳統畫家〉，《文藝研究》，2008，(12)： 120–136。  
+
+# Index of Artists 畫家索引  
+
+Note: page numbers in italics refer to plates.  
+註：圖版頁碼以斜體表示。  
+LIEW Come-tong 劉欽棟  
+LIU Haisu 劉海粟  
+LO Yuk-yin Lucille 盧玉燕  
+LOU Chunfu Joseph 樓純夫  
+LU Zishu 盧子樞  
+LUI Shou-kwan (LÜ Shoukun) 呂壽琨  
+LUO Anxian 羅岸先  
+NG Yiu-chung  (WU Yaozhong) 吳耀忠  
+PANG Chap-ming (aka PANG Jop-ming or PENG Ximing) 彭襲明  
+PANG Marina 彭蕙清  
+PAU Siu-yau (BAO Shaoyou) 鮑少游  
+POON Chun-wah (PAN Zhenhua) 潘振華  
+RONG Zuchun 容祖椿  
+SU Renshan 蘇仁山  
+TAM Chi-sing Laurence 譚志成  
+TAO Wan (TAO Yun) 陶澐  
+TING Yin-yung  (DING Yanyong) 丁衍庸  
+TSENG Woon-wan 曾婉鐶  
+TSUI Kar-yeung 徐嘉煬  
+WAN Qingli 萬青屴  
+WANG Wenzhuo 王文卓  
+WONG Chung-fong Harold 黃仲方  
+WOO CHU Nancy (ZHU Chuzhu) 朱楚珠  
+WU Deyi 伍德彝  
+XU Beihong 徐悲鴻  
+YANG Jiechang 楊詰蒼  
+YEH Kung-chao George (YE Gongchao) 葉公超  
+YE Shaobing  葉少秉  
+YUNG Shau-shek (RONG Shushi) 容漱石  
+ZHANG Hong 張虹  
+
+<html><body><table><tr><td>AU Wai-cheung Stanley歐偉長</td><td>232,233</td></tr><tr><td>CHAN Flora Kay陳鳳姬</td><td>148, 149</td></tr><tr><td>CHAO Shao-an(ZHAO Shao'ang）趙少昂</td><td>11，17-20,28-32,59,89,95,96-100,101,127，153，173,179,225</td></tr><tr><td>CHENG Xi 程曦</td><td>82,83</td></tr><tr><td>CHIU Sai-kwong (ZHAO Shiguang）趙世光</td><td>18-20,87,89</td></tr><tr><td>CHOU Irene(aka CHOU Lu-yun or ZHOU Liyun）周绿雲</td><td>19-21,33-34,138,139,174,175</td></tr><tr><td>CHOW Chian-chiu(ZHOU Qianqiu）周千秋</td><td>17-20,28-29,88,136,158,159,172,173,184,185</td></tr><tr><td>CHOW LEUNG Chen-ying (ZHOU LIANG Can-ying)周梁聚</td><td>17-20,88,136,158,159,173,184,185</td></tr><tr><td>CHUI Tze-hung (XU Zixiong)徐子雄</td><td>19-20,33,178,179</td></tr><tr><td>FANG Zhaoling(FANG Chao-ling)方召蘑</td><td>11,13-17,28-34,92-94,95,126,127,163,165,172,173,186,187,208, 210,216-217,218-219.</td></tr><tr><td>FUNGWing-keeRaymond 馮永基</td><td>19-20,22,196-197,199</td></tr><tr><td>HE Chong 何</td><td>52,53</td></tr><tr><td>HUANG Binhong 黄寶虹</td><td>11,13-14,16-17,25-26,65,70,71,164</td></tr><tr><td>HUANG Zhou 黄胃</td><td>166,167</td></tr><tr><td>HUANG Shaoqiang黄少強</td><td>58,59</td></tr><tr><td>JAO Tsung-i(RAO Zongyi)宗颐</td><td>11,13-14,90,91,110-121,123</td></tr><tr><td>JIN Yanshi金砚石</td><td>230,231</td></tr><tr><td>JU Chao居巢</td><td>17-18,28-29,42,43</td></tr><tr><td>LAI Shaoqi 賴少其</td><td>14-15,16-17,162,164</td></tr><tr><td>LEE Wai-on (LI Wei'an)李維安</td><td>19-20,182,183</td></tr><tr><td>LAU Wai-ming 劉偉明</td><td>206,207</td></tr><tr><td>LEUNG Kui-ting (LIANG Juting)梁巨廷</td><td>11，19-20,22,33-34,144,145,222,223</td></tr><tr><td>LEUNG Pak-yue(LIANG Boyu)梁伯磐</td><td>14,78-79,81</td></tr><tr><td>LEUNG So-ying (LIANG Suying)梁素滢</td><td>176,177</td></tr><tr><td>LI Jian黎簡</td><td>38,39</td></tr><tr><td>LIN Jen-tong (LIN Jiantong)林建同</td><td>135,137,146,147</td></tr><tr><td>LI Xiongcai黎雄才</td><td>17-20,152,153</td></tr><tr><td>LIANGYuwei梁于渭</td><td>44-45, 47, 48, 49</td></tr></table></body></html>  
+
+17–18, 160, 161   
+11, 13–16, 25–29, 32–33, 66, 67, 154–155, 157, 168, 169   
+17–18, 204, 205   
+14–15, 84, 85   
+13, 74, 76   
+11–12, 19–21, 32–34, 104–105, 107, 108, 109, 127, 128,129, 131, 133,   
+139, 145, 149, 175, 177, 223, 225   
+50, 51, 52, 53   
+132, 133   
+179, 220, 211, 225   
+14–15, 17–18, 226–227, 229   
+28–29, 56, 57, 77, 179, 229   
+17–18, 224, 225   
+17–18, 55, 60–61, 63   
+40, 41   
+19–20, 33–34, 130, 131   
+13, 103, 140, 141, 188–189, 190–191, 193   
+13, 68, 69, 140, 141   
+75, 77   
+184, 185, 224, 225   
+13–14, 27, 209, 211, 212–213, 215   
+146, 147   
+200–201, 203   
+194, 195   
+54, 55   
+11–12, 14–16, 18–19, 72, 73, 185   
+222, 223   
+140, 141   
+17–19, 59, 86, 88   
+134, 136   
+64, 65, 102, 103  
+
+![](images/6072202a2f2c4ce898a2e0748bc97fb669d820d428b3fbce83a31e4f296e3fb5.jpg)  

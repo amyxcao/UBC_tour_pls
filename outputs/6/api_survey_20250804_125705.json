@@ -1,0 +1,17 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 60,
+  "major": "Chinese History",
+  "age_group": "18-20",
+  "class_subject": "Art",
+  "topics_of_interest": [
+    "Yuan",
+    "Earthenware",
+    "Dehua",
+    "Celadon",
+    "Commission",
+    "Technique"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "analytical, critisicm"
+}

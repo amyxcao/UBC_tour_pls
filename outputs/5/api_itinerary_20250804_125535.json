@@ -1,0 +1,40 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit. Provide a warm greeting to the group and explain the purpose of the tour: exploring the cultural and historical significance of Chinese ceramics and their connections to the Yuan dynasty, Southeast Asia, and symbolism. Highlight the exhibit's name, 'Objectifying China,' as a lens to understand how objects reflect cultural values and traditions."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Yuan Dynasty and its influence on ceramics. Briefly discuss the Yuan dynasty's role in fostering trade and cultural exchange, particularly with Southeast Asia. Highlight the export of Chinese blue-and-white ceramics during this period and their significance in global trade."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Focus on green decoration and imperial symbolism. Discuss the importance of green-glazed wares at the imperial court in Beijing, emphasizing their cultural and aesthetic value. Show examples from the exhibit and explain how shades of green symbolized prosperity and harmony."
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Explore Southeast Asian connections. Highlight the ceramics made for Peranakan Chinese communities in the Straits Settlements, emphasizing their bright colors and auspicious symbolism. Discuss how these artifacts reflect the blending of Chinese and Southeast Asian cultures."
+    },
+    {
+      "time": "20:00–30:00",
+      "activity": "Hands-on engagement: Symbolism scavenger hunt. Provide the group with a printed guide or verbal prompts to identify symbols on ceramics in the exhibit (e.g., flowers, animals, mythical motifs). Encourage participants to share their interpretations and discuss the meanings behind the designs."
+    },
+    {
+      "time": "30:00–40:00",
+      "activity": "Mythical motifs and storytelling. Highlight artifacts featuring mythical creatures or legends. Share a brief story or myth associated with one of the designs, such as dragons symbolizing power or phoenixes representing renewal. Connect this to the group's interest in mythical themes."
+    },
+    {
+      "time": "40:00–50:00",
+      "activity": "Southern Song dynasty porcelain. Introduce the white-green glazed porcelain artifact from the Southern Song dynasty. Discuss its craftsmanship, subtle beauty, and historical significance. Compare it to the more vibrant decorations seen earlier in the tour."
+    },
+    {
+      "time": "50:00–55:00",
+      "activity": "Reflection and discussion. Invite the group to share their thoughts on the exhibit and what they found most interesting. Facilitate a short discussion on how the artifacts reflect broader historical and cultural themes, such as trade, symbolism, and cross-cultural exchange."
+    },
+    {
+      "time": "55:00–60:00",
+      "activity": "Wrap-up and conclusion. Summarize the key points of the tour, thanking the group for their participation. Provide recommendations for further exploration in the museum or resources for learning more about Chinese ceramics and history."
+    }
+  ]
+}

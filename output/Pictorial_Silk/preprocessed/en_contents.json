@@ -1,0 +1,5683 @@
+{
+  "kc3sbqzn": [
+    {
+      "type": "text",
+      "text": "Published for the exhibition Pictorial Silks: Chinese Textiles from the UMAG Collection at the University Museum and Art Gallery, The University of Hong Kong, 18 September to 6 December, 2020.",
+      "page_idx": 3,
+      "id": "sgup0n20"
+    },
+    {
+      "type": "text",
+      "text": "All rights reserved.",
+      "page_idx": 3,
+      "id": "pgvv28ub"
+    },
+    {
+      "type": "text",
+      "text": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without permission in writing from the publisher or from the artist of the exhibition.",
+      "page_idx": 3,
+      "id": "ysc5fpix"
+    },
+    {
+      "type": "text",
+      "text": "Curator Kikki Lam",
+      "page_idx": 3,
+      "id": "oof3pvbi"
+    },
+    {
+      "type": "text",
+      "text": "Designer Stephy Tsui",
+      "page_idx": 3,
+      "id": "dxzyz1mq"
+    },
+    {
+      "type": "text",
+      "text": "Cover illustration: cat.",
+      "page_idx": 3,
+      "id": "ul5zmeuq"
+    },
+    {
+      "type": "text",
+      "text": "15",
+      "page_idx": 3,
+      "id": "s8s98toi"
+    }
+  ],
+  "q9xnyopo": [
+    {
+      "type": "text",
+      "text": "Edition",
+      "text_level": 1,
+      "page_idx": 3,
+      "id": "lqijjp7j"
+    },
+    {
+      "type": "text",
+      "text": "September 2020 University Museum and Art Gallery,The University of Hong Kong, 2020©",
+      "page_idx": 3,
+      "id": "cvs18vvz"
+    },
+    {
+      "type": "text",
+      "text": "ISBN",
+      "page_idx": 3,
+      "id": "vmy9shls"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/3776fea427b8ceffe2d83097896f02a851f6abd2021fffbfcccae2b9dda68e32.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 3,
+      "id": "rurj0qix"
+    },
+    {
+      "type": "text",
+      "text": "Note to the Reader09 Foreword11 Threading Colour: Chinese Silk Textiles from the UMAG Collection13 Kesi Silk Tapestry37 Cixiu Embroidery75 Glossary91 Bibliography95",
+      "page_idx": 4,
+      "id": "mmd31lsp"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/1b8d9879486cf6a9436f596127be388e9e5d5163908765079f2341d46f2049b3.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 4,
+      "id": "ehh8iyq7"
+    },
+    {
+      "type": "text",
+      "text": "Textiles illustrated in this volume are from the collection of the University Museum and Art Gallery (UMAG), The University of Hong Kong (HKU), unless otherwise noted.",
+      "page_idx": 5,
+      "id": "gj660uj5"
+    },
+    {
+      "type": "text",
+      "text": "UMAG’s textile collection has developed over the past several decades through generous donations by individuals affiliated with the University of Hong Kong and private collectors.",
+      "page_idx": 5,
+      "id": "p99hiby1"
+    },
+    {
+      "type": "text",
+      "text": "Several embroidery pieces were donated by Dr Hui Wai Haan, who taught in HKU’s Department of Chemistry for nearly four decades, and the entire silk tapestry collection was donated by Dr Lam Kwok Pun.",
+      "page_idx": 5,
+      "id": "nzf5f0pd"
+    },
+    {
+      "type": "text",
+      "text": "The textiles have been dated according to their weaving or embroidery techniques, use of materials, or established information on individual weavers.",
+      "page_idx": 5,
+      "id": "ufd7his5"
+    },
+    {
+      "type": "text",
+      "text": "The comparative discussion of silk tapestry and embroidery is based on the traditional juxtaposition of these two mediums in historical texts, including catalogues of the imperial collection such as Midian zhulin (The Pearl Forest in the Secret Hall) (1744), Shiqu baoji (Catalogue of  Painting and Calligraphy in the Qianlong Imperial Collection) (1745), and the monographs Qing neifu cang kesi xiuxian shuhua lu (Catalogue of  Kesi Silk Tapestry Woven and Silk Embroidered Calligraphy and Painting in the Collection of  the Imperial Household Department) (1930) and Sixiu biji (Notes on Silk and Embroidery) (1933).",
+      "page_idx": 5,
+      "id": "ullqx9ca"
+    },
+    {
+      "type": "text",
+      "text": "Throughout the text, dimensions exclude mounts or frames; height precedes width.",
+      "page_idx": 5,
+      "id": "mv18yxhr"
+    },
+    {
+      "type": "text",
+      "text": "Chinese names are given in the traditional order, surname first.",
+      "page_idx": 5,
+      "id": "rewxukgc"
+    },
+    {
+      "type": "text",
+      "text": "The transliteration of Chinese names, places and techniques into English follows the Pinyin system of romanisation.",
+      "page_idx": 5,
+      "id": "im30t22r"
+    },
+    {
+      "type": "text",
+      "text": "Chinese terms are italicised unless commonly used in English.",
+      "page_idx": 5,
+      "id": "njjxyded"
+    },
+    {
+      "type": "text",
+      "text": "Textiles are essential cultural objects that offer insight into an individual society’s history of design and manufacturing.",
+      "page_idx": 6,
+      "id": "mj52lmqq"
+    },
+    {
+      "type": "text",
+      "text": "The traditions of weaving and embroidering silk textiles in China have been passed on for centuries through discrete decorative motifs and techniques, and Chinese textiles have been treasured on the international market since they were first bartered on the Silk Road.",
+      "page_idx": 6,
+      "id": "xebauo1e"
+    },
+    {
+      "type": "text",
+      "text": "For generations, these luxurious cloths were collected as highly prized artworks, or else imitated and reinterpreted to extend the reach of this exotic material into foreign palaces and princely wardrobes.",
+      "page_idx": 6,
+      "id": "n3eduzcb"
+    },
+    {
+      "type": "text",
+      "text": "This handsome publication accompanies a special exhibition of the same title at the University Museum and Art Gallery (UMAG).",
+      "page_idx": 6,
+      "id": "oqaccl3f"
+    },
+    {
+      "type": "text",
+      "text": "In it, researcher Kikki Lam describes and illustrates textiles from UMAG’s collection to document and explain the wide-ranging and long-lasting production of Chinese silk weaving and embroidering.",
+      "page_idx": 6,
+      "id": "pqathfzq"
+    },
+    {
+      "type": "text",
+      "text": "The book also includes a detailed account of textile production techniques and their development over the past 1,000 years.",
+      "page_idx": 6,
+      "id": "tx0ulkcn"
+    },
+    {
+      "type": "text",
+      "text": "We would like to thank the author and the editorial team for this comprehensive and extensively illustrated catalogue of a marvellous and highly sought-after artform that exemplifies the refined craftsmanship of China’s textile artists.",
+      "page_idx": 6,
+      "id": "b85w9fo8"
+    },
+    {
+      "type": "text",
+      "text": "An informative reference volume for years to come, we hope that this volume will give ample access to this celebrated artform and to the textile collections at the University of Hong Kong.",
+      "page_idx": 6,
+      "id": "kimbpoe0"
+    }
+  ],
+  "av3hhkz5": [
+    {
+      "type": "text",
+      "text": "Dr Florian Knothe",
+      "text_level": 1,
+      "page_idx": 6,
+      "id": "k7j0f6j3"
+    },
+    {
+      "type": "text",
+      "text": "Director, University Museum and Art Gallery, The University of Hong Kong",
+      "page_idx": 6,
+      "id": "fhiajiuk"
+    },
+    {
+      "type": "text",
+      "text": "Whereas the woven kesi and embroidered cixiu works represent the pinnacle of detail-oriented manufacturing techniques, the variety of motifs deployed as figurative depictions highlight the broad cultural connotations and symbolic language commonly found in Chinese art.",
+      "page_idx": 6,
+      "id": "bmqvp84t"
+    },
+    {
+      "type": "text",
+      "text": "Unlike the finest ink paintings, these textiles represent the pictorial compositions, vivid colours and minute details demonstrating the sophistication of a craft that achieved its highpoint during the Qing Dynasty (1644–1911) and continues to flourish today.",
+      "page_idx": 6,
+      "id": "i6l610d4"
+    }
+  ],
+  "ezp9o09x": [
+    {
+      "type": "text",
+      "text": "Threading Colour: Chinese Silk Textiles from the UMAG Collection",
+      "text_level": 1,
+      "page_idx": 7,
+      "id": "wqy82ljw"
+    },
+    {
+      "type": "text",
+      "text": "Prized by Chinese and foreign merchants as an essential commodity along a vast trade network, silk served multiple roles throughout the ancient world: as fabric for garments, as a form of currency and method of tax payment, and as a medium and subject for professional artists and the literati class.",
+      "page_idx": 7,
+      "id": "d86cqhd0"
+    },
+    {
+      "type": "text",
+      "text": "Though the precise origins of Chinese sericulture remain unknown, legend traditionally attributes the discovery to Lady Xiling, wife of the Yellow Emperor, in ca.",
+      "page_idx": 7,
+      "id": "ijietlk3"
+    },
+    {
+      "type": "text",
+      "text": "2700 BCE.",
+      "page_idx": 7,
+      "id": "zq82sz4v"
+    },
+    {
+      "type": "text",
+      "text": "Over the centuries, sacrifices at the Altar of Silkworms were routinely performed by the empresses, and as the official head of all women in each successive dynasty, their involvement reinforced the role of women within the realm of sericulture and weaving.",
+      "page_idx": 7,
+      "id": "mjet0m7k"
+    },
+    {
+      "type": "text",
+      "text": "The development of sericulture—the cultivation of silkworms for the production of silk—was first documented in China, with archaeological discoveries of sericulture practice dating to as early as five thousand years ago.",
+      "page_idx": 7,
+      "id": "k47a7njw"
+    },
+    {
+      "type": "text",
+      "text": "Half of a silk cocoon was found at a Neolithic site (ca.",
+      "page_idx": 7,
+      "id": "qwpdfnew"
+    },
+    {
+      "type": "text",
+      "text": "10,000–2100 BCE) in Xiyin village, Xia county, Shanxi province, and a plain tabby silk fabric fragment was excavated from a Neolithic site in Qianshanyang, Wuxing county, Zhejiang province.",
+      "page_idx": 7,
+      "id": "g3fydyla"
+    },
+    {
+      "type": "text",
+      "text": "Inscriptions related to silkworms, silk and mulberry trees also have been found on oracle bones from the Shang (1600–1046 BCE) and Zhou dynasties (1046–256 BCE).",
+      "page_idx": 7,
+      "id": "v90so0zb"
+    },
+    {
+      "type": "text",
+      "text": "The ancient trade route connecting East and West, known popularly as the Silk Road, originated from the political and military expeditions by the Han dynasty’s (206 BCE–220 CE)  Emperor Wu (r. 141–87 BCE), who sent Zhang Qian (?–114 BCE) on two diplomatic missions to the Western Regions (Xiyu, present-day Xinjiang and the far western territories of China) to form an alliance against the Xiongnu, a confederation of nomadic tribes from the Steppe.",
+      "page_idx": 7,
+      "id": "x5xkw6zj"
+    },
+    {
+      "type": "text",
+      "text": "Although these missions ultimately failed, trade routes between China and various states in Central and Western Asia were developed.",
+      "page_idx": 7,
+      "id": "mzlm1cde"
+    },
+    {
+      "type": "text",
+      "text": "Exquisite silks first came into vogue among the Roman elite in the first century, when China and the neighbouring countries where the silk was produced came to be known as Serica (Land of Seres), a term derived from the Latin word for silk, sericum.2",
+      "page_idx": 7,
+      "id": "bsnvz3tk"
+    },
+    {
+      "type": "text",
+      "text": "Over the centuries, silk fabrics have remained synonymous with beauty and are entwined throughout Chinese art and literature.",
+      "page_idx": 7,
+      "id": "ffu1w29y"
+    },
+    {
+      "type": "text",
+      "text": "The Chinese idiom ling luo chou duan, which describes the lustrous and extraordinary clothing worn by the upper class, is an amalgamation of four types of silk fabric: ling (damask), luo (complex gauze), chou (coarse tabby silk) and duan (satin).",
+      "page_idx": 7,
+      "id": "ywd341hk"
+    },
+    {
+      "type": "text",
+      "text": "Another idiom jin shang tian hua, literally ‘adding blossoms to brocade’, describes the act of perfecting what is already perfect.",
+      "page_idx": 7,
+      "id": "s4a5t4b0"
+    },
+    {
+      "type": "text",
+      "text": "Silk also has served as a source of inspiration for poets and artists.",
+      "page_idx": 7,
+      "id": "s54t0oiv"
+    },
+    {
+      "type": "text",
+      "text": "Silk production, for example, was depicted in",
+      "page_idx": 7,
+      "id": "qpso56db"
+    }
+  ],
+  "vhp4ad74": [
+    {
+      "type": "text",
+      "text": "Silk tapestry and embroidery: techniques and origins",
+      "text_level": 1,
+      "page_idx": 8,
+      "id": "bey1jwnd"
+    },
+    {
+      "type": "text",
+      "text": "Silk refers to the long filament produced by silkworms that are fed exclusively on mulberry leaves.",
+      "page_idx": 8,
+      "id": "pdsf7zz9"
+    },
+    {
+      "type": "text",
+      "text": "The material is lustrous, elastic, soft and thin, with a diameter of only 0.018 millimetres.",
+      "page_idx": 8,
+      "id": "la4eqz0d"
+    },
+    {
+      "type": "text",
+      "text": "Up to 1,000 metres of silk can be reeled from a single cocoon.",
+      "page_idx": 8,
+      "id": "j1edawbb"
+    },
+    {
+      "type": "text",
+      "text": "The natural gaps in the filament mean that silk is well-ventilated and absorbent, making it a perfect material for clothing.3 Silk has been used historically in a diverse range of fabrics that can be classified according to structure (plain weave, twill-weave, satin-weave, gauze and rong [velvet]), surface pattern, colour and origin.",
+      "page_idx": 8,
+      "id": "wpbikz1q"
+    },
+    {
+      "type": "text",
+      "text": "Though the principle of the silk tapestry weave is relatively simple, the production process is extremely time-consuming.",
+      "page_idx": 8,
+      "id": "qdcrnh6m"
+    },
+    {
+      "type": "text",
+      "text": "Warp threads in raw silk are first stretched onto a wooden loom.8 Weavers then place a fenben (‘cartoon’) beneath the warps and use a brush to outline the patterns on the warp threads.",
+      "page_idx": 8,
+      "id": "h1da6e7z"
+    },
+    {
+      "type": "text",
+      "text": "Dyed weft threads are inserted into individual small boat-like shuttles, which are then meticulously handwoven into the warp threads to create a polychrome composition.",
+      "page_idx": 8,
+      "id": "c7x51tj3"
+    },
+    {
+      "type": "text",
+      "text": "Developed by generations of weavers, the primary techniques include gou (‘outlining’) for defining the silhouette of patterns, along with guan (‘flinging’), jie (‘connecting’) and qiang (‘propping’).",
+      "page_idx": 8,
+      "id": "uuz0ulmw"
+    },
+    {
+      "type": "text",
+      "text": "Each technique employs similar tones of polychrome wefts to achieve a gradation of colours.",
+      "page_idx": 8,
+      "id": "g8h3m4sn"
+    },
+    {
+      "type": "text",
+      "text": "(Figs.",
+      "page_idx": 8,
+      "id": "mije4etm"
+    },
+    {
+      "type": "text",
+      "text": "2 & 3) To prevent the slits between the adjacent weft patterns from becoming too large, weavers also employ the dasuo (‘shuttle joining’) technique to reduce the spacing.",
+      "page_idx": 8,
+      "id": "jsmlto33"
+    },
+    {
+      "type": "text",
+      "text": "Weft threads of the adjacent patterns are interwoven once with the warp threads of the opposite coloured blocks, and within a set distance based on the size of the slits as a way to stabilise the weaving structure.",
+      "page_idx": 8,
+      "id": "p0swbxcc"
+    },
+    {
+      "type": "text",
+      "text": "Liao Ling (Twill Weaved Silk) written by the famous Tang dynasty (618–907 CE) poet Bai Juyi (722–846 CE) and the handscroll Dao Lian Tu (Court Ladies Preparing Newly Woven Silk) painted by Zhang Xuan (713–55 CE).",
+      "page_idx": 8,
+      "id": "m2imuogf"
+    },
+    {
+      "type": "text",
+      "text": "Silk fabrics such as juan (plain tabby silk) and ling were also used as a medium for paintings and calligraphy, wrappers and mounting materials.",
+      "page_idx": 8,
+      "id": "qcjg3yra"
+    },
+    {
+      "type": "text",
+      "text": "Beginning in the Song dynasty (960–1279) and flourishing into the Qing (1644–1911), craftsmen took up shuttles and needles as their brushes and silk threads as their pigments for creating woven and embroidered pictorial and calligraphic works.",
+      "page_idx": 8,
+      "id": "zgw64iqh"
+    },
+    {
+      "type": "text",
+      "text": "In the hands of weavers and embroiderers, the weft-woven silk tapestry (kesi) and embroidery (cixiu) evolved into an art form—a beautiful combination of painting, calligraphy and hand weaving or embroidering.",
+      "page_idx": 8,
+      "id": "zdip6q28"
+    },
+    {
+      "type": "text",
+      "text": "These works were created for aesthetic appreciation, beyond their traditional role as clothing and decorative items.",
+      "page_idx": 8,
+      "id": "gb334w20"
+    },
+    {
+      "type": "text",
+      "text": "Unlike traditional Chinese painting and calligraphy which emphasize yijing (‘artistic conception’)—the expression of an artist’s ideals and values—pictorial and calligraphic silk tapestry and embroidery rely on the vivid and life-like depiction of images and text through a range of weaving and embroidery techniques.",
+      "page_idx": 8,
+      "id": "biwi3u2n"
+    },
+    {
+      "type": "text",
+      "text": "Together, their interdisciplinary nature offers these silk works a unique and unbroken place in Chinese visual culture.",
+      "page_idx": 8,
+      "id": "thx8ye5w"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 8,
+      "id": "g6vsbhiq"
+    },
+    {
+      "type": "text",
+      "text": "1   The saw-toothed split between adjacently coloured weft patterns can be seen in areas near the grey hair of Shoulao, and in the staircases and children’s robes.",
+      "page_idx": 8,
+      "id": "cafh50nr"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Gathering of  immortals, 18th century, Qing dynasty (1644–1911), China.",
+      "page_idx": 8,
+      "id": "cmtl4bk9"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry with metallic threads, 124.8 x 61.5 cm.",
+      "page_idx": 8,
+      "id": "of8u577m"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2008.1671.",
+      "page_idx": 8,
+      "id": "gp9p25ls"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Lam Kwok Pun, UMAG.",
+      "page_idx": 8,
+      "id": "piyu2i1h"
+    },
+    {
+      "type": "text",
+      "text": "x 61.5 HKU.T.2008.1671。",
+      "page_idx": 8,
+      "id": "f3dbamhq"
+    },
+    {
+      "type": "text",
+      "text": "Woven on small looms, Chinese silk tapestry is a type of handwoven textile that employs a technique known as tongjing duanwei (‘continuous warp and broken weft’).5 Small shuttles carrying polychrome wefts move back and forth across the warp threads within a defined pattern.",
+      "page_idx": 8,
+      "id": "vohs8euq"
+    },
+    {
+      "type": "text",
+      "text": "Unlike other woven textiles created in a plain weave, weft threads in a silk tapestry do not run across the entirety of the fabric.",
+      "page_idx": 8,
+      "id": "bt22w94n"
+    },
+    {
+      "type": "text",
+      "text": "The use of coloured weft threads and patterns woven in other silk fabrics, such as brocade, are relatively limited, or else are repeated through the continuous run of weft threads.",
+      "page_idx": 8,
+      "id": "rqwk7lrt"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weavers could easily and freely employ an endless number of coloured weft threads to create individual patterned segments, resulting in a saw-toothed split between the adjacently coloured weft patterns.",
+      "page_idx": 8,
+      "id": "appao1l7"
+    },
+    {
+      "type": "text",
+      "text": "From a distance, such splits create a visual effect similar to carving; in fact, Chinese silk tapestry was first known as kesi (‘carved silk’), while another homophonic variant for the character ke (‘weft",
+      "page_idx": 8,
+      "id": "q97b4tra"
+    },
+    {
+      "type": "text",
+      "text": "woven’) was adopted by scholars in the Ming dynasty (1368–1644) so as to highlight this characteristic weaving technique.7 (Fig.",
+      "page_idx": 8,
+      "id": "j58x0rwu"
+    },
+    {
+      "type": "text",
+      "text": "1)",
+      "page_idx": 8,
+      "id": "mu0fp39z"
+    },
+    {
+      "type": "text",
+      "text": "Unlike kesi silk tapestry, in which warp and weft threads are used tocomplete a new piece of fabric, embroidery uses needle and threadto decorate a ground fabric, or another medium that can be pierced.The embroidered patterns are raised above the ground fabric, whilethe weft-woven areas of the silk tapestry lay horizontally in relation to",
+      "page_idx": 8,
+      "id": "m87ohe8w"
+    },
+    {
+      "type": "text",
+      "text": "the ground.",
+      "page_idx": 8,
+      "id": "l00rvht4"
+    },
+    {
+      "type": "text",
+      "text": "While silk tapestry follows the principle of weaving the pictorial composition from bottom to top, embroiderers can freely apply stitches in any orientation, according to the defined pattern.",
+      "page_idx": 8,
+      "id": "hgnkbvdk"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/976f8513cdc393aeef57596d04d4a0221312d17b35cc27db9092ca7aaf03308f.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 8,
+      "id": "hy9ti9yq"
+    },
+    {
+      "type": "text",
+      "text": "Needles, thread, scissors and frames are the four major tools for creating an embroidery.",
+      "page_idx": 9,
+      "id": "cqryzfc8"
+    },
+    {
+      "type": "text",
+      "text": "The ground fabric is first stretched onto a frame, often made of wood or bamboo, known as a xiubeng (‘embroidery frame’) to stabilise the cloth.",
+      "page_idx": 9,
+      "id": "z08v69fi"
+    },
+    {
+      "type": "text",
+      "text": "Artisans then use both hands, with one hand placed above the cloth and the other below to manage the meticulous process of handling the needles and myriad stitches.",
+      "page_idx": 9,
+      "id": "nxn277ik"
+    },
+    {
+      "type": "text",
+      "text": "A variety of embroidery stitches were developed over the generations for outlining patterns (qizhen ‘straight stitch’ and dingxian xiu ‘couching stitch’); shading colours (qiangzhen ‘encroaching satin stitch’ and taozhen ‘long and short stitch’); adding three-dimensionality (tiehua ‘applique embroidery’ and gaoxiu ‘high embroidery’); and for representing surface textures (kelinzhen ‘carved scale embroidery’ and wangxiu ‘net embroidery’).",
+      "page_idx": 9,
+      "id": "deedp95d"
+    },
+    {
+      "type": "text",
+      "text": "(Figs.",
+      "page_idx": 9,
+      "id": "wqd1o2gy"
+    },
+    {
+      "type": "text",
+      "text": "4–7)",
+      "page_idx": 9,
+      "id": "g0vi5hh8"
+    },
+    {
+      "type": "text",
+      "text": "The use of embroidered decorative items in China has a longer history than silk tapestry.",
+      "page_idx": 9,
+      "id": "xq34r2ne"
+    },
+    {
+      "type": "text",
+      "text": "The Shangshu (Book of  History) is the earliest known written record of Chinese embroidery, compiled during the Western Zhou period (1046–771 BCE).",
+      "page_idx": 9,
+      "id": "gvrbxku5"
+    },
+    {
+      "type": "text",
+      "text": "This canonical text describes the regulations concerning design and embroidery patterns as they relate to garments from nearly 4,000 years ago.",
+      "page_idx": 9,
+      "id": "lf26u4ts"
+    },
+    {
+      "type": "text",
+      "text": "Moreover, significant quantities of embroidered objects have been identified from the Spring and Autumn (771–476 BCE) and Warring States (475–221 BCE) periods, nearly a thousand years before the earliest surviving examples of silk tapestry in China.",
+      "page_idx": 9,
+      "id": "weak7clq"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered costumes with birds, dragons and geometric patterns in suozhen (‘chain stitch’) from a Chu Kingdom (1030–223 BCE) tomb were discovered in Mashan Tomb No.",
+      "page_idx": 9,
+      "id": "ll6n5e9p"
+    },
+    {
+      "type": "text",
+      "text": "1, in Jiangling, Hubei province, and embroidered garments continued to flourish in later dynasties.",
+      "page_idx": 9,
+      "id": "z4dvuryq"
+    },
+    {
+      "type": "text",
+      "text": "Distinctive examples are a group of extraordinarily well-preserved embroidered silk fabrics and robes excavated from the Han tombs at Mawangdui in Changsha, Hunan province.",
+      "page_idx": 9,
+      "id": "kcfzysqr"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered religious images emerged when Buddhism arrived in China during the Eastern Han (25–220 CE) dynasty.",
+      "page_idx": 9,
+      "id": "t52fgm8h"
+    },
+    {
+      "type": "text",
+      "text": "In the Sui (581–618 CE) and Tang, producing and commissioning embroidered Buddhist hangings and banners became a popular way to demonstrate a believer’s devotion.",
+      "page_idx": 9,
+      "id": "nsfyxkuq"
+    },
+    {
+      "type": "text",
+      "text": "The embroidered silk Buddha image (dated 487 CE) from the Mogao Grottoes at Dunhuang is considered to be the earliest Buddhist pictorial embroidery known in China.",
+      "page_idx": 9,
+      "id": "xp13jsqe"
+    },
+    {
+      "type": "text",
+      "text": "Beginning with the woollen tapestries of the Mediterranean,1 the technique of tongjing duanwei was most likely transmitted to northwest China via Central Asia, where kemao (‘carved wool tapestry’) objects were produced along the Silk Road between the Han and Wei (386–556 CE) dynasties.",
+      "page_idx": 9,
+      "id": "gnlm6na1"
+    },
+    {
+      "type": "text",
+      "text": "The history of local Chinese artisans using silk threads rather than wool to create tapestries or articles of clothing can be traced back to as early as the Tang",
+      "page_idx": 9,
+      "id": "eyghs87i"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 9,
+      "id": "gaj8rkr5"
+    },
+    {
+      "type": "text",
+      "text": "2   Cloud motifs are woven in the jie (‘knotting’) technique, robes of the immortals are outlined in the gou (‘outlining’) technique and the coloured gradation of the ocean waves and rocks are achieved with the qiang (‘propping’) technique.",
+      "page_idx": 9,
+      "id": "hdifc8yn"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Gathering of  immortals, 18th century, Qing dynasty (1644– 1911), China.",
+      "page_idx": 9,
+      "id": "w0vsmizd"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry with metallic threads, 124.8 x 61.5 cm.",
+      "page_idx": 9,
+      "id": "ww5tx9zw"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2008.1671.",
+      "page_idx": 9,
+      "id": "ssw2mi9k"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Lam Kwok Pun, UMAG.",
+      "page_idx": 9,
+      "id": "s7hfdux7"
+    },
+    {
+      "type": "text",
+      "text": "x 61.5 HKU.T.2008.1671。Fig.",
+      "page_idx": 9,
+      "id": "w5r3k7ea"
+    },
+    {
+      "type": "text",
+      "text": "3   Brownish feathers of the golden pheasant are woven in the guan (‘flinging’) technique.",
+      "page_idx": 9,
+      "id": "lpjg3nsp"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Golden pheasant on a loquat tree, 18th century, Qing dynasty (1644–1911).",
+      "page_idx": 9,
+      "id": "j2tv1x5h"
+    },
+    {
+      "type": "text",
+      "text": "China, silk tapestry, 96 x 50 cm.",
+      "page_idx": 9,
+      "id": "glddmesm"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2008.1673.",
+      "page_idx": 9,
+      "id": "lro0v868"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Lam Kwok Pun, UMAG.",
+      "page_idx": 9,
+      "id": "mpbtjjw8"
+    },
+    {
+      "type": "text",
+      "text": "x 50 HKU.T.2008.1673。",
+      "page_idx": 9,
+      "id": "xcyvcsr2"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/179018c659b44edb4a998e3d0d872a824890ded77b82c9c3d7c5c9a3b58748af.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 9,
+      "id": "uulgbkaw"
+    }
+  ],
+  "y2hkj802": [
+    {
+      "type": "text",
+      "text": "Pictorial and calligraphic silk tapestry and embroidery from the Song to the Ming dynasty",
+      "text_level": 1,
+      "page_idx": 10,
+      "id": "pi0n5ae6"
+    },
+    {
+      "type": "text",
+      "text": "dynasty.",
+      "page_idx": 10,
+      "id": "zdfpgt3b"
+    },
+    {
+      "type": "text",
+      "text": "In 1973, a fragment of a fine polychrome silk tapestry belt wrapped around a wooden figurine was excavated from the Tang dynasty tomb (dated 688) of General Zhang Xiong (584–633 CE) and his wife Qu (607–688 CE) in Astana, Turfan (now Xinjiang province).",
+      "page_idx": 10,
+      "id": "u7w7jryd"
+    },
+    {
+      "type": "text",
+      "text": "This belt illustrates the utilitarian nature of silk tapestry from that era.",
+      "page_idx": 10,
+      "id": "nlgoay66"
+    },
+    {
+      "type": "text",
+      "text": "The silk tapestry weaving technique was gradually transmitted from northwest China to eastern and central China, though the exact route remains unknown.",
+      "page_idx": 10,
+      "id": "godx84gm"
+    },
+    {
+      "type": "text",
+      "text": "Based on the similarity of the Northern Song (960–1127) and eastern Central Asian silk tapestries, which both represent animals against a floral ground pattern, and the hypothesis that the Chinese term for silk tapestry, kesi, is likely a Uyghur phonetic transliteration from the Persian qazz,17 scholars generally believe that silk tapestry weaving was brought to eastern and central China by the Uyghers in the tenth century.",
+      "page_idx": 10,
+      "id": "xgn2099b"
+    },
+    {
+      "type": "text",
+      "text": "A Song dynasty robe with silk tapestry border is one piece of evidence supporting this view.19  Excavated from a tomb in the Kashgar region of Xinjiang, the robe was probably made by a local Uyghur weaver.",
+      "page_idx": 10,
+      "id": "j9j1fh4u"
+    },
+    {
+      "type": "text",
+      "text": "This practical function continues into the early Song dynasty (960–1279), when silk tapestry began to be manufactured in Dingzhou, Hebei province as luxurious clothing and Buddhist statue wrappers.",
+      "page_idx": 10,
+      "id": "wqappgln"
+    },
+    {
+      "type": "text",
+      "text": "According to Jilei Bian (Chicken Ribs) (1133)—one of the earliest written records on Chinese silk tapestry by the Northern Song scholar Zhuang Chuo (ca.",
+      "page_idx": 10,
+      "id": "v6uxoll0"
+    },
+    {
+      "type": "text",
+      "text": "1079–?",
+      "page_idx": 10,
+      "id": "pcs4yu5s"
+    },
+    {
+      "type": "text",
+      "text": ")—a single woman’s garment could take weavers an entire year to complete due to the complex production process.20",
+      "page_idx": 10,
+      "id": "lcpdnnp2"
+    },
+    {
+      "type": "text",
+      "text": "While functional items in silk tapestry and embroidery had been made in China for millennia, the practice of producing woven and embroidered paintings and calligraphy purely for aesthetic appreciation did not emerge until the Song dynasty.",
+      "page_idx": 10,
+      "id": "eymatlq1"
+    },
+    {
+      "type": "text",
+      "text": "In the Northern Song, landscape and bird-and-flower paintings were popular, and artworks from the Six Dynasties (220–589) and Tang era were favoured by connoisseurs of the Song court.",
+      "page_idx": 10,
+      "id": "ue0z2eyl"
+    },
+    {
+      "type": "text",
+      "text": "Paintings and calligraphy were mounted on precious silk fabrics, most notably on silk tapestries.",
+      "page_idx": 10,
+      "id": "mtgsve6b"
+    },
+    {
+      "type": "text",
+      "text": "The Song dynasty scholar Zhou Mi’s (1232–1308) Qidong Yeyu (Wild Talk in Qidong) and Ming dynasty scholar Tao Zongyi’s (ca.",
+      "page_idx": 10,
+      "id": "a4akf7gy"
+    },
+    {
+      "type": "text",
+      "text": "1316–1402) Chuo Geng Lu (Nancun´s Records Taken While Halting Field Work) record the use of silk tapestry as colourful mountings for handscrolls with floral arrangements, birds and landscapes.",
+      "page_idx": 10,
+      "id": "kg1y484u"
+    },
+    {
+      "type": "text",
+      "text": "These mountings may have served as prototypes for later pictorial and calligraphic silk tapestry works.",
+      "page_idx": 10,
+      "id": "lmjqlxif"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 10,
+      "id": "dxjjrk7z"
+    },
+    {
+      "type": "text",
+      "text": "8)",
+      "page_idx": 10,
+      "id": "ojy8hdo6"
+    },
+    {
+      "type": "text",
+      "text": "In the Southern Song (1127–1279), the Gaozong Emperor’s (r. 1127–1162) fondness for paintings and calligraphy compelled artisans to use court paintings, particularly bird-and-flower scenes, as blueprints for textiles.23 Woven or embroidered as album leaves and handscrolls, the life-like quality of these reproductions were highly",
+      "page_idx": 10,
+      "id": "qbg749ol"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 10,
+      "id": "p6mkbe4n"
+    },
+    {
+      "type": "text",
+      "text": "4   The silhouette of Magu is outlined in gold threads using dingxian xiu (‘couching stitch’) and her face is embroidered in qizhen (‘straight stitch’).",
+      "page_idx": 10,
+      "id": "l847ytbw"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Longevity banner commemorating the 70th birthday of  Xu Yingkui, 1900, Qing dynasty (1644–1911), China.",
+      "page_idx": 10,
+      "id": "xos7rg4j"
+    },
+    {
+      "type": "text",
+      "text": "Silk with metallic threads, 293.5 x 145.5 cm.",
+      "page_idx": 10,
+      "id": "vccea1zt"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2004.1922.",
+      "page_idx": 10,
+      "id": "mjrmjsha"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Hui Wai Haan, UMAG.",
+      "page_idx": 10,
+      "id": "wsl1inaq"
+    },
+    {
+      "type": "text",
+      "text": "x 145.5 HKU.T.2004.1922 $^\\circ$ Fig.",
+      "page_idx": 10,
+      "id": "q1normsa"
+    },
+    {
+      "type": "text",
+      "text": "5   Shading of the green coloured bat wings is done in qiangzhen (‘encroaching satin stitch’).",
+      "page_idx": 10,
+      "id": "idobkxuf"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Longevity banner commemorating the 70th birthday of  Xu Yingkui, 1900, Qing dynasty (1644–1911), China.",
+      "page_idx": 10,
+      "id": "tu4a51nl"
+    },
+    {
+      "type": "text",
+      "text": "Silk with metallic threads, 293.5 x 145.5 cm.",
+      "page_idx": 10,
+      "id": "hjqyhg47"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2004.1922.",
+      "page_idx": 10,
+      "id": "sst19ub5"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Hui Wai Haan, UMAG.",
+      "page_idx": 10,
+      "id": "q7fg1enx"
+    },
+    {
+      "type": "text",
+      "text": "x 145.5 HKU.T.2004.1922。",
+      "page_idx": 10,
+      "id": "dowjbqgg"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/12f0cdb1ad2a918dc07766221c86775813548ae00b97dffc7e279f07487021ce.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 10,
+      "id": "h2fm5bj9"
+    },
+    {
+      "type": "text",
+      "text": "valued by the Song court and upper-classes.",
+      "page_idx": 11,
+      "id": "peqi019t"
+    },
+    {
+      "type": "text",
+      "text": "The most celebrated artisans were able to master and reproduce realistic paintings in silk tapestries by employing a variety of painting and weaving techniques in polychrome silk threads.",
+      "page_idx": 11,
+      "id": "edhwh5eg"
+    },
+    {
+      "type": "text",
+      "text": "One such master was Zhu Kerou (active during the reign of Gaozong) and Shen Zifang (dates unknown).25 Their names were woven into their artworks in the same way that renowned painters would sign works with seals.",
+      "page_idx": 11,
+      "id": "k52v7flh"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered paintings were also popular in the Song dynasty, as remarked on by the Ming dynasty connoisseur Gao Lian (1573–1620) in his Zun Sheng Bajian (Eight Discourses on the Art of  Living).27",
+      "page_idx": 11,
+      "id": "xtoxs4in"
+    },
+    {
+      "type": "text",
+      "text": "In the Yuan dynasty (1271–1368), silk tapestry and embroidery were used principally for functional items such as robes, imperial fans and boot covers, but also for painting-like textiles.",
+      "page_idx": 11,
+      "id": "dqdreldp"
+    },
+    {
+      "type": "text",
+      "text": "The Yuan court also favoured silk tapestry as a medium for producing imperial portraits of deceased imperial family members, known as zhi yurong (‘woven imperial portraits’).",
+      "page_idx": 11,
+      "id": "um4c9j22"
+    },
+    {
+      "type": "text",
+      "text": "These were displayed in imperial ancestral halls and portrait halls for worship and rituals.",
+      "page_idx": 11,
+      "id": "tqbun1jm"
+    },
+    {
+      "type": "text",
+      "text": "Inspired by the highly prized nashishi or zhijin jin (gold brocade) silk fabrics, weavers also employed gold threads when producing silk tapestries.",
+      "page_idx": 11,
+      "id": "dg4easnb"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 11,
+      "id": "nigtfkq8"
+    },
+    {
+      "type": "text",
+      "text": "9) Yuan embroidered works containing written texts were predominately imperial edicts and reproductions of Buddhist scripts.31",
+      "page_idx": 11,
+      "id": "lz9w2zv7"
+    },
+    {
+      "type": "text",
+      "text": "The tradition of pictorial and calligraphic silk tapestry and embroidery expanded further during the Ming dynasty.",
+      "page_idx": 11,
+      "id": "unlbi8wk"
+    },
+    {
+      "type": "text",
+      "text": "With the patronage of the Xuande Emperor (r. 1426–35), who established the imperial silk tapestry workshops and the popularity of connoisseurship among the literati, a significant number of silk tapestries were made that reproduced famous paintings and works of calligraphy, many depicting birds, flowers and natural landscapes.",
+      "page_idx": 11,
+      "id": "d9x0rfpl"
+    },
+    {
+      "type": "text",
+      "text": "Weavers often employed gold threads and peacock feathers, and introduced the new practice of painting certain areas of the tapestry with a brush.",
+      "page_idx": 11,
+      "id": "q3sc3yt8"
+    },
+    {
+      "type": "text",
+      "text": "Southern China, particularly the Jiangnan region, was famous for producing huaxiu (‘embroidery painting’).",
+      "page_idx": 11,
+      "id": "jjl93top"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 11,
+      "id": "nspfswli"
+    },
+    {
+      "type": "text",
+      "text": "10) Works produced by Guxiu (Gu Embroidery), also known as Luxiangyuan xiu (‘Dew Fragrance Garden Embroidery’) in Shanghai, were the most well-known type of decorative embroidery.",
+      "page_idx": 11,
+      "id": "ol30ciko"
+    },
+    {
+      "type": "text",
+      "text": "Characterised by sophisticated craftsmanship, Guxiu works were produced by the elite females of the Gu family who had mastered both painting and embroidery.",
+      "page_idx": 11,
+      "id": "v19g7nia"
+    },
+    {
+      "type": "text",
+      "text": "Song Yuan mingji fangce (Gu Embroideries of  Song and Yuan Masterpieces) (1634), an embroidered painting volume published by Han Ximeng (dates unknown), the granddaughter-in-law of Gu Mingshi (dates unknown) was a particularly popular reference work among the elite.",
+      "page_idx": 11,
+      "id": "n2sg3kxg"
+    },
+    {
+      "type": "text",
+      "text": "The famed artist Dong Qichang (1555–1636) also wrote poems in the volume complementing the artworks.",
+      "page_idx": 11,
+      "id": "mxvn7z32"
+    },
+    {
+      "type": "text",
+      "text": "Guxiu’s style and techniques were subsequently inherited by Suxiu (Suzhou School of Embroidery) artisans in the Qing dynasty.35",
+      "page_idx": 11,
+      "id": "xaz1q3hy"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 11,
+      "id": "z681098x"
+    },
+    {
+      "type": "text",
+      "text": "6   Dragon scales are embroidered in dielinzhen (‘stacked scale embroidery’), one type of kelinzhen (‘carved scale embroidery’).",
+      "page_idx": 11,
+      "id": "h0zkneda"
+    },
+    {
+      "type": "text",
+      "text": "The bluish colouration of each scale is decorated in taozhen (‘long and short stitch’).",
+      "page_idx": 11,
+      "id": "jhokcw3j"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Longevity banner commemorating the 70th birthday of  Xu Yingkui, 1900, Qing dynasty (1644–1911), China.",
+      "page_idx": 11,
+      "id": "c5t2kzdk"
+    },
+    {
+      "type": "text",
+      "text": "Silk with metallic threads, 293.5 x 145.5 cm.",
+      "page_idx": 11,
+      "id": "fgs02j8z"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2004.1922.",
+      "page_idx": 11,
+      "id": "aoio2w1h"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Hui Wai Haan, UMAG.",
+      "page_idx": 11,
+      "id": "qu5bt8tc"
+    },
+    {
+      "type": "text",
+      "text": "x 145.5 HKU.T.2004.1922。Fig.",
+      "page_idx": 11,
+      "id": "e0pbiw03"
+    },
+    {
+      "type": "text",
+      "text": "7   Facial features of Shoulao are embroidered in gaoxiu (‘high embroidery’), and the colourful octagonal pattern on his robe is embroidered in wangxiu (‘net embroidery’).",
+      "page_idx": 11,
+      "id": "bni4tqn4"
+    },
+    {
+      "type": "text",
+      "text": "All of the auspicious motifs, including the Shoulao, monkey, bats and cranes have been stitched onto the red satin ground with the tiehua (‘applique embroidery’) technique.",
+      "page_idx": 11,
+      "id": "zftuplqt"
+    },
+    {
+      "type": "text",
+      "text": "Detail from Longevity banner to commemorate the 73rd birthday of  Xu Yingkui, 1903, Qing dynasty (1644–1911), China.",
+      "page_idx": 11,
+      "id": "v63b7o3c"
+    },
+    {
+      "type": "text",
+      "text": "Silk with metallic threads, 304 x 147 cm.",
+      "page_idx": 11,
+      "id": "zm6d5iza"
+    },
+    {
+      "type": "text",
+      "text": "HKU.T.2004.1923.",
+      "page_idx": 11,
+      "id": "dqgo7dno"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Dr Hui Wai Haan, UMAG.",
+      "page_idx": 11,
+      "id": "jt05o6sr"
+    },
+    {
+      "type": "text",
+      "text": "x 147 HKU.T.2004.1923。",
+      "page_idx": 11,
+      "id": "hb3r49f6"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/67ff62c3149afb5d60d37312955734ec1993f6fbd0e1aadd2518c5e56db4debb.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 11,
+      "id": "qede0y6m"
+    }
+  ],
+  "qdyen1qr": [
+    {
+      "type": "text",
+      "text": "Qing dynasty developments",
+      "text_level": 1,
+      "page_idx": 12,
+      "id": "gmf60372"
+    },
+    {
+      "type": "text",
+      "text": "Pictorial and calligraphic silk tapestry and embroidery thrived in the Qing dynasty, particularly during the Qianlong period (1736–95).",
+      "page_idx": 12,
+      "id": "so2hwf2t"
+    },
+    {
+      "type": "text",
+      "text": "Artisans continued to seek inspiration from paintings and calligraphy in the Song, Yuan and Ming dynasties, or from contemporary works as subjects for woven or embroidered textiles.",
+      "page_idx": 12,
+      "id": "d7e1cfmn"
+    },
+    {
+      "type": "text",
+      "text": "Treasured by the imperial court, these textiles were included in catalogues of the Qianlong Emperor’s collections of paintings and calligraphy, such as Midian zhulin (The Pearl Forest in the Secret Hall, compiled in 1744) and Shiqu baoji (Catalogue of  Painting and Calligraphy in the Qianlong Imperial Collection, compiled in 1745).",
+      "page_idx": 12,
+      "id": "yzjvwl0p"
+    },
+    {
+      "type": "text",
+      "text": "The Qianlong Emperor himself also commissioned artisans to reproduce his poems and paintings in silk tapestry and embroidery.",
+      "page_idx": 12,
+      "id": "v3w42fyn"
+    },
+    {
+      "type": "text",
+      "text": "The flourishing silk industry in the Qing dynasty laid a solid foundation for the development of pictorial and calligraphic silk textiles.",
+      "page_idx": 12,
+      "id": "av82p3k5"
+    },
+    {
+      "type": "text",
+      "text": "Political and economic stability, as well as imperial patronage during the reign of the Kangxi (1662–1722), Yongzheng ( 1722–35) and Qianlong Emperors contributed to an already thriving silk industry.",
+      "page_idx": 12,
+      "id": "stdkvr6t"
+    },
+    {
+      "type": "text",
+      "text": "To revive the state’s agriculture and sericulture sectors, which were interrupted by the suppression of Ming supporters and the pasturing of the Eight Banners’ army horses on farmlands and mulberry fields, the Kangxi Emperor commissioned the court painter Jiao Bingzhen (dates unknown) to publish the Yuzhi gengzhi tu (Imperially Commissioned Illustrations of  Tilling and Weaving) in 1696; the Emperor himself wrote a poem for each of the forty-six illustrations.39 The volume was reproduced in successive dynasties and demonstrated imperial recognition for the importance of agriculture and sericulture, which were two of the most important revenue streams for the empire, as well as pillars of Chinese society.",
+      "page_idx": 12,
+      "id": "iblgy9gt"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 12,
+      "id": "zw0n6hnb"
+    },
+    {
+      "type": "text",
+      "text": "11a, 11b)",
+      "page_idx": 12,
+      "id": "vhtqno9o"
+    },
+    {
+      "type": "text",
+      "text": "Large-scale manufacturing centres for silk and silk products were founded by the Qing government.",
+      "page_idx": 12,
+      "id": "qko253pz"
+    },
+    {
+      "type": "text",
+      "text": "Imperial weaving workshops were established within the nei zhiran ju (Imperial Weaving and Dyeing Service) in Beijing under the oversight of the neiwu fu (Imperial Household Department), as well as in regional cities such as Jiangning (Nanjing), Suzhou and Hangzhou, which came to be known collectively as the Jiangnan san zhizao (Three Southern Textile Workshops).",
+      "page_idx": 12,
+      "id": "zkg7wxex"
+    },
+    {
+      "type": "text",
+      "text": "According to Da Qing huidian (Collected Statutes of  the Qing Dynasty, compiled in 1732), each workshop was responsible for manufacturing a specific type and certain amount of silk fabrics annually for imperial members and court officials.",
+      "page_idx": 12,
+      "id": "ft3yow7z"
+    },
+    {
+      "type": "text",
+      "text": "Among the more than 800 artisans and labourers employed by the Imperial Weaving and Dyeing Service in Beijing, more than 300 of them were zhixiu jiang (‘weavers and embroiders’).",
+      "page_idx": 12,
+      "id": "va8flmg7"
+    },
+    {
+      "type": "text",
+      "text": "Throughout the Qing dynasty, nearly all silk tapestries created for court use—consisting of robes, decorative panels and hangings—were manufactured at the Suzhou Textile Workshop.",
+      "page_idx": 12,
+      "id": "nig4h2w3"
+    },
+    {
+      "type": "text",
+      "text": "Gongtingxiu (‘court embroideries’) such as dragon",
+      "page_idx": 12,
+      "id": "nov377de"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 12,
+      "id": "wogeq8uo"
+    },
+    {
+      "type": "text",
+      "text": "8   Scroll Cover with Animals, Birds, and Flowers.",
+      "page_idx": 12,
+      "id": "a13c3pnx"
+    },
+    {
+      "type": "text",
+      "text": "11th–12th centuries,Song dynasty (960–1279).",
+      "page_idx": 12,
+      "id": "rukqp37w"
+    },
+    {
+      "type": "text",
+      "text": "China.",
+      "page_idx": 12,
+      "id": "w7ibl475"
+    },
+    {
+      "type": "text",
+      "text": "Kesi silk tapestry, 36.2 x 31.8 cm.Accession no.",
+      "page_idx": 12,
+      "id": "tl3iky3q"
+    },
+    {
+      "type": "text",
+      "text": "1983.",
+      "page_idx": 12,
+      "id": "m3wx4y8s"
+    },
+    {
+      "type": "text",
+      "text": "1983.105.",
+      "page_idx": 12,
+      "id": "gjr8vn79"
+    },
+    {
+      "type": "text",
+      "text": "Gift of John M. Crawford Jr.,The Metropolitan Museum of Art, New York.",
+      "page_idx": 12,
+      "id": "spsnvat8"
+    },
+    {
+      "type": "text",
+      "text": "x 31.8 John M. Crawford Jr.",
+      "page_idx": 12,
+      "id": "pdyfjyen"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 12,
+      "id": "dm11jvdm"
+    },
+    {
+      "type": "text",
+      "text": "9  \tFlowers and Garden Rock.",
+      "page_idx": 12,
+      "id": "pajl4wlx"
+    },
+    {
+      "type": "text",
+      "text": "14th century, Yuan dynasty (1271–1368) orMing dynasty (1368–1644).",
+      "page_idx": 12,
+      "id": "trddzvjq"
+    },
+    {
+      "type": "text",
+      "text": "China.",
+      "page_idx": 12,
+      "id": "m5xmesw5"
+    },
+    {
+      "type": "text",
+      "text": "Kesi silk tapestry and metallic-thread tapestry, 40.6 x 38.7 cm.",
+      "page_idx": 12,
+      "id": "a2zlk7y7"
+    },
+    {
+      "type": "text",
+      "text": "Accession no.",
+      "page_idx": 12,
+      "id": "r4ecjj1r"
+    },
+    {
+      "type": "text",
+      "text": "13.100.24.",
+      "page_idx": 12,
+      "id": "uo66qgd6"
+    },
+    {
+      "type": "text",
+      "text": "JohnStewart Kennedy Fund, The Metropolitan Museum of Art, NewYork.",
+      "page_idx": 12,
+      "id": "p33jn5n5"
+    },
+    {
+      "type": "text",
+      "text": "x 38.7 John Stewart Kennedy Fund。",
+      "page_idx": 12,
+      "id": "wfihu4bq"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/02354bcfc0e53291498d794e7515c6b843c3404836ba6d20d3fadc8c8530947b.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 12,
+      "id": "pw7ssg00"
+    },
+    {
+      "type": "text",
+      "text": "robes and luxurious garments worn by the imperial family were produced in xiufang (‘embroidery workshops’) in Jiangning, Suzhou and Hangzhou.",
+      "page_idx": 13,
+      "id": "xj8ab120"
+    },
+    {
+      "type": "text",
+      "text": "The dragon robes in the UMAG collection are jifu (‘semi-formal robes’ or ‘auspicious robes’), which were embroidered in nashaxiu (‘counted stitch’) on silk gauze.",
+      "page_idx": 13,
+      "id": "gvzkckyi"
+    },
+    {
+      "type": "text",
+      "text": "The narrow sleeves with horse-hoof cuff design reflects the Manchu’s nomadic style, and the use of well-ventilated transparent silk gauze suggests they were worn in summer.",
+      "page_idx": 13,
+      "id": "pigrswrx"
+    },
+    {
+      "type": "text",
+      "text": "Jifu like these were worn on festive occasions such as imperial banquets.",
+      "page_idx": 13,
+      "id": "d9hjcn99"
+    },
+    {
+      "type": "text",
+      "text": "(Plate 16)",
+      "page_idx": 13,
+      "id": "w8lj1lrm"
+    },
+    {
+      "type": "text",
+      "text": "Private weaving workshops also blossomed, particularly in Jiangning, Suzhou and Hangzhou.",
+      "page_idx": 13,
+      "id": "dmveb55l"
+    },
+    {
+      "type": "text",
+      "text": "The abolition of the Ming dynasty jiangyi (‘artisan corvée’) system fostered the development of private workshops and the economy of textile commodities, as weavers and embroiderers could now enjoy the freedom of earning a fairer wage, along with the ability to move to different workshops.",
+      "page_idx": 13,
+      "id": "dhg82a58"
+    },
+    {
+      "type": "text",
+      "text": "A regulation restricting private commercial weaving workshops from owning more than one hundred looms per workshop was also abandoned by the Kangxi Emperor.",
+      "page_idx": 13,
+      "id": "s4or59nl"
+    },
+    {
+      "type": "text",
+      "text": "By the mid-Qing dynasty, private workshops in Jiangning, Suzhou and Hangzhou quickly expanded until they housed more than 1,000 looms and employed over 3,000 weavers, which subsequently allowed them to compete with the local and overseas markets.",
+      "page_idx": 13,
+      "id": "zgjgmm93"
+    },
+    {
+      "type": "text",
+      "text": "As one of the most important export goods (along with tea and ceramics), silk products were exported to markets across Asia and Europe.",
+      "page_idx": 13,
+      "id": "hxngbi6o"
+    },
+    {
+      "type": "text",
+      "text": "Raw silk and silk products amounted to approximately seventy percent of the total export trade between Japan and China; and the Japanese demand for Chinese silks only declined after Japan developed its own silk industry in the early eighteenth century.",
+      "page_idx": 13,
+      "id": "z3kzz0p0"
+    },
+    {
+      "type": "text",
+      "text": "Approximately 20,000 silk products, including raw silk and silk textiles, were exported to Europe and America via Canton (Guangzhou) in the mid-eighteenth century, destined for consumers in England, France, the Netherlands, the Americas and elsewhere.48",
+      "page_idx": 13,
+      "id": "uavz9dsb"
+    }
+  ],
+  "zo7hvnoi": [
+    {
+      "type": "text",
+      "text": "Subjects and technical development",
+      "text_level": 1,
+      "page_idx": 13,
+      "id": "chsx5ggo"
+    },
+    {
+      "type": "text",
+      "text": "Favoured by members of the court and the upper class as gifts of exchange and luxurious furnishings, pictorial and calligraphic textiles embraced a diverse range of subjects, including historical figures, landscapes, birds and flowers, religious figures and scriptures, as well as auspicious symbols to suit various tastes and audiences.",
+      "page_idx": 13,
+      "id": "fkzn0o7m"
+    },
+    {
+      "type": "text",
+      "text": "Zhu Qiqian (1871–1964), a connoisseur of silk tapestry and embroidery works from the Republican period (1912–49),  compiled Qing neifu cang kesi xiuxian shuhua lu (Catalogue of  Kesi Silk Tapestry Woven and Silk Embroidered Calligraphy and Painting in the Collection of the Imperial Household Department (1930) in order to provide a detailed description of the most popular subjects of pictorial textiles in the Qing dynasty.",
+      "page_idx": 13,
+      "id": "tk4ob5oi"
+    },
+    {
+      "type": "text",
+      "text": "These included fashu (calligraphy), shidao tuxiang (Buddhist and Daoist images), huaniao (birds and flowers), huahui (flowers and plants), lingmao (birds and animals), renwu (figures) and shanshui (landscapes).",
+      "page_idx": 13,
+      "id": "cfw90707"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 13,
+      "id": "f2p85teq"
+    },
+    {
+      "type": "text",
+      "text": "10   Welcoming Spring.",
+      "page_idx": 13,
+      "id": "scxrzrxc"
+    },
+    {
+      "type": "text",
+      "text": "15th century, Ming dynasty (1368–1644).China.",
+      "page_idx": 13,
+      "id": "agfh5iav"
+    },
+    {
+      "type": "text",
+      "text": "Silk embroidery, 213.4 x 63.5 cm.",
+      "page_idx": 13,
+      "id": "m6vib37s"
+    },
+    {
+      "type": "text",
+      "text": "Accession no.",
+      "page_idx": 13,
+      "id": "meq0a9i1"
+    },
+    {
+      "type": "text",
+      "text": "1981.410.Purchase, The Dillon Fund Gift, The Metropolitan Museum ofArt, New York.",
+      "page_idx": 13,
+      "id": "r4srayxh"
+    },
+    {
+      "type": "text",
+      "text": "x 63.5 circ$ TheDillon Fund Gift",
+      "page_idx": 13,
+      "id": "xf8c9bc4"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/c85bbcd57291520d31ad1f08c58f848790a9308d93e49b5838212892c9dd4c41.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 13,
+      "id": "jxwjcae6"
+    },
+    {
+      "type": "text",
+      "text": "Roughly one quarter of the objects illustrate languid scenes of birds and flowers (Plate 8), while several artworks represent serene landscapes (Plate 1) and figures at leisure.",
+      "page_idx": 14,
+      "id": "vbspjioh"
+    },
+    {
+      "type": "text",
+      "text": "(Plate 17)",
+      "page_idx": 14,
+      "id": "jfhlzcak"
+    },
+    {
+      "type": "text",
+      "text": "The widespread popularity of silk tapestry and a demand for life-like images resulted in the development of new weaving techniques in the Qing dynasty.",
+      "page_idx": 14,
+      "id": "m5y93lq5"
+    },
+    {
+      "type": "text",
+      "text": "As silk tapestry table screens, panels and fans were commonly used as display objects, weavers developed shuangmian touke (‘double-sided translucent silk tapestry’) as a way to create a highly ornamental object with identical images on both sides.",
+      "page_idx": 14,
+      "id": "ysetjdyw"
+    },
+    {
+      "type": "text",
+      "text": "(Plate 3; Plate 4) Another notable technique known as hehuaxian (‘mixedcolour threads’) combines two or more strands of polychrome threads with similarly coloured tones to produce variations in texture and shades of colour.",
+      "page_idx": 14,
+      "id": "hq20wgt3"
+    },
+    {
+      "type": "text",
+      "text": "(Plate 11)51 For example, the sansejin (‘three colour gold’) technique uses three types of twisted gold and silver threads to achieve a highly expressive pattern.",
+      "page_idx": 14,
+      "id": "gui4c3mt"
+    },
+    {
+      "type": "text",
+      "text": "(Plate $7)^{52}$",
+      "page_idx": 14,
+      "id": "b3e1natv"
+    },
+    {
+      "type": "text",
+      "text": "Influenced by the aesthetics of Western painting, Chinese silk tapestry weavers in the mid- and late Qing dynasty began to produce three-dimensional woven works through the use of techniques such as sanlan kesi (‘three shades of blue silk tapestry’) and shuimo kesi (‘water and ink silk tapestry’).",
+      "page_idx": 14,
+      "id": "w8d25rqz"
+    },
+    {
+      "type": "text",
+      "text": "The former technique employs three different blue threads, including dark blue, reddish blue and pale blue to achieve the various shades; the latter utilises black, dark grey and light grey with gold or white threads to outline the depicted image.",
+      "page_idx": 14,
+      "id": "w0dokm8h"
+    },
+    {
+      "type": "text",
+      "text": "Qing dynasty weavers also creatively combined silk tapestry works with other materials or mediums to enhance the quality of woven textiles.",
+      "page_idx": 14,
+      "id": "a5i4wym7"
+    },
+    {
+      "type": "text",
+      "text": "Wall hangings and table screens in the imperial palace in the mid-Qing period were often made using the kesi mao (‘silk tapestry with wool’) technique, in which the background pattern was woven in silk and the main pattern in wool.",
+      "page_idx": 14,
+      "id": "qa5e7gaa"
+    },
+    {
+      "type": "text",
+      "text": "For smaller areas that were particularly difficult to weave, artisans used brushes to paint in the details; this technique is known as kehua (‘silk tapestry and painting’).",
+      "page_idx": 14,
+      "id": "x0i9g2vz"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 14,
+      "id": "bzpbp4i4"
+    },
+    {
+      "type": "text",
+      "text": "12) Another distinctive technique, kexiu (‘silk tapestry with embroidery’), gives finished textiles a shimmering surface, as the fabric ground and specific patterns are first woven into the silk tapestry, and then the remaining motifs are embroidered.55",
+      "page_idx": 14,
+      "id": "e3pikmoi"
+    },
+    {
+      "type": "text",
+      "text": "Ranging from the Qing dynasty to the mid-20th century, UMAG’s silk textile collection encompasses a variety of subjects that fit within Zhu’s account, including hanging scrolls, framed panels, banners and robes.",
+      "page_idx": 14,
+      "id": "rjp8ibrx"
+    },
+    {
+      "type": "text",
+      "text": "Inspired by famous paintings and works of calligraphy, Mandarin Ducks and Peach Blossoms (Plate 14) is a reproduction of a Song dynasty painting in silk tapestry, while the embroidered calligraphy panel (Plate 18) vividly imitates a couplet written by Qing dynasty official Weng Tonghe (1830–1904).",
+      "page_idx": 14,
+      "id": "x7kxs330"
+    },
+    {
+      "type": "text",
+      "text": "Daoist figures featuring auspicious symbols, such as the Hehe Immortals (Plate 2) and Shoulao, the God of Longevity (Plate 19), are also commonly found throughout the UMAG collection.",
+      "page_idx": 14,
+      "id": "hsmjjo7f"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/bcfeeeba813db532575f7ff6d1749a67a9a576dedc6468b34033aa3a02c8c1ea.jpg",
+      "img_caption": [
+        "Fig. 11   a. Yuzhi Gengzhi Tu (Imperially Commissioned Illustrations of  Tilling and Weaving) (No. 7 Picking Mulberry Leaves). 1696, Qing dynasty (1644–1911), China. Ink and colour on silk. The Library of Congress. b. Yuzhi Gengzhi Tu (Imperially Commissioned Illustrations of  Tilling and Weaving) (No. 17 Weaving). 1696, Qing dynasty (1644–1911), China. Ink and colour on silk. The Library of Congress. "
+      ],
+      "img_footnote": [],
+      "page_idx": 14,
+      "id": "bt49cm4m"
+    },
+    {
+      "type": "text",
+      "text": "The industry surrounding the production of embroidery also developed significantly in the Qing period, exemplified by several new techniques developed during this period.",
+      "page_idx": 15,
+      "id": "r1skeljh"
+    },
+    {
+      "type": "text",
+      "text": "Similar to the doublesided shuangmian touke, skilful embroiderers developed shuangmianxiu (‘double-sided embroidery’) to produce identical patterns on both sides of embroidered textiles.",
+      "page_idx": 15,
+      "id": "rsy27gby"
+    },
+    {
+      "type": "text",
+      "text": "This technique was primarily used for clothing, table screens and room dividers.",
+      "page_idx": 15,
+      "id": "qryve5hg"
+    },
+    {
+      "type": "text",
+      "text": "The sanlan technique, which employs light blue, blue and dark blue to achieve the colouration, was also used in embroidery works known as sanlanxiu (‘three shades of blue embroidery’).",
+      "page_idx": 15,
+      "id": "wogac7ti"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 15,
+      "id": "zjs2pxx3"
+    },
+    {
+      "type": "text",
+      "text": "13) Yet another innovative technique known as nashaxiu (‘counted stitch’) was developed by artisans from the Suxiu School in Suzhou to create patterns of various shades on a silk gauze ground.",
+      "page_idx": 15,
+      "id": "lnqe0r0c"
+    },
+    {
+      "type": "text",
+      "text": "This method is commonly used for stitching patterns onto imperial costumes, such as dragon robes.",
+      "page_idx": 15,
+      "id": "yrpuzrls"
+    },
+    {
+      "type": "text",
+      "text": "(Plate 16)",
+      "page_idx": 15,
+      "id": "godtuc0j"
+    },
+    {
+      "type": "text",
+      "text": "Also during the Qing, the thriving commercial embroidery market and diversified production centres led to the emergence of new regional embroidery schools, each with its own distinctive style.",
+      "page_idx": 15,
+      "id": "s8h4twax"
+    },
+    {
+      "type": "text",
+      "text": "These included the Sida mingxiu (Four Famous Embroidery Schools) —the Suxiu School in Suzhou, Yuexiu School in Guangdong, Shuxiu School in Sichuan and Xiangxiu School in Hunan.58 Unlike the imperial xiufang, which were obliged to create embroidery based on the cartoons provided by court painters from the Ruyiguan (‘Hall of Fulfilled Wishes’), these regional schools enjoyed the creative freedom to produce their own distinctive embroideries.",
+      "page_idx": 15,
+      "id": "fitowa7u"
+    },
+    {
+      "type": "text",
+      "text": "The Yuexiu School in Guangdong distinguished itself through the extensive use of gold and brightly coloured threads; the school produced rich pictorial compositions with an ornamental border and auspicious patterns such as peacocks spreading their wings.59 The colourful floral border and peacock motif of Lugard Tribute from the UMAG collection, created in Guangzhou, illustrates the features of the Guandong Yuexiu School.",
+      "page_idx": 15,
+      "id": "pndxx1bd"
+    },
+    {
+      "type": "text",
+      "text": "(Fig.",
+      "page_idx": 15,
+      "id": "w7ii7ckf"
+    },
+    {
+      "type": "text",
+      "text": "14) According to the Lingnan Congshu (Book Series of  Lingnan) (1835), compiled by Deng Chun (1776–1850), unlike other embroidery schools that often employed female embroiderers, those from the Yuexiu School were predominately male workers from Guangzhou and Chaozhou who excelled at nugong (‘needlework’).",
+      "page_idx": 15,
+      "id": "uwdtkqb9"
+    },
+    {
+      "type": "text",
+      "text": "Apart from the example of the Yuexiu School, the majority of artisans in the Qing dynasty were women who pursued the art not simply to make a living, but because the practice was recognised as being nugong or fugong (‘women’s work’)—one of the four traditional virtues of Chinese women and an essential handicraft skill.",
+      "page_idx": 15,
+      "id": "kbehp0vo"
+    },
+    {
+      "type": "text",
+      "text": "The Chinese phrase nangeng nuzhi (‘men plough and women weave’) illustrates the gendered division of labour in imperial China.",
+      "page_idx": 15,
+      "id": "cefys4g6"
+    },
+    {
+      "type": "text",
+      "text": "Ding Pei (active between the reigns of the Jiaqing (1796–1820) and Daoguang (1821–50) Emperors) and Shen Shou (1874–1921), were two of the most important Qing dynasty women embroiderers, both in terms of their work and respective publications on the art form.",
+      "page_idx": 15,
+      "id": "z5juxzqf"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/8b6c7e36253d757c4678054393e24e5fa4ec29642f67602275b3d008f8158457.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 15,
+      "id": "hf603agv"
+    },
+    {
+      "type": "text",
+      "text": "In her book Xiupu (Treatise on Embroidery) published in 1821, Ding emphasises that embroidery was the art of writing for women—in which silk was the writing paper, silk floss the ink and the needle the brush.62 Ding further theorised embroidery practices by outlining how to choose a suitable work location and tools, embroidered patterns, colours and techniques, as well as offering a list of criteria for judging an admirable piece of embroidery.63 Her publication transformed the act of embroidery from the realm of craft to art.",
+      "page_idx": 16,
+      "id": "g3xh5w11"
+    },
+    {
+      "type": "text",
+      "text": "Likely the most internationally renowned Chinese embroiderer in the late Qing dynasty, Shen64 contributed significantly to promoting cultural and technical exchange in the field of embroidery craftsmanship.",
+      "page_idx": 16,
+      "id": "o9hspm85"
+    },
+    {
+      "type": "text",
+      "text": "Appointed as the Zong jiaoxi (Chief Instructor) at the Nonggongbu xiugongke (Department of Embroidery Workers in the Ministry of Agriculture, Crafts and Commerce), Shen was sent by the court to research embroidery schools in Japan.",
+      "page_idx": 16,
+      "id": "bvn8i0oz"
+    },
+    {
+      "type": "text",
+      "text": "During her visit, she was inspired by Japanese embroidery and Western paintings, and later innovated the technique of fangzhenxiu (‘realistic representational embroidery’) to enhance the three-dimensionality of embroidered patterns.",
+      "page_idx": 16,
+      "id": "lf9pfss8"
+    },
+    {
+      "type": "text",
+      "text": "Her works also received international recognition and promoted Chinese embroidery overseas; her Portrait of  Jesus was exhibited at the 1915 Panama-Pacific International Exposition in San Francisco.66 In 1919, with help from Zhang Jian (1853–1926), a famous industrialist and agriculturalist, Shen published Xuehuan Xiupu (Xuehuan’s Embroidery Treatise).",
+      "page_idx": 16,
+      "id": "xiebm9k2"
+    },
+    {
+      "type": "text",
+      "text": "This work systematically discusses the tools, working processes, stitches and embroiderers’ approach, as well as the relationship between embroidery, painting and calligraphy.",
+      "page_idx": 16,
+      "id": "a7f15lul"
+    },
+    {
+      "type": "text",
+      "text": "Such a publication was one of the most influential monographs on embroidery in the Qing dynasty, and it has remained a vital reference for embroiderers and researchers.",
+      "page_idx": 16,
+      "id": "jza8hyft"
+    },
+    {
+      "type": "text",
+      "text": "By the end of the Qing, the political upheavals brought about by foreign interference and local rebellions led to a marked decline in silk production.",
+      "page_idx": 16,
+      "id": "wznrvxpt"
+    },
+    {
+      "type": "text",
+      "text": "Although the silk industry remained an important economic sector in China after the fall of the Qing dynasty in 1911, the introduction of foreign reeling machines and synthetic fibres led to a further decline in local silk production, particularly that of silk tapestry, which relies on the time-consuming hand-woven production process.",
+      "page_idx": 16,
+      "id": "xob5bdqb"
+    },
+    {
+      "type": "text",
+      "text": "The sophisticated craftsmanship of silk tapestry and embroidery works continued to be passed down to a limited number of artisans throughout the twentieth century.",
+      "page_idx": 16,
+      "id": "h8vcaeub"
+    },
+    {
+      "type": "text",
+      "text": "For example, the famous silk tapestry weaver Shen Jinshui (1883–1968) (Plate 15) and embroiderer Jin Jingfen (1885–1970), a student of Shen Shou, were invited to teach in the Suzhou gong yi meishu yanjiushi (Suzhou Crafts Art Research Institute) in the 1950s and 1960s.68 During the 1970s, many silk tapestries were woven as obi (kimono belts)69  and exported to Japan.",
+      "page_idx": 16,
+      "id": "hrvzno7q"
+    },
+    {
+      "type": "text",
+      "text": "However, facing rapid industrialisation and socioeconomic change, these artistic traditions are now in steep decline.",
+      "page_idx": 16,
+      "id": "xuo3413g"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 16,
+      "id": "r7ckp308"
+    },
+    {
+      "type": "text",
+      "text": "13   The blue colouration of the child’s robe is embroidered insanlanxiu—pale blue, blue and dark blue silk threads.Detail from Ladies and children, 19th century, Qing dynasty (1644–1911), China.",
+      "page_idx": 16,
+      "id": "tzxieaze"
+    },
+    {
+      "type": "text",
+      "text": "Silk, 179 x 126.7 cm.HKU.T.2005.1595.",
+      "page_idx": 16,
+      "id": "exp3xcwr"
+    },
+    {
+      "type": "text",
+      "text": "Gift of Mr and Mrs Wellington Yee, UMAG.",
+      "page_idx": 16,
+      "id": "mq2ojv8u"
+    },
+    {
+      "type": "text",
+      "text": "x126.7 HKU.T.2005.1595。",
+      "page_idx": 16,
+      "id": "rgsi60dd"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/a4aa502627494a91b8a49893a4939240e3e778c524ae8987e1487814b210d6eb.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 16,
+      "id": "xsw9n6zz"
+    },
+    {
+      "type": "text",
+      "text": "The sophisticated craftsmanship of silk tapestry and embroidery has been praised by the ancient Chinese literati throughout the ages with phrases such as yicun kesi yicun jin (‘an inch of silk tapestry equals an inch of gold’) and shizhi chunfeng (‘pleasant spring breeze on the fingertips’).",
+      "page_idx": 17,
+      "id": "cuxx8z22"
+    },
+    {
+      "type": "text",
+      "text": "While creating life-like pictorial textiles, artisans in successive dynasties innovated a variety of weaving and embroidery techniques to create exquisitely woven and embroidered paintings and works of calligraphy.",
+      "page_idx": 17,
+      "id": "w7og303j"
+    },
+    {
+      "type": "text",
+      "text": "Although these woven and embroidered objects were sometimes only included in the annex of paintings and calligraphy catalogues, they are much more than simply copies of earlier artworks.",
+      "page_idx": 17,
+      "id": "d0fxb4sa"
+    },
+    {
+      "type": "text",
+      "text": "A pictorial history of Chinese textiles—the sociocultural contexts from where these silk works emerged, their technical development and craftsmanship, the Chinese cultural and aesthetic values embedded in the patterns and colours, and the contribution of women to traditional weaving and embroidery practices—are embodied in these woven and embroidered paintings and works of calligraphy.",
+      "page_idx": 17,
+      "id": "lb2z642r"
+    },
+    {
+      "type": "text",
+      "text": "By interweaving the many ‘colours’ of Chinese visual and material cultures, they are a spectacular combination of various art forms developed throughout the history of Chinese arts and crafts.",
+      "page_idx": 17,
+      "id": "c5vwzdi7"
+    },
+    {
+      "type": "text",
+      "text": "The survival and transmission of this form of craftsmanship requires not only the ongoing practice of individual practitioners, but also a broader public awareness, appreciation and deeper understanding of Chinese silk tapestry and embroidery.",
+      "page_idx": 17,
+      "id": "mtvbk8lb"
+    },
+    {
+      "type": "text",
+      "text": "The Intangible Cultural Heritage Law of the People’s Republic of China was enacted in 2011 to protect and reinvigorate traditional Chinese culture and to strengthen the preservation and protection of intangible cultural heritage, including the craftsmanship of silk tapestry and embroidery.",
+      "page_idx": 17,
+      "id": "rkxqwj90"
+    },
+    {
+      "type": "text",
+      "text": "Both silk tapestry and embroidery were included in the earlier National List of Representative Intangible Cultural Heritage in the early 2000s, designating their historical and artistic value, and addressing fears over the art forms’ potential loss due to a generational shift and a lack of younger practitioners.",
+      "page_idx": 17,
+      "id": "d1j0tcrj"
+    },
+    {
+      "type": "text",
+      "text": "By examining the historical development, craftsmanship and value of silk textiles, this publication, and the accompanying UMAG exhibition, seek to generate renewed interest in the value of these traditional crafts, and to spark further discussion about silk’s multiple roles.",
+      "page_idx": 17,
+      "id": "zwbg38yo"
+    },
+    {
+      "type": "text",
+      "text": "Fig.",
+      "page_idx": 17,
+      "id": "lxhqw1l6"
+    },
+    {
+      "type": "text",
+      "text": "14   The silk scroll's border is embroidered with ornamental flora and fauna.",
+      "page_idx": 17,
+      "id": "tnfuumst"
+    },
+    {
+      "type": "text",
+      "text": "Detail from The Lugard Tribute, 1910, Qing dynasty (1644–1911), Guangzhou, China.",
+      "page_idx": 17,
+      "id": "jf91q0ah"
+    },
+    {
+      "type": "text",
+      "text": "Silk, 347 x 116.5 cm.",
+      "page_idx": 17,
+      "id": "u5wvqv0b"
+    },
+    {
+      "type": "text",
+      "text": "HKU.W.2001.1393.",
+      "page_idx": 17,
+      "id": "yuubtlmt"
+    },
+    {
+      "type": "text",
+      "text": "On permanent loan from Major Richard Pinker, UMAG.",
+      "page_idx": 17,
+      "id": "mpmh2034"
+    },
+    {
+      "type": "text",
+      "text": "x 116.5 HKU.W.2001.1393。Major Richard Pinker The exact dating of the silk cocoon is subject to debate.",
+      "page_idx": 17,
+      "id": "a3xlilg2"
+    },
+    {
+      "type": "text",
+      "text": "For a detailed discussion, see Peng 2012: 71–2; Zhao et al.",
+      "page_idx": 17,
+      "id": "fbz2vg57"
+    },
+    {
+      "type": "text",
+      "text": "2014: 29–30.",
+      "page_idx": 17,
+      "id": "o6ejazci"
+    },
+    {
+      "type": "text",
+      "text": "Peng 2012: 71–2; Zhao et al.",
+      "page_idx": 17,
+      "id": "n1y1d9rv"
+    },
+    {
+      "type": "text",
+      "text": "2014: 29–30。   \n2\t Vainker 2004: 6; Watt et al.",
+      "page_idx": 17,
+      "id": "ygy3tkc1"
+    },
+    {
+      "type": "text",
+      "text": "1997: 7.",
+      "page_idx": 17,
+      "id": "vbp20egq"
+    },
+    {
+      "type": "text",
+      "text": "3\t Peng 2012: 68.",
+      "page_idx": 17,
+      "id": "bpe4i9mq"
+    },
+    {
+      "type": "text",
+      "text": "4 \t According to Jilei Bian (Chicken Ribs, compiled in 1133), Song dynasty weavers in Dingzhou did not use daji (‘large looms’) to weave silk tapestries.",
+      "page_idx": 17,
+      "id": "qb89e3ae"
+    },
+    {
+      "type": "text",
+      "text": "Large looms most likely refer to looms for weaving silk fabrics with a more complicated weaving structure, such as brocade and damask.",
+      "page_idx": 17,
+      "id": "ft1gckei"
+    },
+    {
+      "type": "text",
+      "text": "Producing a silk tapestry only requires a wooden tabby loom with double heddles.",
+      "page_idx": 17,
+      "id": "qrrx05h3"
+    },
+    {
+      "type": "text",
+      "text": "Vainker 2004: 131.",
+      "page_idx": 17,
+      "id": "wioimup3"
+    },
+    {
+      "type": "text",
+      "text": "6\t Lin & Guoli lishi bowuguan bianji weiyuanhui 2001: 5.",
+      "page_idx": 17,
+      "id": "r2sjh156"
+    },
+    {
+      "type": "text",
+      "text": "7\t Zhao 2012: 287.",
+      "page_idx": 17,
+      "id": "x16i4vxt"
+    },
+    {
+      "type": "text",
+      "text": "8\t Raw silk is used for warp threads because the boiling and dying process often weakens the fabric’s structure.",
+      "page_idx": 17,
+      "id": "tkl11iih"
+    },
+    {
+      "type": "text",
+      "text": "Chen 2005: 145.",
+      "page_idx": 17,
+      "id": "v6814u1w"
+    },
+    {
+      "type": "text",
+      "text": "10\t Bertin-Guest 2003: 15.",
+      "page_idx": 17,
+      "id": "mxlaf0fv"
+    },
+    {
+      "type": "text",
+      "text": "11\t Peng 2012: 100.",
+      "page_idx": 17,
+      "id": "jxvjq392"
+    },
+    {
+      "type": "text",
+      "text": "12\t Tunstall 2012: 42.",
+      "page_idx": 17,
+      "id": "vu06kmym"
+    },
+    {
+      "type": "text",
+      "text": "13\t Chung 2005: 89.",
+      "page_idx": 17,
+      "id": "kcjzregr"
+    },
+    {
+      "type": "text",
+      "text": "14\t Ibid: 98.",
+      "page_idx": 17,
+      "id": "xrf0mok8"
+    },
+    {
+      "type": "text",
+      "text": "15\t Ibid: 102; Bertin-Guest 2003: 16.",
+      "page_idx": 17,
+      "id": "afl8sw6g"
+    },
+    {
+      "type": "text",
+      "text": "16\t Zhao 2012: 237.",
+      "page_idx": 17,
+      "id": "xs0mh4ln"
+    },
+    {
+      "type": "text",
+      "text": "17\t For further discussion on the origins of Chinese silk tapestry, see Cammann 1948: 70–1; Watt et al.",
+      "page_idx": 17,
+      "id": "qdcj0ng0"
+    },
+    {
+      "type": "text",
+      "text": "1997: 53–63; Sheng 1995: 166–7 and Zhao 2012: 286–94; and Zhao et al.",
+      "page_idx": 17,
+      "id": "akmbpkpz"
+    },
+    {
+      "type": "text",
+      "text": "2014: 368–70.",
+      "page_idx": 17,
+      "id": "eh6bob6y"
+    },
+    {
+      "type": "text",
+      "text": "For more details on the relationship between kemao and silk tapestry, see Pu 2009: 1–15.",
+      "page_idx": 17,
+      "id": "l9vwz4oz"
+    },
+    {
+      "type": "text",
+      "text": "Cammann 1948: 70–1; Watt et al.",
+      "page_idx": 17,
+      "id": "mqbu3h94"
+    },
+    {
+      "type": "text",
+      "text": "1997: 53–63; Sheng 1995: 166–7 and Zhao 2012: 286–94; and Zhao et al.",
+      "page_idx": 17,
+      "id": "nn3zp0mp"
+    },
+    {
+      "type": "text",
+      "text": "2014: 368–70。Pu 2009: 1–15。   \n18\t In his Song Mo Ji Wen (Records of  Hearsay on the Pine Forests North of  the Plains), Hong Hao (1088–1155) describes his activities as an envoy sent by the Southern Song (1127–1279) court to the Jin (1115–1234) state.",
+      "page_idx": 17,
+      "id": "mjrh0tus"
+    },
+    {
+      "type": "text",
+      "text": "During fifteen years in captivity, he reported seeing the Uyghurs’ delicate polychrome silk tapestry robes.",
+      "page_idx": 17,
+      "id": "snail9hk"
+    },
+    {
+      "type": "text",
+      "text": "Zhao 2012: 290.",
+      "page_idx": 17,
+      "id": "v4a2qj3r"
+    },
+    {
+      "type": "text",
+      "text": "20\t Watt et al.",
+      "page_idx": 17,
+      "id": "xkwc8jle"
+    },
+    {
+      "type": "text",
+      "text": "1997: 59.",
+      "page_idx": 17,
+      "id": "mc9eluy6"
+    },
+    {
+      "type": "text",
+      "text": "21\t Pu 2009: 26.",
+      "page_idx": 17,
+      "id": "yaanfl16"
+    },
+    {
+      "type": "text",
+      "text": "22\t Ibid: 26, 29.",
+      "page_idx": 17,
+      "id": "ago7b0mt"
+    },
+    {
+      "type": "text",
+      "text": "23\t Zhao 2012: 292; Tung 2015: 4.",
+      "page_idx": 17,
+      "id": "m8al0w1r"
+    },
+    {
+      "type": "text",
+      "text": "24\t Watt et al.",
+      "page_idx": 17,
+      "id": "b0vt250n"
+    },
+    {
+      "type": "text",
+      "text": "1997: 58.",
+      "page_idx": 17,
+      "id": "rwtgaoml"
+    },
+    {
+      "type": "text",
+      "text": "25\t Chen 2005: 153.",
+      "page_idx": 17,
+      "id": "gwhcldny"
+    },
+    {
+      "type": "text",
+      "text": "26\t Zhao 2012: 292.",
+      "page_idx": 17,
+      "id": "knq62zxw"
+    },
+    {
+      "type": "text",
+      "text": "27\t Tung 2015: 4.",
+      "page_idx": 17,
+      "id": "xsiggh1x"
+    },
+    {
+      "type": "text",
+      "text": "28\t Zhao 2012: 350.",
+      "page_idx": 17,
+      "id": "nump45p5"
+    },
+    {
+      "type": "text",
+      "text": "29\t Nashishi probably derives from the Persian term nasij (‘cloth of gold’), which refers to textiles with an overall pattern woven in gold.",
+      "page_idx": 17,
+      "id": "dovkou5f"
+    },
+    {
+      "type": "text",
+      "text": "「nasij ，Lin 2001: 15.",
+      "page_idx": 17,
+      "id": "hhhyeof7"
+    },
+    {
+      "type": "text",
+      "text": "31\t Zhao 2012: 351.",
+      "page_idx": 17,
+      "id": "cvjq7j6p"
+    },
+    {
+      "type": "text",
+      "text": "32\t Zhao et al.",
+      "page_idx": 17,
+      "id": "cvx7b6yi"
+    },
+    {
+      "type": "text",
+      "text": "2014: 498.",
+      "page_idx": 17,
+      "id": "p64o4uel"
+    },
+    {
+      "type": "text",
+      "text": "33\t Guxiu was developed by née Miao (dates unknown), daughter-in-law of Gu Mingshi, who earned the jinshi degree during the reign of the Jiajing Emperor (1522–66) and built the Luxiangyuan (‘Dew Fragrance Garden’).",
+      "page_idx": 17,
+      "id": "aqo6dsp1"
+    },
+    {
+      "type": "text",
+      "text": "The Gu family embroidered paintings produced by their female family members became more popular during the Wanli period (1573–1620).",
+      "page_idx": 17,
+      "id": "zndxn55o"
+    },
+    {
+      "type": "text",
+      "text": "Chen and Huang 2012: 410.",
+      "page_idx": 17,
+      "id": "gldostgu"
+    },
+    {
+      "type": "text",
+      "text": "35  \tChung 2005: 108.",
+      "page_idx": 17,
+      "id": "b0h11py0"
+    },
+    {
+      "type": "text",
+      "text": "36  \tTung 2015: 362.",
+      "page_idx": 17,
+      "id": "lut0hyd8"
+    },
+    {
+      "type": "text",
+      "text": "37  \tPu 2009: 41.",
+      "page_idx": 17,
+      "id": "a4gq4b17"
+    },
+    {
+      "type": "text",
+      "text": "38  \tVainker 2004: 184–5.",
+      "page_idx": 17,
+      "id": "lcjrmhr5"
+    },
+    {
+      "type": "text",
+      "text": "39  \tZhao, Long and Shang 2014: 522; Woolley 2016: 11–12.",
+      "page_idx": 17,
+      "id": "yv8vk6ep"
+    },
+    {
+      "type": "text",
+      "text": "40  \tChen and Huang 2012: 433.",
+      "page_idx": 17,
+      "id": "r3w1kmeh"
+    },
+    {
+      "type": "text",
+      "text": "41  \tIbid: 433.",
+      "page_idx": 17,
+      "id": "xyufzfnr"
+    },
+    {
+      "type": "text",
+      "text": "42  \tIbid: 434.",
+      "page_idx": 17,
+      "id": "uhfu058m"
+    },
+    {
+      "type": "text",
+      "text": "43  \tIbid: 468.",
+      "page_idx": 17,
+      "id": "rfzy0cr9"
+    },
+    {
+      "type": "text",
+      "text": "44  \tIn the Ming dynasty, craftsmen were registered as jiangji (‘artisans’), who were required to provide a certain amount of regular and unpaid labour to the court for a specific number of years.",
+      "page_idx": 17,
+      "id": "dpuit4ax"
+    },
+    {
+      "type": "text",
+      "text": "As most services were performed in the capital Nanjing, and later in Beijing, artisans who lived far away from the capital had to journey far to fulfil their obligations.",
+      "page_idx": 17,
+      "id": "bfmzjfmg"
+    },
+    {
+      "type": "text",
+      "text": "This policy placed great pressure on craftsmen, as their freedom of mobility was highly restricted for the duration, which in turn hindered the development of the local handicraft industry (Zhao et al.",
+      "page_idx": 17,
+      "id": "nqay3wde"
+    },
+    {
+      "type": "text",
+      "text": "2014: 525; Moll-Murata 2018: 58).",
+      "page_idx": 17,
+      "id": "dlv5ruu7"
+    },
+    {
+      "type": "text",
+      "text": "Zhao et al.",
+      "page_idx": 17,
+      "id": "hh8c6b4x"
+    },
+    {
+      "type": "text",
+      "text": "2014: 525.",
+      "page_idx": 17,
+      "id": "xczw0v6z"
+    },
+    {
+      "type": "text",
+      "text": "46  \tZong 2005: 21–22; Chen and Huang 2012: 438.",
+      "page_idx": 17,
+      "id": "af0jja91"
+    },
+    {
+      "type": "text",
+      "text": "47  \tZhao et al.",
+      "page_idx": 17,
+      "id": "fqi1k1x0"
+    },
+    {
+      "type": "text",
+      "text": "2014: 627.",
+      "page_idx": 17,
+      "id": "s600xoq1"
+    },
+    {
+      "type": "text",
+      "text": "48  \tVainker 2004: 193.",
+      "page_idx": 17,
+      "id": "bh0snmkp"
+    },
+    {
+      "type": "text",
+      "text": "49  \tLin 2001: 13.",
+      "page_idx": 17,
+      "id": "yzjry8z0"
+    },
+    {
+      "type": "text",
+      "text": "50  \tZhu 1930.",
+      "page_idx": 17,
+      "id": "mxu2qt42"
+    },
+    {
+      "type": "text",
+      "text": "51  \tShan 2005: 24.",
+      "page_idx": 17,
+      "id": "j3rn7pwz"
+    },
+    {
+      "type": "text",
+      "text": "52  \tWang 2001: 20.",
+      "page_idx": 17,
+      "id": "yhdtv76y"
+    },
+    {
+      "type": "text",
+      "text": "53  \tIbid: 20.",
+      "page_idx": 17,
+      "id": "gc7tw8w4"
+    },
+    {
+      "type": "text",
+      "text": "54  \tChen and Huang 2012: 464.",
+      "page_idx": 17,
+      "id": "jhjpe3qi"
+    },
+    {
+      "type": "text",
+      "text": "55  \tChen 2001: 28.",
+      "page_idx": 17,
+      "id": "ttn26xyv"
+    },
+    {
+      "type": "text",
+      "text": "56  \tIbid: 473.",
+      "page_idx": 17,
+      "id": "eh8zn3kt"
+    },
+    {
+      "type": "text",
+      "text": "57  \tShan 2005: 20.",
+      "page_idx": 17,
+      "id": "vv7d1r8t"
+    },
+    {
+      "type": "text",
+      "text": "58  \tWith the widespread use of embroidery in clothing and the flourishing export markets, many other significant regional styles appeared, such as the Jingxiu School in Beijing, Bianxiu School in Kaifeng, Ouxiu School in Wenzhou and Hanxiu School in Wuhan.",
+      "page_idx": 17,
+      "id": "c4jr9pn1"
+    },
+    {
+      "type": "text",
+      "text": "Chen and Huang 2012: 474.",
+      "page_idx": 17,
+      "id": "rovip7ew"
+    },
+    {
+      "type": "text",
+      "text": "60  \tZhao et al.",
+      "page_idx": 17,
+      "id": "hw299rxl"
+    },
+    {
+      "type": "text",
+      "text": "2014: 602.",
+      "page_idx": 17,
+      "id": "n3204w3i"
+    },
+    {
+      "type": "text",
+      "text": "61  \tA woman who masters needlework is recognised as fulfilling her duty in fugong.",
+      "page_idx": 17,
+      "id": "r759pktg"
+    },
+    {
+      "type": "text",
+      "text": "The other virtues include fude (a woman’s morality), fuyan (a woman’s language) and furong (a woman’s manner); together with fugong (a woman’s work), they constitute si de (‘The Four Virtues’) of women in ancient China (Nien 1998: 45).",
+      "page_idx": 17,
+      "id": "kj1dp9d4"
+    },
+    {
+      "type": "text",
+      "text": "Chen and Huang 2012: 467.",
+      "page_idx": 17,
+      "id": "wyv8as5s"
+    },
+    {
+      "type": "text",
+      "text": "63  \tIbid: 467.",
+      "page_idx": 17,
+      "id": "ts9c095i"
+    },
+    {
+      "type": "text",
+      "text": "64  \tShen, originally known as yunzhi and xuehuan, was famous for presenting her embroidered screens titled Baxian shangshou (‘The Eight Immortals Celebrating a Birthday’) and Wuliang shoufo (‘The Buddha of Endless Life’) as birthday gifts to the Empress Dowager Cixi (1835–1908) in 1904.",
+      "page_idx": 17,
+      "id": "nzguquzy"
+    },
+    {
+      "type": "text",
+      "text": "Cixi appreciated the works and gifted a piece of writing with the shou (‘longevity’) character written by herself to Shen.",
+      "page_idx": 17,
+      "id": "rsiskk1p"
+    },
+    {
+      "type": "text",
+      "text": "Shen thereafter renamed herself Shen Shou (Chen and Huang 2012: 477).",
+      "page_idx": 17,
+      "id": "mu6ru65e"
+    },
+    {
+      "type": "text",
+      "text": "Ibid: 477.",
+      "page_idx": 17,
+      "id": "vmc38p8r"
+    },
+    {
+      "type": "text",
+      "text": "66  \tShen, Zhang and Geng 2010: 2.",
+      "page_idx": 17,
+      "id": "gp4iyg3d"
+    },
+    {
+      "type": "text",
+      "text": "67  \tVainker 2004: 199.",
+      "page_idx": 17,
+      "id": "dkuneg7y"
+    },
+    {
+      "type": "text",
+      "text": "68  \tSuzhou gong yi meishu yanjiushi was later renamed the Suzhou cixiu yanjiushi (Suzhou Embroidery Research Institute) in 1960.",
+      "page_idx": 17,
+      "id": "hf4iljyk"
+    },
+    {
+      "type": "text",
+      "text": "Tapestry weaving was known as tsuzure-ori in Japanese.",
+      "page_idx": 17,
+      "id": "qwkjbusp"
+    },
+    {
+      "type": "text",
+      "text": "Qian 2015: 99.",
+      "page_idx": 17,
+      "id": "j5k8r0s7"
+    },
+    {
+      "type": "text",
+      "text": "71  \tLixinski 2013: 128.",
+      "page_idx": 17,
+      "id": "lkxhvwzz"
+    },
+    {
+      "type": "text",
+      "text": "72  \tThe traditional craftsmanship of the Suxiu School in Suzhou, Yuexiu School in Guangdong, Xiangxiu School in Hunan and Suzhou silk tapestry were included in the first batch of the National List of Intangible Cultural Heritage of China in 2006; Sichuan’s Shuxiu School was included in the second batch of the National List of Intangible Cultural Heritage of China in 2008.",
+      "page_idx": 17,
+      "id": "ggyc772d"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/63277c25e9d1e15b37181b745f223b4b95afc26175531a4f4955d3ffe68c951f.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 17,
+      "id": "yetbycg2"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/7669f1d806457ff596ed16e6e06f0d7f1928fd1b7b534b5380f9bb6903a23cc8.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 19,
+      "id": "lemvfklv"
+    }
+  ],
+  "ynbd26e9": [
+    {
+      "type": "text",
+      "text": "Two figures",
+      "text_level": 1,
+      "page_idx": 20,
+      "id": "hqn8qomq"
+    },
+    {
+      "type": "text",
+      "text": "The two figures wear the distinctive clothing of scholarofficials.",
+      "page_idx": 20,
+      "id": "y1oawygh"
+    },
+    {
+      "type": "text",
+      "text": "While sightseeing on a mountain, they are surrounded by bats and clouds, which symbolise wealth and good fortune.",
+      "page_idx": 20,
+      "id": "pjj47mi3"
+    },
+    {
+      "type": "text",
+      "text": "Distinctive sawtooth patterns appear between the areas of colour due to the unique processes involved in making kesi.",
+      "page_idx": 20,
+      "id": "i2vc6x6u"
+    },
+    {
+      "type": "text",
+      "text": "Weavers use a shuttle to carry polychrome weft threads across the warp—not the entire textile—leaving a subtle space between the colours.",
+      "page_idx": 20,
+      "id": "tyy53qex"
+    },
+    {
+      "type": "text",
+      "text": "Known as tongjing duanwei (‘continuous warp and broken weft’), this technique gives kesi its unique appearance, as it is thought to resemble cut or carved silk.",
+      "page_idx": 20,
+      "id": "r1m0sc3u"
+    },
+    {
+      "type": "text",
+      "text": "The shading of the green and blue slopes was achieved by using the changduanqiang (‘long and short propping’) technique.",
+      "page_idx": 20,
+      "id": "blvfkbfi"
+    },
+    {
+      "type": "text",
+      "text": "The offsetting rows of threads often create the striking zigzag patterns that are seen here on the edge of the colour blocks.",
+      "page_idx": 20,
+      "id": "x1k8i463"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th or early 19th century Kesi (silk tapestry), panel, 60.1 x 39.5 cm Gift of Dr Lam Kwok Pun HKU.T.2008.1664",
+      "page_idx": 20,
+      "id": "e0g7kycw"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/b8308583b704f9b7deb4ad3161bf3cdf57cb59c514270298df0677b598f835f5.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 20,
+      "id": "nyt5dbm7"
+    }
+  ],
+  "qgof41y0": [
+    {
+      "type": "text",
+      "text": "Hehe Immortals",
+      "text_level": 1,
+      "page_idx": 21,
+      "id": "vteenvp7"
+    },
+    {
+      "type": "text",
+      "text": "Surrounded by auspicious bats, the two boys represent the Hehe Immortals, also known as the Immortals of Harmony and Happiness (He-He Erxian).",
+      "page_idx": 21,
+      "id": "gym6gdp7"
+    },
+    {
+      "type": "text",
+      "text": "The gou (‘connecting’) technique employs wefts that differ from the colour of the subject motif in order to mark the pattern’s edge.",
+      "page_idx": 21,
+      "id": "x2jpenaq"
+    },
+    {
+      "type": "text",
+      "text": "Here the technique is used to outline the silhouettes of the Hehe Immortals.",
+      "page_idx": 21,
+      "id": "qly8up8r"
+    },
+    {
+      "type": "text",
+      "text": "The light blue robe of the Immortal of Harmony, for instance, is outlined with greyish blue threads, while the orange robe of the Immortal of Happiness is highlighted with red threads.",
+      "page_idx": 21,
+      "id": "wrrxball"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th or early 19th century Kesi (silk tapestry), panel, 47.3 x 38.4 cm Gift of Dr Lam Kwok Pun HKU.T.2008.1665",
+      "page_idx": 21,
+      "id": "k7hdi2un"
+    },
+    {
+      "type": "text",
+      "text": "In Daoist belief, the Immortals of Harmony and Happiness were two monks, Hanshan and Shide, who resided in the Guoqing Monastery on Tiantai Mountain, Zhejiang province during the Tang dynasty (618–907 CE).",
+      "page_idx": 21,
+      "id": "zs0rky0c"
+    },
+    {
+      "type": "text",
+      "text": "In 1733, the Yongzheng Emperor (1678–1735) designated them the saints of unity and harmony, and they became immortalised in folklore as symbols of these qualities.",
+      "page_idx": 21,
+      "id": "wsagqf52"
+    },
+    {
+      "type": "text",
+      "text": "The small box and lotus that they typically carry are pronounced ‘he’ in Chinese, as are the words for harmony and friendship, which forms a visual pun.",
+      "page_idx": 21,
+      "id": "i726dsdw"
+    },
+    {
+      "type": "text",
+      "text": "Such symbolism made these common wedding gifts.",
+      "page_idx": 21,
+      "id": "w2j4vmwd"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/1584b7bc348e1350fd58712ef39b075f70e606355e088f09edbfd275d3c6a08f.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 21,
+      "id": "zzqpscxq"
+    }
+  ],
+  "ad4h4zd6": [
+    {
+      "type": "text",
+      "text": "Boys at play",
+      "text_level": 1,
+      "page_idx": 22,
+      "id": "yu88il4k"
+    },
+    {
+      "type": "text",
+      "text": "In the mid-Qing dynasty, kesi weaving techniques and technologies were sufficiently advanced to allow for the widespread production of textiles with identical doublesided imagery that did not expose the threads on either side—shuangmian touke (‘double-sided translucent silk tapestry’).",
+      "page_idx": 22,
+      "id": "dlnzn8y5"
+    },
+    {
+      "type": "text",
+      "text": "Panels like this, with attractive identical images on the front and back, were often used as two-sided screens for desks or room dividers, the latter typically placed in the wedding chamber of a newly married couple.",
+      "page_idx": 22,
+      "id": "sgeqhkmh"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \npanel, $35.8\\mathrm{~x~}34.4\\mathrm{~cm}$   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1666",
+      "page_idx": 22,
+      "id": "dn8731i7"
+    },
+    {
+      "type": "text",
+      "text": "Woven on a richly embellished golden ground with polychrome threads, the children represent a popular design known as Yingxi tu (‘Boys at play’).",
+      "page_idx": 22,
+      "id": "u8j6py0d"
+    },
+    {
+      "type": "text",
+      "text": "Surrounded by a pleasing scene of trees, mountains, flowers and a pagoda, each child strikes a unique expression and pose.",
+      "page_idx": 22,
+      "id": "rrsyfuig"
+    },
+    {
+      "type": "text",
+      "text": "During the Ming (1368–1644) and Qing dynasties, the Yingxi tu design appeared on textiles, furniture, ceramics and other decorative objects to represent the desire for a large family.",
+      "page_idx": 22,
+      "id": "mdtp64v1"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/9e9f323a100a81d9f10af2574d3eeba698d539a977a927bf8d85e87822677732.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 22,
+      "id": "ymulv31a"
+    }
+  ],
+  "k1aon4ix": [
+    {
+      "type": "text",
+      "text": "(Detail) (",
+      "text_level": 1,
+      "page_idx": 23,
+      "id": "f9uq5dls"
+    },
+    {
+      "type": "text",
+      "text": "Children’s silhouettes outlined in gou (‘connecting’) and the colouration of rocks woven in baoxinqiang (‘embracing propping’).",
+      "page_idx": 23,
+      "id": "hfwmwugu"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/e428ce9dba7121e1deb934b25c065e6ae0bfcb48d9c4b09a9fd746d5f3ee7d3e.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 23,
+      "id": "uk46951k"
+    }
+  ],
+  "kzop53hr": [
+    {
+      "type": "text",
+      "text": "Figures in a garden (right)",
+      "text_level": 1,
+      "page_idx": 24,
+      "id": "cfcoc35p"
+    },
+    {
+      "type": "text",
+      "text": "These two kesi depict the elegant lifestyle of China’s educated elite.",
+      "page_idx": 24,
+      "id": "xqzplq7v"
+    },
+    {
+      "type": "text",
+      "text": "On the first hanging scroll, scholars and their attendants are shown riding a boat and enjoying music in the evening.",
+      "page_idx": 24,
+      "id": "h8lss19o"
+    },
+    {
+      "type": "text",
+      "text": "Below them, figures dance and make merry.",
+      "page_idx": 24,
+      "id": "qtsg2h0b"
+    },
+    {
+      "type": "text",
+      "text": "On the second scroll, an aristocratic lady sits calmly and enjoys her dessert, while a scholar in the lower register appreciates a painting, most likely a portrait of himself.",
+      "page_idx": 24,
+      "id": "trrkjmrd"
+    },
+    {
+      "type": "text",
+      "text": "Upon closer inspection, it can be seen that the subtle shading effect in the scrolling clouds was achieved using the jie (‘knotting’) technique.",
+      "page_idx": 24,
+      "id": "gw4nwcq9"
+    },
+    {
+      "type": "text",
+      "text": "Artisans often employed two or three similarly coloured wefts with different degrees of brightness to create adjacent lines of colours ranging from light to dark.",
+      "page_idx": 24,
+      "id": "t5v6sxsa"
+    },
+    {
+      "type": "text",
+      "text": "On Figures in the moonlight, four layers of coloured wefts, ranging from dark grey to silver, were woven together to give the clouds a sense of three-dimensionality.",
+      "page_idx": 24,
+      "id": "v2sdsjmy"
+    },
+    {
+      "type": "text",
+      "text": "In the Qing dynasty, both official and private workshops were involved in kesi production.",
+      "page_idx": 24,
+      "id": "pcdwie91"
+    },
+    {
+      "type": "text",
+      "text": "Private workshops primarily served local landowners, scholar-officials and wealthy merchants; therefore, their kesi were often decorated with themes related to the dail lives of these groups.",
+      "page_idx": 24,
+      "id": "azb73r52"
+    }
+  ],
+  "x31j1vls": [
+    {
+      "type": "text",
+      "text": "Figures in the moonlight (left)",
+      "text_level": 1,
+      "page_idx": 24,
+      "id": "vg1vnzat"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \nhanging scroll, $102.5\\times24.7~\\mathrm{c}$ m   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1667   \ntimes24.7$ HKU.T.2008.1667",
+      "page_idx": 24,
+      "id": "arss82ni"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \nhanging scroll, $102.3\\times24.6$ cm   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1668   \ntimes24.6$ HKU.T.2008.1668",
+      "page_idx": 24,
+      "id": "et8mivjc"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/2059cdf94345acceb9173e7ed33687e0134f5ec8502616185ff7fa45432e910b.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 24,
+      "id": "tg62e6l3"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/6f3aedf174eb58f2712b577870552bc66902e485ac33230deb8ac0f4c9c89c9a.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 24,
+      "id": "n8wd6k77"
+    }
+  ],
+  "fpbeub3q": [
+    {
+      "type": "text",
+      "text": "Daoist immortals",
+      "text_level": 1,
+      "page_idx": 25,
+      "id": "jykjzjgb"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \nhorizontal scroll, 175.4 x 46.5 cm   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1669",
+      "page_idx": 25,
+      "id": "aik0r2w0"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/ff9c7c55d872401d335ab200ec6f5742edfbcc30a6f68a0dff22aa112b081971.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 25,
+      "id": "wdfye87b"
+    }
+  ],
+  "v7u0es75": [
+    {
+      "type": "text",
+      "text": "Gathering of immortals",
+      "text_level": 1,
+      "page_idx": 26,
+      "id": "kdcbio82"
+    },
+    {
+      "type": "text",
+      "text": "Over thirty Daoist immortals, such as Shoulao (the God of Longevity), the Eight Immortals, Hehe Immortals and Magu, the Goddess of Longevity, adorn these scrolls, along with auspicious mythical creatures such as qilins and phoenixes.",
+      "page_idx": 26,
+      "id": "rxrencth"
+    },
+    {
+      "type": "text",
+      "text": "On the first horizontal scroll, the Queen Mother of the West, shown on a staircase surrounded by attendants, is offering a large Peach of Immortality (xiantao).",
+      "page_idx": 26,
+      "id": "ao6ysu89"
+    },
+    {
+      "type": "text",
+      "text": "On the second tapestry, a group of immortals is shown surrounded by two trees bearing abundant xiantao, accompanied by waves and clouds.",
+      "page_idx": 26,
+      "id": "b99bnm43"
+    },
+    {
+      "type": "text",
+      "text": "Various weaving techniques create the vivid imagery of the second hanging scroll.",
+      "page_idx": 26,
+      "id": "j2zks6h7"
+    },
+    {
+      "type": "text",
+      "text": "In order to highlight the figures’ silhouettes, the gou (‘connecting’) technique was used to outline the robes, while the rocks and ocean waves were woven with the changduanqiang (‘long-and-short propping’) technique.",
+      "page_idx": 26,
+      "id": "qfk4iomn"
+    },
+    {
+      "type": "text",
+      "text": "This process employs various long and short, light- and dark-coloured wefts that offset each other to create a fluid and natural colouration.",
+      "page_idx": 26,
+      "id": "hnqh74ds"
+    },
+    {
+      "type": "text",
+      "text": "Another similar method known as mushuqiang (‘wood comb propping’), in which wefts of similar tones are woven into a comb-like edge pattern, creates the reddish pink xiantao.",
+      "page_idx": 26,
+      "id": "kodlwh90"
+    },
+    {
+      "type": "text",
+      "text": "Kesi showing gatherings of immortals were popular among the upper-class in the Qing dynasty because of their auspicious connotations of longevity and prosperity.",
+      "page_idx": 26,
+      "id": "td8v519y"
+    },
+    {
+      "type": "text",
+      "text": "They were typically displayed indoors or exchanged between scholars as gifts.",
+      "page_idx": 26,
+      "id": "nmj80fft"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \nhanging scroll, 124.8 x 61.5 cm   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1671",
+      "page_idx": 26,
+      "id": "b8izuvn1"
+    },
+    {
+      "type": "text",
+      "text": "Scenes on both scrolls may depict an episode recorded in Daoist literary texts, such as Du Guangting’s (850–933) Yongcheng Jixian Lu (Records of  the Assembled Immortals of the Walled City), in which the Queen Mother of the West holds a birthday banquet at her home on Mount Kunlun, after the Peaches of Immortality from her garden have ripened.",
+      "page_idx": 26,
+      "id": "kcbhguai"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/36440d61944b7e3fc6563cfa791ef81befe8bc97c4b08a140c601d03ea20ca9e.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 26,
+      "id": "fhbnqdx1"
+    }
+  ],
+  "idbp9bla": [
+    {
+      "type": "text",
+      "text": "Magu offering wine",
+      "text_level": 1,
+      "page_idx": 27,
+      "id": "fdmj9cyu"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911),   \n18th or early 19th century   \nKesi (silk tapestry) hanging scroll, 135.2 x 75.7 cm   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1670",
+      "page_idx": 27,
+      "id": "tsptwsg7"
+    },
+    {
+      "type": "text",
+      "text": "Accompanied by a phoenix and a child attendant holding a ruyi (a wish-granting wand or scepter), the figure on this scroll is Magu, the Goddess of Longevity.",
+      "page_idx": 27,
+      "id": "b8z9oid4"
+    },
+    {
+      "type": "text",
+      "text": "According to Daoist myth, Magu became an immortal and witnessed the Eastern ocean dry up and turn into mulberry fields three times, indicating her transcendence of time.",
+      "page_idx": 27,
+      "id": "qf9m1arm"
+    },
+    {
+      "type": "text",
+      "text": "Here, she carries two wine cups and a lingzhi mushroom on a platter, from which she brews longevity wine for the birthday banquet of the Queen Mother of the West.",
+      "page_idx": 27,
+      "id": "qvzjbcv6"
+    },
+    {
+      "type": "text",
+      "text": "The white pearls of her headdress were painted with brushes using a technique known as kehua (‘silk tapestry and painting’), which is characteristic of kesi produced during the reign of the Qianlong Emperor (1736–95).",
+      "page_idx": 27,
+      "id": "l1z14k6m"
+    },
+    {
+      "type": "text",
+      "text": "The choice of this figure—together with auspicious chrysanthemums and five bats surrounding a shou (longevity) character on her dress—suggests that the tapestry was intended as a birthday present, most likely for a woman.",
+      "page_idx": 27,
+      "id": "sdadrdpk"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/9ebcd36dea8d061ddc3e019b02a75bdbb12b90419d79992f548c5f0145d88f5c.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 27,
+      "id": "vz8g5sdy"
+    }
+  ],
+  "t273gzqj": [
+    {
+      "type": "text",
+      "text": "Peonies",
+      "text_level": 1,
+      "page_idx": 28,
+      "id": "kmlct82o"
+    },
+    {
+      "type": "text",
+      "text": "Recognised as the ‘King of Flowers’ and a symbol of wealth and honour, blossoming peonies express the wish huakai fugui (‘may you be prosperous’), and have traditionally been favoured on objects owned by scholars and nobles.",
+      "page_idx": 28,
+      "id": "rbzksmt2"
+    },
+    {
+      "type": "text",
+      "text": "The brightly coloured peonies and leaves were woven in various shades of red, pink, orange and green weft threads using the changduanqiang (‘long-andshort propping’) technique.",
+      "page_idx": 28,
+      "id": "jx30j76m"
+    },
+    {
+      "type": "text",
+      "text": "Its dazzling golden ground was created with the kejin (‘silk tapestry woven with gold’) technique, in which twisted gold threads are made by wrapping a yellow silk thread with thin sheets of gold leaf in a spiral twist.",
+      "page_idx": 28,
+      "id": "tz8kfnsi"
+    },
+    {
+      "type": "text",
+      "text": "This technique provides the tapestry a particularly luxurious and elegant appearance.",
+      "page_idx": 28,
+      "id": "pvbqzrvy"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry) with metallic threads,   \nhanging scroll, 98.8 x 54 cm   \nCollector’s seal: Lantang shuwu\\*   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1672",
+      "page_idx": 28,
+      "id": "p3w94vbd"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/b42364d09bded38bed4a61904cfdbd6fe4996e4ad8938d6ac55f1ea6b2641f51.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 28,
+      "id": "h6p0o8bt"
+    }
+  ],
+  "mkanboti": [
+    {
+      "type": "text",
+      "text": "Golden pheasant on a loquat tree",
+      "text_level": 1,
+      "page_idx": 29,
+      "id": "j510u4z3"
+    },
+    {
+      "type": "text",
+      "text": "The golden pheasant on this kesi was woven with nearly twenty variously coloured wefts to illustrate its colourful plumage, including a golden crest and rump, purplered body and a long tail in orange and dark brown.",
+      "page_idx": 29,
+      "id": "dk4mcpa2"
+    },
+    {
+      "type": "text",
+      "text": "The coloured variation for its body was achieved with the chanheqiang (‘blend propping’) technique.",
+      "page_idx": 29,
+      "id": "axbk7106"
+    },
+    {
+      "type": "text",
+      "text": "As one of the weaving techniques used to express the gradation of colours from dark to light, it is distinguished by the smooth and flexible overlapping of variations in colour.",
+      "page_idx": 29,
+      "id": "wi1r6co1"
+    },
+    {
+      "type": "text",
+      "text": "The blending of colour blocks often moves vertically from top to bottom, or bottom to top.",
+      "page_idx": 29,
+      "id": "r3yi1wmo"
+    },
+    {
+      "type": "text",
+      "text": "In another technique known as guan (‘flinging’), two or more similarly coloured wefts are woven continuously according to the silhouette of patterns so as to achieve the gradation.",
+      "page_idx": 29,
+      "id": "tgrujd0t"
+    },
+    {
+      "type": "text",
+      "text": "The wefts of each block do not overlap and often appear to pile up layer upon layer.",
+      "page_idx": 29,
+      "id": "rierl7f3"
+    },
+    {
+      "type": "text",
+      "text": "These were applied to imitate the colourful layers and texture of the wings’ feathers, from dark brown to brown and light brown.",
+      "page_idx": 29,
+      "id": "ikpd00ht"
+    },
+    {
+      "type": "text",
+      "text": "As with much of the imagery selected for kesi, both the loquat and pheasant are auspicious motifs in Chinese art.",
+      "page_idx": 29,
+      "id": "ssj7wi5a"
+    },
+    {
+      "type": "text",
+      "text": "A symbol of literary refinement, golden pheasants were embroidered on the robes of second-rank civil officials of the Qing court.",
+      "page_idx": 29,
+      "id": "q4416eex"
+    },
+    {
+      "type": "text",
+      "text": "The loquat tree was perhaps chosen as an accompanying motif because the yellow colouration of its fruit resembles gold, and the two together may have connoted wishes for the accumulation of wealth and the achievement of high rank.",
+      "page_idx": 29,
+      "id": "m42x8ik8"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century Kesi (silk tapestry), hanging scroll, 96 x 50 cm Gift of Dr Lam Kwok Pun   \nHKU.T.2008.1673",
+      "page_idx": 29,
+      "id": "uexacuzk"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/c99746be038b36749c5be8ad0a4ba6b58b6c05b771ea5b94b82bad0ec6c3f8dc.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 29,
+      "id": "n24wh7z9"
+    }
+  ],
+  "gwrrr2wk": [
+    {
+      "type": "text",
+      "text": "Growing peony",
+      "text_level": 1,
+      "page_idx": 30,
+      "id": "zamg7abu"
+    },
+    {
+      "type": "text",
+      "text": "This kesi illustrates the different stages of the growth of a green peony.",
+      "page_idx": 30,
+      "id": "tm1iytxq"
+    },
+    {
+      "type": "text",
+      "text": "On the lower branches, three tiny flower buds are woven in red-coloured wefts.",
+      "page_idx": 30,
+      "id": "f48ri16u"
+    },
+    {
+      "type": "text",
+      "text": "In the middle register the peony is blossoming, and at the top it has fully bloomed.",
+      "page_idx": 30,
+      "id": "vtoslf6x"
+    },
+    {
+      "type": "text",
+      "text": "The gradation of tones on the peony and its leaves are finely woven with different shades of greencoloured wefts using the changduanqiang (‘long-and-short propping’) technique.",
+      "page_idx": 30,
+      "id": "wdt8vqs0"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry), hanging scroll, $89.3\\mathrm{~x~}$ 44 cm   \nCollector’s seal: Lantang shuwu   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1674",
+      "page_idx": 30,
+      "id": "xi5n0vkr"
+    },
+    {
+      "type": "text",
+      "text": "Early kesi were used as wrappers for Buddhist statues or for dressing tomb figures.",
+      "page_idx": 30,
+      "id": "w542w7k3"
+    },
+    {
+      "type": "text",
+      "text": "The Song dynasty’s (960–1279) Huizong Emperor (r. 1100–26) was thought to have encouraged the use of precious kesi as wrappers for the imperial collection of painting and calligraphy.",
+      "page_idx": 30,
+      "id": "pu85px25"
+    },
+    {
+      "type": "text",
+      "text": "He favoured realistic bird-and-flower paintings, and kesi weavers were encouraged to create tapestries depicting the beauty of the natural world.",
+      "page_idx": 30,
+      "id": "tv5qkpik"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/c8ce65c563bd1406efffa2aa16c9b638d6592c21378294d0938245ef844c7d52.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 30,
+      "id": "emj8tnq4"
+    }
+  ],
+  "z9aq6t67": [
+    {
+      "type": "text",
+      "text": "Kingfishers and hibiscuses",
+      "text_level": 1,
+      "page_idx": 31,
+      "id": "fec8uhew"
+    },
+    {
+      "type": "text",
+      "text": "Hibiscus blossoms surrounded by kingfishers are a popular theme in Chinese paintings, lacquerwares, ceramics and kesi tapestries.",
+      "page_idx": 31,
+      "id": "a1o17xz7"
+    },
+    {
+      "type": "text",
+      "text": "Woven on a light-yellow ground, the pinkish-white hibiscus blossoms and the iconic bluish feathers of the kingfishers are meticulously rendered using a technique known as sanyunse (‘threecolour shading’), in which three tones of the same or a similar colour create a gradation from dark to light.",
+      "page_idx": 31,
+      "id": "lnx7k12x"
+    },
+    {
+      "type": "text",
+      "text": "Blue kingfisher feathers were used to produce clothing and hair accessories for upper-class women in imperial China, and their depiction in art was symbolic of feminine beauty.",
+      "page_idx": 31,
+      "id": "znu3rxqu"
+    },
+    {
+      "type": "text",
+      "text": "The Chinese term for hibiscus, mufurong, creates an auspicious pun as it includes sounds that resemble the words for wealth (fu) and glory (rong).",
+      "page_idx": 31,
+      "id": "a8snmb16"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century Kesi (silk tapestry), hanging scroll, $114.9\\mathrm{~x~}41.5\\mathrm{~cm}$ Gift of Dr Lam Kwok Pun   \nHKU.T.2008.1676",
+      "page_idx": 31,
+      "id": "yo47bhi4"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/7bad279d5d6ebec6eeb01993abb43ad58cec2863d8a8f33a77664671845245a3.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 31,
+      "id": "v4d10vad"
+    }
+  ],
+  "xgf58ywq": [
+    {
+      "type": "text",
+      "text": "(Detail) (",
+      "text_level": 1,
+      "page_idx": 32,
+      "id": "ouygdfsw"
+    },
+    {
+      "type": "text",
+      "text": "Bluish and golden kingfisher feathers woven in baoxinqiang (‘embracing propping’) and guan (‘flinging’).",
+      "page_idx": 32,
+      "id": "kva20m4t"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/53ff2fd03f3635bc04f021a4b16d3f9cb14ae360ea8546dce033d332bf4de4bf.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 32,
+      "id": "zkuoxq1c"
+    }
+  ],
+  "sylxnnbr": [
+    {
+      "type": "text",
+      "text": "Oriole and cloves",
+      "text_level": 1,
+      "page_idx": 33,
+      "id": "yk0cbi7y"
+    },
+    {
+      "type": "text",
+      "text": "With a pinkish beak and smooth colourful feathers, the oriole on this silk tapestry is shown leaning forward and singing.",
+      "page_idx": 33,
+      "id": "xcg95iej"
+    },
+    {
+      "type": "text",
+      "text": "Clove blossoms woven in red and blue wefts with subtle gradations evoke the warmth and vitality of spring.",
+      "page_idx": 33,
+      "id": "leao4nkd"
+    },
+    {
+      "type": "text",
+      "text": "Because cloves bloom in spring, they are thought to be auspicious symbols of growth and prosperity.",
+      "page_idx": 33,
+      "id": "bh5cyzt2"
+    },
+    {
+      "type": "text",
+      "text": "This work employs the hehuaxian (‘twisted coloured thread’) technique, in which two or three coloured threads are entwined to form a single polychrome strand.",
+      "page_idx": 33,
+      "id": "n5bs9nrp"
+    },
+    {
+      "type": "text",
+      "text": "Hehuaxian was widely adopted by kesi weavers during the Qing dynasty, particularly in the production of kesi depicting bird feathers in white and grey, such as the jaw of the oriole on this tapestry.",
+      "page_idx": 33,
+      "id": "pj0hbf5m"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry), hanging scroll, $72.3\\mathrm{~x~}43.6\\mathrm{~cm}$   \nCollector’s seal: Lantang shuwu   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1677",
+      "page_idx": 33,
+      "id": "ivpbha6u"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/c84db3b7c63763533ca9664dc75187f6a38c0b4006bb6f946652ea14da0d8204.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 33,
+      "id": "vulq8b88"
+    }
+  ],
+  "oar4eyex": [
+    {
+      "type": "text",
+      "text": "Sparrows and hibiscuses",
+      "text_level": 1,
+      "page_idx": 34,
+      "id": "ld4cypnt"
+    },
+    {
+      "type": "text",
+      "text": "Most of the sparrows on this kesi are grouped in pairs, except for one, which spreads its wings as if about to leap from a branch in the lower register.",
+      "page_idx": 34,
+      "id": "xjw7og62"
+    },
+    {
+      "type": "text",
+      "text": "The feathers of the sparrows were woven with polychrome wefts and each sparrow is presented in a different, dynamic pose.",
+      "page_idx": 34,
+      "id": "e605ixg2"
+    },
+    {
+      "type": "text",
+      "text": "The changduanqiang (‘long-and-short propping’) and guan (‘flinging’) techniques express the feathers’ colour variations, while the gou (‘connecting’) technique outlines the sparrows’ silhouettes in black wefts.",
+      "page_idx": 34,
+      "id": "xhk39rnu"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century Kesi (silk tapestry), hanging scroll, 105 x 41.5 cm Gift of Dr Lam Kwok Pun   \nHKU.T.2008.1678   \nx 41.5 HKU.T.2008.1678",
+      "page_idx": 34,
+      "id": "uept5sxt"
+    },
+    {
+      "type": "text",
+      "text": "Often depicted with pink-and-white blossoms, hibiscuses are also called jushuang (meaning ‘resistant to frost’) because they bloom in autumn.",
+      "page_idx": 34,
+      "id": "ox9v7jej"
+    },
+    {
+      "type": "text",
+      "text": "Green- and browncoloured wefts woven in the changduanqiang technique illustrate decaying leaves, probably to suggest autumn or the passing of seasons.",
+      "page_idx": 34,
+      "id": "l8inagf2"
+    },
+    {
+      "type": "text",
+      "text": "Hibiscuses became a popular theme after several paintings depicting them were included in the Xuanhe huapu, a twelfth-century catalogue of the imperial collection written during the reign of the Huizong Emperor (r. 1100–26) of the Song dynasty (960– 1279).",
+      "page_idx": 34,
+      "id": "xsuwg1qi"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/01efd9bd856969a85854b16dea9608f585e935397ac53e61fb6729ad07775868.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 34,
+      "id": "fv54bcbp"
+    }
+  ],
+  "q1msx6ju": [
+    {
+      "type": "text",
+      "text": "Kingfisher and roses",
+      "text_level": 1,
+      "page_idx": 35,
+      "id": "y223gn3a"
+    },
+    {
+      "type": "text",
+      "text": "Woven on a beige background, this bird, likely a kingfisher with its iconic blue feathers, holds fruit in its mouth and rests on the branch of a rose bush.",
+      "page_idx": 35,
+      "id": "m4o9c02t"
+    },
+    {
+      "type": "text",
+      "text": "The greyish-blue feathers are woven with the changduanqiang (‘long-and-short propping’) technique, and the gradation of dark grey feathers on its wing are achieved using the guan (‘flinging’) technique.",
+      "page_idx": 35,
+      "id": "o2qe2nmq"
+    },
+    {
+      "type": "text",
+      "text": "As the weft threads were woven horizontally on looms, the gradation of colours moves from left to right, or right to left, as seen on the kingfisher’s feathers.",
+      "page_idx": 35,
+      "id": "yyx58dhc"
+    },
+    {
+      "type": "text",
+      "text": "As roses bloom once a month, they are known as yuejihua or changchunhua (‘flowers of eternal youth’), and are traditional symbols of longevity.",
+      "page_idx": 35,
+      "id": "fug6z6pm"
+    },
+    {
+      "type": "text",
+      "text": "A seal mark that reads meiyi yannian (‘a carefree life brings longevity’) in the lower right corner of the tapestry echoes this symbolic meaning.",
+      "page_idx": 35,
+      "id": "t5me4wek"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry), hanging scroll, 84 x 39.5 cm   \nSeal mark: Meiyi yannian   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1679   \nx 39.5 HKU.T.2008.1679",
+      "page_idx": 35,
+      "id": "q7qodmlu"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/656639459a8d030b9da3af8d6519a0f799b73b48d2ddabfb9bad60b3024df137.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 35,
+      "id": "bjvxiats"
+    }
+  ],
+  "lhu0zg4l": [
+    {
+      "type": "text",
+      "text": "Mandarin ducks and peach blossoms",
+      "text_level": 1,
+      "page_idx": 36,
+      "id": "leywi3e1"
+    },
+    {
+      "type": "text",
+      "text": "A pair of mandarin ducks rests on a riverbank under peach blossoms.",
+      "page_idx": 36,
+      "id": "ue5uuacc"
+    },
+    {
+      "type": "text",
+      "text": "Each is coloured and posed differently: the duck with golden neck feathers gazes forward, while the duck with black feathers leans its head back to groom its body.",
+      "page_idx": 36,
+      "id": "yk1alcst"
+    },
+    {
+      "type": "text",
+      "text": "Their colourful feathers were woven using the changduanqiang (‘long-and-short propping’) and mushuqiang (‘wood comb propping’) techniques.",
+      "page_idx": 36,
+      "id": "rgzgoerd"
+    },
+    {
+      "type": "text",
+      "text": "The subtle gradation of greyish-green grass beneath the ducks was woven with the fengweiqiang (‘phoenix tale propping’) technique, wherein two weft threads, one thicker and one thinner, are interwoven to create a graceful flow of colours.",
+      "page_idx": 36,
+      "id": "wcefz7zp"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 18th century   \nKesi (silk tapestry), hanging scroll, 78.1 x 37.8 cm   \nWoven seal: Song ren suo zuo   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1680",
+      "page_idx": 36,
+      "id": "q8sfk9ox"
+    },
+    {
+      "type": "text",
+      "text": "In traditional Chinese culture, mandarin ducks symbolise a harmonious marriage as they are thought to mate for life.",
+      "page_idx": 36,
+      "id": "wbimykn8"
+    },
+    {
+      "type": "text",
+      "text": "The peach blossoms continue this theme because they bloom in spring, a time of fertility.",
+      "page_idx": 36,
+      "id": "h15x8e8k"
+    },
+    {
+      "type": "text",
+      "text": "The design of the kesi was probably inspired by the Song dynasty (960–1279) hanging scroll Taohua yuanyang tu zhou (Peach Blossom and Mandarin Ducks), held in the collection of the Nanjing Museum.",
+      "page_idx": 36,
+      "id": "lgdhmb9c"
+    },
+    {
+      "type": "text",
+      "text": "This is also indicated by the four characters in black-coloured wefts, taohua yuanyang, and a seal in bronze script woven in the top right corner of the tapestry that reads: song ren suo zuo (‘an artwork made by the people of the Song dynasty’).",
+      "page_idx": 36,
+      "id": "r34yaiig"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/9a840a4abaaeabd9f37f19ed71b4e427fc717c74a88c98b4d29af2acc768aca6.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 36,
+      "id": "zezqzfh0"
+    }
+  ],
+  "qlxlk715": [
+    {
+      "type": "text",
+      "text": "Orioles and magnolias",
+      "text_level": 1,
+      "page_idx": 37,
+      "id": "g4ztp0rz"
+    },
+    {
+      "type": "text",
+      "text": "Woven in polychrome wefts against a blue ground, the birds on this kesi are black-naped golden orioles.",
+      "page_idx": 37,
+      "id": "o4w26on4"
+    },
+    {
+      "type": "text",
+      "text": "Woven in the changduanqiang (‘long-and-short propping’) technique, the magnolias in beige and light green colours grant the flowers a sense of simple beauty.",
+      "page_idx": 37,
+      "id": "vf9ibhyz"
+    },
+    {
+      "type": "text",
+      "text": "The yellow bodies of the orioles were woven in a technique known as baoxinqiang (‘embracing propping’), in which the shading of colours moves smoothly from the edge towards the centre, resulting in a darker outer area and lighter centre.",
+      "page_idx": 37,
+      "id": "edj2vjce"
+    },
+    {
+      "type": "text",
+      "text": "China, late 19th or mid-20th century   \nKesi (silk tapestry), hanging scroll, 120 x 47.5 cm   \nSigned: Shen Jinshui   \nCollector’s seal: Lantang shuwu   \nGift of Dr Lam Kwok Pun   \nHKU.T.2008.1675   \nx 47.5 HKU.T.2008.1675",
+      "page_idx": 37,
+      "id": "dq4q2x7m"
+    },
+    {
+      "type": "text",
+      "text": "The finely woven feathers, claws and beaks of the orioles, as well as the magnolias, offer a vivid illustration of spring.",
+      "page_idx": 37,
+      "id": "ka0vzy24"
+    },
+    {
+      "type": "text",
+      "text": "A seal inscription on the lower left reads shen jinshui, indicating that the tapestry was woven by Shen Jinshui (1883–1968) who was born in Likou, Wu county, Jiangsu province.",
+      "page_idx": 37,
+      "id": "bp5do8v8"
+    },
+    {
+      "type": "text",
+      "text": "Shen Jinshui began learning kesi weaving at the age of fifteen.",
+      "page_idx": 37,
+      "id": "wgnju2qm"
+    },
+    {
+      "type": "text",
+      "text": "One of the three most prominent kesi weavers in Suzhou, he reportedly served in the imperial workshops of the Forbidden City and was invited to teach kesi weaving at the Suzhou Cixiu Yanjiusuo (‘Suzhou Embroidery Research Institute’) in the 1950s.",
+      "page_idx": 37,
+      "id": "srs5kqqz"
+    },
+    {
+      "type": "text",
+      "text": "Shen taught many influential weavers, including Wang Jinshan (b.",
+      "page_idx": 37,
+      "id": "g0yqtaq1"
+    },
+    {
+      "type": "text",
+      "text": "1939), who was designated by the government as a Representative Inheritor (chuanchen ren) of Suzhou kesi weaving.",
+      "page_idx": 37,
+      "id": "vcclhx38"
+    },
+    {
+      "type": "text",
+      "text": "This weaving tradition was included in the first group of items designated for the National List of Intangible Cultural Heritage of China in 2006.",
+      "page_idx": 37,
+      "id": "twgo61pd"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/956f9cfa1e14b500fb1b014130a9ab69d0a25a5c5e534c43cc5081546e6164b1.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 37,
+      "id": "i4up1a0y"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/9eb5bb0313ec924afc488a8d524cf20a3fd7bf30dbb5a37802a9526393b6720e.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 38,
+      "id": "j47e34u4"
+    }
+  ],
+  "ex4pcabk": [
+    {
+      "type": "text",
+      "text": "Dragon robe",
+      "text_level": 1,
+      "page_idx": 39,
+      "id": "ewvfypa7"
+    }
+  ],
+  "qlvtdm8y": [
+    {
+      "type": "text",
+      "text": "(Detail) (",
+      "text_level": 1,
+      "page_idx": 39,
+      "id": "ogywajae"
+    },
+    {
+      "type": "text",
+      "text": "Dragon motifs and auspicious patterns embroidered in nashaxiu(‘counted stitch’).",
+      "page_idx": 39,
+      "id": "wxtwev9u"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 19th century Silk with metallic threads, 142 x 217 cm Gift of Dr T T Tsui, Tsui Art Foundation Ltd HKU.T.1996.1095",
+      "page_idx": 39,
+      "id": "ixw0uehx"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/0c6c7792aee1f35bbd16cadb894f686d0b95797637694563eae1ae0318110de8.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 39,
+      "id": "qnemwu26"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/41308edc2301211cee63441be5da4f6f4ff1e1bb4745fbe2dd50837b095ac537.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 39,
+      "id": "lul3on2a"
+    }
+  ],
+  "xoasnsqn": [
+    {
+      "type": "text",
+      "text": "Dragon robe",
+      "text_level": 1,
+      "page_idx": 40,
+      "id": "xln8getw"
+    },
+    {
+      "type": "text",
+      "text": "These dragon robes are embroidered with five-clawed dragons and other auspicious motifs, such as cranes, clouds and the character for longevity in the nashaxiu or chuoshaxiu (‘counted stitch’) technique.",
+      "page_idx": 40,
+      "id": "y9yowpcg"
+    },
+    {
+      "type": "text",
+      "text": "Artisans would use silk gauze as the ground fabric and then penetrate coloured silk threads in the holes of the gauze to create patterns.",
+      "page_idx": 40,
+      "id": "tpywumtg"
+    },
+    {
+      "type": "text",
+      "text": "There are two types of silk gauze embroidery: when the silk gauze ground is completely covered by the embroidered patterns it is called najinxiu (‘full count’); when part of the underlying gauze is revealed, as with the two dragon robes here, it is known as nashaxiu.",
+      "page_idx": 40,
+      "id": "w1t3ny4p"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered items for the imperial court were manufactured by imperial embroidery workshops (xiufang) established during the Qing dynasty in Jiangning, Suzhou and Hangzhou.",
+      "page_idx": 40,
+      "id": "gzqpiosy"
+    },
+    {
+      "type": "text",
+      "text": "Dragon robes often took over one hundred and ninety days to complete.",
+      "page_idx": 40,
+      "id": "ry3x2cqz"
+    },
+    {
+      "type": "text",
+      "text": "According to Daqing huidian (Collected Statutes of  the Great Qing), an official text describing the clothing system, golden yellow was reserved for the emperor; the bluecoloured dragon robes were worn by princes of the first and second rank, and purple red-coloured robes were often worn by noblemen.",
+      "page_idx": 40,
+      "id": "oo8mrz1z"
+    },
+    {
+      "type": "text",
+      "text": "In the imperial dress hierarchy, robes with the five-clawed dragon motif worn by princes or noblemen were called a mangpao (‘mang robe’\\*), while the emperor wore a longpao (‘dragon robe’).",
+      "page_idx": 40,
+      "id": "g9nox8d0"
+    },
+    {
+      "type": "text",
+      "text": "The slits on the centre front of both robes mark them as men’s garments.",
+      "page_idx": 40,
+      "id": "n7y4fiz1"
+    },
+    {
+      "type": "text",
+      "text": "Although there were prohibitions on wearing dragon motifs and the golden yellow colour, exquisitely refined silk was available for purchase, and the imperial silk was also presented as diplomatic gifts.",
+      "page_idx": 40,
+      "id": "tydws8pu"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 19th century Silk with metallic threads, 130.5 x 198 cm Gift of Dr T T Tsui, Tsui Art Foundation Ltd HKU.T.1996.1096",
+      "page_idx": 40,
+      "id": "qb66wh75"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/adfc47989b7f1730c142143fd888a30c5ae7507a6864be949c56d5d29e7964ca.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 40,
+      "id": "i838344k"
+    }
+  ],
+  "jnhihpy1": [
+    {
+      "type": "text",
+      "text": "Ladies and children",
+      "text_level": 1,
+      "page_idx": 41,
+      "id": "bgss0v9l"
+    },
+    {
+      "type": "text",
+      "text": "The designs on this panel illustrate a peaceful landscape of noble ladies and children playing, each with a different character and facial expression depicted using a range of coloured threads.",
+      "page_idx": 41,
+      "id": "p56bihnq"
+    },
+    {
+      "type": "text",
+      "text": "A pavilion, fences, ornamental rocks and trees create a typical Chinese garden scene often found in paintings and illustrations that reveals the leisurely life of wealthy women in ancient China.",
+      "page_idx": 41,
+      "id": "ofenshve"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 19th century   \nSilk, panel, $179\\mathrm{~x~}126.7\\mathrm{~cm}$   \nGift of Mr and Mrs Wellington Yee   \nHKU.T.2005.1595",
+      "page_idx": 41,
+      "id": "h4gm05d3"
+    },
+    {
+      "type": "text",
+      "text": "The choice of decoration is complemented by the work’s medium; embroidery, also known as nugong (‘women’s work’) was an important pastime for wealthy young women in dynastic China.",
+      "page_idx": 41,
+      "id": "nm3skbsb"
+    },
+    {
+      "type": "text",
+      "text": "In her Xiupu (Treatise on Embroidery, 1821), the noted artisan Ding Pei, active during the reigns of the Jiaqing (1796–1820) and Daoguang (1821–50) Emperors, recognised embroidery as the feminine art of writing, with the needle serving as one’s brush, the silk as paper and the floss as ink.",
+      "page_idx": 41,
+      "id": "bjb70l3q"
+    },
+    {
+      "type": "text",
+      "text": "The production of such works was thought to cultivate the moral character and technical skill of young women, and embroidered handkerchiefs, sashes and shoes were also popular items for a women’s trousseau.",
+      "page_idx": 41,
+      "id": "jp697d26"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/ac52ec30e129c56c3c342f0e5f22a4d5d58bacf1799b4d8b2c5bfc79cd7b4cdf.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 41,
+      "id": "bk3j1ax0"
+    },
+    {
+      "type": "text",
+      "text": "yun zheng shan gu xiu   \n(‘steaming clouds that rise from the hills illustrate the   \nspirit and resonance of graceful mountains’)   \nhua yun shu shen nong   \n(‘flowers nourish luxuriant trees’)   \npingan   \n[the art name of Weng Tonghe]   \nWeng Tonghe",
+      "page_idx": 42,
+      "id": "clvxo2lr"
+    },
+    {
+      "type": "text",
+      "text": "To better capture the delicate shading of Weng’s brushwork, the weaver has used the taozhen (‘long-andshort stitch’) technique, in which a fluid and natural colouration is achieved by offsetting adjacent rows of stitches with fine silk threads split into four or five strands each.",
+      "page_idx": 42,
+      "id": "s0v16zxb"
+    },
+    {
+      "type": "text",
+      "text": "This technique was often used on embroidered paintings or calligraphy to vividly depict flora and fauna, as well as Chinese characters.",
+      "page_idx": 42,
+      "id": "ouo0kbz0"
+    },
+    {
+      "type": "text",
+      "text": "Two of Weng’s seals in red-coloured threads, including ‘Weng Tonghe’ and his courtesy name ‘shuping’, are reminiscent of Chinese calligraphy.",
+      "page_idx": 42,
+      "id": "n06h7me0"
+    }
+  ],
+  "w1dvn0qm": [
+    {
+      "type": "text",
+      "text": "Embroidered calligraphic panel",
+      "text_level": 1,
+      "page_idx": 42,
+      "id": "ftbix3nc"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), late 19th or early 20th century Silk, upper scroll: $^{169}\\mathrm{~X~}$ 41 cm; lower scroll: 169.5 x 40.8 cm Gift of James W. C. Hong HKU.T.2008.1787",
+      "page_idx": 42,
+      "id": "rgab0sn9"
+    },
+    {
+      "type": "text",
+      "text": "x 41 mathrm{~x~}40.8\\$ James W. C. Hong HKU.T.2008.1787",
+      "page_idx": 42,
+      "id": "orpl5xmf"
+    },
+    {
+      "type": "text",
+      "text": "The couplet on this panel was written by the Qing dynasty official and calligrapher Weng Tonghe (1830–1904).",
+      "page_idx": 42,
+      "id": "umo4rsjc"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered in silk threads against a beige background, the text reads:",
+      "page_idx": 42,
+      "id": "kmkqq30a"
+    },
+    {
+      "type": "text",
+      "text": "Born in Changsu, Jiangsu province into a family of means, Weng became a jinshi (a recipient of the highest and final degree in the imperial examinations of Imperial China) civil service candidate in 1856, and served as the Grand Secretary and instructor of the Tongzhi (r. 1861–74) and Guangxu (r. 1875–1908) Emperors.",
+      "page_idx": 42,
+      "id": "kbxtenvs"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/1fce9f3489170b0565e85f49e3cea4090abbbabc37a5a6fe7db3721ce45a93ef.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 42,
+      "id": "h81wrdxc"
+    }
+  ],
+  "txwlsw0k": [
+    {
+      "type": "text",
+      "text": "Pair of longevity banners commemorating the 70th birthday of Xu Yingkui",
+      "text_level": 1,
+      "page_idx": 43,
+      "id": "ums9zq1a"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 1900   \nSilk with metallic threads, 293.5 x 145.5 cm; 302 x 147.3 cm   \nGift of Dr Hui Wai Haan   \nHKU.T.2004.1922, HKU.T.2004.1924",
+      "page_idx": 43,
+      "id": "hdx9cuxy"
+    },
+    {
+      "type": "text",
+      "text": "x 145.5 x 147.3 HKU.T.2004.1922 $\\setminus$ HKU.T.2004.1924",
+      "page_idx": 43,
+      "id": "himu3qyg"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/84076d18bb72477fab17bc5283f39df28f3cbfdf682c1be38072ee0a6a085eac.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 43,
+      "id": "t9m5psda"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/06980472ab8e93e9d5cca87ac732ff59e3d9abcb3022e5352ab07c7bb776b2a2.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 43,
+      "id": "xsfzxqxf"
+    }
+  ],
+  "fgvksjbe": [
+    {
+      "type": "text",
+      "text": "Longevity banner commemorating the 73rd birthday of Xu Yingkui",
+      "text_level": 1,
+      "page_idx": 44,
+      "id": "ypypafif"
+    },
+    {
+      "type": "text",
+      "text": "gaoshou guanglu dafu yunshuai xiantai fuzi daren qi zhi jin san rongqing (‘for the seventy-third birthday of Yunshuai, the Grand Master of Splendid Happiness and the Governor-General’)",
+      "page_idx": 44,
+      "id": "wycwg9a8"
+    },
+    {
+      "type": "text",
+      "text": "sanpin xian fujian shiyong dao shouye wusongyang kou zhu (‘sincere wishes from student Wu Songyang, the thirdranking shiyongdao of Fujian’)",
+      "page_idx": 44,
+      "id": "jpamwqo4"
+    },
+    {
+      "type": "text",
+      "text": "Surrounding Shoulao are various embroidered symbols of longevity, including a peach, several cranes and five bats.",
+      "page_idx": 44,
+      "id": "cymh2cyk"
+    },
+    {
+      "type": "text",
+      "text": "The number of bats is significant—as the Chinese characters for bat and fortune are both prounced fu, they symbolise the ‘Five Blessings’ of longevity, health, wealth, and a virtuous life and natural death.",
+      "page_idx": 44,
+      "id": "ofwvvjjs"
+    },
+    {
+      "type": "text",
+      "text": "The other two banners feature large golden shou (longevity) characters that were first embroidered with images of various Daoist immortals stitched onto a red satin ground.",
+      "page_idx": 44,
+      "id": "tzc3a2qj"
+    },
+    {
+      "type": "text",
+      "text": "The colourfully shaded bats around the shou characters were embroidered using a technique called qiangzhen (‘encroaching satin stitch’), in which short straight stitches were embroidered layer upon layer, resulting in a shading of colours moving from light to dark.",
+      "page_idx": 44,
+      "id": "xrrg7qxy"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered silk banners like these were often used to decorate interiors during birthday or wedding banquets, or as wall hangings in temple lecture halls.",
+      "page_idx": 44,
+      "id": "vy1vklyj"
+    },
+    {
+      "type": "text",
+      "text": "China, Qing dynasty (1644–1911), 1903 Silk with metallic threads, 304 x 147 cm Gift of Dr Hui Wai Haan HKU.T.2004.1923",
+      "page_idx": 44,
+      "id": "hvkle46c"
+    },
+    {
+      "type": "text",
+      "text": "These three longevity banners were presented to Xu Yingkui (1830–1903), the Qing Governor-General of Fujian and Zhejiang, to commemorate his seventieth and seventy-third birthdays.",
+      "page_idx": 44,
+      "id": "ddladkz0"
+    },
+    {
+      "type": "text",
+      "text": "In 1900, when Xu celebrated his seventieth birthday, he was well-known in China for concluding the ‘Mutual Protection of Southeast China’ (dongnan hubao) agreement with other provincial governors and high-ranking officials, such as Zhang Zhidong (1837–1909) and Liu Kunyi (1830–1902).",
+      "page_idx": 44,
+      "id": "au7c82cj"
+    },
+    {
+      "type": "text",
+      "text": "This agreement declared the neutrality of Southeast China in the war between the court of Empress Dowager Cixi (1835–1908) and the Eight-Nation Alliance of foreign powers during the Boxer Rebellion (1899–1901).",
+      "page_idx": 44,
+      "id": "paizv3tk"
+    },
+    {
+      "type": "text",
+      "text": "One of the banners depicts Shoulao, the Daoist God of Longevity, and features an inscription stating that it was presented by Wu Songyang (1846–1916) to Xu on the occasion of his seventy-third birthday.",
+      "page_idx": 44,
+      "id": "ixcqb5ha"
+    },
+    {
+      "type": "text",
+      "text": "The text reads:",
+      "page_idx": 44,
+      "id": "rxn9c5hu"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/15f26c5501f7c61e8be2e5c3a660579c0e7227680f7f81e88557e734c9681241.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 44,
+      "id": "mmu5kcp4"
+    }
+  ],
+  "uxdy75iq": [
+    {
+      "type": "text",
+      "text": "The Lugard Tribute",
+      "text_level": 1,
+      "page_idx": 45,
+      "id": "odgo9qoy"
+    },
+    {
+      "type": "text",
+      "text": "Stored in an ornately carved red sandalwood casket adorned with bat-shaped silver brackets, the scroll is delicately embroidered with auspicious motifs, such as mandarin ducks and butterflies symbolising harmonious relationships and joyfulness.",
+      "page_idx": 45,
+      "id": "mtyz1pcx"
+    },
+    {
+      "type": "text",
+      "text": "A striking pair of peacocks on the scroll, emblematic of culture and virtue according to the I-Ching (Book of  Changes), likely echoes an inscription deyin xiang jiang (‘virtue shelters Hong Kong’) on the lid of the casket, which glorifies the success and prosperity of Hong Kong during Lugard’s tenure.",
+      "page_idx": 45,
+      "id": "hc1i75un"
+    },
+    {
+      "type": "text",
+      "text": "Guangzhou, China, Qing dynasty (1644–1911), 1910 Silk scroll with a red sandalwood casket and silver mounts, scroll: $347\\mathrm{~X~}$ 116.5 cm, casket: height 84 cm On permanent loan from Major Richard Pinker HKU.W.2001.1393",
+      "page_idx": 45,
+      "id": "bwbqnkx8"
+    },
+    {
+      "type": "text",
+      "text": "Embroidered against a pale-yellow background, this silk satin scroll was a gift presented to Sir Frederick Lugard (1858–1945), the fourteenth British Governor of Hong Kong (1907–12), by eighty-four local Chinese shenshang (prominent ‘gentry-merchants’ who exchanged wealth for social status or official titles, and who were often actively involved in charitable affairs) in 1910.",
+      "page_idx": 45,
+      "id": "mns1wi1q"
+    },
+    {
+      "type": "text",
+      "text": "It was presented to Lugard in recognition of his contributions while governor, which included founding the University of Hong Kong and prohibiting the practice of abandoning corpses on the streets, which remained widespread in the nineteenth century.",
+      "page_idx": 45,
+      "id": "ii1auoiz"
+    },
+    {
+      "type": "text",
+      "text": "x 116.5 Major Richard Pinker HKU.W.2001.1393",
+      "page_idx": 45,
+      "id": "sfku4k3k"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/83fb432d12b97ea5b3ac9f4cff269b55f83f10c12c064b95249eba0baf79194e.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 45,
+      "id": "z0uhy63p"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/1ac2aadb5be1111be82a76b8da4f776580d3cfa9c7663b4d39b616b017b3cf9e.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 45,
+      "id": "ap0py1t4"
+    },
+    {
+      "type": "image",
+      "img_path": "d:\\HKU\\Inno Wing RA\\UBC Exchange\\code\\output\\Pictorial_Silk\\preprocessed\\../auto/images/e317b27d1727ed08ad980651edf0aa564d8aeedeeedc45617eae8082cfe4f53d.jpg",
+      "img_caption": [],
+      "img_footnote": [],
+      "page_idx": 45,
+      "id": "il2ecxvp"
+    }
+  ],
+  "cgi1qknz": [
+    {
+      "type": "text",
+      "text": "baoxinqiang (‘Embracing propping’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "nctq5ghz"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 46,
+      "id": "xrgmid0a"
+    },
+    {
+      "type": "text",
+      "text": "Based on the principle of changduanqiang (‘long-andshort propping’), in which colours move smoothly from the edge to the centre, resulting in a darker outer and lighter centre area.",
+      "page_idx": 46,
+      "id": "dtkr3n9a"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 46,
+      "id": "ntfw5lf1"
+    },
+    {
+      "type": "text",
+      "text": "Various long and short, light- and dark-coloured wefts offset from each other to create a fluid and natural colouration.",
+      "page_idx": 46,
+      "id": "vthuhzif"
+    }
+  ],
+  "pamci4mb": [
+    {
+      "type": "text",
+      "text": "chanheqiang (‘Blend propping’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "w8izhbdy"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 46,
+      "id": "m5402k70"
+    },
+    {
+      "type": "text",
+      "text": "Used to express a gradation of colours from dark to light.",
+      "page_idx": 46,
+      "id": "gmwycgpg"
+    },
+    {
+      "type": "text",
+      "text": "Distinguished from baoxinqiang and changduanqiang by the smooth and flexible overlapping of coloured variations; the blending of colour blocks often moves vertically from top to bottom, or bottom to top.",
+      "page_idx": 46,
+      "id": "m9mtprc0"
+    }
+  ],
+  "iq8he3c5": [
+    {
+      "type": "text",
+      "text": "dasuo (‘Shuttle joining’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "jy6w6tdq"
+    },
+    {
+      "type": "text",
+      "text": "A slit occurs between the adjacent patterns of the silk tapestry as the weft threads only run across the designed areas.",
+      "page_idx": 46,
+      "id": "q2wylsod"
+    },
+    {
+      "type": "text",
+      "text": "This stabilises the structure of the fabric and reduces the spacing; wefts of opposing coloured blocks are interwoven once within a specific area of the tapestry.",
+      "page_idx": 46,
+      "id": "a1t6jlw7"
+    }
+  ],
+  "ix2whekk": [
+    {
+      "type": "text",
+      "text": "dingxian xiu (‘Couching stitch’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "yt26vvxl"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 46,
+      "id": "qor5353t"
+    },
+    {
+      "type": "text",
+      "text": "Convoluted coloured or gold threads are arranged onto a ground fabric to outline the silhouettes.",
+      "page_idx": 46,
+      "id": "t1jxk4r7"
+    },
+    {
+      "type": "text",
+      "text": "Threads are then stitched down (approximately 3 to $5~\\mathrm{mm}$ each) using the same coloured thread.",
+      "page_idx": 46,
+      "id": "sh63ket6"
+    }
+  ],
+  "vhdrx4z6": [
+    {
+      "type": "text",
+      "text": "embroidery",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "mzdtoqq5"
+    },
+    {
+      "type": "text",
+      "text": "Decorative textile technique in which a needle stitches polychrome threads onto a ground fabric in order to create the patterns.",
+      "page_idx": 46,
+      "id": "zam59l4i"
+    }
+  ],
+  "y9d9l569": [
+    {
+      "type": "text",
+      "text": "fengweiqiang (‘Phoenix tail propping’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "zwix906j"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 46,
+      "id": "ztr44rir"
+    },
+    {
+      "type": "text",
+      "text": "Two weft threads—one thicker and shorter and another thinner and longer—are interwoven to create a graceful flow of colours that resembles a phoenix tail.",
+      "page_idx": 46,
+      "id": "ycmz1jhf"
+    }
+  ],
+  "t2nkm1bp": [
+    {
+      "type": "text",
+      "text": "gaoxiu (‘High embroidery’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "jywb6get"
+    },
+    {
+      "type": "text",
+      "text": "An embroidery stitch in which the cotton or threads are first placed according to the designed pattern, and then are stitched down to the ground fabric.",
+      "page_idx": 46,
+      "id": "xb47wk2w"
+    },
+    {
+      "type": "text",
+      "text": "The stitches are built upon the lining materials, which creates a three-dimensional raised pattern.",
+      "page_idx": 46,
+      "id": "o9xvxnrb"
+    }
+  ],
+  "y4obo1vj": [
+    {
+      "type": "text",
+      "text": "gou (‘Connecting’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "r29ste0t"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 46,
+      "id": "cp8m0g4f"
+    },
+    {
+      "type": "text",
+      "text": "Wefts that differ from the colour of the subject motif are used to outline the motif ’s silhouette.",
+      "page_idx": 46,
+      "id": "wtf1fiij"
+    }
+  ],
+  "wlkbmdrr": [
+    {
+      "type": "text",
+      "text": "changduanqiang (‘Long-and-short propping’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "axji4udb"
+    }
+  ],
+  "gzoon050": [
+    {
+      "type": "text",
+      "text": "fangzhenxiu (‘Realistic representational embroidery’)",
+      "text_level": 1,
+      "page_idx": 46,
+      "id": "ugeuv1mh"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery style developed by the famed Qing dynasty embroiderer Shen Shou (1874–1921), which expands the tradition of Chinese embroidery by integrating an emphasis on light and perspective found in Western paintings and Japanese embroidery.",
+      "page_idx": 46,
+      "id": "yjbh3wzi"
+    },
+    {
+      "type": "text",
+      "text": "The result is three-dimensional and highly realistic.",
+      "page_idx": 46,
+      "id": "girbcpt7"
+    },
+    {
+      "type": "text",
+      "text": "guan (‘Flinging’)",
+      "page_idx": 47,
+      "id": "zimlbluk"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "nlqh65kc"
+    },
+    {
+      "type": "text",
+      "text": "Two or more different but similar tones of coloured wefts are woven following the silhouette of the patterns.",
+      "page_idx": 47,
+      "id": "qrfybf2h"
+    },
+    {
+      "type": "text",
+      "text": "Wefts of each coloured block do not overlap and often appear to pile up in layers.",
+      "page_idx": 47,
+      "id": "kbqxl5w3"
+    }
+  ],
+  "vlp69cyy": [
+    {
+      "type": "text",
+      "text": "nashaxiu (‘Counted stitch’)",
+      "text_level": 1,
+      "page_idx": 47,
+      "id": "jn41iqsh"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 47,
+      "id": "qer7wn84"
+    },
+    {
+      "type": "text",
+      "text": "Silk gauze is used as the ground fabric and coloured threads penetrate through the gauze holes with a straight stitch for creating the patterns.",
+      "page_idx": 47,
+      "id": "qn8w5cuy"
+    },
+    {
+      "type": "text",
+      "text": "There are two types of nashaxiu: najin (‘full count’) where the silk gauze ground is completely covered by embroidered patterns, and nasha (‘counted thread on silk gauze’) where a section of the underlying gauze is revealed.",
+      "page_idx": 47,
+      "id": "qavd42xb"
+    }
+  ],
+  "v2a1v53p": [
+    {
+      "type": "text",
+      "text": "hehuaxian (‘Twisted coloured thread’)",
+      "text_level": 1,
+      "page_idx": 47,
+      "id": "l41fzak3"
+    },
+    {
+      "type": "text",
+      "text": "Two or three coloured silk threads are twisted together to form a single polychrome strand.",
+      "page_idx": 47,
+      "id": "d6ovvilq"
+    },
+    {
+      "type": "text",
+      "text": "nashishi (‘Gold brocade’)",
+      "page_idx": 47,
+      "id": "bbr5k7a3"
+    },
+    {
+      "type": "text",
+      "text": "jie (‘Knotting’)",
+      "page_idx": 47,
+      "id": "ptktc342"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "w64zdq8z"
+    },
+    {
+      "type": "text",
+      "text": "Two or three similarly coloured wefts with varying degrees of brightness create adjacent lines of colour ranging from light to dark.",
+      "page_idx": 47,
+      "id": "ietwzzwy"
+    },
+    {
+      "type": "text",
+      "text": "One of the most celebrated types of silk fabric developed during the Yuan dynasty.",
+      "page_idx": 47,
+      "id": "ajmqif5x"
+    }
+  ],
+  "rh44j2cw": [
+    {
+      "type": "text",
+      "text": "qiang (‘Propping’)",
+      "text_level": 1,
+      "page_idx": 47,
+      "id": "hwo725f0"
+    }
+  ],
+  "v5cur8xb": [
+    {
+      "type": "text",
+      "text": "kelinzhen (‘Carved scale embroidery’)",
+      "text_level": 1,
+      "page_idx": 47,
+      "id": "a8jqrtwg"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 47,
+      "id": "cxmp6w2b"
+    },
+    {
+      "type": "text",
+      "text": "Primarily used to create animal scales.",
+      "page_idx": 47,
+      "id": "mdbahstx"
+    },
+    {
+      "type": "text",
+      "text": "Common types include dielinzhen (‘stacked scales stitch’), which uses taozhen (‘long and short stitch’) to create scales that are lighter outside and darker inside; qianglinzhen (‘encroaching satin scales stitch’), which uses qiangzhen (‘encroaching satin stitch’) to build up scales with a shallower edge and darker centre; and zalinzhen (‘bound scales stitch’), in which the back of birds, fishes or beasts are first created with a long straight stitch, while the scales are outlined in a short straight stitch.",
+      "page_idx": 47,
+      "id": "tevmridx"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "fi10musl"
+    },
+    {
+      "type": "text",
+      "text": "Two or more coloured wefts woven together to create shading; in this technique, one coloured block abuts or ‘props’ up the other.",
+      "page_idx": 47,
+      "id": "p790x61g"
+    },
+    {
+      "type": "text",
+      "text": "qiangzhen (‘Encroaching satin stitch’)",
+      "page_idx": 47,
+      "id": "js9wudhu"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stich.",
+      "page_idx": 47,
+      "id": "qphj87qn"
+    },
+    {
+      "type": "text",
+      "text": "Short straight stitches are embroidered in layers, resulting in the shading of colours from light to dark, or pale to dark.",
+      "page_idx": 47,
+      "id": "sgt2txr6"
+    },
+    {
+      "type": "text",
+      "text": "In zhengqiang (‘inward encroaching satin stitch’) the embroidery work starts from the outer layer and moves towards the centre, and fanqiang (‘reverse encroaching satin stitch’) begins at the centre and moves towards the edge.",
+      "page_idx": 47,
+      "id": "rnytvkoo"
+    },
+    {
+      "type": "text",
+      "text": "kesi (‘Carved silk tapestry’)",
+      "page_idx": 47,
+      "id": "qnasq8ll"
+    },
+    {
+      "type": "text",
+      "text": "Raw silk is used for the warp and dyed silk for the weft.Made using tongjing duanwei (‘continuous warp and broken weft’), in which only the warp threads extend across the entire loom.",
+      "page_idx": 47,
+      "id": "xe9eemr4"
+    },
+    {
+      "type": "text",
+      "text": "qizhen (‘Straight stitch’)",
+      "page_idx": 47,
+      "id": "bpd0xzsz"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 47,
+      "id": "d6punrt7"
+    },
+    {
+      "type": "text",
+      "text": "Parallel straight stitches form the patterns.",
+      "page_idx": 47,
+      "id": "cretxno6"
+    },
+    {
+      "type": "text",
+      "text": "These can run vertically, horizontally or obliquely.",
+      "page_idx": 47,
+      "id": "r7a52hys"
+    },
+    {
+      "type": "text",
+      "text": "A designed pattern fully completed with qizhen is also known as puzhen (‘satin stitch’).",
+      "page_idx": 47,
+      "id": "moqvlca4"
+    },
+    {
+      "type": "text",
+      "text": "kesi mao (‘Silk tapestry with wool’)   \nTextiles with a background pattern woven in silk and the main pattern woven in wool.",
+      "page_idx": 47,
+      "id": "cj2fu753"
+    },
+    {
+      "type": "text",
+      "text": "sanlan kesi  (‘Three shades of blue silk tapestry’) Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "eushgowe"
+    },
+    {
+      "type": "text",
+      "text": "Three different shades of blue thread—including dark blue, reddish blue and pale blue—achieve the patterns’ colouration.",
+      "page_idx": 47,
+      "id": "n5pic4hs"
+    },
+    {
+      "type": "text",
+      "text": "kejin (‘Silk tapestry woven with gold’)",
+      "page_idx": 47,
+      "id": "k11h1kl0"
+    },
+    {
+      "type": "text",
+      "text": "Gold threads in the weaving patterns are used for the tapestry ground and the silhouette of motifs.",
+      "page_idx": 47,
+      "id": "m6l369jk"
+    },
+    {
+      "type": "text",
+      "text": "sanlanxiu (‘Three shades of blue embroidery’)",
+      "page_idx": 47,
+      "id": "x7ekda9o"
+    },
+    {
+      "type": "text",
+      "text": "An embroidery technique using three different shades of blue thread— including dark blue, reddish blue and pale blue—to achieve the patterns colouration.",
+      "page_idx": 47,
+      "id": "tgwtnd0z"
+    },
+    {
+      "type": "text",
+      "text": "kehua (‘Silk tapestry and painting’) Brushes are used to paint in small areas of the silk tapestry.",
+      "page_idx": 47,
+      "id": "p7swma1e"
+    },
+    {
+      "type": "text",
+      "text": "shuimo kesi  (‘Water and ink silk tapestry’)",
+      "page_idx": 47,
+      "id": "oomrg2az"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving technique.",
+      "page_idx": 47,
+      "id": "cz49xwl0"
+    },
+    {
+      "type": "text",
+      "text": "Black, dark grey and light grey threads are used to weave the patterns; gold or white threads are also sometimes incorporated to outline the woven motifs.",
+      "page_idx": 47,
+      "id": "djne49qb"
+    },
+    {
+      "type": "text",
+      "text": "kemao (‘Carved wool tapestry’) Plain weave textiles woven in wool with discontinuous wefts.",
+      "page_idx": 47,
+      "id": "uq2qarml"
+    },
+    {
+      "type": "text",
+      "text": "kexiu (‘Silk tapestry and embroidery’)",
+      "page_idx": 47,
+      "id": "xe8zgugv"
+    },
+    {
+      "type": "text",
+      "text": "The fabric ground and specific patterns are first woven in silk tapestry, the complex design is then embroidered.",
+      "page_idx": 47,
+      "id": "b0qi9z9s"
+    },
+    {
+      "type": "text",
+      "text": "shuangmian touke  (‘Double-sided translucent silk tapestry’) Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "yen5iend"
+    },
+    {
+      "type": "text",
+      "text": "A tapestry with identical patterns on both sides; threads are not exposed on either side.",
+      "page_idx": 47,
+      "id": "zq1npl65"
+    },
+    {
+      "type": "text",
+      "text": "mushuqiang (‘Wood comb propping’)",
+      "page_idx": 47,
+      "id": "ns02z26y"
+    },
+    {
+      "type": "text",
+      "text": "shuangmianxiu (‘Double-sided embroidery’) Embroidered works with identical patterns on both sides.",
+      "page_idx": 47,
+      "id": "qurflcsa"
+    },
+    {
+      "type": "text",
+      "text": "Silk tapestry weaving.",
+      "page_idx": 47,
+      "id": "q4xhg5zd"
+    },
+    {
+      "type": "text",
+      "text": "Wefts of similar tones are woven together to achieve the shading of colours; the edge of offsetting wefts produces a comb-like edge pattern.",
+      "page_idx": 47,
+      "id": "rzju8zge"
+    },
+    {
+      "type": "text",
+      "text": "suozhen (‘Chain stitch’)",
+      "page_idx": 47,
+      "id": "d0l79jjq"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 47,
+      "id": "bgpzlure"
+    },
+    {
+      "type": "text",
+      "text": "Threads stitched into rows of interlocking loops that resemble a chain.",
+      "page_idx": 47,
+      "id": "vryfgn0y"
+    }
+  ],
+  "rwzu9dhx": [
+    {
+      "type": "text",
+      "text": "silk",
+      "text_level": 1,
+      "page_idx": 48,
+      "id": "y1lfu6fh"
+    },
+    {
+      "type": "text",
+      "text": "Refers to both the long filaments produced by silkworms and textiles woven from silk.",
+      "page_idx": 48,
+      "id": "rklbv73d"
+    },
+    {
+      "type": "text",
+      "text": "taozhen (‘Long and short stitch’)",
+      "page_idx": 48,
+      "id": "cmaef632"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stich.",
+      "page_idx": 48,
+      "id": "un3lummw"
+    },
+    {
+      "type": "text",
+      "text": "Dark- and light-coloured long and short stitches offset to create a fluid and natural colouration.",
+      "page_idx": 48,
+      "id": "iet0r6mv"
+    },
+    {
+      "type": "text",
+      "text": "tiehua (‘Applique embroidery’)",
+      "page_idx": 48,
+      "id": "biwpbv1b"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 48,
+      "id": "lk5vq81i"
+    },
+    {
+      "type": "text",
+      "text": "Fabric with embroidered patterns that is either stitched or glued onto another ground fabric.",
+      "page_idx": 48,
+      "id": "tmk9z83t"
+    },
+    {
+      "type": "text",
+      "text": "wangxiu (‘Net embroidery’)",
+      "page_idx": 48,
+      "id": "zt8yzh96"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery stitch.",
+      "page_idx": 48,
+      "id": "m1tidyet"
+    },
+    {
+      "type": "text",
+      "text": "Straight, oblique and parallel threads crisscrossed to create a net-like pattern.",
+      "page_idx": 48,
+      "id": "f5bfkkqo"
+    }
+  ],
+  "hsowtxc5": [
+    {
+      "type": "text",
+      "text": "warp",
+      "text_level": 1,
+      "page_idx": 48,
+      "id": "s6dzr5qy"
+    },
+    {
+      "type": "text",
+      "text": "Textile threads stretched onto a loom that run lengthwise.",
+      "page_idx": 48,
+      "id": "on08qx6g"
+    }
+  ],
+  "qlj3r2nk": [
+    {
+      "type": "text",
+      "text": "weft",
+      "text_level": 1,
+      "page_idx": 48,
+      "id": "kxzd1tc6"
+    },
+    {
+      "type": "text",
+      "text": "Textile threads interwoven with warp threads on a loom that run transversely.",
+      "page_idx": 48,
+      "id": "n70kugqo"
+    },
+    {
+      "type": "text",
+      "text": "Bertin-Guest, Josiane.",
+      "page_idx": 48,
+      "id": "bj8euzle"
+    },
+    {
+      "type": "text",
+      "text": "2003.",
+      "page_idx": 48,
+      "id": "xa77okl5"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Embroidery: Traditional Techniques.",
+      "page_idx": 48,
+      "id": "ppsb1n89"
+    },
+    {
+      "type": "text",
+      "text": "London: Batsford.",
+      "page_idx": 48,
+      "id": "wuudxe9v"
+    },
+    {
+      "type": "text",
+      "text": "Chung, Youngyang.",
+      "page_idx": 48,
+      "id": "mqcwscrw"
+    },
+    {
+      "type": "text",
+      "text": "2005.",
+      "page_idx": 48,
+      "id": "rczzjc3m"
+    },
+    {
+      "type": "text",
+      "text": "Silken Threads: A History of  Embroidery in China, Korea, Japan and Vietnam.",
+      "page_idx": 48,
+      "id": "th6ull61"
+    },
+    {
+      "type": "text",
+      "text": "New York: Harry N. Abrams.",
+      "page_idx": 48,
+      "id": "k4mktfa4"
+    },
+    {
+      "type": "text",
+      "text": "Harris, Jennifer.",
+      "page_idx": 48,
+      "id": "rldath2b"
+    },
+    {
+      "type": "text",
+      "text": "1995.",
+      "page_idx": 48,
+      "id": "routkno6"
+    },
+    {
+      "type": "text",
+      "text": "5000 Years of  Textiles.",
+      "page_idx": 48,
+      "id": "aykeie98"
+    },
+    {
+      "type": "text",
+      "text": "London: The British Museum Press.",
+      "page_idx": 48,
+      "id": "uxamab0v"
+    },
+    {
+      "type": "text",
+      "text": "Leslie, Catherine A.. 2007.",
+      "page_idx": 48,
+      "id": "s08ojk28"
+    },
+    {
+      "type": "text",
+      "text": "Needlework Through History: An Encyclopedia.",
+      "page_idx": 48,
+      "id": "zci8tft1"
+    },
+    {
+      "type": "text",
+      "text": "Westport, CT: Greenwood Press.",
+      "page_idx": 48,
+      "id": "vnwiom63"
+    },
+    {
+      "type": "text",
+      "text": "Lixinski, Lucas.",
+      "page_idx": 48,
+      "id": "nkc906i8"
+    },
+    {
+      "type": "text",
+      "text": "2013.",
+      "page_idx": 48,
+      "id": "tj0j11mw"
+    },
+    {
+      "type": "text",
+      "text": "Intangible Cultural Heritage in International Law.",
+      "page_idx": 48,
+      "id": "v50zlx9i"
+    },
+    {
+      "type": "text",
+      "text": "Oxford: Oxford University Press.",
+      "page_idx": 48,
+      "id": "abxlk5kj"
+    },
+    {
+      "type": "text",
+      "text": "Moll-Murata, Christine.",
+      "page_idx": 48,
+      "id": "belhx4lo"
+    },
+    {
+      "type": "text",
+      "text": "2018.",
+      "page_idx": 48,
+      "id": "olrvju4c"
+    },
+    {
+      "type": "text",
+      "text": "State and Crafts in the Qing Dynasty.",
+      "page_idx": 48,
+      "id": "derh9vf4"
+    },
+    {
+      "type": "text",
+      "text": "Amsterdam: Amsterdam University Press.",
+      "page_idx": 48,
+      "id": "dt7ytche"
+    },
+    {
+      "type": "text",
+      "text": "Tung, Wene.",
+      "page_idx": 48,
+      "id": "cddwwmnr"
+    },
+    {
+      "type": "text",
+      "text": "(ed.)",
+      "page_idx": 48,
+      "id": "iiel3luv"
+    },
+    {
+      "type": "text",
+      "text": "2009.",
+      "page_idx": 48,
+      "id": "xvffjm24"
+    },
+    {
+      "type": "text",
+      "text": "Weaving a Tapestry of  Splendors: Bird-and-Flower Tapestries of  the Sung Dynasty.",
+      "page_idx": 48,
+      "id": "tfrkjg9l"
+    },
+    {
+      "type": "text",
+      "text": "Taipei: National Palace Museum.",
+      "page_idx": 48,
+      "id": "gxj0mnwr"
+    },
+    {
+      "type": "text",
+      "text": "(ed.)",
+      "page_idx": 48,
+      "id": "w9k6v3uy"
+    },
+    {
+      "type": "text",
+      "text": "2015.",
+      "page_idx": 48,
+      "id": "u3x53nja"
+    },
+    {
+      "type": "text",
+      "text": "Flights of  Fragrance at a Fingertip: The World of  Birds and Flowers in Painting, Tapestry and Embroidery.",
+      "page_idx": 48,
+      "id": "d3440txc"
+    },
+    {
+      "type": "text",
+      "text": "Taipei: National Palace Museum.",
+      "page_idx": 48,
+      "id": "aml4qi0w"
+    },
+    {
+      "type": "text",
+      "text": "Vainker, Shelagh.",
+      "page_idx": 48,
+      "id": "p2pxc5f1"
+    },
+    {
+      "type": "text",
+      "text": "2004.",
+      "page_idx": 48,
+      "id": "anajyylt"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silk: A Cultural History.",
+      "page_idx": 48,
+      "id": "tio50667"
+    },
+    {
+      "type": "text",
+      "text": "London: The British Museum Press.",
+      "page_idx": 48,
+      "id": "rp3otnbi"
+    },
+    {
+      "type": "text",
+      "text": "Watt, James C.Y., Wardwell, Anne E. and Rossabi, Morris.",
+      "page_idx": 48,
+      "id": "d953zbub"
+    },
+    {
+      "type": "text",
+      "text": "1997.",
+      "page_idx": 48,
+      "id": "ah0tkg13"
+    },
+    {
+      "type": "text",
+      "text": "When Silk Was Gold: Central Asian and Chinese Textiles.",
+      "page_idx": 48,
+      "id": "p4ddqd71"
+    },
+    {
+      "type": "text",
+      "text": "New York: The Metropolitan Museum of Ar",
+      "page_idx": 48,
+      "id": "pt91vxh5"
+    },
+    {
+      "type": "text",
+      "text": "Cammann, Schuyler van R.. 1948.",
+      "page_idx": 48,
+      "id": "m8at572q"
+    },
+    {
+      "type": "text",
+      "text": "‘Notes on the Origin of Chinese K’ossu Tapestry’.",
+      "page_idx": 48,
+      "id": "wugbj6aa"
+    },
+    {
+      "type": "text",
+      "text": "Chinese and Central Asian Textiles: Selected Articles from Orientations, 1983–1997, edited by Orientations Magazine.",
+      "page_idx": 48,
+      "id": "o8t5t6mj"
+    },
+    {
+      "type": "text",
+      "text": "Hong Kong: Orientations Magazine.",
+      "page_idx": 48,
+      "id": "b0o2z4r6"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "yw0uin60"
+    },
+    {
+      "type": "text",
+      "text": "68–75.",
+      "page_idx": 48,
+      "id": "hfgaxufl"
+    },
+    {
+      "type": "text",
+      "text": "Chen, Jinglin ( Weaving Techniques of Silk Tapestry and Inspirations from Modern Textiles Kesi de zhizuo jiyi yu xiandai zhiwu chuangzuo de qishi)’.",
+      "page_idx": 48,
+      "id": "q3pimm11"
+    },
+    {
+      "type": "text",
+      "text": "19th and 20th Century Tapestries Qing zhi jindai kesi te zhan), edited by Lin Poyou ( and Guoli lishi  bowuguan bianji weiyuanhui ( Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "y4s8krdx"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "xmf92x1q"
+    },
+    {
+      "type": "text",
+      "text": "21–31.",
+      "page_idx": 48,
+      "id": "tbz82c6t"
+    },
+    {
+      "type": "text",
+      "text": "Chen, Juanjuan( Essays on Chinese Woven and Embroidered Costumes Zhongguo zhi xiu fushi lunji).",
+      "page_idx": 48,
+      "id": "rzn81abb"
+    },
+    {
+      "type": "text",
+      "text": "Beijing: Zijincheng Chubanshe.",
+      "page_idx": 48,
+      "id": "uhtw16b6"
+    },
+    {
+      "type": "text",
+      "text": "and Huang Nengfu.",
+      "page_idx": 48,
+      "id": "ridwni4f"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "qgm4xum1"
+    },
+    {
+      "type": "text",
+      "text": "‘Silk Fabrics of the Ming Dynasty’.",
+      "page_idx": 48,
+      "id": "hld4nmek"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks, edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "tyk3kk59"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "x4068mla"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "qvadqq6f"
+    },
+    {
+      "type": "text",
+      "text": "369–429.",
+      "page_idx": 48,
+      "id": "lgb9ebo6"
+    },
+    {
+      "type": "text",
+      "text": "and Huang Nengfu.",
+      "page_idx": 48,
+      "id": "yytgzx85"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "p6sqgg0z"
+    },
+    {
+      "type": "text",
+      "text": "‘Textile Art of the Qing Dynasty’.",
+      "page_idx": 48,
+      "id": "xcz450eo"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks, edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "q2rgj9sy"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "pvlxezuj"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "tv1cbzp5"
+    },
+    {
+      "type": "text",
+      "text": "431–89.",
+      "page_idx": 48,
+      "id": "we04eqjw"
+    },
+    {
+      "type": "text",
+      "text": "Lin, Poyou ( and Guoli lishi bowuguan bianji weiyuanhui ( eds.)",
+      "page_idx": 48,
+      "id": "skq75oxd"
+    },
+    {
+      "type": "text",
+      "text": "2001.",
+      "page_idx": 48,
+      "id": "pfab0h3m"
+    },
+    {
+      "type": "text",
+      "text": "19th and 20th Century Tapestries Qing zhi jindai kesi te zhan).",
+      "page_idx": 48,
+      "id": "xobovj8v"
+    },
+    {
+      "type": "text",
+      "text": "Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "naswvdrh"
+    },
+    {
+      "type": "text",
+      "text": "Lin, Shu-hsin ( General Introduction to Ch’ing Embroidery’.",
+      "page_idx": 48,
+      "id": "azwrjb5l"
+    },
+    {
+      "type": "text",
+      "text": "The Cosmos of  Silk: A Special Exhibition of  Ch’ing Embroidery, edited by the National Museum of History.",
+      "page_idx": 48,
+      "id": "om46dfb5"
+    },
+    {
+      "type": "text",
+      "text": "Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "cz73zm1w"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "pq147j6l"
+    },
+    {
+      "type": "text",
+      "text": "9–16.",
+      "page_idx": 48,
+      "id": "ta1ociz3"
+    },
+    {
+      "type": "text",
+      "text": "_.",
+      "page_idx": 48,
+      "id": "ylxinaoc"
+    },
+    {
+      "type": "text",
+      "text": "2001.",
+      "page_idx": 48,
+      "id": "owsb2yky"
+    },
+    {
+      "type": "text",
+      "text": "‘The Woven Art: Silk Tapestry Zong suo huanhua de yishu kesi).",
+      "page_idx": 48,
+      "id": "bs55huvx"
+    },
+    {
+      "type": "text",
+      "text": "19th and 20th Century Tapestries Qing zhi jindai kesi te zhan), edited by Lin Poyou ( and Guoli lishi bowuguan bianji weiyuanhui ( Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "rjjdr9zh"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "comfkawq"
+    },
+    {
+      "type": "text",
+      "text": "9–15.",
+      "page_idx": 48,
+      "id": "e05eudbe"
+    },
+    {
+      "type": "text",
+      "text": "Nien, Pivoine.",
+      "page_idx": 48,
+      "id": "da0l17jl"
+    },
+    {
+      "type": "text",
+      "text": "1998.",
+      "page_idx": 48,
+      "id": "h0bt8yhb"
+    },
+    {
+      "type": "text",
+      "text": "‘Hundreds of Stitches: A Brief History of Stitches Used on Chinese Embroidery’.",
+      "page_idx": 48,
+      "id": "s6zgtzcd"
+    },
+    {
+      "type": "text",
+      "text": "The Cosmos of  Silk: A Special Exhibition of  Ch’ing Embroidery, edited by the National Museum of History.",
+      "page_idx": 48,
+      "id": "cmkxr9r9"
+    },
+    {
+      "type": "text",
+      "text": "Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "e0n8z0l1"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "p2u8e39j"
+    },
+    {
+      "type": "text",
+      "text": "43–78.",
+      "page_idx": 48,
+      "id": "hj50p3fy"
+    },
+    {
+      "type": "text",
+      "text": "Peng, Hao.",
+      "page_idx": 48,
+      "id": "y2a7iqfu"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "a3xaduyb"
+    },
+    {
+      "type": "text",
+      "text": "‘Sericulture and Silk Weaving from Antiquity to the Zhou Dynasty’.",
+      "page_idx": 48,
+      "id": "s6tw0f15"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks, edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "cdetiyxi"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "zppb6306"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "ndw0qxaw"
+    },
+    {
+      "type": "text",
+      "text": "65–113.",
+      "page_idx": 48,
+      "id": "z0xykvlk"
+    },
+    {
+      "type": "text",
+      "text": "Pu, Wengying ( Silk Tapestry kesi).",
+      "page_idx": 48,
+      "id": "pry9kzpd"
+    },
+    {
+      "type": "text",
+      "text": "Suzhou: Soochow University Press.",
+      "page_idx": 48,
+      "id": "jmuhnkdr"
+    },
+    {
+      "type": "text",
+      "text": "Qian, Cao ( Crafts and Zen: The Journey of  Searching the Traditional Crafts Artisans Shou yi yu chan xin : xun zhao chuan tong shou gong yi ren zhi lü).",
+      "page_idx": 48,
+      "id": "nh444qkg"
+    },
+    {
+      "type": "text",
+      "text": "Hong Kong: Chung Hwa Book Co.",
+      "page_idx": 48,
+      "id": "pp49ewzc"
+    },
+    {
+      "type": "text",
+      "text": "Shan, Guoqiang ( Embroidered Pictures: The Complete Collection of Treasures of  the Palace Museum Zhi xiu shuhua: Gugong bowuyuan zang wenwu zhenpin quanji).",
+      "page_idx": 48,
+      "id": "n3ef2ya1"
+    },
+    {
+      "type": "text",
+      "text": "Hong Kong: The Commercial Press.",
+      "page_idx": 48,
+      "id": "hx4nq2c0"
+    },
+    {
+      "type": "text",
+      "text": "Sheng, Angela.",
+      "page_idx": 48,
+      "id": "t2sht8ws"
+    },
+    {
+      "type": "text",
+      "text": "1995.",
+      "page_idx": 48,
+      "id": "syh1osq9"
+    },
+    {
+      "type": "text",
+      "text": "‘Chinese Silk Tapestry: A Brief Social Historical Perspective of Its Early Development’.",
+      "page_idx": 48,
+      "id": "ois9t4kc"
+    },
+    {
+      "type": "text",
+      "text": "Chinese and Central Asian Textiles: Selected Articles from Orientations, 1983–1997, edited by Orientations Magazine.",
+      "page_idx": 48,
+      "id": "oupk7p3s"
+    },
+    {
+      "type": "text",
+      "text": "Hong Kong: Orientations Magazine.",
+      "page_idx": 48,
+      "id": "ybuxox6r"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "gmk5wl0x"
+    },
+    {
+      "type": "text",
+      "text": "166–71.",
+      "page_idx": 48,
+      "id": "evy5nyo9"
+    },
+    {
+      "type": "text",
+      "text": "Shen, Shou, ( Zhang, Jian ( and Geng, Jipeng ( eds.)",
+      "page_idx": 48,
+      "id": "usb7eysj"
+    },
+    {
+      "type": "text",
+      "text": "2010.",
+      "page_idx": 48,
+      "id": "x1we76v6"
+    },
+    {
+      "type": "text",
+      "text": "Embroidery Book by Xue Yi Xueyi xiupu).",
+      "page_idx": 48,
+      "id": "qnrlb003"
+    },
+    {
+      "type": "text",
+      "text": "Chongqing: Chongqing chubanshe.",
+      "page_idx": 48,
+      "id": "oko1q8a8"
+    },
+    {
+      "type": "text",
+      "text": "Tunstall, Alexandra.",
+      "page_idx": 48,
+      "id": "gdwd637r"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "a4hvsiew"
+    },
+    {
+      "type": "text",
+      "text": "‘Beyond Categorization: Zhu Kerou's Tapestry Painting “Butterfly and Camellia.",
+      "page_idx": 48,
+      "id": "kbeubc5i"
+    },
+    {
+      "type": "text",
+      "text": "East Asian Science, Technology, and Medicine.",
+      "page_idx": 48,
+      "id": "g8m1vz0h"
+    },
+    {
+      "type": "text",
+      "text": "36 (2012).",
+      "page_idx": 48,
+      "id": "w418qwgn"
+    },
+    {
+      "type": "text",
+      "text": "PP 39–76.",
+      "page_idx": 48,
+      "id": "bxkvfmjj"
+    },
+    {
+      "type": "text",
+      "text": "Wang, Yimei ( A Study on the Craftsmanship of Silk Tapestry Kesi gongyi tanyuan).’ 19th and 20th Century Tapestries Qing zhi jindai kesi te zhan), edited by Lin Poyou ( and Guoli lishi bowuguan bianji weiyuanhui ( Taipei: National Museum of History.",
+      "page_idx": 48,
+      "id": "atpexz1m"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "um2tsaxi"
+    },
+    {
+      "type": "text",
+      "text": "16–20.",
+      "page_idx": 48,
+      "id": "n75is3pm"
+    },
+    {
+      "type": "text",
+      "text": "Wooley, Nathan.",
+      "page_idx": 48,
+      "id": "xvck252h"
+    },
+    {
+      "type": "text",
+      "text": "2016.",
+      "page_idx": 48,
+      "id": "vxlj9zrd"
+    },
+    {
+      "type": "text",
+      "text": "Celestial Empire: Life in China 1644–1911.",
+      "page_idx": 48,
+      "id": "dvzwhfdd"
+    },
+    {
+      "type": "text",
+      "text": "Canberra: National Library of Australia.",
+      "page_idx": 48,
+      "id": "eq8bza7n"
+    },
+    {
+      "type": "text",
+      "text": "Zhao, Feng.",
+      "page_idx": 48,
+      "id": "op8c8jmg"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "jlbcpme6"
+    },
+    {
+      "type": "text",
+      "text": "‘Silks in the Sui, Tang, and Five Dynasties’.",
+      "page_idx": 48,
+      "id": "n1yjqm29"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks, edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "i17lj1mz"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "m2adrv3v"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "kxrdx2ri"
+    },
+    {
+      "type": "text",
+      "text": "203–58.",
+      "page_idx": 48,
+      "id": "mixgkczu"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "page_idx": 48,
+      "id": "xlixx53w"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "hfal63m5"
+    },
+    {
+      "type": "text",
+      "text": "‘Silks in the Song, Liao, Western Xia, and Jin Dynasties’.",
+      "page_idx": 48,
+      "id": "zp9h0uce"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "o48g6w20"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "i4xxmov4"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "elrjvnsw"
+    },
+    {
+      "type": "text",
+      "text": "259–326.",
+      "page_idx": 48,
+      "id": "ax1ie8gl"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "page_idx": 48,
+      "id": "zh64xzcp"
+    },
+    {
+      "type": "text",
+      "text": "2012.",
+      "page_idx": 48,
+      "id": "rfopyuns"
+    },
+    {
+      "type": "text",
+      "text": "‘Silk Artistry of the Yuan Dynasty’.",
+      "page_idx": 48,
+      "id": "qeffwz2j"
+    },
+    {
+      "type": "text",
+      "text": "Chinese Silks, edited by Dieter Kuhn.",
+      "page_idx": 48,
+      "id": "fn7koksu"
+    },
+    {
+      "type": "text",
+      "text": "New Haven, CT: Yale University Press.",
+      "page_idx": 48,
+      "id": "tdrdp1x6"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "wdgn02bm"
+    },
+    {
+      "type": "text",
+      "text": "327–67.",
+      "page_idx": 48,
+      "id": "et8dmkus"
+    },
+    {
+      "type": "text",
+      "text": ", Long, Bo and Shang, Gang.",
+      "page_idx": 48,
+      "id": "ekxyf7z9"
+    },
+    {
+      "type": "text",
+      "text": "2014.",
+      "page_idx": 48,
+      "id": "jgvl1b0b"
+    },
+    {
+      "type": "text",
+      "text": "Ancient Chinese Material Culture: Textiles Zhongguo gudai wuzhi wenhuashi.",
+      "page_idx": 48,
+      "id": "bkc57kh5"
+    },
+    {
+      "type": "text",
+      "text": "Fangzhi).",
+      "page_idx": 48,
+      "id": "dmpz1cdk"
+    },
+    {
+      "type": "text",
+      "text": "Beijing: Kaiming chubanshe.",
+      "page_idx": 48,
+      "id": "f83lup2s"
+    },
+    {
+      "type": "text",
+      "text": "Zhu, Qiqian ( Catalogue of  Woven Kesi Silk Tapestry and Silk Embroidered Calligraphy and Painting in the Collection of  the Imperial Household Department Qing neifu cang kesi xiuxian shuhua lu)’.",
+      "page_idx": 48,
+      "id": "j5c5bi37"
+    },
+    {
+      "type": "text",
+      "text": "A Collection of  Classic Paintings and Calligraphy.",
+      "page_idx": 48,
+      "id": "ofjzk1vx"
+    },
+    {
+      "type": "text",
+      "text": "Volume 15 Lidai shuhualu jikan).",
+      "page_idx": 48,
+      "id": "yylsvqha"
+    },
+    {
+      "type": "text",
+      "text": "Beijing: Beijing tushuguan chubanshe.",
+      "page_idx": 48,
+      "id": "yetibx40"
+    },
+    {
+      "type": "text",
+      "text": "pp.",
+      "page_idx": 48,
+      "id": "ppnpkcrg"
+    },
+    {
+      "type": "text",
+      "text": "255–384.",
+      "page_idx": 48,
+      "id": "gk6x22u9"
+    },
+    {
+      "type": "text",
+      "text": "Zong, Fengying ( Textiles and Embroideries in the Ming and Qing Dynasties Mingqing zhixiu).",
+      "page_idx": 48,
+      "id": "fvdqdv72"
+    },
+    {
+      "type": "text",
+      "text": "Hong Kong: The Commercial Press.",
+      "page_idx": 48,
+      "id": "b9lw50tg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 60,
+  "major": "History",
+  "age_group": "65-70",
+  "class_subject": "Lifelong Learning",
+  "topics_of_interest": [
+    "Porcelain",
+    "Jingdezhen",
+    "Import/Export"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "Emphasize reflection, fewer visuals"
+}

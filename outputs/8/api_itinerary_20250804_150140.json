@@ -1,0 +1,40 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit"
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Qing Dynasty and symbolism in ceramics"
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Discuss material properties: clay, glaze, and firing techniques"
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Explore export wares: cultural exchange and trade routes"
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Hands-on activity: Examine porcelain and celadon glaze"
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Compare southern Chinese and Vietnamese kiln techniques"
+    },
+    {
+      "time": "30:00–35:00",
+      "activity": "Interactive discussion: Chemistry behind firing and kilns"
+    },
+    {
+      "time": "35:00–40:00",
+      "activity": "Curiosities: Japanese tea ceremony aesthetics and global influence"
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-up and Q&A session"
+    }
+  ]
+}

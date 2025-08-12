@@ -1,0 +1,40 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–5:00",
+      "activity": "Welcome and introduce the exhibit. Begin by greeting the group warmly and briefly explaining the purpose of the tour: exploring how artifacts reflect China's political, cultural, and artistic history. Highlight the exhibit's name, *Objectifying China*, and its focus on the intersection of art, politics, and imperial symbolism. Mention that the tour will include interactive elements to make the experience engaging."
+    },
+    {
+      "time": "5:00–10:00",
+      "activity": "Overview of the Qing Dynasty and symbolism. Provide a brief history of the Qing dynasty (1644–1911), emphasizing its political significance as China's last imperial dynasty. Discuss the role of porcelain artifacts in reflecting imperial power and cultural values, such as the use of specific colors like red (symbolizing prosperity and authority). Connect this to the Kangxi period and the importance of imperial kilns in producing scholarly objects."
+    },
+    {
+      "time": "10:00–15:00",
+      "activity": "Interactive activity: Symbolism in colors and materials. Ask students to observe the artifacts closely and identify colors, textures, and materials. Discuss the significance of white-green glazes from the Southern Song dynasty and red hues from the Qing dynasty. Encourage students to brainstorm what these colors might symbolize in politics or culture. Relate their ideas to modern political symbolism (e.g., flags, uniforms)."
+    },
+    {
+      "time": "15:00–20:00",
+      "activity": "Focus on the Southern Song dynasty artifact. Introduce the porcelain artifact with the white-green glaze. Explain how the Southern Song dynasty valued simplicity and elegance, which is reflected in the artifact's design. Connect this to the political philosophy of the time, such as Confucian ideals of harmony and balance. Encourage students to think about how art can reflect political values."
+    },
+    {
+      "time": "20:00–25:00",
+      "activity": "Discussion: Imperial kilns and scholarly objects. Highlight the Kangxi period's emphasis on scholarly objects made at imperial kilns. Explain how these objects were not only artistic but also political tools, showcasing the emperor's support for intellectual pursuits. Ask students to consider how governments today use art or cultural symbols to project power or values."
+    },
+    {
+      "time": "25:00–30:00",
+      "activity": "Interactive activity: Mythical motifs and storytelling. Introduce the concept of mythical motifs in Chinese art and their connection to imperial power. Show an example (if available) or describe common motifs like dragons or phoenixes. Ask students to create their own mythical creature and explain what political or cultural values it might represent."
+    },
+    {
+      "time": "30:00–35:00",
+      "activity": "Focus on the Qing dynasty artifact. Examine the Qing dynasty artifact in detail, discussing its intricate design and imperial symbolism. Highlight how the craftsmanship reflects the dynasty's wealth and political stability. Ask students to compare the Qing artifact to the Southern Song artifact and consider how political contexts influenced artistic styles."
+    },
+    {
+      "time": "35:00–40:00",
+      "activity": "Group discussion: Art as a political tool. Facilitate a conversation about how art has been used historically to convey political messages, both in China and globally. Encourage students to share examples from their own knowledge or experiences, such as propaganda posters or national monuments."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-up and conclusion. Summarize the key points covered during the tour: the connection between art, politics, and imperial power; the significance of colors, materials, and motifs; and the role of artifacts in reflecting cultural values. Thank the group for their participation and invite them to explore the exhibit further or ask questions."
+    }
+  ]
+}

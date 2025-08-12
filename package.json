@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fontsource/open-sans": "^5.2.6",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.534.0",
+    "zod": "^4.0.14"
+  }
+}

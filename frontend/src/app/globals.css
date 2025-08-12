@@ -1,0 +1,119 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Root Variables */
+:root {
+  --font-open-sans: 'Open Sans', sans-serif;
+  font-family: var(--font-open-sans);
+  background-color: #367a79;
+}
+
+/* Body Styling */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #367a79;
+  font-family: var(--font-open-sans);
+  color: #2c2c2c;
+  -webkit-font-smoothing: antialiased;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Survey Card Wrapper */
+.survey-wrapper {
+  background-color: #f7f7f0;
+  border: 4px solid white;
+  border-radius: 30px;
+  padding: 2.5rem;
+  width: 100%;
+  max-width: 700px;
+  min-height: 500px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Exhibit Summary Page */
+.exhibit-summary {
+  color: white;
+  text-align: center;
+}
+
+/* Input Styling */
+input[type="text"] {
+  font-family: var(--font-open-sans);
+  font-size: 1rem;
+  font-weight: 400;
+  border-radius: 9999px;
+  height: 70px;
+  width: 100%;
+  max-width: 400px;
+  padding: 0 1.5rem;
+  text-align: center;
+  background-color: #e1e1e1;
+  border: 1.5px solid #c5c5c5;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
+
+input[type="text"]::placeholder {
+  color: #777;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px #7db9b6;
+  border-color: #7db9b6;
+}
+
+/* Button Styling */
+button {
+  font-family: var(--font-open-sans);
+  font-weight: 600;
+  font-size: 1.25rem;
+  border-radius: 9999px;
+  padding: 1rem 2rem;
+  width: 240px;
+  transition: background-color 0.2s ease;
+}
+
+.custom-topic {
+  display: inline-flex;
+  align-items: center;
+  background-color: #7DB9B6;
+  color: white;
+  padding: 6px 12px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 9999px;
+  white-space: nowrap;
+  max-width: fit-content;
+  flex-shrink: 0;
+}
+
+.custom-topic button {
+  margin-left: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}

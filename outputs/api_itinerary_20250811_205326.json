@@ -1,0 +1,29 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–10:00",
+      "activity": "Welcome and introduce the exhibit",
+      "details": "Begin by greeting the group warmly and introducing yourself as an art major. Explain that the exhibit, 'Objectifying China,' explores how objects from China's history reflect its culture, values, and identity. Highlight the theme of 'red' as a color of significance in Chinese history and art, tying it to the students' interest. Ask the group to think about what red symbolizes to them personally as they move through the tour."
+    },
+    {
+      "time": "10:00–20:00",
+      "activity": "Overview of the Qing Dynasty and symbolism",
+      "details": "Provide a brief history of the Qing Dynasty (1644–1912), emphasizing its role in shaping Chinese art and culture. Discuss how red was used in imperial settings, such as on robes, seals, and architecture, symbolizing power, luck, and prosperity. Show a specific object from the exhibit that features red prominently, such as a lacquered box or a porcelain vase, and explain its cultural significance."
+    },
+    {
+      "time": "20:00–30:00",
+      "activity": "Tour Guide's personal reflection",
+      "details": "Share a personal story or insight about how studying art has helped you understand symbolism and cultural identity. For example, reflect on how the use of red in Chinese art compares to its use in Western art. Encourage students to think about how colors can carry different meanings across cultures and time periods."
+    },
+    {
+      "time": "30:00–40:00",
+      "activity": "Engagement activities",
+      "details": "Lead a hands-on activity where students sketch or describe an object from the exhibit that uses red. Ask them to imagine they are designing an object for their own culture or family, using red to symbolize something meaningful. Alternatively, facilitate a discussion where students share their observations about the objects and their use of color."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-up and conclusion",
+      "details": "Summarize the key points covered during the tour: the significance of red in Chinese art, the historical context of the Qing Dynasty, and the importance of symbolism in objects. Thank the group for their participation and encourage them to continue exploring how art and history connect in their own lives. Answer any final questions they may have."
+    }
+  ]
+}
