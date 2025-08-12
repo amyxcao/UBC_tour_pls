@@ -1,1 +1,0 @@
-This is respository for project in 2025 summer vacation with UBC students.

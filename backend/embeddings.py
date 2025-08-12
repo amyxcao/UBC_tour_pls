@@ -2,7 +2,9 @@ import torch
 from PIL import Image
 from transformers import AutoModel, AutoProcessor, AutoTokenizer
 from transformers import AutoModelForMaskedLM
-from interfaces import BaseEmbeddingModel
+
+from backend.interfaces import BaseEmbeddingModel
+
 
 
 class DefaultDenseEmbeddingModel(BaseEmbeddingModel):

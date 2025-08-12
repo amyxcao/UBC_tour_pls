@@ -86,10 +86,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 
-from run_pipeline import format_survey_context, parse_topics_to_preferences
-from retriever import DefaultRetriever
-from tour_generator import TourGuideGenerator
-from query_rewritter import generate_human_query
+from backend.run_pipeline import format_survey_context, parse_topics_to_preferences
+from backend.retriever import DefaultRetriever
+from backend.tour_generator import TourGuideGenerator
+from backend.query_rewritter import generate_human_query
 
 import sys
 import os

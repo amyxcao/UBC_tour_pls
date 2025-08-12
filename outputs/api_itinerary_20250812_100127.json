@@ -1,0 +1,34 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–7:00",
+      "activity": "Welcome and Introduce the Exhibit",
+      "details": "Begin by greeting the group and explaining the theme of the exhibit, 'Objectifying China.' Highlight how ceramics, especially green-glazed porcelain, reflect cultural exchange and innovation during different historical periods. Connect the topic to their history class and interest in 'green' by emphasizing the significance of green enamel in art and history."
+    },
+    {
+      "time": "7:00–15:00",
+      "activity": "Overview of the Qing Dynasty and Symbolism",
+      "details": "Discuss the late 17th-century Qing Dynasty porcelain bowl with green enamel. Explain how green enamel was an innovation and prized at the imperial court. Point out the swirling waves, horses, and flowers as symbols of prosperity and good fortune. Encourage students to think about why certain colors and designs might hold cultural significance."
+    },
+    {
+      "time": "15:00–22:00",
+      "activity": "Tour Guide's Personal Reflection",
+      "details": "Share your perspective as an art major. Reflect on the craftsmanship of the porcelain and the artistic techniques used, like the intentional use of white spaces to contrast the green enamel. Relate this to your studies in art and how it inspires your appreciation for historical ceramics."
+    },
+    {
+      "time": "22:00–30:00",
+      "activity": "Hands-On Engagement Activity",
+      "details": "Lead a short activity where students sketch their own designs inspired by the bowl. Provide paper and pencils, and encourage them to incorporate symbols or colors they think represent prosperity or good fortune in their own lives. Discuss how art can tell stories about culture and history."
+    },
+    {
+      "time": "30:00–40:00",
+      "activity": "Explore Global Connections",
+      "details": "Discuss how green-glazed ceramics spread to Korea, Japan, and Southeast Asia, and how local potters adapted the techniques to their own cultures. Highlight the 'celadon' wares and their role in trade and cultural exchange. Ask students to imagine how these ceramics might have been used or valued in different societies."
+    },
+    {
+      "time": "40:00–45:00",
+      "activity": "Wrap-Up and Conclusion",
+      "details": "Summarize the key points of the tour: the innovation of green enamel, the symbolism in design, and the global impact of Chinese ceramics. Invite students to share their favorite part of the exhibit or their sketches. Thank them for their participation and encourage them to think about how art connects cultures and history."
+    }
+  ]
+}

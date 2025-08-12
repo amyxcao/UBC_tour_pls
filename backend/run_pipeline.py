@@ -1,8 +1,8 @@
 import json
-from tour_generator import TourGuideGenerator
-from survey import format_survey_context, Preferences
-from query_rewritter import generate_human_query
-from retriever import DefaultRetriever
+from backend.tour_generator import TourGuideGenerator
+from backend.survey import format_survey_context, Preferences
+from backend.query_rewritter import generate_human_query
+from backend.retriever import DefaultRetriever
 
 def collect_survey() -> dict:
     print("📝 Museum Tour Survey\n")

@@ -122,6 +122,103 @@
 
 //   return steps[step];
 // }
+// 'use client';
+
+// import React, { useState } from 'react';
+// import TourGuideInfo from '../components/survey/TourGuideInfo.jsx';
+// import TopicDropdowns from '../components/survey/Topics.jsx';
+// import Exhibit from '../components/survey/Exhibit.jsx';
+// import AgeGroup from '../components/survey/AgeGroup.jsx';
+// import ClassSubject from '../components/survey/ClassSubject.jsx';
+// import Duration from '../components/survey/Duration.jsx';
+// import AdditionalInfo from '../components/survey/AdditionalInfo.jsx';
+// import ExhibitSummaryPage from '../components/ExhibitSummaryPage.jsx';
+
+// export default function Page() {
+//   const [step, setStep] = useState(0);
+
+//   // Survey fields
+//   const [guideInfo, setGuideInfo] = useState('');
+//   const [exhibit, setExhibit] = useState('');
+//   const [ageGroup, setAgeGroup] = useState('');
+//   const [classSubject, setClassSubject] = useState('');
+//   const [topics, setTopics] = useState([]);
+//   const [duration, setDuration] = useState('');
+//   const [additionalInfo, setAdditionalInfo] = useState('');
+
+//   // Output
+//   const [generatedOutput, setGeneratedOutput] = useState(null);
+//   const [loading, setLoading] = useState(false);
+
+//   const steps = [
+//     <TourGuideInfo guideInfo={guideInfo} setGuideInfo={setGuideInfo} onNext={() => setStep(step + 1)} />,
+//     <Exhibit exhibit={exhibit} setExhibit={setExhibit} onNext={() => setStep(step + 1)} />,
+//     <AgeGroup ageGroup={ageGroup} setAgeGroup={setAgeGroup} onNext={() => setStep(step + 1)} />,
+//     <ClassSubject classSubject={classSubject} setClassSubject={setClassSubject} onNext={() => setStep(step + 1)} />,
+//     <TopicDropdowns
+//       onNext={(selected) => {
+//         const flattened = Object.values(selected).flat();
+//         setTopics(flattened);
+//         setStep(step + 1);
+//       }}
+//     />,
+//     <Duration duration={duration} setDuration={setDuration} onNext={() => setStep(step + 1)} />,
+//     <AdditionalInfo
+//       additionalInfo={additionalInfo}
+//       setAdditionalInfo={setAdditionalInfo}
+//       onSubmitSurvey={fetchTour}
+//       isLoading={loading}
+//     />,
+//   ];
+
+//   async function fetchTour() {
+//     setLoading(true);
+
+//     try {
+//       const res = await fetch('http://127.0.0.1:8000/generate', {
+//         method: 'POST',
+//         headers: {
+//           'Content-Type': 'application/json',
+//         },
+//         body: JSON.stringify({
+//           major: guideInfo,
+//           age_group: ageGroup,
+//           class_subject: classSubject,
+//           topics_of_interest: topics,
+//           exhibit_name: exhibit,
+//           tour_length_minutes: parseInt(duration),
+//           additional_notes: additionalInfo,
+//         }),
+//       });
+
+//       const data = await res.json();
+//       setGeneratedOutput(data);
+//       setStep(step + 1);
+//     } catch (err) {
+//       console.error('❌ API call failed:', err);
+//       alert('Failed to fetch tour. Please try again.');
+//     } finally {
+//       setLoading(false);
+//     }
+//   }
+
+//   if (generatedOutput) {
+//     return (
+//       <ExhibitSummaryPage
+//         itinerary={generatedOutput.itinerary}
+//         talkingPoints={generatedOutput.talking_points}
+//         engagementTips={generatedOutput.engagement_tips}
+//       />
+//     );
+//   }
+
+//   return steps[step];
+// }
+
+
+
+
+
 'use client';
 
 import React, { useState } from 'react';
@@ -151,19 +248,48 @@ export default function Page() {
   const [loading, setLoading] = useState(false);
 
   const steps = [
-    <TourGuideInfo guideInfo={guideInfo} setGuideInfo={setGuideInfo} onNext={() => setStep(step + 1)} />,
-    <Exhibit exhibit={exhibit} setExhibit={setExhibit} onNext={() => setStep(step + 1)} />,
-    <AgeGroup ageGroup={ageGroup} setAgeGroup={setAgeGroup} onNext={() => setStep(step + 1)} />,
-    <ClassSubject classSubject={classSubject} setClassSubject={setClassSubject} onNext={() => setStep(step + 1)} />,
+    <TourGuideInfo
+      key="guide"
+      guideInfo={guideInfo}
+      setGuideInfo={setGuideInfo}
+      onNext={() => setStep(s => s + 1)}
+    />,
+    <Exhibit
+      key="exhibit"
+      exhibit={exhibit}
+      setExhibit={setExhibit}
+      onNext={() => setStep(s => s + 1)}
+    />,
+    <AgeGroup
+      key="age"
+      ageGroup={ageGroup}
+      setAgeGroup={setAgeGroup}
+      onNext={() => setStep(s => s + 1)}
+    />,
+    <ClassSubject
+      key="class"
+      classSubject={classSubject}
+      setClassSubject={setClassSubject}
+      onNext={() => setStep(s => s + 1)}
+    />,
     <TopicDropdowns
+      key="topics"
       onNext={(selected) => {
-        const flattened = Object.values(selected).flat();
+        const flattened = Object.values(selected || {})
+          .flat()
+          .filter(v => typeof v === 'string' && v.trim() !== '');
         setTopics(flattened);
-        setStep(step + 1);
+        setStep(s => s + 1);
       }}
     />,
-    <Duration duration={duration} setDuration={setDuration} onNext={() => setStep(step + 1)} />,
+    <Duration
+      key="duration"
+      duration={duration}
+      setDuration={setDuration}
+      onNext={() => setStep(s => s + 1)}
+    />,
     <AdditionalInfo
+      key="notes"
       additionalInfo={additionalInfo}
       setAdditionalInfo={setAdditionalInfo}
       onSubmitSurvey={fetchTour}
@@ -173,30 +299,35 @@ export default function Page() {
 
   async function fetchTour() {
     setLoading(true);
-
     try {
-      const res = await fetch('http://localhost:8000/generate', {
+      const tourLen = parseInt(duration, 10);
+      const payload = {
+        major: guideInfo,
+        age_group: ageGroup,
+        class_subject: classSubject,
+        topics_of_interest: topics,
+        exhibit_name: exhibit,
+        tour_length_minutes: Number.isNaN(tourLen) ? undefined : tourLen,
+        additional_notes: additionalInfo,
+      };
+
+      const res = await fetch('/api', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          major: guideInfo,
-          age_group: ageGroup,
-          class_subject: classSubject,
-          topics_of_interest: topics,
-          exhibit_name: exhibit,
-          tour_length_minutes: parseInt(duration),
-          additional_notes: additionalInfo,
-        }),
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
       });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`Upstream ${res.status}: ${errText}`);
+      }
 
       const data = await res.json();
       setGeneratedOutput(data);
-      setStep(step + 1);
+      setStep(s => s + 1);
     } catch (err) {
       console.error('❌ API call failed:', err);
-      alert('Failed to fetch tour. Please try again.');
+      alert('Failed to fetch tour. Ensure the backend is running and try again.');
     } finally {
       setLoading(false);
     }

@@ -1,13 +1,15 @@
-from pinecone import Pinecone
-from interfaces import Retriever, Query, MergedResult
-from embeddings import DefaultDenseEmbeddingModel, DefaultSparseEmbeddingModel
-from dotenv import load_dotenv, find_dotenv
+from pinecone import Pinecone  # 3P
+from dotenv import load_dotenv, find_dotenv  # 3P
 import os
 import numpy as np
-from survey import Preferences
 from typing import Dict
-from utils import *
 from collections import defaultdict
+
+from backend.interfaces import Retriever, Query, MergedResult
+from backend.embeddings import DefaultDenseEmbeddingModel, DefaultSparseEmbeddingModel
+from backend.survey import Preferences            # or: from backend.src_ubc.survey import Preferences
+from backend.utils import *                       # (better: import only what you need)
+
 load_dotenv(find_dotenv())
 
 

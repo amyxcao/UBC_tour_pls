@@ -1,4 +1,4 @@
-from survey import Preferences
+from backend.survey import Preferences
 
 def generate_human_query(prefs: Preferences) -> str:
     parts = []

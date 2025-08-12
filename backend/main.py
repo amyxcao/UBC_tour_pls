@@ -1,7 +1,7 @@
-from survey import SurveyResponse, Preferences
-from query_rewritter import *
-from classes import *
-from retriever import DefaultRetriever
+from backend.survey import SurveyResponse, Preferences
+from backend.query_rewritter import *
+from backend.classes import *
+from backend.retriever import DefaultRetriever
 
 def main():
     # Example usage of the SurveyResponse class

@@ -25,7 +25,7 @@
 #         return score
 
 import json
-from survey import Preferences
+from backend.survey import Preferences
 from typing import Dict
 
 def load_json_file(filepath):

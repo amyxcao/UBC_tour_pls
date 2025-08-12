@@ -1,0 +1,12 @@
+{
+  "survey_id": "api",
+  "tour_length_minutes": 45,
+  "major": "art",
+  "age_group": "11-13",
+  "class_subject": "history",
+  "topics_of_interest": [
+    "Green"
+  ],
+  "exhibit_name": "Objectifying China",
+  "additional_notes": "none"
+}

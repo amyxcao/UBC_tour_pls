@@ -1,6 +1,6 @@
 from pinecone import Pinecone
 from interfaces import Retriever, Query, MergedResult
-from embeddings import DefaultDenseEmbeddingModel, DefaultSparseEmbeddingModel
+from backend.embeddings import DefaultDenseEmbeddingModel, DefaultSparseEmbeddingModel
 from dotenv import load_dotenv, find_dotenv
 import os
 
