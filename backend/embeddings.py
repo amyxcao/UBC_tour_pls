@@ -1,72 +1,231 @@
-import torch
-from PIL import Image
-from transformers import AutoModel, AutoProcessor, AutoTokenizer
-from transformers import AutoModelForMaskedLM
+# import torch
+# from PIL import Image
+# from transformers import AutoModel, AutoProcessor, AutoTokenizer
+# from transformers import AutoModelForMaskedLM
+
+# from backend.interfaces import BaseEmbeddingModel
+
+
+
+# class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
+#     def __init__(self, config):
+#         super().__init__(config)
+#         # Initialize your dense embedding model here
+#         self.model_name = "BAAI/BGE-VL-base"  # or "BAAI/BGE-VL-large"
+#         self.model = AutoModel.from_pretrained(
+#             self.model_name, trust_remote_code=True
+#         ).to(self.device)
+#         self.preprocessor = AutoProcessor.from_pretrained(
+#             self.model_name, trust_remote_code=True
+#         )
+
+#     def encode_text(self, texts: list[str]) -> list[list[float]]:
+#         if not texts:
+#             return []
+#         inputs = self.preprocessor(
+#             text=texts, return_tensors="pt", truncation=True, padding=True
+#         ).to(self.device)
+#         return self.model.get_text_features(**inputs).cpu().tolist()
+
+#     def encode_image(self, images: list[str] | list[Image.Image]) -> list[float]:
+#         if not images:
+#             return []
+#         if isinstance(images[0], str):
+#             images = [Image.open(image_path).convert("RGB") for image_path in images]
+#         inputs = self.preprocessor(images=images, return_tensors="pt").to(self.device)
+#         return self.model.get_image_features(**inputs).cpu().tolist()
+
+
+# class DefaultSparseEmbeddingModel(BaseEmbeddingModel):
+#     def __init__(self, config):
+#         super().__init__(config)
+#         # Initialize your sparse embedding model here
+#         self.model_name = "naver/splade-v3"
+#         self.model = AutoModelForMaskedLM.from_pretrained(self.model_name).to(
+#             self.device
+#         )
+#         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+
+#     def encode_text(self, texts: list[str]) -> list[dict]:
+#         if not texts:
+#             return []
+#         tokens = self.tokenizer(
+#             texts, return_tensors="pt", truncation=True, padding=True
+#         ).to(self.device)
+#         outputs = self.model(**tokens)
+#         sparse_embedding = (
+#             torch.max(
+#                 torch.log(1 + torch.relu(outputs.logits))
+#                 * tokens.attention_mask.unsqueeze(-1),
+#                 dim=1,
+#             )[0]
+#             .detach()
+#             .cpu()
+#         )
+
+#         # convert to pinecone sparse format
+#         res = []
+#         for i in range(len(sparse_embedding)):
+#             indices = sparse_embedding[i].nonzero().squeeze().tolist()
+#             values = sparse_embedding[i, indices].tolist()
+#             res.append({"indices": indices, "values": values})
+#         return res
+
+import os
+from typing import List, Dict, Any, Union
+
+# 3rd party imports kept light at import-time.
+# Heavy libs (torch/transformers/Pillow) are imported lazily inside helpers.
 
 from backend.interfaces import BaseEmbeddingModel
 
+# Avoid tokenizer multiprocessing warnings / extra threads
+os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
 
+# Optional switch: set USE_LOCAL_EMBEDDINGS=0 on Render to disable these classes entirely.
+USE_LOCAL = os.getenv("USE_LOCAL_EMBEDDINGS", "1") not in ("0", "false", "False")
+
+
+def _torch_inference_mode():
+    """Context manager that works whether torch is available or not."""
+    import contextlib
+    try:
+        import torch  # noqa
+        return __import__("torch").inference_mode()
+    except Exception:
+        return contextlib.nullcontext()
+
+
+# ----------------------------
+# Dense (vision+text) embeddings
+# ----------------------------
 
 class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
-    def __init__(self, config):
-        super().__init__(config)
-        # Initialize your dense embedding model here
-        self.model_name = "BAAI/BGE-VL-base"  # or "BAAI/BGE-VL-large"
-        self.model = AutoModel.from_pretrained(
-            self.model_name, trust_remote_code=True
-        ).to(self.device)
-        self.preprocessor = AutoProcessor.from_pretrained(
-            self.model_name, trust_remote_code=True
-        )
+    """
+    Lazy-loads BGE-VL on first use to reduce startup memory.
+    """
 
-    def encode_text(self, texts: list[str]) -> list[list[float]]:
+    _model = None
+    _processor = None
+
+    def __init__(self, config: Dict[str, Any]):
+        super().__init__(config)
+        self.model_name = config.get("dense_model_name", "BAAI/BGE-VL-base")  # base is much lighter than large
+        if not USE_LOCAL:
+            raise RuntimeError(
+                "Local dense embeddings disabled. Set USE_LOCAL_EMBEDDINGS=1 to enable, "
+                "or switch to a hosted embedding service."
+            )
+
+    def _ensure_loaded(self):
+        if self.__class__._model is not None:
+            return
+
+        # Import heavy deps lazily
+        from transformers import AutoModel, AutoProcessor
+
+        model = AutoModel.from_pretrained(self.model_name, trust_remote_code=True)
+        model.to(self.device)
+        processor = AutoProcessor.from_pretrained(self.model_name, trust_remote_code=True)
+
+        self.__class__._model = model
+        self.__class__._processor = processor
+
+    def encode_text(self, texts: List[str]) -> List[List[float]]:
         if not texts:
             return []
-        inputs = self.preprocessor(
-            text=texts, return_tensors="pt", truncation=True, padding=True
-        ).to(self.device)
-        return self.model.get_text_features(**inputs).cpu().tolist()
+        self._ensure_loaded()
 
-    def encode_image(self, images: list[str] | list[Image.Image]) -> list[float]:
+        import torch  # lazy
+        with _torch_inference_mode():
+            inputs = self.__class__._processor(
+                text=texts, return_tensors="pt", truncation=True, padding=True
+            )
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+            feats = self.__class__._model.get_text_features(**inputs)
+            return feats.detach().cpu().tolist()
+
+    def encode_image(self, images: Union[List[str], List["Image.Image"]]) -> List[List[float]]:
         if not images:
             return []
-        if isinstance(images[0], str):
-            images = [Image.open(image_path).convert("RGB") for image_path in images]
-        inputs = self.preprocessor(images=images, return_tensors="pt").to(self.device)
-        return self.model.get_image_features(**inputs).cpu().tolist()
+        self._ensure_loaded()
 
+        # Lazy import Pillow + torch
+        from PIL import Image
+        import torch  # noqa
+
+        # Accept file paths or PIL Images
+        if isinstance(images[0], str):
+            images = [Image.open(p).convert("RGB") for p in images]
+
+        with _torch_inference_mode():
+            inputs = self.__class__._processor(images=images, return_tensors="pt")
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+            feats = self.__class__._model.get_image_features(**inputs)
+            return feats.detach().cpu().tolist()
+
+
+# ----------------------------
+# Sparse (text) embeddings
+# ----------------------------
 
 class DefaultSparseEmbeddingModel(BaseEmbeddingModel):
-    def __init__(self, config):
-        super().__init__(config)
-        # Initialize your sparse embedding model here
-        self.model_name = "naver/splade-v3"
-        self.model = AutoModelForMaskedLM.from_pretrained(self.model_name).to(
-            self.device
-        )
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+    """
+    Lazy-loads SPLADE on first use. Still heavy; consider hosted sparse alternatives if memory is tight.
+    """
 
-    def encode_text(self, texts: list[str]) -> list[dict]:
+    _model = None
+    _tokenizer = None
+
+    def __init__(self, config: Dict[str, Any]):
+        super().__init__(config)
+        self.model_name = config.get("sparse_model_name", "naver/splade-v3")
+        if not USE_LOCAL:
+            raise RuntimeError(
+                "Local sparse embeddings disabled. Set USE_LOCAL_EMBEDDINGS=1 to enable."
+            )
+
+    def _ensure_loaded(self):
+        if self.__class__._model is not None:
+            return
+
+        from transformers import AutoModelForMaskedLM, AutoTokenizer
+
+        tok = AutoTokenizer.from_pretrained(self.model_name)
+        mdl = AutoModelForMaskedLM.from_pretrained(self.model_name)
+        mdl.to(self.device)
+
+        self.__class__._tokenizer = tok
+        self.__class__._model = mdl
+
+    def encode_text(self, texts: List[str]) -> List[Dict[str, List[float]]]:
         if not texts:
             return []
-        tokens = self.tokenizer(
-            texts, return_tensors="pt", truncation=True, padding=True
-        ).to(self.device)
-        outputs = self.model(**tokens)
-        sparse_embedding = (
-            torch.max(
-                torch.log(1 + torch.relu(outputs.logits))
-                * tokens.attention_mask.unsqueeze(-1),
-                dim=1,
-            )[0]
-            .detach()
-            .cpu()
-        )
+        self._ensure_loaded()
 
-        # convert to pinecone sparse format
-        res = []
-        for i in range(len(sparse_embedding)):
-            indices = sparse_embedding[i].nonzero().squeeze().tolist()
-            values = sparse_embedding[i, indices].tolist()
-            res.append({"indices": indices, "values": values})
+        import torch  # lazy
+
+        tok = self.__class__._tokenizer
+        mdl = self.__class__._model
+
+        with _torch_inference_mode():
+            tokens = tok(texts, return_tensors="pt", truncation=True, padding=True)
+            tokens = {k: v.to(self.device) for k, v in tokens.items()}
+            outputs = mdl(**tokens)
+
+            # SPLADE-style sparse projection
+            logits = outputs.logits
+            attn = tokens["attention_mask"].unsqueeze(-1)
+            # log(1 + relu(logits)) * mask, then max over sequence length
+            sparse = torch.max(torch.log1p(torch.relu(logits)) * attn, dim=1).values
+            sparse = sparse.detach().cpu()
+
+        # Convert to Pinecone sparse format
+        res: List[Dict[str, List[float]]] = []
+        for row in sparse:
+            nz = row.nonzero().squeeze().tolist()
+            if isinstance(nz, int):  # handle scalar edge case
+                nz = [nz]
+            vals = row[nz].tolist() if nz else []
+            res.append({"indices": nz, "values": vals})
         return res
