@@ -4,7 +4,6 @@ from typing import List
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from memory_profiler import profile
 from pydantic import BaseModel
 
 from query_rewritter import generate_human_query
@@ -39,7 +38,6 @@ class SurveyInput(BaseModel):
 
 
 @app.post("/generate")
-@profile
 def generate_outputs(survey: SurveyInput):
     survey_dict = survey.dict()
     print("🧪 Survey Dict:", survey_dict)
@@ -102,11 +100,6 @@ def generate_outputs(survey: SurveyInput):
 
 
 if __name__ == "__main__":
-    # import psutil
     import uvicorn
 
-    # process = psutil.Process(os.getpid())
-    # mem_info = process.memory_info()
-    # startup_memory_mb = mem_info.rss / (1024 * 1024)  # 将字节转换为MB
-    # print(f"✅ 应用启动内存占用: {startup_memory_mb:.2f} MB")
     uvicorn.run(app, host="127.0.0.1", port=8000)
