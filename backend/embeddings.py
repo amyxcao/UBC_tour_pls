@@ -1,83 +1,9 @@
-# import torch
-# from PIL import Image
-# from transformers import AutoModel, AutoProcessor, AutoTokenizer
-# from transformers import AutoModelForMaskedLM
-
-# from backend.interfaces import BaseEmbeddingModel
-
-
-
-# class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
-#     def __init__(self, config):
-#         super().__init__(config)
-#         # Initialize your dense embedding model here
-#         self.model_name = "BAAI/BGE-VL-base"  # or "BAAI/BGE-VL-large"
-#         self.model = AutoModel.from_pretrained(
-#             self.model_name, trust_remote_code=True
-#         ).to(self.device)
-#         self.preprocessor = AutoProcessor.from_pretrained(
-#             self.model_name, trust_remote_code=True
-#         )
-
-#     def encode_text(self, texts: list[str]) -> list[list[float]]:
-#         if not texts:
-#             return []
-#         inputs = self.preprocessor(
-#             text=texts, return_tensors="pt", truncation=True, padding=True
-#         ).to(self.device)
-#         return self.model.get_text_features(**inputs).cpu().tolist()
-
-#     def encode_image(self, images: list[str] | list[Image.Image]) -> list[float]:
-#         if not images:
-#             return []
-#         if isinstance(images[0], str):
-#             images = [Image.open(image_path).convert("RGB") for image_path in images]
-#         inputs = self.preprocessor(images=images, return_tensors="pt").to(self.device)
-#         return self.model.get_image_features(**inputs).cpu().tolist()
-
-
-# class DefaultSparseEmbeddingModel(BaseEmbeddingModel):
-#     def __init__(self, config):
-#         super().__init__(config)
-#         # Initialize your sparse embedding model here
-#         self.model_name = "naver/splade-v3"
-#         self.model = AutoModelForMaskedLM.from_pretrained(self.model_name).to(
-#             self.device
-#         )
-#         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-
-#     def encode_text(self, texts: list[str]) -> list[dict]:
-#         if not texts:
-#             return []
-#         tokens = self.tokenizer(
-#             texts, return_tensors="pt", truncation=True, padding=True
-#         ).to(self.device)
-#         outputs = self.model(**tokens)
-#         sparse_embedding = (
-#             torch.max(
-#                 torch.log(1 + torch.relu(outputs.logits))
-#                 * tokens.attention_mask.unsqueeze(-1),
-#                 dim=1,
-#             )[0]
-#             .detach()
-#             .cpu()
-#         )
-
-#         # convert to pinecone sparse format
-#         res = []
-#         for i in range(len(sparse_embedding)):
-#             indices = sparse_embedding[i].nonzero().squeeze().tolist()
-#             values = sparse_embedding[i, indices].tolist()
-#             res.append({"indices": indices, "values": values})
-#         return res
-
 import os
-from typing import List, Dict, Any, Union
+from typing import Any, Dict, List, Union
 
 # 3rd party imports kept light at import-time.
 # Heavy libs (torch/transformers/Pillow) are imported lazily inside helpers.
-
-from backend.interfaces import BaseEmbeddingModel
+from interfaces import BaseEmbeddingModel
 
 # Avoid tokenizer multiprocessing warnings / extra threads
 os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
@@ -89,8 +15,10 @@ USE_LOCAL = os.getenv("USE_LOCAL_EMBEDDINGS", "1") not in ("0", "false", "False"
 def _torch_inference_mode():
     """Context manager that works whether torch is available or not."""
     import contextlib
+
     try:
         import torch  # noqa
+
         return __import__("torch").inference_mode()
     except Exception:
         return contextlib.nullcontext()
@@ -99,6 +27,7 @@ def _torch_inference_mode():
 # ----------------------------
 # Dense (vision+text) embeddings
 # ----------------------------
+
 
 class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
     """
@@ -110,7 +39,9 @@ class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
 
     def __init__(self, config: Dict[str, Any]):
         super().__init__(config)
-        self.model_name = config.get("dense_model_name", "BAAI/BGE-VL-base")  # base is much lighter than large
+        self.model_name = config.get(
+            "dense_model_name", "BAAI/BGE-VL-base"
+        )  # base is much lighter than large
         if not USE_LOCAL:
             raise RuntimeError(
                 "Local dense embeddings disabled. Set USE_LOCAL_EMBEDDINGS=1 to enable, "
@@ -126,7 +57,9 @@ class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
 
         model = AutoModel.from_pretrained(self.model_name, trust_remote_code=True)
         model.to(self.device)
-        processor = AutoProcessor.from_pretrained(self.model_name, trust_remote_code=True)
+        processor = AutoProcessor.from_pretrained(
+            self.model_name, trust_remote_code=True
+        )
 
         self.__class__._model = model
         self.__class__._processor = processor
@@ -136,7 +69,6 @@ class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
             return []
         self._ensure_loaded()
 
-        import torch  # lazy
         with _torch_inference_mode():
             inputs = self.__class__._processor(
                 text=texts, return_tensors="pt", truncation=True, padding=True
@@ -145,14 +77,16 @@ class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
             feats = self.__class__._model.get_text_features(**inputs)
             return feats.detach().cpu().tolist()
 
-    def encode_image(self, images: Union[List[str], List["Image.Image"]]) -> List[List[float]]:
+    def encode_image(
+        self, images: Union[List[str], List["Image.Image"]]
+    ) -> List[List[float]]:
         if not images:
             return []
         self._ensure_loaded()
 
         # Lazy import Pillow + torch
-        from PIL import Image
         import torch  # noqa
+        from PIL import Image
 
         # Accept file paths or PIL Images
         if isinstance(images[0], str):
@@ -168,6 +102,7 @@ class DefaultDenseEmbeddingModel(BaseEmbeddingModel):
 # ----------------------------
 # Sparse (text) embeddings
 # ----------------------------
+
 
 class DefaultSparseEmbeddingModel(BaseEmbeddingModel):
     """

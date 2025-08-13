@@ -1,7 +1,8 @@
-from backend.survey import SurveyResponse, Preferences
-from backend.query_rewritter import *
-from backend.classes import *
-from backend.retriever import DefaultRetriever
+from classes import *
+from query_rewritter import *
+from retriever import DefaultRetriever
+from survey import Preferences, SurveyResponse
+
 
 def main():
     # Example usage of the SurveyResponse class
@@ -15,10 +16,10 @@ def main():
         materiality=["cermanics"],
         themes=[],
         additional_interests=["auspicious symbolism"],
-        region=["east asia"], 
+        region=["east asia"],
         colour=["iron"],
         purpose=[""],
-        additional_notes=["rare artifacts"]
+        additional_notes=["rare artifacts"],
     )
 
     preferences = Preferences(
@@ -29,9 +30,9 @@ def main():
         colour=response.colour,
         purpose=response.purpose,
         themes=response.themes,
-        additional_interests=response.additional_interests
+        additional_interests=response.additional_interests,
     )
-    
+
     query = generate_human_query(preferences)
     retriever = DefaultRetriever()
     results = retriever._retrieve_with_text(query, preferences, k=5)

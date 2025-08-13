@@ -1,9 +1,10 @@
-from backend.survey import Preferences
+from survey import Preferences
+
 
 def generate_human_query(prefs: Preferences) -> str:
     parts = []
-    
-   # Color + material
+
+    # Color + material
     if prefs.colour and prefs.materiality:
         colour = ", ".join(prefs.colour).lower()
         material = ", ".join(prefs.materiality).lower()
@@ -20,7 +21,9 @@ def generate_human_query(prefs: Preferences) -> str:
     # Time period
     if prefs.time_period:
         time = ", ".join(prefs.time_period)
-        parts.append(f"from the {time} period{'s' if len(prefs.time_period) > 1 else ''}")
+        parts.append(
+            f"from the {time} period{'s' if len(prefs.time_period) > 1 else ''}"
+        )
 
     # Region
     if prefs.region:

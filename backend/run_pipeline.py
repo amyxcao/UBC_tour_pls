@@ -1,8 +1,10 @@
 import json
-from backend.tour_generator import TourGuideGenerator
-from backend.survey import format_survey_context, Preferences
-from backend.query_rewritter import generate_human_query
-from backend.retriever import DefaultRetriever
+
+from query_rewritter import generate_human_query
+from retriever import DefaultRetriever
+from survey import Preferences, format_survey_context
+from tour_generator import TourGuideGenerator
+
 
 def collect_survey() -> dict:
     print("📝 Museum Tour Survey\n")
@@ -12,7 +14,9 @@ def collect_survey() -> dict:
     class_subject = input("3. What is the class subject of the tour group? ")
 
     print("\n4. What are the group's topics of interest? (comma-separated)")
-    print("   You can include themes, materials, regions, time periods, colors, and purposes")
+    print(
+        "   You can include themes, materials, regions, time periods, colors, and purposes"
+    )
     print("   Examples: symbolism, porcelain, blue, Qing, export\n")
     topics_of_interest = input("Topics of interest: ").split(",")
 
@@ -27,8 +31,9 @@ def collect_survey() -> dict:
         "topics_of_interest": [t.strip() for t in topics_of_interest],
         "exhibit_name": exhibit_name.strip(),
         "tour_length_minutes": tour_length,
-        "additional_notes": additional_notes.strip()
+        "additional_notes": additional_notes.strip(),
     }
+
 
 def parse_topics_to_preferences(topics: list[str]) -> Preferences:
     categories = {
@@ -37,7 +42,7 @@ def parse_topics_to_preferences(topics: list[str]) -> Preferences:
         "colour": ["blue", "cobalt", "white", "gold", "red"],
         "purpose": ["export", "ritual", "decoration", "daily use"],
         "themes": ["symbolism", "technique", "mythology", "nature"],
-        "time_period": ["ming", "qing", "song", "yuan"]
+        "time_period": ["ming", "qing", "song", "yuan"],
     }
 
     fields = {key: [] for key in categories}
@@ -62,8 +67,9 @@ def parse_topics_to_preferences(topics: list[str]) -> Preferences:
         colour=fields["colour"],
         purpose=fields["purpose"],
         themes=fields["themes"],
-        additional_interests=additional_interests
+        additional_interests=additional_interests,
     )
+
 
 def main():
     print("🎧 Welcome to the Museum Tour Generator")
@@ -76,21 +82,30 @@ def main():
 
     rewritten_query = generate_human_query(preferences)
     retriever = DefaultRetriever()
-    relevant_chunks = retriever._retrieve_with_text(rewritten_query, preferences, k=5)  # returns {header: text}
+    relevant_chunks = retriever._retrieve_with_text(
+        rewritten_query, preferences, k=5
+    )  # returns {header: text}
 
     generator = TourGuideGenerator()
 
     print("\n🎟️ Generating Itinerary...")
-    itinerary = generator.generate("itinerary", survey_context, relevant_chunks, survey_id="cli")
+    itinerary = generator.generate(
+        "itinerary", survey_context, relevant_chunks, survey_id="cli"
+    )
     print(json.dumps(itinerary, indent=2, ensure_ascii=False))
 
     print("\n🗣️ Generating Talking Points...")
-    talking_points = generator.generate("talking_points", survey_context, relevant_chunks, survey_id="cli")
+    talking_points = generator.generate(
+        "talking_points", survey_context, relevant_chunks, survey_id="cli"
+    )
     print(json.dumps(talking_points, indent=2, ensure_ascii=False))
 
     print("\n🎨 Generating Engagement Tips...")
-    engagement = generator.generate("engagement_tips", survey_context, relevant_chunks, survey_id="cli")
+    engagement = generator.generate(
+        "engagement_tips", survey_context, relevant_chunks, survey_id="cli"
+    )
     print(json.dumps(engagement, indent=2, ensure_ascii=False))
+
 
 if __name__ == "__main__":
     main()

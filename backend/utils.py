@@ -4,7 +4,7 @@
 # def get_number_tag_matches(tags: Preferences, hit: Dict) -> float:
 #         """
 #         Get the number of tag matches based on how many of the user's tags match the hit's metadata.
-        
+
 #         Args:
 #             tags: A Preferences object with attributes:
 #                 - time_period: List[str]
@@ -13,7 +13,7 @@
 #                 - art_medium: List[str]
 #                 - additional_interests: List[str]
 #             hit: A dictionary representing a search result hit.
-            
+
 #         Returns:
 #             A float score representing the number of matching tags.
 #         """
@@ -25,13 +25,16 @@
 #         return score
 
 import json
-from backend.survey import Preferences
 from typing import Dict
+
+from survey import Preferences
+
 
 def load_json_file(filepath):
     """Load and return JSON data from a given file path."""
-    with open(filepath, 'r') as f:
+    with open(filepath, "r") as f:
         return json.load(f)
+
 
 def get_number_tag_matches(tags: Preferences, hit: Dict) -> float:
     """
@@ -46,7 +49,7 @@ def get_number_tag_matches(tags: Preferences, hit: Dict) -> float:
     """
     score = 0
     for key in tags.__dict__.keys():
-        if key in hit['metadata']:
-            matches = set(hit['metadata'][key]) & set(getattr(tags, key))
+        if key in hit["metadata"]:
+            matches = set(hit["metadata"][key]) & set(getattr(tags, key))
             score += len(matches)
     return score

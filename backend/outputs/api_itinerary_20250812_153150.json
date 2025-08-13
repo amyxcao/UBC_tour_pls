@@ -1,0 +1,20 @@
+{
+  "itinerary": [
+    {
+      "time": "0:00–7:00",
+      "activity": "Welcome and Introduction: Begin by welcoming the students and introducing the exhibit, 'Pictorial Silks.' Highlight the connection between art, history, and technology, emphasizing the role of innovation in creating these masterpieces. Briefly mention how the Tang dynasty and subsequent periods influenced the development of decorative arts, including ceramics and silks."
+    },
+    {
+      "time": "7:00–14:00",
+      "activity": "Context of the Exhibit: Explain the significance of pictorial decoration in Chinese art, focusing on the Kangxi emperor's contributions to porcelain enameling techniques. Use examples like literati-style landscapes and historical characters depicted on ceramics to connect the art to broader cultural themes. Relate this to the students' interest in imperial and mythical topics."
+    },
+    {
+      "time": "14:00–21:00",
+      "activity": "Tour Guide's Personal Reflection and Engagement: Share a personal reflection on how innovation in art mirrors technological advancements, drawing parallels to computer science concepts like iteration and experimentation. Engage students with a hands-on activity—ask them to sketch their own mythical or imperial-inspired design, imagining they are artists in the Kangxi emperor's court."
+    },
+    {
+      "time": "21:00–30:00",
+      "activity": "Wrap-Up and Conclusion: Summarize the key points discussed, emphasizing the blend of history, art, and technology in the creation of pictorial silks and ceramics. Encourage students to think about how cultural exchange and innovation shape the world. Allow time for questions and reflections before concluding the tour."
+    }
+  ]
+}
