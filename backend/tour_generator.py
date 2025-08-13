@@ -1,20 +1,21 @@
-from dotenv import load_dotenv
+import json
 import os
 import re
-import json
 from datetime import datetime
-from pathlib import Path
-from openai import AzureOpenAI
 from typing import List
 
+from dotenv import load_dotenv
+from openai import AzureOpenAI
+
 load_dotenv()
+
 
 class TourGuideGenerator:
     def __init__(self):
         self.client = AzureOpenAI(
             api_key=os.getenv("AZURE_OPENAI_KEY_2"),
             azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT_2"),
-            api_version=os.getenv("AZURE_OPENAI_VERSION_2")
+            api_version=os.getenv("AZURE_OPENAI_VERSION_2"),
         )
         self.deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_2")
         self.output_dir = "./outputs"
@@ -31,13 +32,15 @@ class TourGuideGenerator:
         class_subject: str = "",
         topics_of_interest: List[str] = [],
         exhibit_name: str = "",
-        additional_notes: str = ""
+        additional_notes: str = "",
     ) -> dict:
         if not isinstance(exhibit_chunks, list):
             raise TypeError("exhibit_chunks must be a list of strings")
 
         formatted_chunk = "\n\n".join(
-            f"# Chunk {i+1}\n{chunk.strip()}" for i, chunk in enumerate(exhibit_chunks) if chunk.strip()
+            f"# Chunk {i + 1}\n{chunk.strip()}"
+            for i, chunk in enumerate(exhibit_chunks)
+            if chunk.strip()
         )
 
         prompt = self.build_prompt(
@@ -50,13 +53,13 @@ class TourGuideGenerator:
             class_subject,
             topics_of_interest,
             exhibit_name,
-            additional_notes
+            additional_notes,
         )
 
         temperature = {
             "talking_points": 0.3,
             "itinerary": 0.3,
-            "engagement_tips": 0.7
+            "engagement_tips": 0.7,
         }.get(prompt_type, 0.3)
 
         response = self.client.chat.completions.create(
@@ -76,7 +79,9 @@ class TourGuideGenerator:
             output_json = {"error": raw_response}
 
         # Save generated output
-        filename = f"{survey_id}_{prompt_type}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        filename = (
+            f"{survey_id}_{prompt_type}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        )
         os.makedirs(self.output_dir, exist_ok=True)
         save_path = os.path.join(self.output_dir, filename)
         with open(save_path, "w", encoding="utf-8") as f:
@@ -94,10 +99,12 @@ class TourGuideGenerator:
                 "class_subject": class_subject,
                 "topics_of_interest": topics_of_interest,
                 "exhibit_name": exhibit_name,
-                "additional_notes": additional_notes
+                "additional_notes": additional_notes,
             }
 
-            survey_filename = f"{survey_id}_survey_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+            survey_filename = (
+                f"{survey_id}_survey_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+            )
             survey_save_path = os.path.join(self.output_dir, survey_filename)
             with open(survey_save_path, "w", encoding="utf-8") as f:
                 json.dump(survey_data, f, indent=2, ensure_ascii=False)
@@ -108,9 +115,9 @@ class TourGuideGenerator:
 
     def _clean_json(self, raw: str) -> str:
         if raw.startswith("```json"):
-            raw = raw[len("```json"):].strip()
+            raw = raw[len("```json") :].strip()
         if raw.endswith("```"):
-            raw = raw[:-len("```")].strip()
+            raw = raw[: -len("```")].strip()
         raw = raw.replace("\u201c", '"').replace("\u201d", '"').replace("\u2019", "'")
         raw = re.sub(r",(\s*[}\]])", r"\1", raw)
         return raw
@@ -126,9 +133,9 @@ class TourGuideGenerator:
         class_subject: str = "",
         topics_of_interest: List[str] = [],
         exhibit_name: str = "",
-        additional_notes: str = ""
+        additional_notes: str = "",
     ) -> str:
-        base_prompt = f"""
+        base_prompt = """
 # Role and Objective
 You are a helpful assistant for museum tour planning. Your job is to generate content that helps a volunteer guide lead an educational and engaging tour based on exhibit materials and survey context.
 
@@ -151,7 +158,11 @@ You are a helpful assistant for museum tour planning. Your job is to generate co
 """.strip()
 
         if prompt_type == "talking_points":
-            return base_prompt + "\n\n" + survey_info + f"""
+            return (
+                base_prompt
+                + "\n\n"
+                + survey_info
+                + f"""
 
 # Talking Points Instructions
 - Identify recurring themes across the exhibit
@@ -180,9 +191,14 @@ You are a helpful assistant for museum tour planning. Your job is to generate co
 # Exhibit Chunk
 {exhibit_chunk}
 """.strip()
+            )
 
         elif prompt_type == "itinerary":
-            return base_prompt + "\n\n" + survey_info + f"""
+            return (
+                base_prompt
+                + "\n\n"
+                + survey_info
+                + f"""
 
 # Itinerary Instructions
 Utilize the total tour duration of: {tour_length_minutes} minutes. Break the tour into sequential time blocks that are between 7 to 10 minutes long. Keep it brief with time for personal reflection of the tour guide. Minimal text.
@@ -207,9 +223,14 @@ Include:
 # Exhibit Chunk
 {exhibit_chunk}
 """.strip()
+            )
 
         elif prompt_type == "engagement_tips":
-            return base_prompt + "\n\n" + survey_info + f"""
+            return (
+                base_prompt
+                + "\n\n"
+                + survey_info
+                + f"""
 
 # Engagement Tips Instructions
 - Make the tips age appropriate according to the age group
@@ -230,6 +251,7 @@ Include:
 # Exhibit Chunk
 {exhibit_chunk}
 """.strip()
+            )
 
         else:
             raise ValueError("❌ Invalid prompt type")
