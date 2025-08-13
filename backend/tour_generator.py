@@ -24,9 +24,9 @@ class TourGuideGenerator:
         self,
         prompt_type: str,
         context: str,
-        exhibit_chunks: List[str],
+        exhibit_chunks: list[str],
         survey_id: str = "unknown",
-        tour_length_minutes: int = None,
+        tour_length_minutes: int = 30,
         major: str = "",
         age_group: str = "",
         class_subject: str = "",
@@ -34,9 +34,6 @@ class TourGuideGenerator:
         exhibit_name: str = "",
         additional_notes: str = "",
     ) -> dict:
-        if not isinstance(exhibit_chunks, list):
-            raise TypeError("exhibit_chunks must be a list of strings")
-
         formatted_chunk = "\n\n".join(
             f"# Chunk {i + 1}\n{chunk.strip()}"
             for i, chunk in enumerate(exhibit_chunks)

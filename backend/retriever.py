@@ -2,14 +2,13 @@ import os
 
 import numpy as np
 from dotenv import find_dotenv, load_dotenv  # 3P
-from langchain_community.retrievers import PineconeHybridSearchRetriever
 from langchain_core.documents import Document
 from langchain_openai import AzureOpenAIEmbeddings
+from langchain_pinecone import PineconeVectorStore
 from pinecone import (
     Pinecone,  # 3P
     ServerlessSpec,
 )
-from pinecone_text.sparse import BM25Encoder
 
 from survey import (
     Preferences,  # or: from src_ubc.survey import Preferences
@@ -33,16 +32,25 @@ class DefaultRetriever:
 
         index = pc.Index(index_name)
 
-        bm25_encoder = BM25Encoder.default()
-
         embeddings = AzureOpenAIEmbeddings(
             azure_deployment=os.environ["AZURE_OPENAI_EMBEDDING_DEPLOYMENT"],
             azure_endpoint=os.environ["AZURE_OPENAI_EMBEDDING_ENDPOINT"],
         )
         # Initialize Pinecone client or any other necessary components here
-        self.retriever = PineconeHybridSearchRetriever(
-            embeddings=embeddings, sparse_encoder=bm25_encoder, index=index, top_k=100
-        )
+        self.retriever = PineconeVectorStore(
+            index, embeddings, "context"
+        ).as_retriever()
+
+    def _get_metadata_filter(self, tags: Preferences):
+        """Builds a metadata filter for Pinecone from a Preferences object."""
+        tag_dict = tags.__dict__
+        tag_dict = {k: v for k, v in tag_dict.items() if v}
+
+        if not tag_dict:
+            return {}
+
+        filter_conditions = [{key: {"$in": values}} for key, values in tag_dict.items()]
+        return {"$or": filter_conditions}
 
     def _search_tags(self, tags: Preferences, top_k=100):
         """
@@ -109,20 +117,17 @@ class DefaultRetriever:
         self,
         query: str,
         tags: Preferences,
-        k=20,
+        k=10,
     ):
-        db_size = self.retriever.index.describe_index_stats()["namespaces"][""][
-            "vector_count"
-        ]
+        metadata_filter = self._get_metadata_filter(tags)
 
-        tag_results = self._search_tags(tags, top_k=db_size)
-        db_results = self.retriever.invoke(query)
-
-        tag_contents = [d.page_content for d in tag_results]
-        db_contents = [d.page_content for d in db_results]
+        results = self.retriever.invoke(query, filter=metadata_filter, k=k)
 
         # Extract only text from the top k results
-        relevant_content = set(tag_contents)
-        relevant_content.update(set(db_contents))
+        yielded_content = set()
 
-        return list(relevant_content)
+        for doc in results:
+            if doc.page_content not in yielded_content:
+                yielded_content.add(doc.page_content)
+
+        return list(yielded_content)
