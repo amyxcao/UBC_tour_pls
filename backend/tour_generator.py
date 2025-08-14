@@ -134,10 +134,10 @@ class TourGuideGenerator:
     ) -> str:
         base_prompt = """
 # Role and Objective
-You are a helpful assistant for museum tour planning. Your job is to generate content that helps a volunteer guide lead an educational and engaging tour based on exhibit materials and survey context.
+You are a helpful assistant for museum tour planning. Your job is to generate content that helps a volunteer guide lead an educational and engaging tour based on exhibit materials and survey context. Do not use external knowledge.
 
 # Instructions
-- Read the tour context carefully
+- Read the tour context carefully. Do not use external knowledge.
 - Use details from the survey (such as tour guide's major, student age group, class subject, and interests)
 - Tailor language and content based on the intended audience
 - Prioritize clarity, cultural relevance, and hands-on engagement
@@ -162,7 +162,7 @@ You are a helpful assistant for museum tour planning. Your job is to generate co
                 + f"""
 
 # Talking Points Instructions
-- Identify recurring themes across the exhibit
+- Identify recurring themes across the exhibit chunks only. Do not use external knowledge.
 - Include technical details (symbolism, techniques, materials)
 - Incorporate the tour guide’s academic background (major)
 - Relate to the class subject and topics of interest
@@ -198,7 +198,7 @@ You are a helpful assistant for museum tour planning. Your job is to generate co
                 + f"""
 
 # Itinerary Instructions
-Utilize the total tour duration of: {tour_length_minutes} minutes. Break the tour into sequential time blocks that are between 7 to 10 minutes long. Keep it brief with time for personal reflection of the tour guide. Minimal text.
+Utilize the total tour duration of: {tour_length_minutes} minutes. Break the tour into sequential time blocks that are between 7 to 10 minutes long. Keep it brief with time for personal reflection of the tour guide. Minimal text. Do not use external knowledge.
 Include:
 1. Introduction
 2. Context of the exhibit
@@ -234,6 +234,7 @@ Include:
 - Use the tour guide’s major, the age group, and any additional notes to guide tone and creativity
 - Include at least one interactive activity 
 - Focus on making the content fun, relevant, and educational
+- Do not use external knowledge.
 
 # Output Format
 {{
