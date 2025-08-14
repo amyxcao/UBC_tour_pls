@@ -18,7 +18,7 @@ class TourGuideGenerator:
             api_version=os.getenv("AZURE_OPENAI_VERSION_2"),
         )
         self.deployment_name = os.getenv("AZURE_OPENAI_DEPLOYMENT_2")
-        self.output_dir = "./outputs"
+        #self.output_dir = "./outputs"
 
     def generate(
         self,
@@ -75,49 +75,49 @@ class TourGuideGenerator:
             print("Error:", e)
             output_json = {"error": raw_response}
 
-    #     # Save generated output
-    #     filename = (
-    #         f"{survey_id}_{prompt_type}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-    #     )
-    #     os.makedirs(self.output_dir, exist_ok=True)
-    #     save_path = os.path.join(self.output_dir, filename)
-    #     with open(save_path, "w", encoding="utf-8") as f:
-    #         json.dump(output_json, f, indent=2, ensure_ascii=False)
+        # Save generated output
+        filename = (
+            f"{survey_id}_{prompt_type}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        )
+        #os.makedirs(self.output_dir, exist_ok=True)
+        #save_path = os.path.join(self.output_dir, filename)
+        #with open(save_path, "w", encoding="utf-8") as f:
+        #    json.dump(output_json, f, indent=2, ensure_ascii=False)
 
-    #     print(f"✅ Output saved to: {save_path}")
+        #print(f"✅ Output saved to: {save_path}")
 
-    #     # ✅ Only save survey JSON once (during "talking_points" step)
-    #     if prompt_type == "talking_points":
-    #         survey_data = {
-    #             "survey_id": survey_id,
-    #             "tour_length_minutes": tour_length_minutes,
-    #             "major": major,
-    #             "age_group": age_group,
-    #             "class_subject": class_subject,
-    #             "topics_of_interest": topics_of_interest,
-    #             "exhibit_name": exhibit_name,
-    #             "additional_notes": additional_notes,
-    #         }
+        # ✅ Only save survey JSON once (during "talking_points" step)
+        if prompt_type == "talking_points":
+            survey_data = {
+                "survey_id": survey_id,
+                "tour_length_minutes": tour_length_minutes,
+                "major": major,
+                "age_group": age_group,
+                "class_subject": class_subject,
+                "topics_of_interest": topics_of_interest,
+                "exhibit_name": exhibit_name,
+                "additional_notes": additional_notes,
+            }
 
-    #         survey_filename = (
-    #             f"{survey_id}_survey_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-    #         )
-    #         survey_save_path = os.path.join(self.output_dir, survey_filename)
-    #         with open(survey_save_path, "w", encoding="utf-8") as f:
-    #             json.dump(survey_data, f, indent=2, ensure_ascii=False)
+            survey_filename = (
+                f"{survey_id}_survey_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+            )
+            #survey_save_path = os.path.join(self.output_dir, survey_filename)
+            # with open(survey_save_path, "w", encoding="utf-8") as f:
+            #     json.dump(survey_data, f, indent=2, ensure_ascii=False)
 
-    #         print(f"📝 Survey saved to: {survey_save_path}")
+            # print(f"📝 Survey saved to: {survey_save_path}")
 
-    #     return output_json
+        return output_json
 
-    # def _clean_json(self, raw: str) -> str:
-    #     if raw.startswith("```json"):
-    #         raw = raw[len("```json") :].strip()
-    #     if raw.endswith("```"):
-    #         raw = raw[: -len("```")].strip()
-    #     raw = raw.replace("\u201c", '"').replace("\u201d", '"').replace("\u2019", "'")
-    #     raw = re.sub(r",(\s*[}\]])", r"\1", raw)
-    #     return raw
+    def _clean_json(self, raw: str) -> str:
+        if raw.startswith("```json"):
+            raw = raw[len("```json") :].strip()
+        if raw.endswith("```"):
+            raw = raw[: -len("```")].strip()
+        raw = raw.replace("\u201c", '"').replace("\u201d", '"').replace("\u2019", "'")
+        raw = re.sub(r",(\s*[}\]])", r"\1", raw)
+        return raw
 
     def build_prompt(
         self,
